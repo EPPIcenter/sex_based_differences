@@ -1,0 +1,1445 @@
+	cohortid	h_popUID	date	skips	visit_number	enrolldate	burnin	gender	agecat	infection_event	active_new_infection	active_baseline_infection	malariacat
+0	3001	ifx_events.0	2017-10-09	0	0	2017-10-09	2017-12-09	Female	16 years or older	False	False	True	Negative blood smear
+1	3001	ifx_events.0	2017-11-06	0	1	2017-10-09	2017-12-09	Female	16 years or older	False	False	True	Negative blood smear
+2	3001	ifx_events.0	2017-12-04	0	2	2017-10-09	2017-12-09	Female	16 years or older	False	False	True	Negative blood smear
+3	3003	ifx_events.0	2017-10-09	0	0	2017-10-09	2017-12-09	Male	5-15 years	False	False	True	Negative blood smear
+4	3010	ifx_event.1	2019-01-28	17	17	2017-10-09	2017-12-09	Female	16 years or older	True	True	False	Negative blood smear
+5	3010	ifx_event.1	2019-02-02	0	18	2017-10-09	2017-12-09	Female	16 years or older	False	True	False	Malaria
+6	3014	ifx_event.1	2019-01-28	17	17	2017-10-09	2017-12-09	Female	5-15 years	True	True	False	Malaria
+7	3021	ifx_event.1	2018-08-15	11	11	2017-10-09	2017-12-09	Female	5-15 years	True	True	False	Negative blood smear
+8	3038	ifx_events.0	2017-10-11	0	0	2017-10-11	2017-12-11	Male	5-15 years	False	False	True	Negative blood smear
+9	3046	ifx_event.1	2018-06-19	9	9	2017-10-10	2017-12-10	Female	5-15 years	True	True	False	Negative blood smear
+10	3046	ifx_event.1	2018-06-30	0	10	2017-10-10	2017-12-10	Female	5-15 years	False	True	False	Malaria
+11	3046	ifx_event.1	2018-07-17	0	11	2017-10-10	2017-12-10	Female	5-15 years	False	True	False	Negative blood smear
+12	3047	ifx_events.0	2017-11-07	0	1	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Negative blood smear
+13	3055	ifx_events.0	2017-11-06	0	1	2017-10-09	2017-12-09	Female	16 years or older	False	False	True	Negative blood smear
+14	3055	ifx_events.0	2017-12-04	0	2	2017-10-09	2017-12-09	Female	16 years or older	False	False	True	Negative blood smear
+15	3079	ifx_event.0	2017-10-04	0	0	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+16	3079	ifx_event.0	2017-11-01	0	1	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+17	3079	ifx_event.0	2017-11-29	0	2	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+18	3079	ifx_event.0	2017-12-29	0	3	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+19	3079	ifx_event.0	2018-01-24	0	4	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+20	3079	ifx_event.0	2018-02-21	0	5	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+21	3079	ifx_event.0	2018-03-21	0	6	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+22	3079	ifx_event.0	2018-04-18	0	7	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+23	3079	ifx_event.1	2018-06-13	9	9	2017-10-04	2017-12-04	Female	5-15 years	True	True	False	Asymptomatic parasitemia
+24	3079	ifx_event.1	2018-07-11	0	10	2017-10-04	2017-12-04	Female	5-15 years	False	True	False	Negative blood smear
+25	3079	ifx_event.1	2018-08-08	0	11	2017-10-04	2017-12-04	Female	5-15 years	False	True	False	Negative blood smear
+26	3079	ifx_event.1	2018-09-05	0	12	2017-10-04	2017-12-04	Female	5-15 years	False	True	False	Negative blood smear
+27	3079	ifx_event.1	2018-10-03	0	13	2017-10-04	2017-12-04	Female	5-15 years	False	True	False	Negative blood smear
+28	3081	ifx_event.1	2018-06-13	9	9	2017-10-04	2017-12-04	Female	5-15 years	True	True	False	Asymptomatic parasitemia
+29	3081	ifx_event.1	2018-07-11	0	10	2017-10-04	2017-12-04	Female	5-15 years	False	True	False	Asymptomatic parasitemia
+30	3081	ifx_event.1	2018-08-08	0	11	2017-10-04	2017-12-04	Female	5-15 years	False	True	False	Negative blood smear
+31	3081	ifx_event.1	2018-08-23	0	12	2017-10-04	2017-12-04	Female	5-15 years	False	True	False	Malaria
+32	3081	ifx_event.1	2018-09-05	0	13	2017-10-04	2017-12-04	Female	5-15 years	False	True	False	Negative blood smear
+33	3093	ifx_events.0	2017-10-04	0	0	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+34	3093	ifx_events.0	2017-11-01	0	1	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+35	3093	ifx_events.0	2017-11-29	0	2	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+36	3093	ifx_events.0	2017-12-29	0	3	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+37	3093	ifx_events.0	2018-01-24	0	4	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+38	3093	ifx_events.0	2018-02-21	0	5	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+39	3093	ifx_events.0	2018-03-21	0	6	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+40	3093	ifx_events.0	2018-04-18	1	7	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+41	3093	ifx_events.0	2018-05-16	0	8	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+42	3093	ifx_events.0	2018-06-13	1	9	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+43	3093	ifx_events.0	2018-07-11	0	10	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+44	3093	ifx_events.0	2018-08-08	0	11	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+45	3093	ifx_events.0	2018-09-05	0	12	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+46	3093	ifx_events.0	2018-10-03	0	13	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+47	3093	ifx_events.0	2018-10-31	0	14	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+48	3093	ifx_events.0	2018-11-28	2	15	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+49	3093	ifx_events.0	2018-12-29	0	16	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+50	3093	ifx_events.0	2019-01-23	1	17	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+51	3093	ifx_events.0	2019-02-20	0	18	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+52	3095	ifx_event.1	2017-12-29	3	3	2017-10-04	2017-12-04	Male	5-15 years	True	True	False	Asymptomatic parasitemia
+53	3095	ifx_event.1	2018-01-24	0	4	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+54	3095	ifx_event.1	2018-02-21	0	5	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+55	3095	ifx_event.1	2018-03-21	0	6	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+56	3095	ifx_event.1	2018-04-18	0	7	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+57	3095	ifx_event.1	2018-05-16	0	8	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+58	3095	ifx_event.1	2018-06-13	0	9	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+59	3095	ifx_event.1	2018-07-11	0	10	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+60	3095	ifx_event.1	2018-08-08	0	11	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+61	3095	ifx_event.1	2018-09-05	0	12	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+62	3095	ifx_event.1	2018-10-03	0	13	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+63	3095	ifx_event.1	2018-10-31	0	14	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+64	3095	ifx_event.1	2018-11-28	0	15	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+65	3095	ifx_event.1	2018-12-29	0	16	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+66	3095	ifx_event.1	2019-01-23	0	17	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+67	3095	ifx_event.1	2019-02-20	0	18	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+68	3095	ifx_event.1	2019-03-20	0	19	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+69	3095	ifx_event.1	2019-04-17	0	20	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+70	3095	ifx_event.1	2019-05-15	0	21	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+71	3095	ifx_event.1	2019-06-12	1	22	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+72	3095	ifx_event.1	2019-07-10	0	23	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+73	3096	ifx_event.0	2017-10-04	0	0	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+74	3096	ifx_event.0	2017-11-01	0	1	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+75	3096	ifx_event.0	2017-11-29	0	2	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+76	3096	ifx_event.0	2017-12-29	0	3	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+77	3096	ifx_event.0	2018-01-24	0	4	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+78	3096	ifx_event.0	2018-02-21	0	5	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+79	3096	ifx_event.0	2018-03-21	0	6	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+80	3096	ifx_event.0	2018-04-18	0	7	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+81	3096	ifx_event.0	2018-05-16	0	8	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+82	3096	ifx_event.0	2018-06-13	0	9	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+83	3096	ifx_event.0	2018-07-11	0	10	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+84	3096	ifx_event.0	2018-08-08	0	11	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+85	3096	ifx_event.0	2018-09-05	0	12	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+86	3096	ifx_event.0	2018-10-03	0	13	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+87	3096	ifx_event.0	2018-10-31	0	14	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+88	3096	ifx_event.0	2018-11-28	0	15	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+89	3096	ifx_event.0	2018-12-29	0	16	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+90	3096	ifx_event.0	2019-01-23	0	17	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+91	3096	ifx_event.0	2019-02-20	0	18	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+92	3096	ifx_event.0	2019-03-20	0	19	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+93	3096	ifx_event.0	2019-04-17	0	20	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+94	3096	ifx_event.0	2019-05-15	0	21	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+95	3096	ifx_event.0	2019-06-12	0	22	2017-10-04	2017-12-04	Male	5-15 years	False	False	True	Negative blood smear
+96	3096	ifx_event.1	2019-01-23	4	17	2017-10-04	2017-12-04	Male	5-15 years	True	True	False	Negative blood smear
+97	3096	ifx_event.1	2019-02-20	0	18	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+98	3096	ifx_event.1	2019-03-20	0	19	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+99	3096	ifx_event.1	2019-04-17	2	20	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+100	3096	ifx_event.1	2019-05-15	0	21	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+101	3096	ifx_event.1	2019-06-12	0	22	2017-10-04	2017-12-04	Male	5-15 years	False	True	False	Negative blood smear
+102	3122	ifx_event.0	2017-10-23	0	0	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+103	3122	ifx_event.0	2017-11-20	0	1	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+104	3122	ifx_event.0	2017-12-18	0	2	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+105	3122	ifx_event.0	2018-01-15	0	3	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+106	3122	ifx_event.0	2018-02-12	0	4	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+107	3122	ifx_event.0	2018-03-12	0	5	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+108	3122	ifx_event.0	2018-04-09	0	6	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+109	3122	ifx_event.0	2018-05-07	0	7	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+110	3122	ifx_event.0	2018-06-04	0	8	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+111	3122	ifx_event.0	2018-07-02	0	9	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+112	3122	ifx_event.0	2018-07-30	0	10	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+113	3122	ifx_event.0	2018-08-27	0	11	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+114	3122	ifx_event.0	2018-09-24	0	12	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+115	3122	ifx_event.1	2018-04-09	6	6	2017-10-23	2017-12-23	Female	16 years or older	True	True	False	Negative blood smear
+116	3122	ifx_event.1	2018-05-07	0	7	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+117	3122	ifx_event.1	2018-06-04	1	8	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+118	3122	ifx_event.1	2018-07-02	0	9	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+119	3122	ifx_event.1	2018-07-30	0	10	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+120	3122	ifx_event.1	2018-08-27	0	11	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+121	3122	ifx_event.1	2018-09-24	0	12	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+122	3122	ifx_event.1	2018-10-22	3	13	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+123	3122	ifx_event.1	2018-11-19	0	14	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+124	3122	ifx_event.3	2019-01-14	4	16	2017-10-23	2017-12-23	Female	16 years or older	True	True	False	Negative blood smear
+125	3122	ifx_event.3	2019-02-15	4	17	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+126	3122	ifx_event.3	2019-03-11	0	18	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+127	3122	ifx_event.3	2019-04-08	1	19	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+128	3122	ifx_event.3	2019-05-06	0	20	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+129	3122	ifx_event.3	2019-06-03	0	21	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+130	3122	ifx_event.3	2019-07-01	2	22	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+131	3124	ifx_event.1	2019-07-29	23	23	2017-10-23	2017-12-23	Male	5-15 years	True	True	False	Negative blood smear
+132	3147	ifx_event.1	2019-04-01	19	19	2017-10-23	2017-12-23	Male	5-15 years	True	True	False	Malaria
+133	3147	ifx_event.1	2019-04-08	0	20	2017-10-23	2017-12-23	Male	5-15 years	False	True	False	Negative blood smear
+134	3147	ifx_event.1	2019-05-06	0	21	2017-10-23	2017-12-23	Male	5-15 years	False	True	False	Negative blood smear
+135	3148	ifx_events.0	2017-10-23	0	0	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+136	3148	ifx_events.0	2017-11-20	0	1	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+137	3148	ifx_events.0	2017-12-18	0	2	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+138	3148	ifx_events.0	2018-01-15	0	3	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+139	3148	ifx_events.0	2018-02-12	0	4	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+140	3148	ifx_events.0	2018-03-12	0	5	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+141	3148	ifx_events.0	2018-04-09	1	6	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+142	3148	ifx_events.0	2018-05-07	0	7	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+143	3148	ifx_events.0	2018-06-04	0	8	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+144	3148	ifx_events.0	2018-07-02	0	9	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+145	3149	ifx_event.1	2018-07-15	10	10	2017-10-23	2017-12-23	Female	5-15 years	True	True	False	Malaria
+146	3149	ifx_event.1	2018-07-30	0	11	2017-10-23	2017-12-23	Female	5-15 years	False	True	False	Negative blood smear
+147	3150	ifx_events.0	2017-11-20	0	1	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+148	3154	ifx_events.0	2017-10-23	0	0	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+149	3154	ifx_events.0	2017-11-20	0	1	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+150	3154	ifx_events.0	2017-12-18	0	2	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+151	3154	ifx_events.0	2018-01-15	0	3	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+152	3154	ifx_events.0	2018-01-26	0	4	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Malaria
+153	3154	ifx_events.0	2018-02-12	0	5	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+154	3162	ifx_event.0	2017-10-09	0	0	2017-10-09	2017-12-09	Female	16 years or older	False	False	True	Negative blood smear
+155	3162	ifx_event.0	2017-11-06	0	1	2017-10-09	2017-12-09	Female	16 years or older	False	False	True	Negative blood smear
+156	3162	ifx_event.1	2019-01-03	14	16	2017-10-09	2017-12-09	Female	16 years or older	True	True	False	Negative blood smear
+157	3163	ifx_events.0	2017-10-09	0	0	2017-10-09	2017-12-09	Male	5-15 years	False	False	True	Negative blood smear
+158	3163	ifx_events.0	2017-11-06	0	1	2017-10-09	2017-12-09	Male	5-15 years	False	False	True	Malaria
+159	3164	ifx_events.0	2017-10-09	0	0	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+160	3164	ifx_events.0	2017-11-06	0	1	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+161	3164	ifx_events.0	2017-12-04	0	2	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+162	3164	ifx_events.0	2018-01-03	0	3	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+163	3164	ifx_events.0	2018-01-29	0	4	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Negative blood smear
+164	3164	ifx_events.0	2018-02-26	0	5	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Negative blood smear
+165	3164	ifx_events.0	2018-03-26	0	6	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Negative blood smear
+166	3164	ifx_events.0	2018-04-23	0	7	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+167	3164	ifx_events.0	2018-05-21	0	8	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+168	3164	ifx_events.0	2018-06-18	0	9	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Negative blood smear
+169	3164	ifx_events.0	2018-07-16	0	10	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Negative blood smear
+170	3164	ifx_events.0	2018-08-13	0	11	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Negative blood smear
+171	3164	ifx_events.0	2018-09-10	0	12	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Negative blood smear
+172	3164	ifx_events.0	2018-10-08	0	13	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Negative blood smear
+173	3164	ifx_events.0	2018-11-05	0	14	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Negative blood smear
+174	3164	ifx_events.0	2018-12-03	0	15	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Negative blood smear
+175	3164	ifx_events.0	2019-01-03	0	16	2017-10-09	2017-12-09	Female	5-15 years	False	False	True	Negative blood smear
+176	3190	ifx_events.0	2017-10-23	0	0	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+177	3190	ifx_events.0	2017-11-20	0	1	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+178	3190	ifx_events.0	2017-12-18	0	2	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+179	3190	ifx_events.0	2018-01-15	0	3	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+180	3190	ifx_events.0	2018-02-12	0	4	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+181	3190	ifx_events.0	2018-03-12	0	5	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+182	3190	ifx_events.0	2018-04-09	0	6	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+183	3190	ifx_events.0	2018-05-07	0	7	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+184	3190	ifx_events.0	2018-06-04	0	8	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+185	3190	ifx_events.0	2018-07-02	0	9	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+186	3190	ifx_events.0	2018-07-30	0	10	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+187	3190	ifx_events.0	2018-08-27	0	11	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+188	3190	ifx_events.0	2018-09-24	0	12	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+189	3190	ifx_events.0	2018-10-22	0	13	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+190	3190	ifx_events.0	2018-11-19	0	14	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+191	3190	ifx_events.0	2018-12-17	2	15	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+192	3190	ifx_events.0	2019-01-14	0	16	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+193	3190	ifx_events.0	2019-02-11	0	17	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+194	3190	ifx_events.0	2019-03-11	0	18	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+195	3190	ifx_events.0	2019-04-08	0	19	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+196	3190	ifx_events.0	2019-05-06	0	20	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+197	3190	ifx_events.0	2019-06-03	0	21	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+198	3190	ifx_events.0	2019-07-01	0	22	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+199	3190	ifx_events.0	2019-07-29	0	23	2017-10-23	2017-12-23	Female	5-15 years	False	False	True	Negative blood smear
+200	3202	ifx_events.0	2017-10-23	0	0	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+201	3202	ifx_events.0	2017-11-20	0	1	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+202	3202	ifx_events.0	2017-12-18	0	2	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+203	3202	ifx_events.0	2018-01-17	0	3	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+204	3202	ifx_events.0	2018-02-12	0	4	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+205	3202	ifx_events.0	2018-03-12	0	5	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+206	3202	ifx_events.0	2018-04-09	0	6	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+207	3202	ifx_events.0	2018-05-07	0	7	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+208	3202	ifx_events.0	2018-06-04	0	8	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+209	3202	ifx_events.0	2018-07-02	0	9	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+210	3202	ifx_events.0	2018-07-30	0	10	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+211	3202	ifx_events.0	2018-08-27	0	11	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+212	3202	ifx_events.0	2018-09-24	0	12	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+213	3202	ifx_events.0	2018-10-22	1	13	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+214	3202	ifx_events.0	2018-11-19	0	14	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+215	3202	ifx_events.0	2018-12-17	0	15	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+216	3202	ifx_events.0	2019-01-14	0	16	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+217	3202	ifx_events.0	2019-02-11	1	17	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+218	3202	ifx_events.0	2019-03-11	0	18	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+219	3202	ifx_events.0	2019-04-08	0	19	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+220	3202	ifx_events.0	2019-05-06	1	20	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+221	3202	ifx_events.0	2019-06-03	0	21	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+222	3202	ifx_events.0	2019-07-01	0	22	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+223	3205	ifx_event.0	2017-10-23	0	0	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+224	3205	ifx_event.0	2017-11-20	0	1	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+225	3205	ifx_event.0	2017-12-18	0	2	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+226	3205	ifx_event.0	2018-01-17	0	3	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+227	3205	ifx_event.0	2018-02-12	0	4	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+228	3205	ifx_event.0	2018-03-12	0	5	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+229	3205	ifx_event.0	2018-04-09	0	6	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+230	3205	ifx_event.0	2018-05-07	0	7	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+231	3205	ifx_event.0	2018-06-04	0	8	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+232	3205	ifx_event.0	2018-07-02	0	9	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+233	3205	ifx_event.0	2018-07-30	0	10	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+234	3205	ifx_event.0	2018-08-27	0	11	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+235	3205	ifx_event.0	2018-09-24	0	12	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+236	3205	ifx_event.0	2018-10-22	0	13	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+237	3205	ifx_event.0	2018-11-19	0	14	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+238	3205	ifx_event.0	2018-12-17	0	15	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+239	3205	ifx_event.0	2019-01-14	0	16	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+240	3205	ifx_event.0	2019-02-11	0	17	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+241	3205	ifx_event.0	2019-03-11	0	18	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+242	3205	ifx_event.0	2019-04-08	0	19	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+243	3205	ifx_event.0	2019-05-06	0	20	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+244	3205	ifx_event.0	2019-06-03	0	21	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+245	3205	ifx_event.0	2019-07-01	0	22	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+246	3205	ifx_event.0	2019-07-29	0	23	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+247	3205	ifx_event.1	2019-03-11	8	18	2017-10-23	2017-12-23	Male	5-15 years	True	True	False	Negative blood smear
+248	3205	ifx_event.1	2019-04-08	0	19	2017-10-23	2017-12-23	Male	5-15 years	False	True	False	Negative blood smear
+249	3205	ifx_event.1	2019-05-06	0	20	2017-10-23	2017-12-23	Male	5-15 years	False	True	False	Negative blood smear
+250	3205	ifx_event.1	2019-06-03	0	21	2017-10-23	2017-12-23	Male	5-15 years	False	True	False	Negative blood smear
+251	3205	ifx_event.1	2019-07-01	0	22	2017-10-23	2017-12-23	Male	5-15 years	False	True	False	Negative blood smear
+252	3205	ifx_event.1	2019-07-29	0	23	2017-10-23	2017-12-23	Male	5-15 years	False	True	False	Negative blood smear
+253	3236	ifx_events.0	2017-10-11	0	0	2017-10-11	2017-12-11	Female	16 years or older	False	False	True	Negative blood smear
+254	3238	ifx_event.1	2019-07-17	23	23	2017-10-11	2017-12-11	Female	5-15 years	True	True	False	Asymptomatic parasitemia
+255	3238	ifx_event.1	2019-07-23	0	24	2017-10-11	2017-12-11	Female	5-15 years	False	True	False	Malaria
+256	3249	ifx_event.1	2018-04-25	7	7	2017-10-11	2017-12-11	Female	16 years or older	True	True	False	Negative blood smear
+257	3250	ifx_event.1	2019-07-17	23	23	2017-10-11	2017-12-11	Male	5-15 years	True	True	False	Negative blood smear
+258	3284	ifx_events.0	2017-10-10	0	0	2017-10-10	2017-12-10	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+259	3284	ifx_events.0	2017-11-07	0	1	2017-10-10	2017-12-10	Female	5-15 years	False	False	True	Negative blood smear
+260	3284	ifx_events.0	2017-12-05	0	2	2017-10-10	2017-12-10	Female	5-15 years	False	False	True	Negative blood smear
+261	3284	ifx_events.0	2018-01-04	0	3	2017-10-10	2017-12-10	Female	5-15 years	False	False	True	Negative blood smear
+262	3285	ifx_event.0	2017-10-10	0	0	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+263	3285	ifx_event.0	2017-11-07	0	1	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+264	3285	ifx_event.0	2017-12-05	0	2	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+265	3285	ifx_event.0	2018-01-04	0	3	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+266	3285	ifx_event.0	2018-01-30	0	4	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+267	3285	ifx_event.0	2018-02-27	0	5	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+268	3285	ifx_event.0	2018-03-27	0	6	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+269	3285	ifx_event.0	2018-04-26	0	7	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Negative blood smear
+270	3285	ifx_event.0	2018-05-22	0	8	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+271	3285	ifx_event.0	2018-06-19	0	9	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+272	3285	ifx_event.0	2018-07-17	0	10	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Negative blood smear
+273	3285	ifx_event.0	2018-08-14	0	11	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+274	3285	ifx_event.0	2018-09-11	0	12	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+275	3285	ifx_event.0	2018-10-09	0	13	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+276	3285	ifx_event.0	2018-11-06	0	14	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+277	3285	ifx_event.0	2018-12-04	0	15	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Negative blood smear
+278	3285	ifx_event.0	2019-01-04	0	16	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+279	3285	ifx_event.0	2019-01-30	0	17	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Negative blood smear
+280	3285	ifx_event.0	2019-02-26	0	18	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+281	3285	ifx_event.0	2019-03-26	0	19	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+282	3285	ifx_event.0	2019-04-23	0	20	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+283	3285	ifx_event.0	2019-05-21	0	21	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Negative blood smear
+284	3285	ifx_event.0	2019-06-18	1	22	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Negative blood smear
+285	3285	ifx_event.0	2019-07-16	0	23	2017-10-10	2017-12-10	Male	5-15 years	False	False	True	Negative blood smear
+286	3285	ifx_event.1	2018-05-22	4	8	2017-10-10	2017-12-10	Male	5-15 years	True	True	False	Asymptomatic parasitemia
+287	3285	ifx_event.1	2018-06-19	0	9	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+288	3285	ifx_event.1	2018-07-17	0	10	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Negative blood smear
+289	3285	ifx_event.1	2018-08-14	0	11	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+290	3285	ifx_event.1	2018-09-11	0	12	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+291	3285	ifx_event.1	2018-10-09	0	13	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+292	3285	ifx_event.1	2018-11-06	0	14	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+293	3285	ifx_event.1	2018-12-04	0	15	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Negative blood smear
+294	3285	ifx_event.1	2019-01-04	0	16	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+295	3285	ifx_event.1	2019-01-30	1	17	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Negative blood smear
+296	3285	ifx_event.1	2019-02-26	0	18	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+297	3285	ifx_event.1	2019-03-26	0	19	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+298	3285	ifx_event.1	2019-04-23	0	20	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+299	3285	ifx_event.1	2019-05-21	0	21	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Negative blood smear
+300	3285	ifx_event.1	2019-06-18	1	22	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Negative blood smear
+301	3285	ifx_event.1	2019-07-16	0	23	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Negative blood smear
+302	3285	ifx_event.2	2019-01-04	4	16	2017-10-10	2017-12-10	Male	5-15 years	True	True	False	Asymptomatic parasitemia
+303	3285	ifx_event.2	2019-01-30	0	17	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Negative blood smear
+304	3285	ifx_event.2	2019-02-26	0	18	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+305	3285	ifx_event.2	2019-03-26	0	19	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+306	3285	ifx_event.2	2019-04-23	0	20	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+307	3285	ifx_event.2	2019-05-21	0	21	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Negative blood smear
+308	3285	ifx_event.2	2019-06-18	1	22	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Negative blood smear
+309	3285	ifx_event.2	2019-07-16	0	23	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Negative blood smear
+310	3313	ifx_event.0	2017-10-04	0	0	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+311	3313	ifx_event.0	2017-11-01	0	1	2017-10-04	2017-12-04	Female	16 years or older	False	False	True	Negative blood smear
+312	3313	ifx_event.1	2018-03-21	4	6	2017-10-04	2017-12-04	Female	16 years or older	True	True	False	Negative blood smear
+313	3313	ifx_event.1	2018-04-18	0	7	2017-10-04	2017-12-04	Female	16 years or older	False	True	False	Negative blood smear
+314	3313	ifx_event.1	2018-05-16	0	8	2017-10-04	2017-12-04	Female	16 years or older	False	True	False	Negative blood smear
+315	3313	ifx_event.1	2018-06-13	2	9	2017-10-04	2017-12-04	Female	16 years or older	False	True	False	Negative blood smear
+316	3313	ifx_event.1	2018-07-11	0	10	2017-10-04	2017-12-04	Female	16 years or older	False	True	False	Negative blood smear
+317	3313	ifx_event.2	2018-06-13	9	9	2017-10-04	2017-12-04	Female	16 years or older	True	True	False	Negative blood smear
+318	3313	ifx_event.2	2018-07-11	0	10	2017-10-04	2017-12-04	Female	16 years or older	False	True	False	Negative blood smear
+319	3315	ifx_events.0	2017-10-04	0	0	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+320	3315	ifx_events.0	2017-11-01	0	1	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+321	3315	ifx_events.0	2017-11-29	0	2	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+322	3315	ifx_events.0	2017-12-29	0	3	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+323	3315	ifx_events.0	2018-01-24	0	4	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+324	3315	ifx_events.0	2018-02-21	0	5	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+325	3315	ifx_events.0	2018-03-21	0	6	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+326	3315	ifx_events.0	2018-04-18	0	7	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+327	3315	ifx_events.0	2018-05-16	0	8	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+328	3315	ifx_events.0	2018-06-13	0	9	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+329	3315	ifx_events.0	2018-07-11	0	10	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+330	3315	ifx_events.0	2018-08-08	0	11	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+331	3315	ifx_events.0	2018-09-05	0	12	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+332	3315	ifx_events.0	2018-10-03	0	13	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+333	3315	ifx_events.0	2018-10-31	0	14	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+334	3315	ifx_events.0	2018-11-28	0	15	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+335	3336	ifx_events.0	2017-10-11	0	0	2017-10-11	2017-12-11	Male	5-15 years	False	False	True	Negative blood smear
+336	3336	ifx_events.0	2017-11-08	0	1	2017-10-11	2017-12-11	Male	5-15 years	False	False	True	Negative blood smear
+337	3336	ifx_events.0	2017-12-06	0	2	2017-10-11	2017-12-11	Male	5-15 years	False	False	True	Negative blood smear
+338	3336	ifx_events.0	2018-01-05	0	3	2017-10-11	2017-12-11	Male	5-15 years	False	False	True	Negative blood smear
+339	3364	ifx_events.0	2017-10-04	0	0	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+340	3364	ifx_events.0	2017-11-01	0	1	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+341	3364	ifx_events.0	2017-11-29	0	2	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+342	3364	ifx_events.0	2017-12-29	0	3	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+343	3364	ifx_events.0	2018-01-24	0	4	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+344	3364	ifx_events.0	2018-02-21	0	5	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+345	3364	ifx_events.0	2018-03-21	0	6	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+346	3364	ifx_events.0	2018-04-18	0	7	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+347	3364	ifx_events.0	2018-05-16	0	8	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+348	3364	ifx_events.0	2018-06-13	0	9	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+349	3364	ifx_events.0	2018-07-11	0	10	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+350	3364	ifx_events.0	2018-08-08	0	11	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+351	3364	ifx_events.0	2018-09-05	0	12	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+352	3364	ifx_events.0	2018-10-03	0	13	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+353	3364	ifx_events.0	2018-10-31	0	14	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+354	3364	ifx_events.0	2018-11-28	0	15	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+355	3364	ifx_events.0	2018-12-29	0	16	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+356	3364	ifx_events.0	2019-01-23	0	17	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+357	3364	ifx_events.0	2019-02-20	0	18	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+358	3364	ifx_events.0	2019-03-20	0	19	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+359	3364	ifx_events.0	2019-04-17	1	20	2017-10-04	2017-12-04	Female	5-15 years	False	False	True	Negative blood smear
+360	3371	ifx_events.0	2017-11-20	0	1	2017-10-23	2017-12-23	Male	5-15 years	False	False	True	Negative blood smear
+361	3376	ifx_event.1	2019-07-17	23	23	2017-10-11	2017-12-11	Male	5-15 years	True	True	False	Negative blood smear
+362	3376	ifx_event.1	2019-07-23	0	24	2017-10-11	2017-12-11	Male	5-15 years	False	True	False	Malaria
+363	3391	ifx_event.1	2019-07-16	23	23	2017-10-10	2017-12-10	Male	5-15 years	True	True	False	Asymptomatic parasitemia
+364	3393	ifx_event.1	2018-05-22	8	8	2017-10-10	2017-12-10	Male	5-15 years	True	True	False	Negative blood smear
+365	3393	ifx_event.1	2018-05-28	0	9	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Malaria
+366	3393	ifx_event.1	2018-06-19	0	10	2017-10-10	2017-12-10	Male	5-15 years	False	True	False	Negative blood smear
+367	3394	ifx_event.1	2018-12-22	16	16	2017-10-11	2017-12-11	Male	5-15 years	True	True	False	Malaria
+368	3394	ifx_event.1	2019-01-05	0	17	2017-10-11	2017-12-11	Male	5-15 years	False	True	False	Negative blood smear
+369	3394	ifx_event.1	2019-01-30	0	18	2017-10-11	2017-12-11	Male	5-15 years	False	True	False	Negative blood smear
+370	3402	ifx_event.1	2019-05-06	20	20	2017-10-23	2017-12-23	Female	5-15 years	True	True	False	Negative blood smear
+371	3418	ifx_event.1	2019-07-22	23	23	2017-10-16	2017-12-16	Female	16 years or older	True	True	False	Negative blood smear
+372	3421	ifx_event.1	2018-10-08	13	13	2017-10-09	2017-12-09	Male	5-15 years	True	True	False	Negative blood smear
+373	3429	ifx_event.1	2018-06-25	9	9	2017-10-16	2017-12-16	Female	5-15 years	True	True	False	Negative blood smear
+374	3429	ifx_event.1	2018-07-23	0	10	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+375	3429	ifx_event.1	2018-08-20	0	11	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+376	3429	ifx_event.1	2018-09-17	0	12	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Asymptomatic parasitemia
+377	3429	ifx_event.1	2018-10-15	0	13	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+378	3429	ifx_event.1	2018-11-12	0	14	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+379	3429	ifx_event.1	2018-12-10	0	15	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+380	3429	ifx_event.1	2019-01-07	0	16	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+381	3429	ifx_event.1	2019-02-04	0	17	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+382	3429	ifx_event.1	2019-03-04	0	18	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+383	3429	ifx_event.1	2019-04-01	0	19	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+384	3429	ifx_event.1	2019-04-29	0	20	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+385	3429	ifx_event.1	2019-05-27	0	21	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+386	3429	ifx_event.1	2019-06-24	0	22	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+387	3429	ifx_event.1	2019-07-22	0	23	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+388	3444	ifx_event.1	2018-07-11	10	10	2017-10-04	2017-12-04	Male	< 5 years	True	True	False	Negative blood smear
+389	3467	ifx_event.1	2018-06-13	9	9	2017-10-04	2017-12-04	Male	< 5 years	True	True	False	Negative blood smear
+390	3482	ifx_event.1	2018-12-03	15	15	2017-10-09	2017-12-09	Female	< 5 years	True	True	False	Negative blood smear
+391	3504	ifx_event.1	2017-12-29	3	3	2017-10-04	2017-12-04	Male	16 years or older	True	True	False	Negative blood smear
+392	3505	ifx_events.0	2017-10-04	0	0	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+393	3505	ifx_events.0	2017-11-01	0	1	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+394	3505	ifx_events.0	2017-11-29	0	2	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+395	3505	ifx_events.0	2017-12-29	0	3	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+396	3505	ifx_events.0	2018-01-24	0	4	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+397	3505	ifx_events.0	2018-02-21	0	5	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+398	3505	ifx_events.0	2018-03-21	0	6	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+399	3505	ifx_events.0	2018-04-18	0	7	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+400	3505	ifx_events.0	2018-05-16	0	8	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+401	3505	ifx_events.0	2018-06-13	0	9	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+402	3505	ifx_events.0	2018-07-11	0	10	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+403	3506	ifx_event.1	2018-03-21	6	6	2017-10-04	2017-12-04	Male	16 years or older	True	True	False	Negative blood smear
+404	3506	ifx_event.1	2018-04-18	0	7	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Asymptomatic parasitemia
+405	3506	ifx_event.1	2018-05-16	0	8	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+406	3506	ifx_event.1	2018-06-13	0	9	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+407	3506	ifx_event.1	2018-07-11	0	10	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Asymptomatic parasitemia
+408	3506	ifx_event.1	2018-08-08	0	11	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+409	3506	ifx_event.1	2018-09-05	0	12	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+410	3506	ifx_event.1	2018-10-03	0	13	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+411	3506	ifx_event.1	2018-10-31	0	14	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Asymptomatic parasitemia
+412	3506	ifx_event.1	2018-11-28	0	15	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+413	3506	ifx_event.1	2018-12-29	0	16	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+414	3506	ifx_event.1	2019-01-23	0	17	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+415	3506	ifx_event.1	2019-02-20	0	18	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+416	3506	ifx_event.1	2019-03-20	0	19	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+417	3506	ifx_event.1	2019-04-17	0	20	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+418	3506	ifx_event.1	2019-05-15	0	21	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+419	3506	ifx_event.1	2019-06-12	0	22	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+420	3506	ifx_event.1	2019-07-10	0	23	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+421	3506	ifx_event.3	2018-07-11	10	10	2017-10-04	2017-12-04	Male	16 years or older	True	True	False	Asymptomatic parasitemia
+422	3506	ifx_event.3	2018-08-08	0	11	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+423	3506	ifx_event.3	2018-09-05	0	12	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+424	3506	ifx_event.3	2018-10-03	0	13	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+425	3506	ifx_event.3	2018-10-31	0	14	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Asymptomatic parasitemia
+426	3506	ifx_event.3	2018-11-28	3	15	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+427	3506	ifx_event.3	2018-12-29	0	16	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+428	3506	ifx_event.3	2019-01-23	0	17	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+429	3506	ifx_event.3	2019-02-20	0	18	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+430	3506	ifx_event.3	2019-03-20	0	19	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+431	3506	ifx_event.3	2019-04-17	0	20	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+432	3506	ifx_event.3	2019-05-15	0	21	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+433	3506	ifx_event.3	2019-06-12	0	22	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+434	3506	ifx_event.3	2019-07-10	0	23	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+435	3508	ifx_event.1	2017-12-29	3	3	2017-10-04	2017-12-04	Male	< 5 years	True	True	False	Negative blood smear
+436	3510	ifx_event.0	2017-10-04	0	0	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+437	3510	ifx_event.0	2017-11-01	0	1	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+438	3510	ifx_event.0	2017-11-29	0	2	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+439	3510	ifx_event.0	2017-12-29	0	3	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+440	3510	ifx_event.0	2018-01-24	0	4	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+441	3510	ifx_event.0	2018-02-21	0	5	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+442	3510	ifx_event.0	2018-03-21	0	6	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+443	3510	ifx_event.0	2018-04-18	0	7	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+444	3510	ifx_event.0	2018-05-16	0	8	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+445	3510	ifx_event.0	2018-06-13	0	9	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+446	3510	ifx_event.0	2018-07-11	0	10	2017-10-04	2017-12-04	Male	16 years or older	False	False	True	Negative blood smear
+447	3510	ifx_event.1	2018-05-16	8	8	2017-10-04	2017-12-04	Male	16 years or older	True	True	False	Negative blood smear
+448	3510	ifx_event.1	2018-06-13	0	9	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+449	3510	ifx_event.1	2018-07-11	0	10	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+450	3510	ifx_event.1	2018-08-08	0	11	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+451	3510	ifx_event.1	2018-09-05	0	12	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+452	3510	ifx_event.1	2018-10-03	0	13	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+453	3510	ifx_event.1	2018-10-31	0	14	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+454	3510	ifx_event.1	2018-11-28	0	15	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+455	3510	ifx_event.1	2018-12-29	0	16	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+456	3510	ifx_event.1	2019-01-23	0	17	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+457	3510	ifx_event.1	2019-02-20	0	18	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+458	3510	ifx_event.1	2019-03-20	3	19	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+459	3510	ifx_event.2	2018-12-29	5	16	2017-10-04	2017-12-04	Male	16 years or older	True	True	False	Negative blood smear
+460	3510	ifx_event.2	2019-01-23	0	17	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+461	3510	ifx_event.2	2019-02-20	0	18	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+462	3510	ifx_event.2	2019-03-20	0	19	2017-10-04	2017-12-04	Male	16 years or older	False	True	False	Negative blood smear
+463	3511	ifx_event.1	2018-07-16	10	10	2017-10-09	2017-12-09	Male	16 years or older	True	True	False	Negative blood smear
+464	3514	ifx_events.0	2017-11-06	0	1	2017-10-09	2017-12-09	Male	16 years or older	False	False	True	Negative blood smear
+465	3514	ifx_events.0	2017-12-04	0	2	2017-10-09	2017-12-09	Male	16 years or older	False	False	True	Negative blood smear
+466	3515	ifx_event.1	2019-03-25	19	19	2017-10-09	2017-12-09	Female	16 years or older	True	True	False	Asymptomatic parasitemia
+467	3515	ifx_event.1	2019-04-22	0	20	2017-10-09	2017-12-09	Female	16 years or older	False	True	False	Negative blood smear
+468	3515	ifx_event.1	2019-05-20	0	21	2017-10-09	2017-12-09	Female	16 years or older	False	True	False	Negative blood smear
+469	3515	ifx_event.1	2019-06-17	0	22	2017-10-09	2017-12-09	Female	16 years or older	False	True	False	Negative blood smear
+470	3515	ifx_event.1	2019-07-15	0	23	2017-10-09	2017-12-09	Female	16 years or older	False	True	False	Negative blood smear
+471	3521	ifx_event.1	2018-01-29	4	4	2017-10-09	2017-12-09	Male	5-15 years	True	True	False	Negative blood smear
+472	3522	ifx_event.1	2019-02-27	17	17	2017-10-10	2017-12-10	Male	16 years or older	True	True	False	Negative blood smear
+473	3523	ifx_events.0	2017-10-10	0	0	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+474	3523	ifx_events.0	2017-11-07	0	1	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+475	3523	ifx_events.0	2017-12-05	0	2	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+476	3523	ifx_events.0	2018-01-04	0	3	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+477	3523	ifx_events.0	2018-01-30	0	4	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+478	3523	ifx_events.0	2018-02-27	0	5	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+479	3523	ifx_events.0	2018-03-27	0	6	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+480	3523	ifx_events.0	2018-04-24	0	7	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+481	3523	ifx_events.0	2018-05-22	0	8	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+482	3523	ifx_events.0	2018-06-19	0	9	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+483	3523	ifx_events.0	2018-07-18	0	10	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+484	3523	ifx_events.0	2018-08-14	0	11	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+485	3523	ifx_events.0	2018-09-11	0	12	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+486	3525	ifx_event.1	2018-01-04	3	3	2017-10-10	2017-12-10	Male	16 years or older	True	True	False	Negative blood smear
+487	3525	ifx_event.1	2018-01-30	0	4	2017-10-10	2017-12-10	Male	16 years or older	False	True	False	Negative blood smear
+488	3525	ifx_event.1	2018-02-27	0	5	2017-10-10	2017-12-10	Male	16 years or older	False	True	False	Negative blood smear
+489	3525	ifx_event.1	2018-05-23	0	6	2017-10-10	2017-12-10	Male	16 years or older	False	True	False	Negative blood smear
+490	3525	ifx_event.1	2018-06-19	0	7	2017-10-10	2017-12-10	Male	16 years or older	False	True	False	Negative blood smear
+491	3527	ifx_events.0	2017-10-10	0	0	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+492	3527	ifx_events.0	2017-11-07	0	1	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+493	3527	ifx_events.0	2017-12-05	0	2	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+494	3527	ifx_events.0	2018-01-04	0	3	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+495	3527	ifx_events.0	2018-01-30	0	4	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+496	3527	ifx_events.0	2018-02-27	0	5	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+497	3527	ifx_events.0	2018-03-27	0	6	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+498	3527	ifx_events.0	2018-04-24	1	7	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+499	3527	ifx_events.0	2018-05-22	0	8	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+500	3527	ifx_events.0	2018-06-19	0	9	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+501	3527	ifx_events.0	2018-07-19	0	10	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+502	3527	ifx_events.0	2018-08-14	0	11	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+503	3527	ifx_events.0	2018-09-11	0	12	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+504	3527	ifx_events.0	2018-10-09	0	13	2017-10-10	2017-12-10	Male	16 years or older	False	False	True	Negative blood smear
+505	3529	ifx_events.0	2017-10-11	0	0	2017-10-11	2017-12-11	Male	16 years or older	False	False	True	Negative blood smear
+506	3529	ifx_events.0	2017-11-08	0	1	2017-10-11	2017-12-11	Male	16 years or older	False	False	True	Negative blood smear
+507	3530	ifx_events.0	2017-10-11	0	0	2017-10-11	2017-12-11	Male	16 years or older	False	False	True	Negative blood smear
+508	3532	ifx_event.1	2019-05-22	21	21	2017-10-11	2017-12-11	Male	16 years or older	True	True	False	Negative blood smear
+509	3532	ifx_event.1	2019-06-19	0	22	2017-10-11	2017-12-11	Male	16 years or older	False	True	False	Negative blood smear
+510	3532	ifx_event.1	2019-07-17	0	23	2017-10-11	2017-12-11	Male	16 years or older	False	True	False	Negative blood smear
+511	3535	ifx_event.1	2018-02-28	5	5	2017-10-11	2017-12-11	Male	5-15 years	True	True	False	Negative blood smear
+512	3540	ifx_events.0	2017-10-16	0	0	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Asymptomatic parasitemia
+513	3540	ifx_events.0	2017-11-13	0	1	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Asymptomatic parasitemia
+514	3540	ifx_events.0	2017-12-11	0	2	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+515	3540	ifx_events.0	2018-01-08	0	3	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+516	3540	ifx_events.0	2018-02-05	0	4	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+517	3540	ifx_events.0	2018-03-05	0	5	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+518	3540	ifx_events.0	2018-04-02	1	6	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+519	3540	ifx_events.0	2018-04-30	0	7	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+520	3540	ifx_events.0	2018-05-28	0	8	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+521	3541	ifx_event.0	2017-10-16	0	0	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+522	3541	ifx_event.0	2017-11-13	0	1	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+523	3541	ifx_event.0	2017-12-11	0	2	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+524	3541	ifx_event.0	2018-01-08	0	3	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+525	3541	ifx_event.0	2018-02-05	0	4	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+526	3541	ifx_event.0	2018-03-05	0	5	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+527	3541	ifx_event.0	2018-04-02	0	6	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+528	3541	ifx_event.0	2018-04-30	0	7	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+529	3541	ifx_event.0	2018-05-28	0	8	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+530	3541	ifx_event.0	2018-06-25	0	9	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+531	3541	ifx_event.0	2018-07-23	0	10	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+532	3541	ifx_event.1	2019-07-22	12	23	2017-10-16	2017-12-16	Female	16 years or older	True	True	False	Asymptomatic parasitemia
+533	3542	ifx_event.0	2017-10-16	0	0	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+534	3542	ifx_event.0	2017-11-13	0	1	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+535	3542	ifx_event.0	2017-12-11	0	2	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Negative blood smear
+536	3542	ifx_event.0	2018-01-08	0	3	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Negative blood smear
+537	3542	ifx_event.0	2018-02-05	0	4	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+538	3542	ifx_event.0	2018-03-05	0	5	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+539	3542	ifx_event.0	2018-04-02	0	6	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+540	3542	ifx_event.0	2018-04-30	0	7	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Negative blood smear
+541	3542	ifx_event.0	2018-05-28	0	8	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+542	3542	ifx_event.0	2018-06-25	0	9	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Negative blood smear
+543	3542	ifx_event.0	2018-07-23	0	10	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Negative blood smear
+544	3542	ifx_event.0	2018-08-20	0	11	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Negative blood smear
+545	3542	ifx_event.0	2018-09-17	0	12	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+546	3542	ifx_event.0	2018-10-15	0	13	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Negative blood smear
+547	3542	ifx_event.0	2018-11-12	0	14	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Negative blood smear
+548	3542	ifx_event.0	2018-12-10	0	15	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Negative blood smear
+549	3542	ifx_event.0	2019-01-07	0	16	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Negative blood smear
+550	3542	ifx_event.0	2019-02-04	0	17	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Negative blood smear
+551	3542	ifx_event.1	2018-03-05	5	5	2017-10-16	2017-12-16	Female	5-15 years	True	True	False	Asymptomatic parasitemia
+552	3542	ifx_event.1	2018-04-02	0	6	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Asymptomatic parasitemia
+553	3542	ifx_event.1	2018-04-30	4	7	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+554	3542	ifx_event.3	2019-07-22	5	23	2017-10-16	2017-12-16	Female	5-15 years	True	True	False	Asymptomatic parasitemia
+555	3546	ifx_events.0	2017-10-16	0	0	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+556	3546	ifx_events.0	2017-11-13	0	1	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Asymptomatic parasitemia
+557	3546	ifx_events.0	2017-12-11	0	2	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+558	3546	ifx_events.0	2018-01-08	0	3	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+559	3546	ifx_events.0	2018-02-06	0	4	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+560	3546	ifx_events.0	2018-03-05	0	5	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+561	3546	ifx_events.0	2018-04-04	0	6	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+562	3546	ifx_events.0	2018-04-30	0	7	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+563	3546	ifx_events.0	2018-05-28	0	8	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+564	3546	ifx_events.0	2018-06-25	0	9	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+565	3546	ifx_events.0	2018-07-23	0	10	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+566	3546	ifx_events.0	2018-08-20	0	11	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+567	3546	ifx_events.0	2018-09-17	0	12	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+568	3546	ifx_events.0	2018-10-17	0	13	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+569	3546	ifx_events.0	2018-11-12	1	14	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+570	3546	ifx_events.0	2018-12-10	0	15	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+571	3546	ifx_events.0	2019-01-07	0	16	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+572	3546	ifx_events.0	2019-02-04	1	17	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+573	3546	ifx_events.0	2019-03-04	0	18	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+574	3546	ifx_events.0	2019-04-01	0	19	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+575	3546	ifx_events.0	2019-04-29	0	20	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+576	3546	ifx_events.0	2019-05-27	0	21	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+577	3546	ifx_events.0	2019-06-24	1	22	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+578	3546	ifx_events.0	2019-07-22	0	23	2017-10-16	2017-12-16	Male	16 years or older	False	False	True	Negative blood smear
+579	3547	ifx_events.0	2017-10-16	0	0	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+580	3547	ifx_events.0	2017-11-13	0	1	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+581	3547	ifx_events.0	2017-12-11	0	2	2017-10-16	2017-12-16	Female	16 years or older	False	False	True	Negative blood smear
+582	3549	ifx_events.0	2017-10-16	0	0	2017-10-16	2017-12-16	Female	5-15 years	False	False	True	Negative blood smear
+583	3554	ifx_event.1	2018-06-25	9	9	2017-10-16	2017-12-16	Female	16 years or older	True	True	False	Negative blood smear
+584	3554	ifx_event.2	2019-02-04	7	17	2017-10-16	2017-12-16	Female	16 years or older	True	True	False	Negative blood smear
+585	3554	ifx_event.2	2019-03-04	0	18	2017-10-16	2017-12-16	Female	16 years or older	False	True	False	Negative blood smear
+586	3555	ifx_event.1	2018-06-20	9	9	2017-10-16	2017-12-16	Female	5-15 years	True	True	False	Malaria
+587	3555	ifx_event.1	2018-06-25	0	10	2017-10-16	2017-12-16	Female	5-15 years	False	True	False	Negative blood smear
+588	3557	ifx_events.0	2017-10-16	0	0	2017-10-16	2017-12-16	Female	< 5 years	False	False	True	Negative blood smear
+589	3557	ifx_events.0	2017-11-13	0	1	2017-10-16	2017-12-16	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+590	3557	ifx_events.0	2017-12-11	0	2	2017-10-16	2017-12-16	Female	< 5 years	False	False	True	Negative blood smear
+591	3565	ifx_event.1	2018-08-20	11	11	2017-10-16	2017-12-16	Male	5-15 years	True	True	False	Negative blood smear
+592	3570	ifx_event.1	2018-05-28	8	8	2017-10-16	2017-12-16	Female	< 5 years	True	True	False	Negative blood smear
+593	3570	ifx_event.1	2018-06-25	0	9	2017-10-16	2017-12-16	Female	< 5 years	False	True	False	Asymptomatic parasitemia
+594	3570	ifx_event.1	2018-07-23	0	10	2017-10-16	2017-12-16	Female	< 5 years	False	True	False	Asymptomatic parasitemia
+595	3570	ifx_event.1	2018-08-20	0	11	2017-10-16	2017-12-16	Female	< 5 years	False	True	False	Asymptomatic parasitemia
+596	3570	ifx_event.1	2018-09-17	0	12	2017-10-16	2017-12-16	Female	< 5 years	False	True	False	Negative blood smear
+597	3570	ifx_event.1	2018-10-15	0	13	2017-10-16	2017-12-16	Female	< 5 years	False	True	False	Negative blood smear
+598	3575	ifx_events.0	2017-10-17	0	0	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+599	3575	ifx_events.0	2017-11-14	0	1	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+600	3575	ifx_events.0	2017-12-12	0	2	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+601	3575	ifx_events.0	2018-01-09	0	3	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+602	3575	ifx_events.0	2018-02-06	0	4	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+603	3575	ifx_events.0	2018-03-06	0	5	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+604	3575	ifx_events.0	2018-04-04	2	6	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+605	3575	ifx_events.0	2018-05-01	0	7	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+606	3575	ifx_events.0	2018-05-29	0	8	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+607	3575	ifx_events.0	2018-06-26	0	9	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+608	3575	ifx_events.0	2018-07-24	0	10	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+609	3575	ifx_events.0	2018-08-21	0	11	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+610	3575	ifx_events.0	2018-09-18	0	12	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+611	3575	ifx_events.0	2018-10-16	0	13	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+612	3575	ifx_events.0	2018-11-13	0	14	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Asymptomatic parasitemia
+613	3575	ifx_events.0	2018-12-11	0	15	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+614	3575	ifx_events.0	2019-01-08	0	16	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+615	3575	ifx_events.0	2019-02-05	2	17	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+616	3575	ifx_events.0	2019-03-05	0	18	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+617	3575	ifx_events.0	2019-04-02	1	19	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+618	3575	ifx_events.0	2019-04-30	0	20	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+619	3575	ifx_events.0	2019-05-28	0	21	2017-10-17	2017-12-17	Male	16 years or older	False	False	True	Negative blood smear
+620	3577	ifx_event.0	2017-10-17	0	0	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+621	3577	ifx_event.0	2017-11-14	0	1	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+622	3577	ifx_event.0	2017-12-12	0	2	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+623	3577	ifx_event.0	2018-01-09	0	3	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+624	3577	ifx_event.0	2018-02-06	0	4	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+625	3577	ifx_event.0	2018-03-06	0	5	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+626	3577	ifx_event.0	2018-04-04	0	6	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+627	3577	ifx_event.0	2018-05-01	0	7	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+628	3577	ifx_event.0	2018-05-29	0	8	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+629	3577	ifx_event.0	2018-06-26	0	9	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+630	3577	ifx_event.0	2018-07-24	0	10	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+631	3577	ifx_event.0	2018-08-21	0	11	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+632	3577	ifx_event.0	2018-09-18	0	12	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+633	3577	ifx_event.0	2018-10-16	0	13	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+634	3577	ifx_event.0	2018-11-13	0	14	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+635	3577	ifx_event.0	2018-12-11	0	15	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+636	3577	ifx_event.1	2019-04-30	4	20	2017-10-17	2017-12-17	Female	5-15 years	True	True	False	Negative blood smear
+637	3577	ifx_event.1	2019-05-28	0	21	2017-10-17	2017-12-17	Female	5-15 years	False	True	False	Negative blood smear
+638	3577	ifx_event.1	2019-06-25	0	22	2017-10-17	2017-12-17	Female	5-15 years	False	True	False	Negative blood smear
+639	3577	ifx_event.1	2019-07-23	1	23	2017-10-17	2017-12-17	Female	5-15 years	False	True	False	Negative blood smear
+640	3578	ifx_event.0	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+641	3578	ifx_event.0	2017-11-14	0	1	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+642	3578	ifx_event.0	2017-12-12	0	2	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+643	3578	ifx_event.0	2018-01-09	0	3	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+644	3578	ifx_event.0	2018-02-06	0	4	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+645	3578	ifx_event.0	2018-03-06	0	5	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+646	3578	ifx_event.0	2018-04-04	0	6	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+647	3578	ifx_event.0	2018-05-01	0	7	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+648	3578	ifx_event.0	2018-05-29	0	8	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+649	3578	ifx_event.0	2018-06-26	0	9	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+650	3578	ifx_event.0	2018-07-24	0	10	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+651	3578	ifx_event.0	2018-08-21	0	11	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+652	3578	ifx_event.0	2018-09-18	0	12	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+653	3578	ifx_event.0	2018-10-16	0	13	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+654	3578	ifx_event.0	2018-11-13	0	14	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+655	3578	ifx_event.0	2018-12-11	0	15	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+656	3578	ifx_event.0	2019-01-08	0	16	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+657	3578	ifx_event.0	2019-02-05	0	17	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+658	3578	ifx_event.0	2019-03-05	0	18	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+659	3578	ifx_event.0	2019-04-02	0	19	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+660	3578	ifx_event.0	2019-04-30	0	20	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+661	3578	ifx_event.0	2019-05-28	0	21	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+662	3578	ifx_event.0	2019-06-25	0	22	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+663	3578	ifx_event.0	2019-07-23	0	23	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+664	3578	ifx_event.1	2018-04-04	5	6	2017-10-17	2017-12-17	Male	5-15 years	True	True	False	Asymptomatic parasitemia
+665	3578	ifx_event.1	2018-05-01	0	7	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+666	3578	ifx_event.1	2018-05-29	1	8	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+667	3578	ifx_event.1	2018-06-26	0	9	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+668	3578	ifx_event.1	2018-07-24	0	10	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+669	3578	ifx_event.1	2018-08-21	1	11	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+670	3578	ifx_event.1	2018-09-18	0	12	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+671	3578	ifx_event.1	2018-10-16	1	13	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+672	3578	ifx_event.1	2018-11-13	0	14	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+673	3578	ifx_event.1	2018-12-11	0	15	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+674	3578	ifx_event.1	2019-01-08	0	16	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+675	3578	ifx_event.1	2019-02-05	1	17	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+676	3578	ifx_event.1	2019-03-05	0	18	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+677	3578	ifx_event.1	2019-04-02	1	19	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+678	3578	ifx_event.1	2019-04-30	0	20	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+679	3578	ifx_event.1	2019-05-28	0	21	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+680	3578	ifx_event.1	2019-06-25	0	22	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+681	3578	ifx_event.1	2019-07-23	0	23	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+682	3579	ifx_event.0	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+683	3579	ifx_event.0	2017-11-14	0	1	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+684	3579	ifx_event.0	2017-12-12	0	2	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+685	3579	ifx_event.0	2018-01-09	0	3	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+686	3579	ifx_event.0	2018-02-06	0	4	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+687	3579	ifx_event.0	2018-03-06	0	5	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+688	3579	ifx_event.0	2018-04-04	0	6	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+689	3579	ifx_event.0	2018-05-01	0	7	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+690	3579	ifx_event.0	2018-05-29	0	8	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+691	3579	ifx_event.0	2018-06-26	0	9	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+692	3579	ifx_event.0	2018-07-24	0	10	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+693	3579	ifx_event.0	2018-08-21	0	11	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+694	3579	ifx_event.0	2018-09-18	0	12	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+695	3579	ifx_event.1	2019-07-23	10	23	2017-10-17	2017-12-17	Male	5-15 years	True	True	False	Negative blood smear
+696	3580	ifx_events.0	2017-10-17	0	0	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Asymptomatic parasitemia
+697	3580	ifx_events.0	2017-11-14	0	1	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+698	3580	ifx_events.0	2017-12-12	0	2	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+699	3580	ifx_events.0	2018-01-09	0	3	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+700	3580	ifx_events.0	2018-02-06	0	4	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+701	3580	ifx_events.0	2018-03-06	0	5	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+702	3580	ifx_events.0	2018-04-04	0	6	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+703	3580	ifx_events.0	2018-05-01	3	7	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+704	3580	ifx_events.0	2018-05-29	0	8	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+705	3580	ifx_events.0	2018-06-26	0	9	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+706	3580	ifx_events.0	2018-07-24	0	10	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+707	3580	ifx_events.0	2018-08-21	0	11	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+708	3580	ifx_events.0	2018-09-18	0	12	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+709	3580	ifx_events.0	2018-10-16	0	13	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+710	3580	ifx_events.0	2018-11-13	0	14	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+711	3580	ifx_events.0	2018-12-11	1	15	2017-10-17	2017-12-17	Male	< 5 years	False	False	True	Negative blood smear
+712	3589	ifx_events.0	2017-12-12	0	2	2017-10-17	2017-12-17	Female	16 years or older	False	False	True	Negative blood smear
+713	3597	ifx_event.1	2018-06-26	9	9	2017-10-17	2017-12-17	Male	5-15 years	True	True	False	Asymptomatic parasitemia
+714	3597	ifx_event.1	2018-07-24	0	10	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+715	3597	ifx_event.1	2018-08-21	1	11	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+716	3597	ifx_event.1	2018-09-18	0	12	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+717	3597	ifx_event.1	2018-10-16	0	13	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+718	3597	ifx_event.1	2018-11-13	0	14	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+719	3597	ifx_event.1	2018-12-11	0	15	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+720	3597	ifx_event.1	2019-01-08	0	16	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+721	3597	ifx_event.1	2019-02-05	0	17	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+722	3597	ifx_event.1	2019-03-05	0	18	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+723	3598	ifx_event.1	2018-07-24	10	10	2017-10-17	2017-12-17	Female	5-15 years	True	True	False	Negative blood smear
+724	3599	ifx_event.1	2019-07-23	23	23	2017-10-17	2017-12-17	Female	< 5 years	True	True	False	Negative blood smear
+725	3602	ifx_event.0	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+726	3602	ifx_event.0	2017-11-13	0	1	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+727	3602	ifx_event.0	2017-12-12	0	2	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+728	3602	ifx_event.0	2018-01-09	0	3	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+729	3602	ifx_event.0	2018-02-06	0	4	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+730	3602	ifx_event.0	2018-03-06	0	5	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+731	3602	ifx_event.0	2018-04-03	1	6	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+732	3602	ifx_event.0	2018-05-01	0	7	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+733	3602	ifx_event.0	2018-05-29	0	8	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+734	3602	ifx_event.0	2018-06-26	0	9	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+735	3602	ifx_event.0	2018-07-24	0	10	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+736	3602	ifx_event.0	2018-08-21	0	11	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+737	3602	ifx_event.0	2018-09-18	0	12	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+738	3602	ifx_event.0	2018-10-16	0	13	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+739	3602	ifx_event.0	2018-11-13	0	14	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+740	3602	ifx_event.0	2018-12-11	0	15	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+741	3602	ifx_event.0	2019-01-08	0	16	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+742	3602	ifx_event.0	2019-02-05	0	17	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+743	3602	ifx_event.0	2019-03-05	0	18	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+744	3602	ifx_event.0	2019-04-02	0	19	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+745	3602	ifx_event.0	2019-04-30	0	20	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+746	3602	ifx_event.0	2019-05-28	0	21	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+747	3602	ifx_event.0	2019-06-24	0	22	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+748	3602	ifx_event.0	2019-07-23	0	23	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+749	3602	ifx_event.1	2018-06-26	4	9	2017-10-17	2017-12-17	Male	5-15 years	True	True	False	Negative blood smear
+750	3602	ifx_event.1	2018-07-24	0	10	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+751	3602	ifx_event.1	2018-08-21	0	11	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+752	3602	ifx_event.1	2018-09-18	0	12	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+753	3602	ifx_event.1	2018-10-16	0	13	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+754	3602	ifx_event.1	2018-11-13	0	14	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+755	3602	ifx_event.1	2018-12-11	1	15	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+756	3602	ifx_event.1	2019-01-08	0	16	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+757	3602	ifx_event.1	2019-02-05	0	17	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+758	3602	ifx_event.1	2019-03-05	0	18	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+759	3602	ifx_event.1	2019-04-02	1	19	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+760	3602	ifx_event.1	2019-04-30	0	20	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+761	3602	ifx_event.1	2019-05-28	0	21	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+762	3602	ifx_event.1	2019-06-24	0	22	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+763	3602	ifx_event.1	2019-07-23	0	23	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+764	3602	ifx_event.2	2018-09-18	4	12	2017-10-17	2017-12-17	Male	5-15 years	True	True	False	Negative blood smear
+765	3602	ifx_event.2	2018-10-16	0	13	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+766	3602	ifx_event.2	2018-11-13	0	14	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+767	3602	ifx_event.2	2018-12-11	0	15	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+768	3602	ifx_event.2	2019-01-08	0	16	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+769	3602	ifx_event.2	2019-02-05	0	17	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+770	3602	ifx_event.2	2019-03-05	0	18	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+771	3602	ifx_event.2	2019-04-02	1	19	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+772	3602	ifx_event.2	2019-04-30	0	20	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+773	3602	ifx_event.2	2019-05-28	0	21	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+774	3602	ifx_event.2	2019-06-24	0	22	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+775	3602	ifx_event.2	2019-07-23	0	23	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+776	3604	ifx_event.0	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+777	3604	ifx_event.0	2017-11-13	0	1	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+778	3604	ifx_event.0	2017-12-12	0	2	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+779	3604	ifx_event.0	2018-01-09	0	3	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+780	3604	ifx_event.0	2018-02-06	0	4	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+781	3604	ifx_event.0	2018-03-06	0	5	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+782	3604	ifx_event.0	2018-04-03	0	6	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+783	3604	ifx_event.0	2018-05-01	0	7	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+784	3604	ifx_event.0	2018-05-29	0	8	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+785	3604	ifx_event.0	2018-06-26	0	9	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+786	3604	ifx_event.0	2018-07-24	0	10	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+787	3604	ifx_event.0	2018-08-13	0	11	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Malaria
+788	3604	ifx_event.0	2018-08-21	0	12	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+789	3604	ifx_event.1	2018-02-06	4	4	2017-10-17	2017-12-17	Male	5-15 years	True	True	False	Asymptomatic parasitemia
+790	3604	ifx_event.1	2018-03-06	0	5	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+791	3604	ifx_event.1	2018-04-03	0	6	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+792	3604	ifx_event.1	2018-05-01	0	7	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+793	3604	ifx_event.1	2018-05-29	0	8	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+794	3604	ifx_event.1	2018-06-26	0	9	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+795	3604	ifx_event.1	2018-07-24	0	10	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+796	3604	ifx_event.1	2018-08-13	0	11	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Malaria
+797	3604	ifx_event.1	2018-08-21	1	12	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+798	3604	ifx_event.3	2018-08-13	4	11	2017-10-17	2017-12-17	Male	5-15 years	True	True	False	Malaria
+799	3604	ifx_event.3	2018-08-21	0	12	2017-10-17	2017-12-17	Male	5-15 years	False	True	False	Negative blood smear
+800	3609	ifx_event.1	2019-07-23	23	23	2017-10-17	2017-12-17	Female	16 years or older	True	True	False	Negative blood smear
+801	3612	ifx_events.0	2017-10-17	0	0	2017-10-17	2017-12-17	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+802	3612	ifx_events.0	2017-11-14	0	1	2017-10-17	2017-12-17	Female	< 5 years	False	False	True	Negative blood smear
+803	3614	ifx_events.0	2017-10-17	0	0	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+804	3614	ifx_events.0	2017-11-14	0	1	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+805	3614	ifx_events.0	2017-12-12	0	2	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+806	3614	ifx_events.0	2018-01-09	0	3	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+807	3614	ifx_events.0	2018-02-06	0	4	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+808	3614	ifx_events.0	2018-03-06	0	5	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+809	3614	ifx_events.0	2018-04-03	1	6	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+810	3614	ifx_events.0	2018-05-01	0	7	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+811	3614	ifx_events.0	2018-05-28	0	8	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+812	3614	ifx_events.0	2018-06-26	0	9	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+813	3614	ifx_events.0	2018-07-24	0	10	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+814	3614	ifx_events.0	2018-08-21	0	11	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+815	3614	ifx_events.0	2018-09-18	0	12	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+816	3614	ifx_events.0	2018-10-16	0	13	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+817	3614	ifx_events.0	2018-11-13	0	14	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+818	3614	ifx_events.0	2018-12-11	0	15	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+819	3614	ifx_events.0	2019-01-08	0	16	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+820	3614	ifx_events.0	2019-02-05	1	17	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+821	3614	ifx_events.0	2019-03-05	0	18	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+822	3614	ifx_events.0	2019-04-02	1	19	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+823	3614	ifx_events.0	2019-04-30	0	20	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+824	3614	ifx_events.0	2019-05-28	0	21	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+825	3614	ifx_events.0	2019-06-25	0	22	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+826	3614	ifx_events.0	2019-07-23	0	23	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+827	3615	ifx_events.0	2017-10-17	0	0	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+828	3615	ifx_events.0	2017-11-14	0	1	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+829	3615	ifx_events.0	2017-12-12	0	2	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+830	3615	ifx_events.0	2018-01-09	0	3	2017-10-17	2017-12-17	Female	5-15 years	False	False	True	Negative blood smear
+831	3616	ifx_events.0	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+832	3616	ifx_events.0	2017-11-14	0	1	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+833	3616	ifx_events.0	2017-12-12	0	2	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+834	3616	ifx_events.0	2018-01-09	0	3	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+835	3616	ifx_events.0	2018-02-06	0	4	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+836	3616	ifx_events.0	2018-03-06	0	5	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+837	3616	ifx_events.0	2018-04-03	1	6	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+838	3616	ifx_events.0	2018-05-01	0	7	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+839	3616	ifx_events.0	2018-05-28	0	8	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+840	3616	ifx_events.0	2018-06-26	0	9	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+841	3616	ifx_events.0	2018-07-24	0	10	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+842	3616	ifx_events.0	2018-08-21	0	11	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+843	3616	ifx_events.0	2018-09-18	0	12	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+844	3616	ifx_events.0	2018-10-16	0	13	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+845	3616	ifx_events.0	2018-11-13	0	14	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+846	3616	ifx_events.0	2018-12-11	0	15	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+847	3616	ifx_events.0	2019-01-08	0	16	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+848	3616	ifx_events.0	2019-02-05	2	17	2017-10-17	2017-12-17	Male	5-15 years	False	False	True	Negative blood smear
+849	3617	ifx_events.0	2017-10-17	0	0	2017-10-17	2017-12-17	Female	< 5 years	False	False	True	Negative blood smear
+850	3617	ifx_events.0	2017-11-14	0	1	2017-10-17	2017-12-17	Female	< 5 years	False	False	True	Negative blood smear
+851	3617	ifx_events.0	2017-12-12	0	2	2017-10-17	2017-12-17	Female	< 5 years	False	False	True	Negative blood smear
+852	3622	ifx_event.1	2018-05-02	7	7	2017-10-18	2017-12-18	Female	5-15 years	True	True	False	Negative blood smear
+853	3626	ifx_event.1	2018-06-20	9	9	2017-10-18	2017-12-18	Female	16 years or older	True	True	False	Malaria
+854	3627	ifx_events.0	2017-10-18	0	0	2017-10-18	2017-12-18	Female	16 years or older	False	False	True	Negative blood smear
+855	3627	ifx_events.0	2017-11-15	0	1	2017-10-18	2017-12-18	Female	16 years or older	False	False	True	Negative blood smear
+856	3627	ifx_events.0	2017-12-13	0	2	2017-10-18	2017-12-18	Female	16 years or older	False	False	True	Negative blood smear
+857	3627	ifx_events.0	2018-01-10	0	3	2017-10-18	2017-12-18	Female	16 years or older	False	False	True	Negative blood smear
+858	3629	ifx_event.1	2018-06-27	9	9	2017-10-18	2017-12-18	Male	5-15 years	True	True	False	Negative blood smear
+859	3629	ifx_event.1	2018-07-25	0	10	2017-10-18	2017-12-18	Male	5-15 years	False	True	False	Negative blood smear
+860	3629	ifx_event.1	2018-08-22	0	11	2017-10-18	2017-12-18	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+861	3629	ifx_event.1	2018-09-19	0	12	2017-10-18	2017-12-18	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+862	3629	ifx_event.1	2018-10-17	0	13	2017-10-18	2017-12-18	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+863	3629	ifx_event.1	2018-11-14	0	14	2017-10-18	2017-12-18	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+864	3629	ifx_event.1	2018-12-12	0	15	2017-10-18	2017-12-18	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+865	3629	ifx_event.1	2019-01-09	0	16	2017-10-18	2017-12-18	Male	5-15 years	False	True	False	Negative blood smear
+866	3629	ifx_event.1	2019-02-06	0	17	2017-10-18	2017-12-18	Male	5-15 years	False	True	False	Negative blood smear
+867	3629	ifx_event.1	2019-03-06	0	18	2017-10-18	2017-12-18	Male	5-15 years	False	True	False	Negative blood smear
+868	3630	ifx_events.0	2017-10-18	0	0	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+869	3630	ifx_events.0	2017-11-15	0	1	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+870	3630	ifx_events.0	2017-12-13	0	2	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+871	3630	ifx_events.0	2018-01-10	0	3	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+872	3630	ifx_events.0	2018-02-07	0	4	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+873	3630	ifx_events.0	2018-03-07	0	5	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+874	3630	ifx_events.0	2018-04-04	0	6	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+875	3630	ifx_events.0	2018-05-02	2	7	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+876	3630	ifx_events.0	2018-05-30	0	8	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+877	3630	ifx_events.0	2018-06-27	1	9	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+878	3630	ifx_events.0	2018-07-25	0	10	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+879	3630	ifx_events.0	2018-08-22	0	11	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+880	3630	ifx_events.0	2018-09-19	0	12	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+881	3635	ifx_event.1	2018-01-10	3	3	2017-10-18	2017-12-18	Female	< 5 years	True	True	False	Negative blood smear
+882	3635	ifx_event.1	2018-02-07	0	4	2017-10-18	2017-12-18	Female	< 5 years	False	True	False	Asymptomatic parasitemia
+883	3637	ifx_events.0	2017-10-18	0	0	2017-10-18	2017-12-18	Male	16 years or older	False	False	True	Negative blood smear
+884	3637	ifx_events.0	2017-11-15	0	1	2017-10-18	2017-12-18	Male	16 years or older	False	False	True	Negative blood smear
+885	3637	ifx_events.0	2017-12-13	0	2	2017-10-18	2017-12-18	Male	16 years or older	False	False	True	Negative blood smear
+886	3642	ifx_events.0	2017-10-18	0	0	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+887	3642	ifx_events.0	2017-11-15	0	1	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+888	3642	ifx_events.0	2017-12-13	0	2	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+889	3642	ifx_events.0	2018-01-10	0	3	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+890	3642	ifx_events.0	2018-02-07	1	4	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+891	3642	ifx_events.0	2018-03-07	0	5	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+892	3642	ifx_events.0	2018-04-04	0	6	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+893	3642	ifx_events.0	2018-05-01	0	7	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+894	3642	ifx_events.0	2018-05-30	0	8	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+895	3642	ifx_events.0	2018-06-28	0	9	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+896	3642	ifx_events.0	2018-07-25	0	10	2017-10-18	2017-12-18	Female	5-15 years	False	False	True	Negative blood smear
+897	3644	ifx_events.0	2017-10-18	0	0	2017-10-18	2017-12-18	Male	< 5 years	False	False	True	Negative blood smear
+898	3648	ifx_event.1	2019-07-03	23	23	2017-10-18	2017-12-18	Male	< 5 years	True	True	False	Malaria
+899	3648	ifx_event.1	2019-07-24	0	24	2017-10-18	2017-12-18	Male	< 5 years	False	True	False	Negative blood smear
+900	3649	ifx_events.0	2017-10-23	0	0	2017-10-23	2017-12-23	Male	16 years or older	False	False	True	Negative blood smear
+901	3649	ifx_events.0	2017-11-20	0	1	2017-10-23	2017-12-23	Male	16 years or older	False	False	True	Negative blood smear
+902	3649	ifx_events.0	2017-12-18	0	2	2017-10-23	2017-12-23	Male	16 years or older	False	False	True	Negative blood smear
+903	3658	ifx_event.1	2018-01-15	3	3	2017-10-23	2017-12-23	Female	< 5 years	True	True	False	Negative blood smear
+904	3659	ifx_event.0	2017-10-23	0	0	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+905	3659	ifx_event.0	2017-11-20	0	1	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Asymptomatic parasitemia
+906	3659	ifx_event.0	2017-12-18	0	2	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Asymptomatic parasitemia
+907	3659	ifx_event.0	2018-01-15	0	3	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+908	3659	ifx_event.0	2018-02-12	0	4	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+909	3659	ifx_event.0	2018-03-12	0	5	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+910	3659	ifx_event.0	2018-04-09	0	6	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+911	3659	ifx_event.0	2018-05-07	0	7	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+912	3659	ifx_event.0	2018-06-04	0	8	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+913	3659	ifx_event.0	2018-07-02	0	9	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+914	3659	ifx_event.0	2018-07-30	0	10	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+915	3659	ifx_event.0	2018-08-27	0	11	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+916	3659	ifx_event.0	2018-09-24	0	12	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Asymptomatic parasitemia
+917	3659	ifx_event.0	2018-10-22	0	13	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+918	3659	ifx_event.0	2018-11-19	0	14	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+919	3659	ifx_event.0	2018-12-17	0	15	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Asymptomatic parasitemia
+920	3659	ifx_event.0	2019-01-14	0	16	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+921	3659	ifx_event.0	2019-02-11	0	17	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+922	3659	ifx_event.0	2019-03-11	0	18	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+923	3659	ifx_event.0	2019-04-08	0	19	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+924	3659	ifx_event.0	2019-05-06	0	20	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+925	3659	ifx_event.0	2019-06-03	0	21	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+926	3659	ifx_event.0	2019-07-01	1	22	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+927	3659	ifx_event.0	2019-07-29	0	23	2017-10-23	2017-12-23	Female	16 years or older	False	False	True	Negative blood smear
+928	3659	ifx_event.1	2018-02-12	4	4	2017-10-23	2017-12-23	Female	16 years or older	True	True	False	Negative blood smear
+929	3659	ifx_event.1	2018-03-12	0	5	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+930	3659	ifx_event.1	2018-04-09	1	6	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+931	3659	ifx_event.1	2018-05-07	0	7	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+932	3659	ifx_event.1	2018-06-04	0	8	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+933	3659	ifx_event.1	2018-07-02	0	9	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+934	3659	ifx_event.1	2018-07-30	2	10	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+935	3659	ifx_event.1	2018-08-27	0	11	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+936	3659	ifx_event.1	2018-09-24	0	12	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Asymptomatic parasitemia
+937	3659	ifx_event.1	2018-10-22	0	13	2017-10-23	2017-12-23	Female	16 years or older	False	True	False	Negative blood smear
+938	3659	ifx_event.2	2018-12-17	4	15	2017-10-23	2017-12-23	Female	16 years or older	True	True	False	Asymptomatic parasitemia
+939	3660	ifx_event.1	2019-07-29	23	23	2017-10-23	2017-12-23	Male	< 5 years	True	True	False	Negative blood smear
+940	3665	ifx_events.0	2017-10-23	0	0	2017-10-23	2017-12-23	Female	< 5 years	False	False	True	Negative blood smear
+941	3665	ifx_events.0	2017-11-20	0	1	2017-10-23	2017-12-23	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+942	3665	ifx_events.0	2017-12-18	0	2	2017-10-23	2017-12-23	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+943	3665	ifx_events.0	2018-01-15	0	3	2017-10-23	2017-12-23	Female	< 5 years	False	False	True	Negative blood smear
+944	3665	ifx_events.0	2018-02-12	0	4	2017-10-23	2017-12-23	Female	< 5 years	False	False	True	Negative blood smear
+945	3665	ifx_events.0	2018-03-12	0	5	2017-10-23	2017-12-23	Female	< 5 years	False	False	True	Negative blood smear
+946	3665	ifx_events.0	2018-04-11	1	6	2017-10-23	2017-12-23	Female	< 5 years	False	False	True	Negative blood smear
+947	3665	ifx_events.0	2018-05-07	0	7	2017-10-23	2017-12-23	Female	< 5 years	False	False	True	Negative blood smear
+948	3665	ifx_events.0	2018-06-04	0	8	2017-10-23	2017-12-23	Female	< 5 years	False	False	True	Negative blood smear
+949	3672	ifx_events.0	2017-10-24	0	0	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+950	3672	ifx_events.0	2017-11-21	0	1	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+951	3672	ifx_events.0	2017-12-19	0	2	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Asymptomatic parasitemia
+952	3672	ifx_events.0	2018-01-16	0	3	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+953	3672	ifx_events.0	2018-02-13	0	4	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+954	3672	ifx_events.0	2018-03-13	0	5	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+955	3672	ifx_events.0	2018-04-10	0	6	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+956	3672	ifx_events.0	2018-05-08	0	7	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+957	3672	ifx_events.0	2018-06-05	0	8	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+958	3672	ifx_events.0	2018-07-03	0	9	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+959	3672	ifx_events.0	2018-07-31	0	10	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+960	3672	ifx_events.0	2018-08-28	0	11	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+961	3672	ifx_events.0	2018-09-25	0	12	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+962	3672	ifx_events.0	2018-10-23	0	13	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+963	3672	ifx_events.0	2018-11-20	0	14	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+964	3672	ifx_events.0	2018-12-18	0	15	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+965	3672	ifx_events.0	2019-01-15	0	16	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+966	3672	ifx_events.0	2019-02-12	0	17	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+967	3672	ifx_events.0	2019-03-12	0	18	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+968	3672	ifx_events.0	2019-04-09	0	19	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+969	3672	ifx_events.0	2019-05-07	0	20	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+970	3672	ifx_events.0	2019-06-04	0	21	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+971	3672	ifx_events.0	2019-07-02	0	22	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+972	3672	ifx_events.0	2019-07-30	0	23	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+973	3673	ifx_events.0	2017-10-24	0	0	2017-10-24	2017-12-24	Female	16 years or older	False	False	True	Negative blood smear
+974	3673	ifx_events.0	2017-11-21	0	1	2017-10-24	2017-12-24	Female	16 years or older	False	False	True	Negative blood smear
+975	3673	ifx_events.0	2017-12-19	0	2	2017-10-24	2017-12-24	Female	16 years or older	False	False	True	Negative blood smear
+976	3673	ifx_events.0	2018-01-16	0	3	2017-10-24	2017-12-24	Female	16 years or older	False	False	True	Negative blood smear
+977	3673	ifx_events.0	2018-02-13	1	4	2017-10-24	2017-12-24	Female	16 years or older	False	False	True	Negative blood smear
+978	3673	ifx_events.0	2018-03-13	0	5	2017-10-24	2017-12-24	Female	16 years or older	False	False	True	Negative blood smear
+979	3673	ifx_events.0	2018-04-10	0	6	2017-10-24	2017-12-24	Female	16 years or older	False	False	True	Negative blood smear
+980	3673	ifx_events.0	2018-05-08	0	7	2017-10-24	2017-12-24	Female	16 years or older	False	False	True	Negative blood smear
+981	3677	ifx_event.0	2017-10-24	0	0	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Asymptomatic parasitemia
+982	3677	ifx_event.0	2017-11-21	0	1	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Asymptomatic parasitemia
+983	3677	ifx_event.0	2017-12-19	0	2	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Asymptomatic parasitemia
+984	3677	ifx_event.0	2018-01-16	0	3	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+985	3677	ifx_event.0	2018-01-30	0	4	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Malaria
+986	3677	ifx_event.0	2018-02-13	0	5	2017-10-24	2017-12-24	Male	16 years or older	False	False	True	Negative blood smear
+987	3677	ifx_event.1	2018-01-16	3	3	2017-10-24	2017-12-24	Male	16 years or older	True	True	False	Negative blood smear
+988	3677	ifx_event.1	2018-01-30	0	4	2017-10-24	2017-12-24	Male	16 years or older	False	True	False	Malaria
+989	3680	ifx_events.0	2017-10-24	0	0	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Negative blood smear
+990	3681	ifx_events.0	2017-12-19	0	2	2017-10-24	2017-12-24	Male	< 5 years	False	False	True	Negative blood smear
+991	3684	ifx_events.0	2017-10-24	0	0	2017-10-24	2017-12-24	Female	16 years or older	False	False	True	Negative blood smear
+992	3685	ifx_event.0	2017-10-24	0	0	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+993	3685	ifx_event.0	2017-11-21	0	1	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Negative blood smear
+994	3685	ifx_event.0	2017-12-19	0	2	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+995	3685	ifx_event.0	2018-01-16	0	3	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+996	3685	ifx_event.0	2018-02-13	0	4	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+997	3685	ifx_event.0	2018-03-13	0	5	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Negative blood smear
+998	3685	ifx_event.0	2018-04-10	0	6	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Negative blood smear
+999	3685	ifx_event.0	2018-05-08	0	7	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Negative blood smear
+1000	3685	ifx_event.0	2018-06-05	0	8	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Negative blood smear
+1001	3685	ifx_event.0	2018-06-25	0	9	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Malaria
+1002	3685	ifx_event.0	2018-07-03	0	10	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Negative blood smear
+1003	3685	ifx_event.0	2018-07-31	0	11	2017-10-24	2017-12-24	Female	< 5 years	False	False	True	Negative blood smear
+1004	3685	ifx_event.1	2018-06-05	8	8	2017-10-24	2017-12-24	Female	< 5 years	True	True	False	Negative blood smear
+1005	3685	ifx_event.1	2018-06-25	0	9	2017-10-24	2017-12-24	Female	< 5 years	False	True	False	Malaria
+1006	3685	ifx_event.1	2018-07-03	0	10	2017-10-24	2017-12-24	Female	< 5 years	False	True	False	Negative blood smear
+1007	3685	ifx_event.1	2018-07-31	0	11	2017-10-24	2017-12-24	Female	< 5 years	False	True	False	Negative blood smear
+1008	3690	ifx_event.1	2018-11-20	14	14	2017-10-24	2017-12-24	Male	< 5 years	True	True	False	Negative blood smear
+1009	3699	ifx_event.1	2018-06-05	8	8	2017-10-24	2017-12-24	Male	< 5 years	True	True	False	Negative blood smear
+1010	3699	ifx_event.1	2018-07-03	0	9	2017-10-24	2017-12-24	Male	< 5 years	False	True	False	Negative blood smear
+1011	3699	ifx_event.1	2018-07-31	0	10	2017-10-24	2017-12-24	Male	< 5 years	False	True	False	Negative blood smear
+1012	3699	ifx_event.1	2018-08-28	2	11	2017-10-24	2017-12-24	Male	< 5 years	False	True	False	Negative blood smear
+1013	3699	ifx_event.1	2018-09-26	0	12	2017-10-24	2017-12-24	Male	< 5 years	False	True	False	Negative blood smear
+1014	3699	ifx_event.2	2018-08-28	11	11	2017-10-24	2017-12-24	Male	< 5 years	True	True	False	Negative blood smear
+1015	3699	ifx_event.2	2018-09-26	0	12	2017-10-24	2017-12-24	Male	< 5 years	False	True	False	Negative blood smear
+1016	3708	ifx_events.0	2017-10-25	0	0	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Asymptomatic parasitemia
+1017	3708	ifx_events.0	2017-11-22	0	1	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Asymptomatic parasitemia
+1018	3708	ifx_events.0	2017-12-20	0	2	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Asymptomatic parasitemia
+1019	3708	ifx_events.0	2018-01-17	0	3	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Asymptomatic parasitemia
+1020	3708	ifx_events.0	2018-02-14	0	4	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Asymptomatic parasitemia
+1021	3708	ifx_events.0	2018-03-14	0	5	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1022	3708	ifx_events.0	2018-04-11	0	6	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1023	3708	ifx_events.0	2018-05-09	0	7	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1024	3708	ifx_events.0	2018-06-06	0	8	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1025	3708	ifx_events.0	2018-07-04	0	9	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1026	3708	ifx_events.0	2018-08-01	0	10	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1027	3708	ifx_events.0	2018-08-29	0	11	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1028	3709	ifx_events.0	2017-10-25	0	0	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Asymptomatic parasitemia
+1029	3709	ifx_events.0	2017-11-22	0	1	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Asymptomatic parasitemia
+1030	3709	ifx_events.0	2017-12-20	0	2	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Asymptomatic parasitemia
+1031	3709	ifx_events.0	2018-01-17	0	3	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1032	3709	ifx_events.0	2018-02-14	0	4	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1033	3709	ifx_events.0	2018-03-14	0	5	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1034	3709	ifx_events.0	2018-04-11	0	6	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1035	3709	ifx_events.0	2018-05-09	0	7	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1036	3709	ifx_events.0	2018-06-06	0	8	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1037	3712	ifx_events.0	2017-10-25	0	0	2017-10-25	2017-12-25	Female	16 years or older	False	False	True	Negative blood smear
+1038	3713	ifx_events.0	2017-10-25	0	0	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1039	3713	ifx_events.0	2017-11-22	0	1	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1040	3713	ifx_events.0	2017-12-20	0	2	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1041	3713	ifx_events.0	2018-01-17	0	3	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1042	3713	ifx_events.0	2018-02-14	0	4	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1043	3713	ifx_events.0	2018-03-14	0	5	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1044	3713	ifx_events.0	2018-04-11	1	6	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1045	3713	ifx_events.0	2018-05-09	0	7	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1046	3713	ifx_events.0	2018-06-06	0	8	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1047	3713	ifx_events.0	2018-07-04	0	9	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1048	3713	ifx_events.0	2018-08-01	0	10	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1049	3713	ifx_events.0	2018-08-29	0	11	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1050	3713	ifx_events.0	2018-09-26	0	12	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1051	3713	ifx_events.0	2018-10-24	0	13	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1052	3713	ifx_events.0	2018-11-21	0	14	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1053	3713	ifx_events.0	2018-12-19	0	15	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1054	3713	ifx_events.0	2019-01-16	0	16	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1055	3713	ifx_events.0	2019-02-13	0	17	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1056	3713	ifx_events.0	2019-03-13	2	18	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1057	3713	ifx_events.0	2019-04-10	0	19	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1058	3713	ifx_events.0	2019-05-08	0	20	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1059	3713	ifx_events.0	2019-06-05	0	21	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1060	3713	ifx_events.0	2019-07-03	2	22	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1061	3713	ifx_events.0	2019-07-31	0	23	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1062	3714	ifx_event.0	2017-10-25	0	0	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1063	3714	ifx_event.0	2017-11-22	0	1	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1064	3714	ifx_event.0	2017-12-20	0	2	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1065	3714	ifx_event.0	2018-01-17	0	3	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1066	3714	ifx_event.0	2018-02-14	0	4	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1067	3714	ifx_event.0	2018-03-14	0	5	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1068	3714	ifx_event.0	2018-04-11	0	6	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1069	3714	ifx_event.0	2018-05-09	0	7	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1070	3714	ifx_event.0	2018-06-06	0	8	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1071	3714	ifx_event.0	2018-07-04	0	9	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1072	3714	ifx_event.0	2018-08-01	0	10	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1073	3714	ifx_event.0	2018-08-29	0	11	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1074	3714	ifx_event.0	2018-09-26	0	12	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1075	3714	ifx_event.0	2018-10-24	0	13	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1076	3714	ifx_event.0	2018-11-21	0	14	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1077	3714	ifx_event.0	2018-12-19	0	15	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1078	3714	ifx_event.0	2019-01-16	1	16	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1079	3714	ifx_event.0	2019-02-13	0	17	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1080	3714	ifx_event.0	2019-03-13	1	18	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1081	3714	ifx_event.1	2019-07-31	4	23	2017-10-25	2017-12-25	Male	5-15 years	True	True	False	Negative blood smear
+1082	3718	ifx_events.0	2017-10-25	0	0	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1083	3718	ifx_events.0	2017-11-22	0	1	2017-10-25	2017-12-25	Male	5-15 years	False	False	True	Negative blood smear
+1084	3719	ifx_event.0	2017-10-25	0	0	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Asymptomatic parasitemia
+1085	3719	ifx_event.0	2017-11-13	0	1	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Malaria
+1086	3719	ifx_event.0	2017-11-22	0	2	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1087	3719	ifx_event.0	2017-12-20	0	3	2017-10-25	2017-12-25	Male	< 5 years	False	False	True	Negative blood smear
+1088	3719	ifx_event.1	2018-07-05	6	10	2017-10-25	2017-12-25	Male	< 5 years	True	True	False	Asymptomatic parasitemia
+1089	3720	ifx_event.0	2017-10-25	0	0	2017-10-25	2017-12-25	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+1090	3720	ifx_event.0	2017-11-22	0	1	2017-10-25	2017-12-25	Female	< 5 years	False	False	True	Negative blood smear
+1091	3720	ifx_event.0	2017-12-20	0	2	2017-10-25	2017-12-25	Female	< 5 years	False	False	True	Negative blood smear
+1092	3720	ifx_event.1	2018-07-05	6	9	2017-10-25	2017-12-25	Female	< 5 years	True	True	False	Negative blood smear
+1093	3720	ifx_event.1	2018-08-01	0	10	2017-10-25	2017-12-25	Female	< 5 years	False	True	False	Asymptomatic parasitemia
+1094	3720	ifx_event.1	2018-08-29	0	11	2017-10-25	2017-12-25	Female	< 5 years	False	True	False	Negative blood smear
+1095	3720	ifx_event.2	2019-07-31	11	23	2017-10-25	2017-12-25	Female	< 5 years	True	True	False	Negative blood smear
+1096	3724	ifx_event.1	2018-02-14	4	4	2017-10-25	2017-12-25	Female	5-15 years	True	True	False	Negative blood smear
+1097	3727	ifx_event.1	2019-07-03	22	22	2017-10-25	2017-12-25	Female	< 5 years	True	True	False	Negative blood smear
+1098	3728	ifx_events.0	2017-10-25	0	0	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1099	3728	ifx_events.0	2017-11-22	0	1	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1100	3728	ifx_events.0	2017-12-20	0	2	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1101	3728	ifx_events.0	2018-01-17	0	3	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1102	3728	ifx_events.0	2018-02-14	0	4	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1103	3728	ifx_events.0	2018-03-14	0	5	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1104	3728	ifx_events.0	2018-04-11	0	6	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1105	3728	ifx_events.0	2018-05-09	0	7	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1106	3728	ifx_events.0	2018-06-06	0	8	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1107	3728	ifx_events.0	2018-07-04	0	9	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1108	3728	ifx_events.0	2018-08-01	0	10	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1109	3728	ifx_events.0	2018-08-29	0	11	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1110	3728	ifx_events.0	2018-09-26	0	12	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1111	3728	ifx_events.0	2018-10-24	0	13	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1112	3728	ifx_events.0	2018-11-21	0	14	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1113	3728	ifx_events.0	2018-12-19	0	15	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1114	3728	ifx_events.0	2019-01-16	1	16	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1115	3728	ifx_events.0	2019-02-13	0	17	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1116	3728	ifx_events.0	2019-03-13	0	18	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1117	3728	ifx_events.0	2019-04-10	0	19	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1118	3728	ifx_events.0	2019-05-08	0	20	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1119	3728	ifx_events.0	2019-06-05	1	21	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1120	3728	ifx_events.0	2019-07-03	0	22	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1121	3728	ifx_events.0	2019-07-31	1	23	2017-10-25	2017-12-25	Male	16 years or older	False	False	True	Negative blood smear
+1122	3742	ifx_event.1	2018-09-03	11	11	2017-10-30	2017-12-30	Male	5-15 years	True	True	False	Negative blood smear
+1123	3742	ifx_event.1	2018-10-01	0	12	2017-10-30	2017-12-30	Male	5-15 years	False	True	False	Negative blood smear
+1124	3742	ifx_event.1	2018-10-29	0	13	2017-10-30	2017-12-30	Male	5-15 years	False	True	False	Negative blood smear
+1125	3744	ifx_event.1	2018-09-03	11	11	2017-10-30	2017-12-30	Male	< 5 years	True	True	False	Negative blood smear
+1126	3744	ifx_event.1	2018-10-01	0	12	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Asymptomatic parasitemia
+1127	3744	ifx_event.1	2018-10-29	0	13	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Asymptomatic parasitemia
+1128	3744	ifx_event.1	2018-11-26	0	14	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Asymptomatic parasitemia
+1129	3744	ifx_event.1	2018-12-27	0	15	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Asymptomatic parasitemia
+1130	3744	ifx_event.1	2019-01-21	0	16	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Asymptomatic parasitemia
+1131	3744	ifx_event.1	2019-02-18	0	17	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Asymptomatic parasitemia
+1132	3744	ifx_event.1	2019-03-18	0	18	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Asymptomatic parasitemia
+1133	3744	ifx_event.1	2019-04-15	0	19	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Asymptomatic parasitemia
+1134	3744	ifx_event.1	2019-05-13	0	20	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Asymptomatic parasitemia
+1135	3744	ifx_event.1	2019-06-10	0	21	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Negative blood smear
+1136	3744	ifx_event.1	2019-07-08	0	22	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Asymptomatic parasitemia
+1137	3745	ifx_events.0	2017-11-27	0	1	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1138	3746	ifx_events.0	2017-10-30	0	0	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1139	3746	ifx_events.0	2017-11-27	0	1	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1140	3746	ifx_events.0	2017-12-27	0	2	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1141	3746	ifx_events.0	2018-01-22	0	3	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1142	3746	ifx_events.0	2018-02-19	0	4	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1143	3746	ifx_events.0	2018-03-19	0	5	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1144	3746	ifx_events.0	2018-04-16	0	6	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1145	3746	ifx_events.0	2018-05-14	0	7	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1146	3746	ifx_events.0	2018-06-11	0	8	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1147	3746	ifx_events.0	2018-07-09	0	9	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1148	3746	ifx_events.0	2018-08-06	0	10	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1149	3746	ifx_events.0	2018-09-03	0	11	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1150	3747	ifx_events.0	2017-10-30	0	0	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1151	3747	ifx_events.0	2017-11-27	0	1	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+1152	3747	ifx_events.0	2017-12-27	0	2	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+1153	3747	ifx_events.0	2018-01-22	0	3	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1154	3747	ifx_events.0	2018-02-19	0	4	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1155	3747	ifx_events.0	2018-03-19	0	5	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1156	3747	ifx_events.0	2018-04-16	0	6	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1157	3747	ifx_events.0	2018-05-14	0	7	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1158	3747	ifx_events.0	2018-06-11	0	8	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1159	3747	ifx_events.0	2018-07-09	0	9	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1160	3747	ifx_events.0	2018-08-06	0	10	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1161	3757	ifx_event.1	2019-01-21	16	16	2017-10-30	2017-12-30	Female	16 years or older	True	True	False	Negative blood smear
+1162	3758	ifx_events.0	2017-10-30	0	0	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1163	3758	ifx_events.0	2017-11-27	0	1	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1164	3758	ifx_events.0	2017-12-27	0	2	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1165	3758	ifx_events.0	2018-01-22	0	3	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1166	3758	ifx_events.0	2018-02-19	1	4	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1167	3761	ifx_events.0	2017-10-30	0	0	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+1168	3761	ifx_events.0	2017-11-27	0	1	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+1169	3761	ifx_events.0	2017-12-27	0	2	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Negative blood smear
+1170	3761	ifx_events.0	2018-01-22	0	3	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Negative blood smear
+1171	3761	ifx_events.0	2018-02-19	0	4	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+1172	3761	ifx_events.0	2018-03-19	0	5	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Negative blood smear
+1173	3761	ifx_events.0	2018-04-16	0	6	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Negative blood smear
+1174	3761	ifx_events.0	2018-05-14	0	7	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Negative blood smear
+1175	3761	ifx_events.0	2018-06-11	0	8	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Negative blood smear
+1176	3761	ifx_events.0	2018-07-09	0	9	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Asymptomatic parasitemia
+1177	3761	ifx_events.0	2018-08-06	0	10	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Negative blood smear
+1178	3761	ifx_events.0	2018-09-03	1	11	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Negative blood smear
+1179	3761	ifx_events.0	2018-10-01	0	12	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Negative blood smear
+1180	3761	ifx_events.0	2018-10-29	1	13	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Negative blood smear
+1181	3761	ifx_events.0	2018-11-26	0	14	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Negative blood smear
+1182	3761	ifx_events.0	2018-12-27	1	15	2017-10-30	2017-12-30	Female	< 5 years	False	False	True	Negative blood smear
+1183	3762	ifx_events.0	2017-10-30	0	0	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1184	3762	ifx_events.0	2017-11-27	0	1	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1185	3762	ifx_events.0	2017-12-27	0	2	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1186	3762	ifx_events.0	2018-01-22	0	3	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1187	3762	ifx_events.0	2018-02-19	0	4	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1188	3764	ifx_event.1	2018-09-03	7	7	2017-10-30	2017-12-30	Female	16 years or older	True	True	False	Negative blood smear
+1189	3764	ifx_event.1	2018-12-29	0	8	2017-10-30	2017-12-30	Female	16 years or older	False	True	False	Negative blood smear
+1190	3764	ifx_event.1	2019-01-21	1	9	2017-10-30	2017-12-30	Female	16 years or older	False	True	False	Negative blood smear
+1191	3766	ifx_events.0	2017-10-30	0	0	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1192	3766	ifx_events.0	2017-11-27	0	1	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1193	3766	ifx_events.0	2017-12-27	0	2	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+1194	3766	ifx_events.0	2018-01-22	0	3	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1195	3766	ifx_events.0	2018-02-19	0	4	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1196	3766	ifx_events.0	2018-03-19	0	5	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1197	3766	ifx_events.0	2018-04-16	0	6	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1198	3766	ifx_events.0	2018-05-14	0	7	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1199	3766	ifx_events.0	2018-06-11	0	8	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1200	3766	ifx_events.0	2018-07-09	0	9	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1201	3766	ifx_events.0	2018-08-06	0	10	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1202	3766	ifx_events.0	2018-09-03	0	11	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1203	3766	ifx_events.0	2018-10-01	0	12	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1204	3766	ifx_events.0	2018-10-29	0	13	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1205	3766	ifx_events.0	2018-11-26	0	14	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1206	3766	ifx_events.0	2018-12-27	0	15	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1207	3766	ifx_events.0	2019-01-21	0	16	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1208	3766	ifx_events.0	2019-02-18	0	17	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1209	3766	ifx_events.0	2019-03-18	0	18	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1210	3766	ifx_events.0	2019-05-13	0	19	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1211	3766	ifx_events.0	2019-06-10	0	20	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1212	3766	ifx_events.0	2019-07-08	0	21	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+1213	3769	ifx_event.1	2018-09-01	9	9	2017-10-30	2017-12-30	Male	< 5 years	True	True	False	Malaria
+1214	3769	ifx_event.1	2018-09-03	0	10	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Malaria
+1215	3769	ifx_event.1	2018-10-01	0	11	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Negative blood smear
+1216	3769	ifx_event.1	2018-10-29	0	12	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Negative blood smear
+1217	3769	ifx_event.1	2018-11-26	0	13	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Negative blood smear
+1218	3769	ifx_event.1	2018-12-27	0	14	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Negative blood smear
+1219	3769	ifx_event.1	2019-01-21	3	15	2017-10-30	2017-12-30	Male	< 5 years	False	True	False	Asymptomatic parasitemia
+1220	3769	ifx_event.2	2019-01-21	15	15	2017-10-30	2017-12-30	Male	< 5 years	True	True	False	Asymptomatic parasitemia
+1221	3772	ifx_events.0	2017-10-30	0	0	2017-10-30	2017-12-30	Male	5-15 years	False	False	True	Negative blood smear
+1222	3773	ifx_events.0	2017-10-30	0	0	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Asymptomatic parasitemia
+1223	3773	ifx_events.0	2017-11-01	0	1	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Malaria
+1224	3773	ifx_events.0	2017-11-27	0	2	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1225	3774	ifx_event.1	2018-02-19	4	4	2017-10-30	2017-12-30	Male	5-15 years	True	True	False	Negative blood smear
+1226	3777	ifx_event.0	2017-10-30	0	0	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1227	3777	ifx_event.0	2017-11-27	0	1	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1228	3777	ifx_event.0	2017-12-27	0	2	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Asymptomatic parasitemia
+1229	3777	ifx_event.0	2018-01-22	0	3	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1230	3777	ifx_event.0	2018-02-19	0	4	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1231	3777	ifx_event.0	2018-03-19	0	5	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1232	3777	ifx_event.0	2018-04-16	0	6	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1233	3777	ifx_event.0	2018-05-14	0	7	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1234	3777	ifx_event.0	2018-06-11	0	8	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1235	3777	ifx_event.0	2018-07-09	0	9	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1236	3777	ifx_event.0	2018-08-06	0	10	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1237	3777	ifx_event.0	2018-09-03	0	11	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1238	3777	ifx_event.0	2018-10-01	1	12	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1239	3777	ifx_event.0	2018-10-29	0	13	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1240	3777	ifx_event.0	2018-11-26	0	14	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1241	3777	ifx_event.0	2018-12-27	0	15	2017-10-30	2017-12-30	Female	16 years or older	False	False	True	Negative blood smear
+1242	3777	ifx_event.1	2018-04-16	6	6	2017-10-30	2017-12-30	Female	16 years or older	True	True	False	Negative blood smear
+1243	3777	ifx_event.2	2018-10-01	5	12	2017-10-30	2017-12-30	Female	16 years or older	True	True	False	Negative blood smear
+1244	3777	ifx_event.2	2018-10-29	0	13	2017-10-30	2017-12-30	Female	16 years or older	False	True	False	Negative blood smear
+1245	3777	ifx_event.2	2018-11-26	0	14	2017-10-30	2017-12-30	Female	16 years or older	False	True	False	Negative blood smear
+1246	3779	ifx_events.0	2017-10-30	0	0	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1247	3779	ifx_events.0	2017-11-17	0	1	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Malaria
+1248	3779	ifx_events.0	2017-11-27	0	2	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1249	3779	ifx_events.0	2017-12-27	0	3	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1250	3779	ifx_events.0	2018-01-22	0	4	2017-10-30	2017-12-30	Female	5-15 years	False	False	True	Negative blood smear
+1251	3782	ifx_event.1	2018-06-07	8	8	2017-10-30	2017-12-30	Female	< 5 years	True	True	False	Malaria
+1252	3782	ifx_event.1	2018-06-11	0	9	2017-10-30	2017-12-30	Female	< 5 years	False	True	False	Negative blood smear
+1253	3782	ifx_event.1	2018-07-09	0	10	2017-10-30	2017-12-30	Female	< 5 years	False	True	False	Negative blood smear
+1254	3783	ifx_events.0	2017-11-28	0	1	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1255	3784	ifx_event.1	2018-11-27	14	14	2017-10-31	2017-12-31	Female	16 years or older	True	True	False	Negative blood smear
+1256	3785	ifx_events.0	2017-10-31	0	0	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1257	3785	ifx_events.0	2017-11-28	0	1	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1258	3785	ifx_events.0	2017-12-28	0	2	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1259	3785	ifx_events.0	2018-01-24	0	3	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1260	3785	ifx_events.0	2018-02-20	0	4	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1261	3785	ifx_events.0	2018-03-20	0	5	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Asymptomatic parasitemia
+1262	3785	ifx_events.0	2018-04-18	0	6	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Asymptomatic parasitemia
+1263	3785	ifx_events.0	2018-05-15	0	7	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1264	3785	ifx_events.0	2018-06-12	0	8	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1265	3785	ifx_events.0	2018-07-10	0	9	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1266	3785	ifx_events.0	2018-08-07	0	10	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1267	3785	ifx_events.0	2018-09-04	0	11	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Asymptomatic parasitemia
+1268	3785	ifx_events.0	2018-10-02	0	12	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1269	3785	ifx_events.0	2018-10-30	0	13	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1270	3785	ifx_events.0	2018-11-27	0	14	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1271	3785	ifx_events.0	2018-12-28	0	15	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1272	3785	ifx_events.0	2019-01-22	0	16	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1273	3785	ifx_events.0	2019-02-19	0	17	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1274	3786	ifx_event.0	2017-10-31	0	0	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1275	3786	ifx_event.0	2017-11-28	0	1	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1276	3786	ifx_event.0	2017-12-28	0	2	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1277	3786	ifx_event.0	2018-01-24	0	3	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1278	3786	ifx_event.0	2018-02-20	0	4	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1279	3786	ifx_event.0	2018-03-20	0	5	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1280	3786	ifx_event.0	2018-04-19	0	6	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1281	3786	ifx_event.0	2018-05-15	0	7	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1282	3786	ifx_event.0	2018-06-12	0	8	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1283	3786	ifx_event.0	2018-07-10	0	9	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1284	3786	ifx_event.0	2018-08-07	0	10	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1285	3786	ifx_event.0	2018-09-04	0	11	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1286	3786	ifx_event.0	2018-10-02	0	12	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1287	3786	ifx_event.0	2018-10-30	0	13	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1288	3786	ifx_event.0	2018-11-28	0	14	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1289	3786	ifx_event.0	2018-12-28	0	15	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1290	3786	ifx_event.0	2019-01-22	0	16	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1291	3786	ifx_event.0	2019-02-19	0	17	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1292	3786	ifx_event.0	2019-03-19	0	18	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1293	3786	ifx_event.0	2019-04-17	0	19	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1294	3786	ifx_event.0	2019-05-15	0	20	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1295	3786	ifx_event.1	2018-04-19	4	6	2017-10-31	2017-12-31	Male	5-15 years	True	True	False	Asymptomatic parasitemia
+1296	3786	ifx_event.1	2018-05-15	0	7	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Asymptomatic parasitemia
+1297	3786	ifx_event.1	2018-06-12	0	8	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1298	3786	ifx_event.1	2018-07-10	0	9	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1299	3786	ifx_event.1	2018-08-07	0	10	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1300	3786	ifx_event.1	2018-09-04	0	11	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1301	3786	ifx_event.1	2018-10-02	0	12	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1302	3786	ifx_event.1	2018-10-30	3	13	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1303	3786	ifx_event.1	2018-11-28	0	14	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1304	3786	ifx_event.1	2018-12-28	0	15	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1305	3786	ifx_event.1	2019-01-22	2	16	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1306	3786	ifx_event.1	2019-02-19	0	17	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1307	3786	ifx_event.1	2019-03-19	0	18	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1308	3786	ifx_event.1	2019-04-17	0	19	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1309	3786	ifx_event.1	2019-05-15	0	20	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1310	3786	ifx_event.2	2018-08-07	10	10	2017-10-31	2017-12-31	Male	5-15 years	True	True	False	Negative blood smear
+1311	3786	ifx_event.3	2018-12-28	4	15	2017-10-31	2017-12-31	Male	5-15 years	True	True	False	Negative blood smear
+1312	3786	ifx_event.3	2019-01-22	0	16	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1313	3786	ifx_event.3	2019-02-19	0	17	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1314	3786	ifx_event.3	2019-03-19	0	18	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1315	3786	ifx_event.3	2019-04-17	0	19	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1316	3786	ifx_event.3	2019-05-15	0	20	2017-10-31	2017-12-31	Male	5-15 years	False	True	False	Negative blood smear
+1317	3787	ifx_events.0	2017-10-31	0	0	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1318	3787	ifx_events.0	2017-11-28	0	1	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1319	3787	ifx_events.0	2017-12-28	0	2	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1320	3787	ifx_events.0	2018-01-24	0	3	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1321	3787	ifx_events.0	2018-02-20	0	4	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1322	3787	ifx_events.0	2018-03-20	0	5	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1323	3787	ifx_events.0	2018-04-18	0	6	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1324	3787	ifx_events.0	2018-05-15	0	7	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1325	3787	ifx_events.0	2018-06-12	0	8	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1326	3787	ifx_events.0	2018-07-10	0	9	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1327	3787	ifx_events.0	2018-08-07	0	10	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1328	3787	ifx_events.0	2018-09-04	0	11	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1329	3787	ifx_events.0	2018-10-02	0	12	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1330	3787	ifx_events.0	2018-10-30	0	13	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1331	3787	ifx_events.0	2018-11-28	0	14	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1332	3787	ifx_events.0	2018-12-28	0	15	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1333	3787	ifx_events.0	2019-01-22	0	16	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1334	3787	ifx_events.0	2019-02-19	0	17	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1335	3787	ifx_events.0	2019-03-19	0	18	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1336	3787	ifx_events.0	2019-04-17	0	19	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1337	3787	ifx_events.0	2019-05-14	0	20	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1338	3787	ifx_events.0	2019-06-11	1	21	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1339	3787	ifx_events.0	2019-07-09	0	22	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1340	3801	ifx_event.1	2018-10-30	13	13	2017-10-31	2017-12-31	Male	16 years or older	True	True	False	Asymptomatic parasitemia
+1341	3801	ifx_event.1	2018-11-27	0	14	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Asymptomatic parasitemia
+1342	3801	ifx_event.1	2018-12-28	0	15	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Negative blood smear
+1343	3801	ifx_event.1	2019-01-22	0	16	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Negative blood smear
+1344	3801	ifx_event.1	2019-02-19	0	17	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Negative blood smear
+1345	3801	ifx_event.1	2019-03-19	0	18	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Negative blood smear
+1346	3801	ifx_event.1	2019-04-17	0	19	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Negative blood smear
+1347	3801	ifx_event.1	2019-05-14	0	20	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Negative blood smear
+1348	3801	ifx_event.1	2019-06-11	0	21	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Negative blood smear
+1349	3801	ifx_event.1	2019-07-09	0	22	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Asymptomatic parasitemia
+1350	3801	ifx_event.3	2019-01-22	16	16	2017-10-31	2017-12-31	Male	16 years or older	True	True	False	Negative blood smear
+1351	3801	ifx_event.3	2019-02-19	0	17	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Negative blood smear
+1352	3801	ifx_event.3	2019-03-19	1	18	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Negative blood smear
+1353	3801	ifx_event.3	2019-04-17	0	19	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Negative blood smear
+1354	3801	ifx_event.3	2019-05-14	0	20	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Negative blood smear
+1355	3801	ifx_event.3	2019-06-11	0	21	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Negative blood smear
+1356	3801	ifx_event.3	2019-07-09	0	22	2017-10-31	2017-12-31	Male	16 years or older	False	True	False	Asymptomatic parasitemia
+1357	3803	ifx_events.0	2017-11-28	0	1	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1358	3805	ifx_events.0	2017-10-31	0	0	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1359	3805	ifx_events.0	2017-11-28	0	1	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Asymptomatic parasitemia
+1360	3805	ifx_events.0	2017-12-28	0	2	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1361	3805	ifx_events.0	2018-01-23	0	3	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1362	3805	ifx_events.0	2018-02-20	0	4	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1363	3805	ifx_events.0	2018-03-20	0	5	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1364	3805	ifx_events.0	2018-04-17	0	6	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1365	3805	ifx_events.0	2018-05-15	0	7	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1366	3805	ifx_events.0	2018-06-12	0	8	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1367	3805	ifx_events.0	2018-07-11	0	9	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1368	3805	ifx_events.0	2018-08-07	0	10	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1369	3805	ifx_events.0	2018-09-04	0	11	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1370	3805	ifx_events.0	2018-10-03	0	12	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1371	3805	ifx_events.0	2018-10-31	0	13	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1372	3805	ifx_events.0	2018-11-27	0	14	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1373	3805	ifx_events.0	2018-12-28	0	15	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1374	3805	ifx_events.0	2019-01-25	0	16	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1375	3805	ifx_events.0	2019-02-19	0	17	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1376	3805	ifx_events.0	2019-03-19	1	18	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1377	3805	ifx_events.0	2019-04-16	0	19	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1378	3805	ifx_events.0	2019-05-14	0	20	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1379	3805	ifx_events.0	2019-06-11	2	21	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1380	3805	ifx_events.0	2019-07-09	0	22	2017-10-31	2017-12-31	Male	16 years or older	False	False	True	Negative blood smear
+1381	3807	ifx_events.0	2017-12-28	0	2	2017-10-31	2017-12-31	Female	5-15 years	False	False	True	Negative blood smear
+1382	3808	ifx_event.1	2018-05-15	7	7	2017-10-31	2017-12-31	Female	< 5 years	True	True	False	Negative blood smear
+1383	3808	ifx_event.1	2018-05-21	0	8	2017-10-31	2017-12-31	Female	< 5 years	False	True	False	Malaria
+1384	3808	ifx_event.1	2018-06-12	0	9	2017-10-31	2017-12-31	Female	< 5 years	False	True	False	Negative blood smear
+1385	3808	ifx_event.1	2018-07-11	1	10	2017-10-31	2017-12-31	Female	< 5 years	False	True	False	Negative blood smear
+1386	3815	ifx_event.1	2018-01-23	3	3	2017-10-31	2017-12-31	Female	16 years or older	True	True	False	Negative blood smear
+1387	3816	ifx_events.0	2017-10-31	0	0	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1388	3816	ifx_events.0	2017-11-28	0	1	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1389	3816	ifx_events.0	2017-12-28	0	2	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1390	3816	ifx_events.0	2018-01-23	0	3	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1391	3816	ifx_events.0	2018-02-21	0	4	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1392	3816	ifx_events.0	2018-03-20	0	5	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1393	3816	ifx_events.0	2018-04-18	0	6	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1394	3816	ifx_events.0	2018-05-15	0	7	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1395	3816	ifx_events.0	2018-06-12	0	8	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1396	3816	ifx_events.0	2018-07-10	0	9	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1397	3816	ifx_events.0	2018-08-07	0	10	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1398	3816	ifx_events.0	2018-09-04	0	11	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1399	3816	ifx_events.0	2018-10-02	0	12	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1400	3816	ifx_events.0	2018-10-30	0	13	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1401	3816	ifx_events.0	2018-11-27	0	14	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1402	3816	ifx_events.0	2018-12-28	0	15	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1403	3816	ifx_events.0	2019-01-22	0	16	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1404	3816	ifx_events.0	2019-02-19	0	17	2017-10-31	2017-12-31	Male	5-15 years	False	False	True	Negative blood smear
+1405	3818	ifx_event.0	2017-10-31	0	0	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Asymptomatic parasitemia
+1406	3818	ifx_event.0	2017-11-28	0	1	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1407	3818	ifx_event.0	2017-12-28	0	2	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1408	3818	ifx_event.0	2018-01-23	0	3	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1409	3818	ifx_event.0	2018-02-21	0	4	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1410	3818	ifx_event.0	2018-03-20	0	5	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1411	3818	ifx_event.0	2018-04-17	0	6	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1412	3818	ifx_event.0	2018-05-15	0	7	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1413	3818	ifx_event.0	2018-06-12	0	8	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1414	3818	ifx_event.0	2018-07-10	1	9	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1415	3818	ifx_event.0	2018-08-07	0	10	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1416	3818	ifx_event.0	2018-09-04	0	11	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1417	3818	ifx_event.0	2018-10-02	0	12	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1418	3818	ifx_event.0	2018-10-30	1	13	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1419	3818	ifx_event.0	2018-11-27	0	14	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1420	3818	ifx_event.0	2018-12-28	0	15	2017-10-31	2017-12-31	Male	< 5 years	False	False	True	Negative blood smear
+1421	3818	ifx_event.1	2019-05-14	4	20	2017-10-31	2017-12-31	Male	< 5 years	True	True	False	Negative blood smear
+1422	3818	ifx_event.1	2019-06-11	0	21	2017-10-31	2017-12-31	Male	< 5 years	False	True	False	Negative blood smear
+1423	3818	ifx_event.1	2019-07-09	1	22	2017-10-31	2017-12-31	Male	< 5 years	False	True	False	Negative blood smear
+1424	3825	ifx_event.0	2017-12-18	0	0	2017-12-18	2018-02-18	Male	< 5 years	False	False	True	Asymptomatic parasitemia
+1425	3825	ifx_event.0	2018-01-15	0	1	2017-12-18	2018-02-18	Male	< 5 years	False	False	True	Negative blood smear
+1426	3825	ifx_event.1	2018-06-26	5	7	2017-12-18	2018-02-18	Male	< 5 years	True	True	False	Malaria
+1427	3825	ifx_event.1	2018-07-02	0	8	2017-12-18	2018-02-18	Male	< 5 years	False	True	False	Negative blood smear
+1428	3826	ifx_event.1	2018-11-12	11	11	2018-01-08	2018-03-08	Female	16 years or older	True	True	False	Negative blood smear
+1429	3826	ifx_event.2	2019-07-22	8	20	2018-01-08	2018-03-08	Female	16 years or older	True	True	False	Negative blood smear
+1430	3838	ifx_event.1	2019-07-10	13	13	2018-07-11	2018-09-11	Male	< 5 years	True	True	False	Negative blood smear
+1431	3839	ifx_events.0	2018-07-11	0	0	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Negative blood smear
+1432	3839	ifx_events.0	2018-08-07	0	1	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Asymptomatic parasitemia
+1433	3839	ifx_events.0	2018-09-04	0	2	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Negative blood smear
+1434	3839	ifx_events.0	2018-10-02	0	3	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Negative blood smear
+1435	3839	ifx_events.0	2018-10-30	0	4	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Negative blood smear
+1436	3839	ifx_events.0	2018-11-27	0	5	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Negative blood smear
+1437	3839	ifx_events.0	2018-12-28	1	6	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Negative blood smear
+1438	3839	ifx_events.0	2019-01-22	0	7	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Negative blood smear
+1439	3839	ifx_events.0	2019-02-19	0	8	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Negative blood smear
+1440	3839	ifx_events.0	2019-03-19	0	9	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Negative blood smear
+1441	3839	ifx_events.0	2019-04-16	1	10	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Negative blood smear
+1442	3839	ifx_events.0	2019-05-14	0	11	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Negative blood smear
+1443	3839	ifx_events.0	2019-06-11	0	12	2018-07-11	2018-09-11	Male	5-15 years	False	False	True	Negative blood smear

@@ -1,0 +1,1529 @@
+	cohortid	h_popUID	date	visit_number	skips	enrolldate	burnin	gender	agecat	hid_visit_number	infection_event	active_new_infection	active_baseline_infection	malariacat
+0	3001	pfama1.04	2017-10-09	0	0	2017-10-09	2017-12-09	Female	16 years or older	1	False	False	True	Negative blood smear
+1	3001	pfama1.04	2017-11-06	1	0	2017-10-09	2017-12-09	Female	16 years or older	2	False	False	True	Negative blood smear
+2	3010	pfama1.08	2019-01-28	17	17	2017-10-09	2017-12-09	Female	16 years or older	1	True	True	False	Negative blood smear
+3	3010	pfama1.33	2019-01-28	17	17	2017-10-09	2017-12-09	Female	16 years or older	1	True	True	False	Negative blood smear
+4	3014	pfama1.08	2019-01-28	17	17	2017-10-09	2017-12-09	Female	5-15 years	1	True	True	False	Malaria
+5	3014	pfama1.33	2019-01-28	17	17	2017-10-09	2017-12-09	Female	5-15 years	1	True	True	False	Malaria
+6	3046	pfama1.04	2018-06-19	9	9	2017-10-10	2017-12-10	Female	5-15 years	1	True	True	False	Negative blood smear
+7	3046	pfama1.24	2018-06-30	10	10	2017-10-10	2017-12-10	Female	5-15 years	1	True	True	False	Malaria
+8	3055	pfama1.04	2017-12-04	2	0	2017-10-09	2017-12-09	Female	16 years or older	1	False	False	True	Negative blood smear
+9	3079	pfama1.01	2018-06-13	9	9	2017-10-04	2017-12-04	Female	5-15 years	1	True	True	False	Asymptomatic parasitemia
+10	3079	pfama1.01	2018-07-11	10	0	2017-10-04	2017-12-04	Female	5-15 years	2	False	True	False	Negative blood smear
+11	3079	pfama1.01	2018-08-08	11	0	2017-10-04	2017-12-04	Female	5-15 years	3	False	True	False	Negative blood smear
+12	3079	pfama1.01	2018-09-05	12	0	2017-10-04	2017-12-04	Female	5-15 years	4	False	True	False	Negative blood smear
+13	3079	pfama1.11	2017-10-04	0	0	2017-10-04	2017-12-04	Female	5-15 years	1	False	False	True	Negative blood smear
+14	3079	pfama1.11	2017-11-01	1	0	2017-10-04	2017-12-04	Female	5-15 years	2	False	False	True	Negative blood smear
+15	3079	pfama1.11	2017-11-29	2	0	2017-10-04	2017-12-04	Female	5-15 years	3	False	False	True	Negative blood smear
+16	3079	pfama1.11	2018-01-24	4	1	2017-10-04	2017-12-04	Female	5-15 years	4	False	False	True	Negative blood smear
+17	3079	pfama1.11	2018-02-21	5	0	2017-10-04	2017-12-04	Female	5-15 years	5	False	False	True	Negative blood smear
+18	3081	pfama1.01	2018-06-13	9	9	2017-10-04	2017-12-04	Female	5-15 years	1	True	True	False	Asymptomatic parasitemia
+19	3081	pfama1.01	2018-07-11	10	0	2017-10-04	2017-12-04	Female	5-15 years	2	False	True	False	Asymptomatic parasitemia
+20	3081	pfama1.01	2018-08-08	11	0	2017-10-04	2017-12-04	Female	5-15 years	3	False	True	False	Negative blood smear
+21	3081	pfama1.01	2018-08-23	12	0	2017-10-04	2017-12-04	Female	5-15 years	4	False	True	False	Malaria
+22	3081	pfama1.01	2018-09-05	13	0	2017-10-04	2017-12-04	Female	5-15 years	5	False	True	False	Negative blood smear
+23	3093	pfama1.35	2017-10-04	0	0	2017-10-04	2017-12-04	Female	16 years or older	1	False	False	True	Negative blood smear
+24	3093	pfama1.35	2017-11-01	1	0	2017-10-04	2017-12-04	Female	16 years or older	2	False	False	True	Negative blood smear
+25	3093	pfama1.35	2017-11-29	2	0	2017-10-04	2017-12-04	Female	16 years or older	3	False	False	True	Negative blood smear
+26	3093	pfama1.35	2017-12-29	3	0	2017-10-04	2017-12-04	Female	16 years or older	4	False	False	True	Negative blood smear
+27	3093	pfama1.35	2018-02-21	5	1	2017-10-04	2017-12-04	Female	16 years or older	5	False	False	True	Negative blood smear
+28	3093	pfama1.35	2018-07-11	10	4	2017-10-04	2017-12-04	Female	16 years or older	6	True	True	False	Negative blood smear
+29	3093	pfama1.35	2018-08-08	11	0	2017-10-04	2017-12-04	Female	16 years or older	7	False	True	False	Negative blood smear
+30	3093	pfama1.35	2019-02-20	18	6	2017-10-04	2017-12-04	Female	16 years or older	8	True	True	False	Negative blood smear
+31	3095	pfama1.07	2017-12-29	3	3	2017-10-04	2017-12-04	Male	5-15 years	1	True	True	False	Asymptomatic parasitemia
+32	3095	pfama1.07	2018-01-24	4	0	2017-10-04	2017-12-04	Male	5-15 years	2	False	True	False	Negative blood smear
+33	3095	pfama1.07	2018-02-21	5	0	2017-10-04	2017-12-04	Male	5-15 years	3	False	True	False	Negative blood smear
+34	3095	pfama1.07	2018-03-21	6	0	2017-10-04	2017-12-04	Male	5-15 years	4	False	True	False	Negative blood smear
+35	3095	pfama1.07	2018-04-18	7	0	2017-10-04	2017-12-04	Male	5-15 years	5	False	True	False	Negative blood smear
+36	3095	pfama1.07	2018-05-16	8	0	2017-10-04	2017-12-04	Male	5-15 years	6	False	True	False	Negative blood smear
+37	3095	pfama1.07	2018-06-13	9	0	2017-10-04	2017-12-04	Male	5-15 years	7	False	True	False	Asymptomatic parasitemia
+38	3095	pfama1.07	2018-08-08	11	1	2017-10-04	2017-12-04	Male	5-15 years	8	False	True	False	Negative blood smear
+39	3095	pfama1.07	2018-09-05	12	0	2017-10-04	2017-12-04	Male	5-15 years	9	False	True	False	Negative blood smear
+40	3095	pfama1.07	2018-10-03	13	0	2017-10-04	2017-12-04	Male	5-15 years	10	False	True	False	Negative blood smear
+41	3095	pfama1.07	2018-11-28	15	1	2017-10-04	2017-12-04	Male	5-15 years	11	False	True	False	Negative blood smear
+42	3095	pfama1.07	2018-12-29	16	0	2017-10-04	2017-12-04	Male	5-15 years	12	False	True	False	Negative blood smear
+43	3095	pfama1.07	2019-01-23	17	0	2017-10-04	2017-12-04	Male	5-15 years	13	False	True	False	Negative blood smear
+44	3095	pfama1.07	2019-02-20	18	0	2017-10-04	2017-12-04	Male	5-15 years	14	False	True	False	Asymptomatic parasitemia
+45	3096	pfama1.06	2017-10-04	0	0	2017-10-04	2017-12-04	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+46	3096	pfama1.06	2017-11-01	1	0	2017-10-04	2017-12-04	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+47	3096	pfama1.06	2017-11-29	2	0	2017-10-04	2017-12-04	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+48	3096	pfama1.06	2017-12-29	3	0	2017-10-04	2017-12-04	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+49	3096	pfama1.06	2018-02-21	5	1	2017-10-04	2017-12-04	Male	5-15 years	5	False	False	True	Negative blood smear
+50	3096	pfama1.06	2018-03-21	6	0	2017-10-04	2017-12-04	Male	5-15 years	6	False	False	True	Negative blood smear
+51	3096	pfama1.06	2018-06-13	9	2	2017-10-04	2017-12-04	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+52	3096	pfama1.06	2018-08-08	11	1	2017-10-04	2017-12-04	Male	5-15 years	8	False	False	True	Negative blood smear
+53	3096	pfama1.06	2018-10-03	13	1	2017-10-04	2017-12-04	Male	5-15 years	9	False	False	True	Negative blood smear
+54	3096	pfama1.06	2018-10-31	14	0	2017-10-04	2017-12-04	Male	5-15 years	10	False	False	True	Negative blood smear
+55	3096	pfama1.06	2018-12-29	16	1	2017-10-04	2017-12-04	Male	5-15 years	11	False	False	True	Negative blood smear
+56	3096	pfama1.06	2019-01-23	17	0	2017-10-04	2017-12-04	Male	5-15 years	12	False	False	True	Negative blood smear
+57	3096	pfama1.08	2017-10-04	0	0	2017-10-04	2017-12-04	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+58	3096	pfama1.08	2017-11-01	1	0	2017-10-04	2017-12-04	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+59	3096	pfama1.08	2017-11-29	2	0	2017-10-04	2017-12-04	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+60	3096	pfama1.08	2017-12-29	3	0	2017-10-04	2017-12-04	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+61	3096	pfama1.08	2018-01-24	4	0	2017-10-04	2017-12-04	Male	5-15 years	5	False	False	True	Negative blood smear
+62	3096	pfama1.08	2018-02-21	5	0	2017-10-04	2017-12-04	Male	5-15 years	6	False	False	True	Negative blood smear
+63	3096	pfama1.08	2018-03-21	6	0	2017-10-04	2017-12-04	Male	5-15 years	7	False	False	True	Negative blood smear
+64	3096	pfama1.08	2018-04-18	7	0	2017-10-04	2017-12-04	Male	5-15 years	8	False	False	True	Asymptomatic parasitemia
+65	3096	pfama1.08	2018-05-16	8	0	2017-10-04	2017-12-04	Male	5-15 years	9	False	False	True	Asymptomatic parasitemia
+66	3096	pfama1.08	2018-06-13	9	0	2017-10-04	2017-12-04	Male	5-15 years	10	False	False	True	Asymptomatic parasitemia
+67	3096	pfama1.08	2018-07-11	10	0	2017-10-04	2017-12-04	Male	5-15 years	11	False	False	True	Negative blood smear
+68	3096	pfama1.08	2018-08-08	11	0	2017-10-04	2017-12-04	Male	5-15 years	12	False	False	True	Negative blood smear
+69	3096	pfama1.08	2018-10-03	13	1	2017-10-04	2017-12-04	Male	5-15 years	13	False	False	True	Negative blood smear
+70	3096	pfama1.08	2018-11-28	15	1	2017-10-04	2017-12-04	Male	5-15 years	14	False	False	True	Negative blood smear
+71	3096	pfama1.08	2018-12-29	16	0	2017-10-04	2017-12-04	Male	5-15 years	15	False	False	True	Negative blood smear
+72	3096	pfama1.08	2019-02-20	18	1	2017-10-04	2017-12-04	Male	5-15 years	16	False	False	True	Negative blood smear
+73	3096	pfama1.08	2019-03-20	19	0	2017-10-04	2017-12-04	Male	5-15 years	17	False	False	True	Negative blood smear
+74	3096	pfama1.12	2017-11-01	1	0	2017-10-04	2017-12-04	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+75	3096	pfama1.12	2018-01-24	4	2	2017-10-04	2017-12-04	Male	5-15 years	2	False	False	True	Negative blood smear
+76	3096	pfama1.12	2018-02-21	5	0	2017-10-04	2017-12-04	Male	5-15 years	3	False	False	True	Negative blood smear
+77	3096	pfama1.12	2018-03-21	6	0	2017-10-04	2017-12-04	Male	5-15 years	4	False	False	True	Negative blood smear
+78	3096	pfama1.12	2018-04-18	7	0	2017-10-04	2017-12-04	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+79	3096	pfama1.12	2018-07-11	10	2	2017-10-04	2017-12-04	Male	5-15 years	6	False	False	True	Negative blood smear
+80	3096	pfama1.12	2018-08-08	11	0	2017-10-04	2017-12-04	Male	5-15 years	7	False	False	True	Negative blood smear
+81	3096	pfama1.12	2018-09-05	12	0	2017-10-04	2017-12-04	Male	5-15 years	8	False	False	True	Negative blood smear
+82	3096	pfama1.12	2019-01-23	17	4	2017-10-04	2017-12-04	Male	5-15 years	9	True	True	False	Negative blood smear
+83	3096	pfama1.13	2017-10-04	0	0	2017-10-04	2017-12-04	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+84	3096	pfama1.13	2017-11-01	1	0	2017-10-04	2017-12-04	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+85	3096	pfama1.13	2017-11-29	2	0	2017-10-04	2017-12-04	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+86	3096	pfama1.13	2018-01-24	4	1	2017-10-04	2017-12-04	Male	5-15 years	4	False	False	True	Negative blood smear
+87	3096	pfama1.13	2018-02-21	5	0	2017-10-04	2017-12-04	Male	5-15 years	5	False	False	True	Negative blood smear
+88	3096	pfama1.13	2018-04-18	7	1	2017-10-04	2017-12-04	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+89	3096	pfama1.13	2018-06-13	9	1	2017-10-04	2017-12-04	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+90	3096	pfama1.13	2018-07-11	10	0	2017-10-04	2017-12-04	Male	5-15 years	8	False	False	True	Negative blood smear
+91	3096	pfama1.13	2018-08-08	11	0	2017-10-04	2017-12-04	Male	5-15 years	9	False	False	True	Negative blood smear
+92	3096	pfama1.13	2018-09-05	12	0	2017-10-04	2017-12-04	Male	5-15 years	10	False	False	True	Negative blood smear
+93	3096	pfama1.13	2018-10-03	13	0	2017-10-04	2017-12-04	Male	5-15 years	11	False	False	True	Negative blood smear
+94	3096	pfama1.13	2018-12-29	16	2	2017-10-04	2017-12-04	Male	5-15 years	12	False	False	True	Negative blood smear
+95	3096	pfama1.13	2019-02-20	18	1	2017-10-04	2017-12-04	Male	5-15 years	13	False	False	True	Negative blood smear
+96	3096	pfama1.17	2017-10-04	0	0	2017-10-04	2017-12-04	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+97	3096	pfama1.17	2017-11-01	1	0	2017-10-04	2017-12-04	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+98	3096	pfama1.17	2017-11-29	2	0	2017-10-04	2017-12-04	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+99	3096	pfama1.17	2017-12-29	3	0	2017-10-04	2017-12-04	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+100	3096	pfama1.17	2018-01-24	4	0	2017-10-04	2017-12-04	Male	5-15 years	5	False	False	True	Negative blood smear
+101	3096	pfama1.17	2018-03-21	6	1	2017-10-04	2017-12-04	Male	5-15 years	6	False	False	True	Negative blood smear
+102	3096	pfama1.17	2018-04-18	7	0	2017-10-04	2017-12-04	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+103	3096	pfama1.17	2018-06-13	9	1	2017-10-04	2017-12-04	Male	5-15 years	8	False	False	True	Asymptomatic parasitemia
+104	3096	pfama1.17	2018-07-11	10	0	2017-10-04	2017-12-04	Male	5-15 years	9	False	False	True	Negative blood smear
+105	3096	pfama1.17	2018-08-08	11	0	2017-10-04	2017-12-04	Male	5-15 years	10	False	False	True	Negative blood smear
+106	3096	pfama1.17	2018-09-05	12	0	2017-10-04	2017-12-04	Male	5-15 years	11	False	False	True	Negative blood smear
+107	3096	pfama1.17	2018-10-03	13	0	2017-10-04	2017-12-04	Male	5-15 years	12	False	False	True	Negative blood smear
+108	3096	pfama1.17	2018-10-31	14	0	2017-10-04	2017-12-04	Male	5-15 years	13	False	False	True	Negative blood smear
+109	3096	pfama1.17	2018-11-28	15	0	2017-10-04	2017-12-04	Male	5-15 years	14	False	False	True	Negative blood smear
+110	3096	pfama1.17	2018-12-29	16	0	2017-10-04	2017-12-04	Male	5-15 years	15	False	False	True	Negative blood smear
+111	3096	pfama1.17	2019-01-23	17	0	2017-10-04	2017-12-04	Male	5-15 years	16	False	False	True	Negative blood smear
+112	3096	pfama1.17	2019-02-20	18	0	2017-10-04	2017-12-04	Male	5-15 years	17	False	False	True	Negative blood smear
+113	3096	pfama1.17	2019-03-20	19	0	2017-10-04	2017-12-04	Male	5-15 years	18	False	False	True	Negative blood smear
+114	3096	pfama1.27	2017-10-04	0	0	2017-10-04	2017-12-04	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+115	3096	pfama1.27	2017-11-29	2	1	2017-10-04	2017-12-04	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+116	3122	pfama1.01	2017-10-23	0	0	2017-10-23	2017-12-23	Female	16 years or older	1	False	False	True	Negative blood smear
+117	3122	pfama1.01	2017-12-18	2	1	2017-10-23	2017-12-23	Female	16 years or older	2	False	False	True	Negative blood smear
+118	3122	pfama1.01	2018-01-15	3	0	2017-10-23	2017-12-23	Female	16 years or older	3	False	False	True	Negative blood smear
+119	3122	pfama1.01	2018-02-12	4	0	2017-10-23	2017-12-23	Female	16 years or older	4	False	False	True	Negative blood smear
+120	3122	pfama1.01	2018-04-09	6	1	2017-10-23	2017-12-23	Female	16 years or older	5	False	False	True	Negative blood smear
+121	3122	pfama1.01	2018-05-07	7	0	2017-10-23	2017-12-23	Female	16 years or older	6	False	False	True	Negative blood smear
+122	3122	pfama1.01	2018-07-02	9	1	2017-10-23	2017-12-23	Female	16 years or older	7	False	False	True	Negative blood smear
+123	3122	pfama1.01	2018-07-30	10	0	2017-10-23	2017-12-23	Female	16 years or older	8	False	False	True	Negative blood smear
+124	3122	pfama1.01	2018-08-27	11	0	2017-10-23	2017-12-23	Female	16 years or older	9	False	False	True	Negative blood smear
+125	3122	pfama1.01	2018-09-24	12	0	2017-10-23	2017-12-23	Female	16 years or older	10	False	False	True	Negative blood smear
+126	3122	pfama1.01	2019-02-15	17	4	2017-10-23	2017-12-23	Female	16 years or older	11	True	True	False	Negative blood smear
+127	3122	pfama1.03	2018-04-09	6	6	2017-10-23	2017-12-23	Female	16 years or older	1	True	True	False	Negative blood smear
+128	3122	pfama1.03	2018-06-04	8	1	2017-10-23	2017-12-23	Female	16 years or older	2	False	True	False	Negative blood smear
+129	3122	pfama1.03	2018-07-02	9	0	2017-10-23	2017-12-23	Female	16 years or older	3	False	True	False	Negative blood smear
+130	3122	pfama1.03	2018-07-30	10	0	2017-10-23	2017-12-23	Female	16 years or older	4	False	True	False	Negative blood smear
+131	3122	pfama1.03	2018-08-27	11	0	2017-10-23	2017-12-23	Female	16 years or older	5	False	True	False	Negative blood smear
+132	3122	pfama1.03	2019-01-14	16	4	2017-10-23	2017-12-23	Female	16 years or older	6	True	True	False	Negative blood smear
+133	3122	pfama1.18	2018-06-04	8	8	2017-10-23	2017-12-23	Female	16 years or older	1	True	True	False	Negative blood smear
+134	3122	pfama1.18	2018-07-02	9	0	2017-10-23	2017-12-23	Female	16 years or older	2	False	True	False	Negative blood smear
+135	3122	pfama1.18	2018-10-22	13	3	2017-10-23	2017-12-23	Female	16 years or older	3	False	True	False	Negative blood smear
+136	3122	pfama1.18	2018-11-19	14	0	2017-10-23	2017-12-23	Female	16 years or older	4	False	True	False	Negative blood smear
+137	3148	pfama1.01	2017-12-18	2	0	2017-10-23	2017-12-23	Female	5-15 years	1	False	False	True	Negative blood smear
+138	3148	pfama1.01	2018-01-15	3	0	2017-10-23	2017-12-23	Female	5-15 years	2	False	False	True	Negative blood smear
+139	3148	pfama1.01	2018-04-09	6	2	2017-10-23	2017-12-23	Female	5-15 years	3	False	False	True	Negative blood smear
+140	3148	pfama1.01	2018-05-07	7	0	2017-10-23	2017-12-23	Female	5-15 years	4	False	False	True	Negative blood smear
+141	3149	pfama1.04	2018-07-15	10	10	2017-10-23	2017-12-23	Female	5-15 years	1	True	True	False	Malaria
+142	3154	pfama1.00	2017-10-23	0	0	2017-10-23	2017-12-23	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+143	3154	pfama1.00	2017-11-20	1	0	2017-10-23	2017-12-23	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+144	3154	pfama1.00	2017-12-18	2	0	2017-10-23	2017-12-23	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+145	3154	pfama1.00	2018-01-15	3	0	2017-10-23	2017-12-23	Male	5-15 years	4	False	False	True	Negative blood smear
+146	3154	pfama1.00	2018-01-26	4	0	2017-10-23	2017-12-23	Male	5-15 years	5	False	False	True	Malaria
+147	3154	pfama1.00	2018-02-12	5	0	2017-10-23	2017-12-23	Male	5-15 years	6	False	False	True	Negative blood smear
+148	3162	pfama1.43	2017-10-09	0	0	2017-10-09	2017-12-09	Female	16 years or older	1	False	False	True	Negative blood smear
+149	3162	pfama1.43	2017-11-06	1	0	2017-10-09	2017-12-09	Female	16 years or older	2	False	False	True	Negative blood smear
+150	3163	pfama1.00	2017-10-09	0	0	2017-10-09	2017-12-09	Male	5-15 years	1	False	False	True	Negative blood smear
+151	3163	pfama1.00	2017-11-06	1	0	2017-10-09	2017-12-09	Male	5-15 years	2	False	False	True	Malaria
+152	3163	pfama1.02	2017-10-09	0	0	2017-10-09	2017-12-09	Male	5-15 years	1	False	False	True	Negative blood smear
+153	3163	pfama1.02	2017-11-06	1	0	2017-10-09	2017-12-09	Male	5-15 years	2	False	False	True	Malaria
+154	3163	pfama1.13	2017-10-09	0	0	2017-10-09	2017-12-09	Male	5-15 years	1	False	False	True	Negative blood smear
+155	3164	pfama1.00	2017-10-09	0	0	2017-10-09	2017-12-09	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+156	3164	pfama1.00	2017-12-04	2	1	2017-10-09	2017-12-09	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+157	3164	pfama1.00	2018-01-03	3	0	2017-10-09	2017-12-09	Female	5-15 years	3	False	False	True	Asymptomatic parasitemia
+158	3164	pfama1.00	2018-01-29	4	0	2017-10-09	2017-12-09	Female	5-15 years	4	False	False	True	Negative blood smear
+159	3164	pfama1.00	2018-02-26	5	0	2017-10-09	2017-12-09	Female	5-15 years	5	False	False	True	Negative blood smear
+160	3164	pfama1.00	2018-03-26	6	0	2017-10-09	2017-12-09	Female	5-15 years	6	False	False	True	Negative blood smear
+161	3164	pfama1.00	2018-04-23	7	0	2017-10-09	2017-12-09	Female	5-15 years	7	False	False	True	Asymptomatic parasitemia
+162	3164	pfama1.00	2018-05-21	8	0	2017-10-09	2017-12-09	Female	5-15 years	8	False	False	True	Asymptomatic parasitemia
+163	3164	pfama1.00	2018-06-18	9	0	2017-10-09	2017-12-09	Female	5-15 years	9	False	False	True	Negative blood smear
+164	3164	pfama1.00	2018-07-16	10	0	2017-10-09	2017-12-09	Female	5-15 years	10	False	False	True	Negative blood smear
+165	3164	pfama1.00	2018-08-13	11	0	2017-10-09	2017-12-09	Female	5-15 years	11	False	False	True	Negative blood smear
+166	3164	pfama1.00	2018-10-08	13	1	2017-10-09	2017-12-09	Female	5-15 years	12	False	False	True	Negative blood smear
+167	3164	pfama1.00	2018-11-05	14	0	2017-10-09	2017-12-09	Female	5-15 years	13	False	False	True	Negative blood smear
+168	3164	pfama1.00	2018-12-03	15	0	2017-10-09	2017-12-09	Female	5-15 years	14	False	False	True	Negative blood smear
+169	3164	pfama1.12	2017-10-09	0	0	2017-10-09	2017-12-09	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+170	3164	pfama1.12	2017-11-06	1	0	2017-10-09	2017-12-09	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+171	3164	pfama1.12	2017-12-04	2	0	2017-10-09	2017-12-09	Female	5-15 years	3	False	False	True	Asymptomatic parasitemia
+172	3164	pfama1.12	2018-01-03	3	0	2017-10-09	2017-12-09	Female	5-15 years	4	False	False	True	Asymptomatic parasitemia
+173	3164	pfama1.12	2018-01-29	4	0	2017-10-09	2017-12-09	Female	5-15 years	5	False	False	True	Negative blood smear
+174	3164	pfama1.12	2018-02-26	5	0	2017-10-09	2017-12-09	Female	5-15 years	6	False	False	True	Negative blood smear
+175	3164	pfama1.12	2018-03-26	6	0	2017-10-09	2017-12-09	Female	5-15 years	7	False	False	True	Negative blood smear
+176	3164	pfama1.12	2018-06-18	9	2	2017-10-09	2017-12-09	Female	5-15 years	8	False	False	True	Negative blood smear
+177	3164	pfama1.12	2018-07-16	10	0	2017-10-09	2017-12-09	Female	5-15 years	9	False	False	True	Negative blood smear
+178	3164	pfama1.12	2018-08-13	11	0	2017-10-09	2017-12-09	Female	5-15 years	10	False	False	True	Negative blood smear
+179	3164	pfama1.12	2018-09-10	12	0	2017-10-09	2017-12-09	Female	5-15 years	11	False	False	True	Negative blood smear
+180	3164	pfama1.12	2018-10-08	13	0	2017-10-09	2017-12-09	Female	5-15 years	12	False	False	True	Negative blood smear
+181	3164	pfama1.12	2018-11-05	14	0	2017-10-09	2017-12-09	Female	5-15 years	13	False	False	True	Negative blood smear
+182	3190	pfama1.01	2017-10-23	0	0	2017-10-23	2017-12-23	Female	5-15 years	1	False	False	True	Negative blood smear
+183	3190	pfama1.01	2017-11-20	1	0	2017-10-23	2017-12-23	Female	5-15 years	2	False	False	True	Negative blood smear
+184	3190	pfama1.01	2017-12-18	2	0	2017-10-23	2017-12-23	Female	5-15 years	3	False	False	True	Negative blood smear
+185	3190	pfama1.01	2018-01-15	3	0	2017-10-23	2017-12-23	Female	5-15 years	4	False	False	True	Negative blood smear
+186	3190	pfama1.01	2018-02-12	4	0	2017-10-23	2017-12-23	Female	5-15 years	5	False	False	True	Negative blood smear
+187	3190	pfama1.01	2018-03-12	5	0	2017-10-23	2017-12-23	Female	5-15 years	6	False	False	True	Asymptomatic parasitemia
+188	3190	pfama1.01	2018-04-09	6	0	2017-10-23	2017-12-23	Female	5-15 years	7	False	False	True	Negative blood smear
+189	3190	pfama1.01	2018-05-07	7	0	2017-10-23	2017-12-23	Female	5-15 years	8	False	False	True	Negative blood smear
+190	3190	pfama1.01	2018-06-04	8	0	2017-10-23	2017-12-23	Female	5-15 years	9	False	False	True	Negative blood smear
+191	3190	pfama1.01	2018-07-02	9	0	2017-10-23	2017-12-23	Female	5-15 years	10	False	False	True	Negative blood smear
+192	3190	pfama1.01	2018-07-30	10	0	2017-10-23	2017-12-23	Female	5-15 years	11	False	False	True	Negative blood smear
+193	3190	pfama1.01	2018-09-24	12	1	2017-10-23	2017-12-23	Female	5-15 years	12	False	False	True	Negative blood smear
+194	3190	pfama1.01	2018-12-17	15	2	2017-10-23	2017-12-23	Female	5-15 years	13	False	False	True	Negative blood smear
+195	3190	pfama1.01	2019-02-11	17	1	2017-10-23	2017-12-23	Female	5-15 years	14	False	False	True	Negative blood smear
+196	3190	pfama1.01	2019-03-11	18	0	2017-10-23	2017-12-23	Female	5-15 years	15	False	False	True	Negative blood smear
+197	3202	pfama1.17	2017-10-23	0	0	2017-10-23	2017-12-23	Male	5-15 years	1	False	False	True	Negative blood smear
+198	3202	pfama1.17	2017-12-18	2	1	2017-10-23	2017-12-23	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+199	3202	pfama1.17	2018-01-17	3	0	2017-10-23	2017-12-23	Male	5-15 years	3	False	False	True	Negative blood smear
+200	3202	pfama1.17	2018-04-09	6	2	2017-10-23	2017-12-23	Male	5-15 years	4	False	False	True	Negative blood smear
+201	3202	pfama1.23	2017-10-23	0	0	2017-10-23	2017-12-23	Male	5-15 years	1	False	False	True	Negative blood smear
+202	3202	pfama1.23	2017-11-20	1	0	2017-10-23	2017-12-23	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+203	3202	pfama1.23	2017-12-18	2	0	2017-10-23	2017-12-23	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+204	3202	pfama1.23	2018-02-12	4	1	2017-10-23	2017-12-23	Male	5-15 years	4	False	False	True	Negative blood smear
+205	3202	pfama1.23	2018-04-09	6	1	2017-10-23	2017-12-23	Male	5-15 years	5	False	False	True	Negative blood smear
+206	3202	pfama1.23	2018-05-07	7	0	2017-10-23	2017-12-23	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+207	3202	pfama1.23	2018-07-02	9	1	2017-10-23	2017-12-23	Male	5-15 years	7	False	False	True	Negative blood smear
+208	3202	pfama1.23	2018-07-30	10	0	2017-10-23	2017-12-23	Male	5-15 years	8	False	False	True	Negative blood smear
+209	3202	pfama1.23	2018-08-27	11	0	2017-10-23	2017-12-23	Male	5-15 years	9	False	False	True	Negative blood smear
+210	3202	pfama1.23	2018-10-22	13	1	2017-10-23	2017-12-23	Male	5-15 years	10	False	False	True	Negative blood smear
+211	3202	pfama1.23	2018-11-19	14	0	2017-10-23	2017-12-23	Male	5-15 years	11	False	False	True	Negative blood smear
+212	3202	pfama1.23	2018-12-17	15	0	2017-10-23	2017-12-23	Male	5-15 years	12	False	False	True	Negative blood smear
+213	3202	pfama1.23	2019-02-11	17	1	2017-10-23	2017-12-23	Male	5-15 years	13	False	False	True	Negative blood smear
+214	3202	pfama1.28	2017-10-23	0	0	2017-10-23	2017-12-23	Male	5-15 years	1	False	False	True	Negative blood smear
+215	3202	pfama1.28	2017-11-20	1	0	2017-10-23	2017-12-23	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+216	3205	pfama1.00	2017-10-23	0	0	2017-10-23	2017-12-23	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+217	3205	pfama1.00	2017-11-20	1	0	2017-10-23	2017-12-23	Male	5-15 years	2	False	False	True	Negative blood smear
+218	3205	pfama1.00	2017-12-18	2	0	2017-10-23	2017-12-23	Male	5-15 years	3	False	False	True	Negative blood smear
+219	3205	pfama1.00	2018-01-17	3	0	2017-10-23	2017-12-23	Male	5-15 years	4	False	False	True	Negative blood smear
+220	3205	pfama1.00	2018-02-12	4	0	2017-10-23	2017-12-23	Male	5-15 years	5	False	False	True	Negative blood smear
+221	3205	pfama1.00	2018-04-09	6	1	2017-10-23	2017-12-23	Male	5-15 years	6	False	False	True	Negative blood smear
+222	3205	pfama1.00	2018-06-04	8	1	2017-10-23	2017-12-23	Male	5-15 years	7	False	False	True	Negative blood smear
+223	3205	pfama1.00	2018-07-02	9	0	2017-10-23	2017-12-23	Male	5-15 years	8	False	False	True	Negative blood smear
+224	3205	pfama1.00	2019-03-11	18	8	2017-10-23	2017-12-23	Male	5-15 years	9	True	True	False	Negative blood smear
+225	3205	pfama1.23	2017-10-23	0	0	2017-10-23	2017-12-23	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+226	3205	pfama1.23	2017-12-18	2	1	2017-10-23	2017-12-23	Male	5-15 years	2	False	False	True	Negative blood smear
+227	3205	pfama1.23	2018-01-17	3	0	2017-10-23	2017-12-23	Male	5-15 years	3	False	False	True	Negative blood smear
+228	3205	pfama1.23	2018-02-12	4	0	2017-10-23	2017-12-23	Male	5-15 years	4	False	False	True	Negative blood smear
+229	3205	pfama1.23	2018-05-07	7	2	2017-10-23	2017-12-23	Male	5-15 years	5	False	False	True	Negative blood smear
+230	3205	pfama1.23	2018-06-04	8	0	2017-10-23	2017-12-23	Male	5-15 years	6	False	False	True	Negative blood smear
+231	3205	pfama1.23	2018-08-27	11	2	2017-10-23	2017-12-23	Male	5-15 years	7	False	False	True	Negative blood smear
+232	3205	pfama1.23	2018-09-24	12	0	2017-10-23	2017-12-23	Male	5-15 years	8	False	False	True	Negative blood smear
+233	3205	pfama1.23	2018-10-22	13	0	2017-10-23	2017-12-23	Male	5-15 years	9	False	False	True	Negative blood smear
+234	3205	pfama1.28	2017-10-23	0	0	2017-10-23	2017-12-23	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+235	3205	pfama1.28	2017-11-20	1	0	2017-10-23	2017-12-23	Male	5-15 years	2	False	False	True	Negative blood smear
+236	3205	pfama1.28	2017-12-18	2	0	2017-10-23	2017-12-23	Male	5-15 years	3	False	False	True	Negative blood smear
+237	3205	pfama1.28	2018-01-17	3	0	2017-10-23	2017-12-23	Male	5-15 years	4	False	False	True	Negative blood smear
+238	3205	pfama1.28	2018-02-12	4	0	2017-10-23	2017-12-23	Male	5-15 years	5	False	False	True	Negative blood smear
+239	3205	pfama1.28	2018-04-09	6	1	2017-10-23	2017-12-23	Male	5-15 years	6	False	False	True	Negative blood smear
+240	3205	pfama1.28	2018-06-04	8	1	2017-10-23	2017-12-23	Male	5-15 years	7	False	False	True	Negative blood smear
+241	3205	pfama1.28	2018-07-02	9	0	2017-10-23	2017-12-23	Male	5-15 years	8	False	False	True	Negative blood smear
+242	3205	pfama1.28	2018-07-30	10	0	2017-10-23	2017-12-23	Male	5-15 years	9	False	False	True	Negative blood smear
+243	3205	pfama1.28	2018-08-27	11	0	2017-10-23	2017-12-23	Male	5-15 years	10	False	False	True	Negative blood smear
+244	3205	pfama1.28	2018-09-24	12	0	2017-10-23	2017-12-23	Male	5-15 years	11	False	False	True	Negative blood smear
+245	3205	pfama1.28	2018-10-22	13	0	2017-10-23	2017-12-23	Male	5-15 years	12	False	False	True	Negative blood smear
+246	3205	pfama1.28	2018-11-19	14	0	2017-10-23	2017-12-23	Male	5-15 years	13	False	False	True	Negative blood smear
+247	3236	pfama1.12	2017-10-11	0	0	2017-10-11	2017-12-11	Female	16 years or older	1	False	False	True	Negative blood smear
+248	3249	pfama1.00	2018-04-25	7	7	2017-10-11	2017-12-11	Female	16 years or older	1	True	True	False	Negative blood smear
+249	3284	pfama1.08	2017-10-10	0	0	2017-10-10	2017-12-10	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+250	3284	pfama1.08	2017-11-07	1	0	2017-10-10	2017-12-10	Female	5-15 years	2	False	False	True	Negative blood smear
+251	3284	pfama1.11	2017-10-10	0	0	2017-10-10	2017-12-10	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+252	3284	pfama1.15	2017-11-07	1	0	2017-10-10	2017-12-10	Female	5-15 years	1	False	False	True	Negative blood smear
+253	3284	pfama1.15	2017-12-05	2	0	2017-10-10	2017-12-10	Female	5-15 years	2	False	False	True	Negative blood smear
+254	3284	pfama1.15	2018-01-04	3	0	2017-10-10	2017-12-10	Female	5-15 years	3	False	False	True	Negative blood smear
+255	3285	pfama1.01	2017-10-10	0	0	2017-10-10	2017-12-10	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+256	3285	pfama1.01	2017-11-07	1	0	2017-10-10	2017-12-10	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+257	3285	pfama1.01	2018-01-30	4	2	2017-10-10	2017-12-10	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+258	3285	pfama1.01	2018-03-27	6	1	2017-10-10	2017-12-10	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+259	3285	pfama1.01	2018-04-26	7	0	2017-10-10	2017-12-10	Male	5-15 years	5	False	False	True	Negative blood smear
+260	3285	pfama1.01	2018-05-22	8	0	2017-10-10	2017-12-10	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+261	3285	pfama1.01	2018-06-19	9	0	2017-10-10	2017-12-10	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+262	3285	pfama1.01	2018-07-17	10	0	2017-10-10	2017-12-10	Male	5-15 years	8	False	False	True	Negative blood smear
+263	3285	pfama1.01	2018-08-14	11	0	2017-10-10	2017-12-10	Male	5-15 years	9	False	False	True	Asymptomatic parasitemia
+264	3285	pfama1.01	2018-11-06	14	2	2017-10-10	2017-12-10	Male	5-15 years	10	False	False	True	Asymptomatic parasitemia
+265	3285	pfama1.01	2019-01-04	16	1	2017-10-10	2017-12-10	Male	5-15 years	11	False	False	True	Asymptomatic parasitemia
+266	3285	pfama1.01	2019-01-30	17	0	2017-10-10	2017-12-10	Male	5-15 years	12	False	False	True	Negative blood smear
+267	3285	pfama1.01	2019-02-26	18	0	2017-10-10	2017-12-10	Male	5-15 years	13	False	False	True	Asymptomatic parasitemia
+268	3285	pfama1.02	2017-11-07	1	0	2017-10-10	2017-12-10	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+269	3285	pfama1.02	2017-12-05	2	0	2017-10-10	2017-12-10	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+270	3285	pfama1.02	2018-01-04	3	0	2017-10-10	2017-12-10	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+271	3285	pfama1.02	2018-05-22	8	4	2017-10-10	2017-12-10	Male	5-15 years	4	True	True	False	Asymptomatic parasitemia
+272	3285	pfama1.02	2018-06-19	9	0	2017-10-10	2017-12-10	Male	5-15 years	5	False	True	False	Asymptomatic parasitemia
+273	3285	pfama1.02	2018-07-17	10	0	2017-10-10	2017-12-10	Male	5-15 years	6	False	True	False	Negative blood smear
+274	3285	pfama1.02	2018-08-14	11	0	2017-10-10	2017-12-10	Male	5-15 years	7	False	True	False	Asymptomatic parasitemia
+275	3285	pfama1.02	2018-09-11	12	0	2017-10-10	2017-12-10	Male	5-15 years	8	False	True	False	Asymptomatic parasitemia
+276	3285	pfama1.02	2018-10-09	13	0	2017-10-10	2017-12-10	Male	5-15 years	9	False	True	False	Asymptomatic parasitemia
+277	3285	pfama1.02	2018-11-06	14	0	2017-10-10	2017-12-10	Male	5-15 years	10	False	True	False	Asymptomatic parasitemia
+278	3285	pfama1.02	2018-12-04	15	0	2017-10-10	2017-12-10	Male	5-15 years	11	False	True	False	Negative blood smear
+279	3285	pfama1.02	2019-01-30	17	1	2017-10-10	2017-12-10	Male	5-15 years	12	False	True	False	Negative blood smear
+280	3285	pfama1.02	2019-02-26	18	0	2017-10-10	2017-12-10	Male	5-15 years	13	False	True	False	Asymptomatic parasitemia
+281	3285	pfama1.02	2019-03-26	19	0	2017-10-10	2017-12-10	Male	5-15 years	14	False	True	False	Asymptomatic parasitemia
+282	3285	pfama1.05	2017-11-07	1	0	2017-10-10	2017-12-10	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+283	3285	pfama1.08	2017-10-10	0	0	2017-10-10	2017-12-10	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+284	3285	pfama1.08	2017-11-07	1	0	2017-10-10	2017-12-10	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+285	3285	pfama1.08	2017-12-05	2	0	2017-10-10	2017-12-10	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+286	3285	pfama1.08	2018-01-04	3	0	2017-10-10	2017-12-10	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+287	3285	pfama1.08	2018-01-30	4	0	2017-10-10	2017-12-10	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+288	3285	pfama1.08	2018-02-27	5	0	2017-10-10	2017-12-10	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+289	3285	pfama1.08	2018-03-27	6	0	2017-10-10	2017-12-10	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+290	3285	pfama1.08	2018-04-26	7	0	2017-10-10	2017-12-10	Male	5-15 years	8	False	False	True	Negative blood smear
+291	3285	pfama1.08	2018-05-22	8	0	2017-10-10	2017-12-10	Male	5-15 years	9	False	False	True	Asymptomatic parasitemia
+292	3285	pfama1.10	2017-10-10	0	0	2017-10-10	2017-12-10	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+293	3285	pfama1.10	2017-11-07	1	0	2017-10-10	2017-12-10	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+294	3285	pfama1.10	2017-12-05	2	0	2017-10-10	2017-12-10	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+295	3285	pfama1.10	2018-01-04	3	0	2017-10-10	2017-12-10	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+296	3285	pfama1.10	2018-02-27	5	1	2017-10-10	2017-12-10	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+297	3285	pfama1.10	2018-03-27	6	0	2017-10-10	2017-12-10	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+298	3285	pfama1.10	2018-04-26	7	0	2017-10-10	2017-12-10	Male	5-15 years	7	False	False	True	Negative blood smear
+299	3285	pfama1.10	2018-05-22	8	0	2017-10-10	2017-12-10	Male	5-15 years	8	False	False	True	Asymptomatic parasitemia
+300	3285	pfama1.10	2018-07-17	10	1	2017-10-10	2017-12-10	Male	5-15 years	9	False	False	True	Negative blood smear
+301	3285	pfama1.10	2018-08-14	11	0	2017-10-10	2017-12-10	Male	5-15 years	10	False	False	True	Asymptomatic parasitemia
+302	3285	pfama1.10	2018-09-11	12	0	2017-10-10	2017-12-10	Male	5-15 years	11	False	False	True	Asymptomatic parasitemia
+303	3285	pfama1.10	2018-10-09	13	0	2017-10-10	2017-12-10	Male	5-15 years	12	False	False	True	Asymptomatic parasitemia
+304	3285	pfama1.10	2019-01-04	16	2	2017-10-10	2017-12-10	Male	5-15 years	13	False	False	True	Asymptomatic parasitemia
+305	3285	pfama1.10	2019-02-26	18	1	2017-10-10	2017-12-10	Male	5-15 years	14	False	False	True	Asymptomatic parasitemia
+306	3285	pfama1.10	2019-03-26	19	0	2017-10-10	2017-12-10	Male	5-15 years	15	False	False	True	Asymptomatic parasitemia
+307	3285	pfama1.15	2017-10-10	0	0	2017-10-10	2017-12-10	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+308	3285	pfama1.15	2017-11-07	1	0	2017-10-10	2017-12-10	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+309	3285	pfama1.15	2018-01-04	3	1	2017-10-10	2017-12-10	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+310	3285	pfama1.15	2018-01-30	4	0	2017-10-10	2017-12-10	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+311	3285	pfama1.15	2018-03-27	6	1	2017-10-10	2017-12-10	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+312	3285	pfama1.15	2018-04-26	7	0	2017-10-10	2017-12-10	Male	5-15 years	6	False	False	True	Negative blood smear
+313	3285	pfama1.15	2018-05-22	8	0	2017-10-10	2017-12-10	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+314	3285	pfama1.15	2018-07-17	10	1	2017-10-10	2017-12-10	Male	5-15 years	8	False	False	True	Negative blood smear
+315	3285	pfama1.15	2018-08-14	11	0	2017-10-10	2017-12-10	Male	5-15 years	9	False	False	True	Asymptomatic parasitemia
+316	3285	pfama1.15	2018-09-11	12	0	2017-10-10	2017-12-10	Male	5-15 years	10	False	False	True	Asymptomatic parasitemia
+317	3285	pfama1.15	2018-10-09	13	0	2017-10-10	2017-12-10	Male	5-15 years	11	False	False	True	Asymptomatic parasitemia
+318	3285	pfama1.15	2018-11-06	14	0	2017-10-10	2017-12-10	Male	5-15 years	12	False	False	True	Asymptomatic parasitemia
+319	3285	pfama1.15	2018-12-04	15	0	2017-10-10	2017-12-10	Male	5-15 years	13	False	False	True	Negative blood smear
+320	3285	pfama1.15	2019-01-04	16	0	2017-10-10	2017-12-10	Male	5-15 years	14	False	False	True	Asymptomatic parasitemia
+321	3285	pfama1.15	2019-01-30	17	0	2017-10-10	2017-12-10	Male	5-15 years	15	False	False	True	Negative blood smear
+322	3285	pfama1.15	2019-02-26	18	0	2017-10-10	2017-12-10	Male	5-15 years	16	False	False	True	Asymptomatic parasitemia
+323	3285	pfama1.15	2019-03-26	19	0	2017-10-10	2017-12-10	Male	5-15 years	17	False	False	True	Asymptomatic parasitemia
+324	3285	pfama1.30	2017-11-07	1	0	2017-10-10	2017-12-10	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+325	3285	pfama1.30	2018-01-04	3	1	2017-10-10	2017-12-10	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+326	3285	pfama1.30	2018-01-30	4	0	2017-10-10	2017-12-10	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+327	3285	pfama1.30	2018-02-27	5	0	2017-10-10	2017-12-10	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+328	3285	pfama1.30	2018-03-27	6	0	2017-10-10	2017-12-10	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+329	3285	pfama1.30	2018-04-26	7	0	2017-10-10	2017-12-10	Male	5-15 years	6	False	False	True	Negative blood smear
+330	3285	pfama1.30	2018-05-22	8	0	2017-10-10	2017-12-10	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+331	3285	pfama1.30	2018-07-17	10	1	2017-10-10	2017-12-10	Male	5-15 years	8	False	False	True	Negative blood smear
+332	3285	pfama1.30	2018-08-14	11	0	2017-10-10	2017-12-10	Male	5-15 years	9	False	False	True	Asymptomatic parasitemia
+333	3285	pfama1.30	2019-01-04	16	4	2017-10-10	2017-12-10	Male	5-15 years	10	True	True	False	Asymptomatic parasitemia
+334	3285	pfama1.30	2019-01-30	17	0	2017-10-10	2017-12-10	Male	5-15 years	11	False	True	False	Negative blood smear
+335	3285	pfama1.30	2019-02-26	18	0	2017-10-10	2017-12-10	Male	5-15 years	12	False	True	False	Asymptomatic parasitemia
+336	3285	pfama1.30	2019-03-26	19	0	2017-10-10	2017-12-10	Male	5-15 years	13	False	True	False	Asymptomatic parasitemia
+337	3285	pfama1.42	2017-10-10	0	0	2017-10-10	2017-12-10	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+338	3285	pfama1.42	2017-11-07	1	0	2017-10-10	2017-12-10	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+339	3313	pfama1.04	2017-10-04	0	0	2017-10-04	2017-12-04	Female	16 years or older	1	False	False	True	Negative blood smear
+340	3313	pfama1.04	2017-11-01	1	0	2017-10-04	2017-12-04	Female	16 years or older	2	False	False	True	Negative blood smear
+341	3313	pfama1.17	2018-06-13	9	9	2017-10-04	2017-12-04	Female	16 years or older	1	True	True	False	Negative blood smear
+342	3313	pfama1.17	2018-07-11	10	0	2017-10-04	2017-12-04	Female	16 years or older	2	False	True	False	Negative blood smear
+343	3313	pfama1.21	2018-03-21	6	6	2017-10-04	2017-12-04	Female	16 years or older	1	True	True	False	Negative blood smear
+344	3315	pfama1.08	2017-10-04	0	0	2017-10-04	2017-12-04	Female	5-15 years	1	False	False	True	Negative blood smear
+345	3315	pfama1.08	2017-12-29	3	2	2017-10-04	2017-12-04	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+346	3315	pfama1.08	2018-01-24	4	0	2017-10-04	2017-12-04	Female	5-15 years	3	False	False	True	Negative blood smear
+347	3315	pfama1.08	2018-02-21	5	0	2017-10-04	2017-12-04	Female	5-15 years	4	False	False	True	Negative blood smear
+348	3315	pfama1.08	2018-03-21	6	0	2017-10-04	2017-12-04	Female	5-15 years	5	False	False	True	Asymptomatic parasitemia
+349	3315	pfama1.08	2018-04-18	7	0	2017-10-04	2017-12-04	Female	5-15 years	6	False	False	True	Negative blood smear
+350	3315	pfama1.08	2018-07-11	10	2	2017-10-04	2017-12-04	Female	5-15 years	7	False	False	True	Negative blood smear
+351	3315	pfama1.08	2018-10-31	14	3	2017-10-04	2017-12-04	Female	5-15 years	8	False	False	True	Negative blood smear
+352	3315	pfama1.13	2017-11-01	1	0	2017-10-04	2017-12-04	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+353	3315	pfama1.13	2017-11-29	2	0	2017-10-04	2017-12-04	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+354	3315	pfama1.13	2018-01-24	4	1	2017-10-04	2017-12-04	Female	5-15 years	3	False	False	True	Negative blood smear
+355	3315	pfama1.13	2018-02-21	5	0	2017-10-04	2017-12-04	Female	5-15 years	4	False	False	True	Negative blood smear
+356	3315	pfama1.13	2018-06-13	9	3	2017-10-04	2017-12-04	Female	5-15 years	5	False	False	True	Negative blood smear
+357	3315	pfama1.13	2018-07-11	10	0	2017-10-04	2017-12-04	Female	5-15 years	6	False	False	True	Negative blood smear
+358	3315	pfama1.13	2018-08-08	11	0	2017-10-04	2017-12-04	Female	5-15 years	7	False	False	True	Negative blood smear
+359	3315	pfama1.13	2018-09-05	12	0	2017-10-04	2017-12-04	Female	5-15 years	8	False	False	True	Asymptomatic parasitemia
+360	3315	pfama1.13	2018-10-03	13	0	2017-10-04	2017-12-04	Female	5-15 years	9	False	False	True	Negative blood smear
+361	3315	pfama1.14	2017-10-04	0	0	2017-10-04	2017-12-04	Female	5-15 years	1	False	False	True	Negative blood smear
+362	3315	pfama1.14	2017-11-01	1	0	2017-10-04	2017-12-04	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+363	3315	pfama1.14	2018-01-24	4	2	2017-10-04	2017-12-04	Female	5-15 years	3	False	False	True	Negative blood smear
+364	3315	pfama1.14	2018-02-21	5	0	2017-10-04	2017-12-04	Female	5-15 years	4	False	False	True	Negative blood smear
+365	3315	pfama1.14	2018-03-21	6	0	2017-10-04	2017-12-04	Female	5-15 years	5	False	False	True	Asymptomatic parasitemia
+366	3315	pfama1.14	2018-04-18	7	0	2017-10-04	2017-12-04	Female	5-15 years	6	False	False	True	Negative blood smear
+367	3315	pfama1.14	2018-05-16	8	0	2017-10-04	2017-12-04	Female	5-15 years	7	False	False	True	Negative blood smear
+368	3315	pfama1.14	2018-06-13	9	0	2017-10-04	2017-12-04	Female	5-15 years	8	False	False	True	Negative blood smear
+369	3315	pfama1.14	2018-07-11	10	0	2017-10-04	2017-12-04	Female	5-15 years	9	False	False	True	Negative blood smear
+370	3315	pfama1.14	2018-08-08	11	0	2017-10-04	2017-12-04	Female	5-15 years	10	False	False	True	Negative blood smear
+371	3315	pfama1.14	2018-09-05	12	0	2017-10-04	2017-12-04	Female	5-15 years	11	False	False	True	Asymptomatic parasitemia
+372	3315	pfama1.14	2018-10-03	13	0	2017-10-04	2017-12-04	Female	5-15 years	12	False	False	True	Negative blood smear
+373	3315	pfama1.24	2017-10-04	0	0	2017-10-04	2017-12-04	Female	5-15 years	1	False	False	True	Negative blood smear
+374	3315	pfama1.24	2017-11-01	1	0	2017-10-04	2017-12-04	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+375	3315	pfama1.24	2017-11-29	2	0	2017-10-04	2017-12-04	Female	5-15 years	3	False	False	True	Asymptomatic parasitemia
+376	3315	pfama1.24	2017-12-29	3	0	2017-10-04	2017-12-04	Female	5-15 years	4	False	False	True	Asymptomatic parasitemia
+377	3315	pfama1.24	2018-01-24	4	0	2017-10-04	2017-12-04	Female	5-15 years	5	False	False	True	Negative blood smear
+378	3315	pfama1.24	2018-02-21	5	0	2017-10-04	2017-12-04	Female	5-15 years	6	False	False	True	Negative blood smear
+379	3315	pfama1.24	2018-05-16	8	2	2017-10-04	2017-12-04	Female	5-15 years	7	False	False	True	Negative blood smear
+380	3315	pfama1.24	2018-07-11	10	1	2017-10-04	2017-12-04	Female	5-15 years	8	False	False	True	Negative blood smear
+381	3315	pfama1.24	2018-08-08	11	0	2017-10-04	2017-12-04	Female	5-15 years	9	False	False	True	Negative blood smear
+382	3315	pfama1.24	2018-09-05	12	0	2017-10-04	2017-12-04	Female	5-15 years	10	False	False	True	Asymptomatic parasitemia
+383	3336	pfama1.03	2017-11-08	1	0	2017-10-11	2017-12-11	Male	5-15 years	1	False	False	True	Negative blood smear
+384	3364	pfama1.21	2017-10-04	0	0	2017-10-04	2017-12-04	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+385	3364	pfama1.21	2017-11-01	1	0	2017-10-04	2017-12-04	Female	5-15 years	2	False	False	True	Negative blood smear
+386	3364	pfama1.21	2017-11-29	2	0	2017-10-04	2017-12-04	Female	5-15 years	3	False	False	True	Negative blood smear
+387	3364	pfama1.21	2017-12-29	3	0	2017-10-04	2017-12-04	Female	5-15 years	4	False	False	True	Negative blood smear
+388	3364	pfama1.21	2018-01-24	4	0	2017-10-04	2017-12-04	Female	5-15 years	5	False	False	True	Negative blood smear
+389	3364	pfama1.21	2018-02-21	5	0	2017-10-04	2017-12-04	Female	5-15 years	6	False	False	True	Negative blood smear
+390	3364	pfama1.21	2018-03-21	6	0	2017-10-04	2017-12-04	Female	5-15 years	7	False	False	True	Negative blood smear
+391	3364	pfama1.21	2018-04-18	7	0	2017-10-04	2017-12-04	Female	5-15 years	8	False	False	True	Negative blood smear
+392	3364	pfama1.21	2018-05-16	8	0	2017-10-04	2017-12-04	Female	5-15 years	9	False	False	True	Negative blood smear
+393	3364	pfama1.21	2018-06-13	9	0	2017-10-04	2017-12-04	Female	5-15 years	10	False	False	True	Negative blood smear
+394	3364	pfama1.21	2018-07-11	10	0	2017-10-04	2017-12-04	Female	5-15 years	11	False	False	True	Asymptomatic parasitemia
+395	3364	pfama1.21	2018-08-08	11	0	2017-10-04	2017-12-04	Female	5-15 years	12	False	False	True	Negative blood smear
+396	3364	pfama1.21	2018-09-05	12	0	2017-10-04	2017-12-04	Female	5-15 years	13	False	False	True	Negative blood smear
+397	3364	pfama1.21	2018-10-03	13	0	2017-10-04	2017-12-04	Female	5-15 years	14	False	False	True	Negative blood smear
+398	3364	pfama1.21	2018-10-31	14	0	2017-10-04	2017-12-04	Female	5-15 years	15	False	False	True	Negative blood smear
+399	3364	pfama1.21	2018-11-28	15	0	2017-10-04	2017-12-04	Female	5-15 years	16	False	False	True	Negative blood smear
+400	3364	pfama1.21	2019-01-23	17	1	2017-10-04	2017-12-04	Female	5-15 years	17	False	False	True	Negative blood smear
+401	3364	pfama1.21	2019-02-20	18	0	2017-10-04	2017-12-04	Female	5-15 years	18	False	False	True	Negative blood smear
+402	3393	pfama1.04	2018-05-22	8	8	2017-10-10	2017-12-10	Male	5-15 years	1	True	True	False	Negative blood smear
+403	3393	pfama1.04	2018-05-28	9	0	2017-10-10	2017-12-10	Male	5-15 years	2	False	True	False	Malaria
+404	3394	pfama1.05	2018-12-22	16	16	2017-10-11	2017-12-11	Male	5-15 years	1	True	True	False	Malaria
+405	3429	pfama1.01	2018-07-23	10	10	2017-10-16	2017-12-16	Female	5-15 years	1	True	True	False	Negative blood smear
+406	3429	pfama1.01	2018-08-20	11	0	2017-10-16	2017-12-16	Female	5-15 years	2	False	True	False	Negative blood smear
+407	3429	pfama1.01	2018-09-17	12	0	2017-10-16	2017-12-16	Female	5-15 years	3	False	True	False	Asymptomatic parasitemia
+408	3429	pfama1.01	2018-10-15	13	0	2017-10-16	2017-12-16	Female	5-15 years	4	False	True	False	Negative blood smear
+409	3429	pfama1.01	2018-11-12	14	0	2017-10-16	2017-12-16	Female	5-15 years	5	False	True	False	Negative blood smear
+410	3429	pfama1.01	2018-12-10	15	0	2017-10-16	2017-12-16	Female	5-15 years	6	False	True	False	Negative blood smear
+411	3429	pfama1.01	2019-01-07	16	0	2017-10-16	2017-12-16	Female	5-15 years	7	False	True	False	Negative blood smear
+412	3429	pfama1.01	2019-02-04	17	0	2017-10-16	2017-12-16	Female	5-15 years	8	False	True	False	Negative blood smear
+413	3505	pfama1.36	2017-11-01	1	0	2017-10-04	2017-12-04	Male	16 years or older	1	False	False	True	Negative blood smear
+414	3505	pfama1.36	2017-11-29	2	0	2017-10-04	2017-12-04	Male	16 years or older	2	False	False	True	Negative blood smear
+415	3505	pfama1.36	2018-01-24	4	1	2017-10-04	2017-12-04	Male	16 years or older	3	False	False	True	Negative blood smear
+416	3505	pfama1.36	2018-03-21	6	1	2017-10-04	2017-12-04	Male	16 years or older	4	False	False	True	Negative blood smear
+417	3505	pfama1.36	2018-04-18	7	0	2017-10-04	2017-12-04	Male	16 years or older	5	False	False	True	Negative blood smear
+418	3506	pfama1.10	2018-04-18	7	7	2017-10-04	2017-12-04	Male	16 years or older	1	True	True	False	Asymptomatic parasitemia
+419	3506	pfama1.10	2018-05-16	8	0	2017-10-04	2017-12-04	Male	16 years or older	2	False	True	False	Negative blood smear
+420	3506	pfama1.10	2018-06-13	9	0	2017-10-04	2017-12-04	Male	16 years or older	3	False	True	False	Negative blood smear
+421	3506	pfama1.10	2018-07-11	10	0	2017-10-04	2017-12-04	Male	16 years or older	4	False	True	False	Asymptomatic parasitemia
+422	3506	pfama1.10	2018-08-08	11	0	2017-10-04	2017-12-04	Male	16 years or older	5	False	True	False	Negative blood smear
+423	3506	pfama1.10	2018-09-05	12	0	2017-10-04	2017-12-04	Male	16 years or older	6	False	True	False	Negative blood smear
+424	3506	pfama1.10	2018-10-03	13	0	2017-10-04	2017-12-04	Male	16 years or older	7	False	True	False	Negative blood smear
+425	3506	pfama1.10	2018-10-31	14	0	2017-10-04	2017-12-04	Male	16 years or older	8	False	True	False	Asymptomatic parasitemia
+426	3506	pfama1.11	2018-04-18	7	7	2017-10-04	2017-12-04	Male	16 years or older	1	True	True	False	Asymptomatic parasitemia
+427	3506	pfama1.17	2018-07-11	10	10	2017-10-04	2017-12-04	Male	16 years or older	1	True	True	False	Asymptomatic parasitemia
+428	3506	pfama1.17	2018-08-08	11	0	2017-10-04	2017-12-04	Male	16 years or older	2	False	True	False	Negative blood smear
+429	3506	pfama1.17	2018-09-05	12	0	2017-10-04	2017-12-04	Male	16 years or older	3	False	True	False	Negative blood smear
+430	3506	pfama1.17	2018-10-03	13	0	2017-10-04	2017-12-04	Male	16 years or older	4	False	True	False	Negative blood smear
+431	3506	pfama1.40	2018-07-11	10	10	2017-10-04	2017-12-04	Male	16 years or older	1	True	True	False	Asymptomatic parasitemia
+432	3506	pfama1.40	2018-08-08	11	0	2017-10-04	2017-12-04	Male	16 years or older	2	False	True	False	Negative blood smear
+433	3506	pfama1.40	2018-11-28	15	3	2017-10-04	2017-12-04	Male	16 years or older	3	False	True	False	Negative blood smear
+434	3506	pfama1.40	2019-02-20	18	2	2017-10-04	2017-12-04	Male	16 years or older	4	False	True	False	Negative blood smear
+435	3510	pfama1.12	2018-05-16	8	8	2017-10-04	2017-12-04	Male	16 years or older	1	True	True	False	Negative blood smear
+436	3510	pfama1.12	2018-06-13	9	0	2017-10-04	2017-12-04	Male	16 years or older	2	False	True	False	Negative blood smear
+437	3510	pfama1.12	2018-07-11	10	0	2017-10-04	2017-12-04	Male	16 years or older	3	False	True	False	Negative blood smear
+438	3510	pfama1.12	2018-08-08	11	0	2017-10-04	2017-12-04	Male	16 years or older	4	False	True	False	Negative blood smear
+439	3510	pfama1.12	2018-09-05	12	0	2017-10-04	2017-12-04	Male	16 years or older	5	False	True	False	Negative blood smear
+440	3510	pfama1.12	2018-10-03	13	0	2017-10-04	2017-12-04	Male	16 years or older	6	False	True	False	Negative blood smear
+441	3510	pfama1.12	2018-10-31	14	0	2017-10-04	2017-12-04	Male	16 years or older	7	False	True	False	Negative blood smear
+442	3510	pfama1.27	2017-10-04	0	0	2017-10-04	2017-12-04	Male	16 years or older	1	False	False	True	Negative blood smear
+443	3510	pfama1.27	2017-11-01	1	0	2017-10-04	2017-12-04	Male	16 years or older	2	False	False	True	Negative blood smear
+444	3510	pfama1.27	2017-11-29	2	0	2017-10-04	2017-12-04	Male	16 years or older	3	False	False	True	Negative blood smear
+445	3510	pfama1.27	2018-01-24	4	1	2017-10-04	2017-12-04	Male	16 years or older	4	False	False	True	Negative blood smear
+446	3510	pfama1.27	2018-02-21	5	0	2017-10-04	2017-12-04	Male	16 years or older	5	False	False	True	Negative blood smear
+447	3510	pfama1.27	2018-03-21	6	0	2017-10-04	2017-12-04	Male	16 years or older	6	False	False	True	Negative blood smear
+448	3510	pfama1.27	2018-04-18	7	0	2017-10-04	2017-12-04	Male	16 years or older	7	False	False	True	Negative blood smear
+449	3510	pfama1.27	2018-05-16	8	0	2017-10-04	2017-12-04	Male	16 years or older	8	False	False	True	Negative blood smear
+450	3510	pfama1.27	2018-06-13	9	0	2017-10-04	2017-12-04	Male	16 years or older	9	False	False	True	Negative blood smear
+451	3510	pfama1.27	2018-07-11	10	0	2017-10-04	2017-12-04	Male	16 years or older	10	False	False	True	Negative blood smear
+452	3510	pfama1.27	2018-12-29	16	5	2017-10-04	2017-12-04	Male	16 years or older	11	True	True	False	Negative blood smear
+453	3510	pfama1.27	2019-01-23	17	0	2017-10-04	2017-12-04	Male	16 years or older	12	False	True	False	Negative blood smear
+454	3510	pfama1.27	2019-02-20	18	0	2017-10-04	2017-12-04	Male	16 years or older	13	False	True	False	Negative blood smear
+455	3515	pfama1.12	2019-03-25	19	19	2017-10-09	2017-12-09	Female	16 years or older	1	True	True	False	Asymptomatic parasitemia
+456	3521	pfama1.00	2018-01-29	4	4	2017-10-09	2017-12-09	Male	5-15 years	1	True	True	False	Negative blood smear
+457	3523	pfama1.05	2017-10-10	0	0	2017-10-10	2017-12-10	Male	16 years or older	1	False	False	True	Negative blood smear
+458	3523	pfama1.05	2017-11-07	1	0	2017-10-10	2017-12-10	Male	16 years or older	2	False	False	True	Negative blood smear
+459	3523	pfama1.05	2018-01-04	3	1	2017-10-10	2017-12-10	Male	16 years or older	3	False	False	True	Negative blood smear
+460	3523	pfama1.05	2018-01-30	4	0	2017-10-10	2017-12-10	Male	16 years or older	4	False	False	True	Negative blood smear
+461	3523	pfama1.05	2018-02-27	5	0	2017-10-10	2017-12-10	Male	16 years or older	5	False	False	True	Negative blood smear
+462	3523	pfama1.05	2018-03-27	6	0	2017-10-10	2017-12-10	Male	16 years or older	6	False	False	True	Negative blood smear
+463	3523	pfama1.05	2018-04-24	7	0	2017-10-10	2017-12-10	Male	16 years or older	7	False	False	True	Negative blood smear
+464	3523	pfama1.05	2018-05-22	8	0	2017-10-10	2017-12-10	Male	16 years or older	8	False	False	True	Negative blood smear
+465	3523	pfama1.05	2018-07-18	10	1	2017-10-10	2017-12-10	Male	16 years or older	9	False	False	True	Negative blood smear
+466	3523	pfama1.05	2018-08-14	11	0	2017-10-10	2017-12-10	Male	16 years or older	10	False	False	True	Negative blood smear
+467	3525	pfama1.16	2018-01-30	4	4	2017-10-10	2017-12-10	Male	16 years or older	1	True	True	False	Negative blood smear
+468	3525	pfama1.16	2018-02-27	5	0	2017-10-10	2017-12-10	Male	16 years or older	2	False	True	False	Negative blood smear
+469	3527	pfama1.02	2017-10-10	0	0	2017-10-10	2017-12-10	Male	16 years or older	1	False	False	True	Negative blood smear
+470	3527	pfama1.02	2017-12-05	2	1	2017-10-10	2017-12-10	Male	16 years or older	2	False	False	True	Negative blood smear
+471	3527	pfama1.02	2018-01-04	3	0	2017-10-10	2017-12-10	Male	16 years or older	3	False	False	True	Negative blood smear
+472	3527	pfama1.02	2018-01-30	4	0	2017-10-10	2017-12-10	Male	16 years or older	4	False	False	True	Negative blood smear
+473	3527	pfama1.02	2018-04-24	7	2	2017-10-10	2017-12-10	Male	16 years or older	5	False	False	True	Negative blood smear
+474	3527	pfama1.02	2018-05-22	8	0	2017-10-10	2017-12-10	Male	16 years or older	6	False	False	True	Negative blood smear
+475	3527	pfama1.02	2018-06-19	9	0	2017-10-10	2017-12-10	Male	16 years or older	7	False	False	True	Negative blood smear
+476	3527	pfama1.02	2018-07-19	10	0	2017-10-10	2017-12-10	Male	16 years or older	8	False	False	True	Negative blood smear
+477	3527	pfama1.02	2018-08-14	11	0	2017-10-10	2017-12-10	Male	16 years or older	9	False	False	True	Negative blood smear
+478	3527	pfama1.02	2018-09-11	12	0	2017-10-10	2017-12-10	Male	16 years or older	10	False	False	True	Negative blood smear
+479	3530	pfama1.20	2017-10-11	0	0	2017-10-11	2017-12-11	Male	16 years or older	1	False	False	True	Negative blood smear
+480	3540	pfama1.08	2017-10-16	0	0	2017-10-16	2017-12-16	Female	16 years or older	1	False	False	True	Asymptomatic parasitemia
+481	3540	pfama1.08	2017-11-13	1	0	2017-10-16	2017-12-16	Female	16 years or older	2	False	False	True	Asymptomatic parasitemia
+482	3540	pfama1.08	2018-02-05	4	2	2017-10-16	2017-12-16	Female	16 years or older	3	False	False	True	Negative blood smear
+483	3540	pfama1.09	2017-11-13	1	0	2017-10-16	2017-12-16	Female	16 years or older	1	False	False	True	Asymptomatic parasitemia
+484	3540	pfama1.09	2017-12-11	2	0	2017-10-16	2017-12-16	Female	16 years or older	2	False	False	True	Negative blood smear
+485	3540	pfama1.09	2018-04-30	7	4	2017-10-16	2017-12-16	Female	16 years or older	3	True	True	False	Negative blood smear
+486	3541	pfama1.10	2017-10-16	0	0	2017-10-16	2017-12-16	Female	16 years or older	1	False	False	True	Negative blood smear
+487	3541	pfama1.10	2017-11-13	1	0	2017-10-16	2017-12-16	Female	16 years or older	2	False	False	True	Negative blood smear
+488	3541	pfama1.10	2018-02-05	4	2	2017-10-16	2017-12-16	Female	16 years or older	3	False	False	True	Negative blood smear
+489	3541	pfama1.10	2018-03-05	5	0	2017-10-16	2017-12-16	Female	16 years or older	4	False	False	True	Negative blood smear
+490	3541	pfama1.10	2018-04-30	7	1	2017-10-16	2017-12-16	Female	16 years or older	5	False	False	True	Negative blood smear
+491	3541	pfama1.10	2018-05-28	8	0	2017-10-16	2017-12-16	Female	16 years or older	6	False	False	True	Negative blood smear
+492	3541	pfama1.10	2018-06-25	9	0	2017-10-16	2017-12-16	Female	16 years or older	7	False	False	True	Negative blood smear
+493	3541	pfama1.10	2018-07-23	10	0	2017-10-16	2017-12-16	Female	16 years or older	8	False	False	True	Negative blood smear
+494	3542	pfama1.00	2017-10-16	0	0	2017-10-16	2017-12-16	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+495	3542	pfama1.00	2017-11-13	1	0	2017-10-16	2017-12-16	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+496	3542	pfama1.00	2017-12-11	2	0	2017-10-16	2017-12-16	Female	5-15 years	3	False	False	True	Negative blood smear
+497	3542	pfama1.01	2017-10-16	0	0	2017-10-16	2017-12-16	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+498	3542	pfama1.01	2017-11-13	1	0	2017-10-16	2017-12-16	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+499	3542	pfama1.01	2017-12-11	2	0	2017-10-16	2017-12-16	Female	5-15 years	3	False	False	True	Negative blood smear
+500	3542	pfama1.01	2018-02-05	4	1	2017-10-16	2017-12-16	Female	5-15 years	4	False	False	True	Asymptomatic parasitemia
+501	3542	pfama1.05	2017-11-13	1	0	2017-10-16	2017-12-16	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+502	3542	pfama1.05	2018-01-08	3	1	2017-10-16	2017-12-16	Female	5-15 years	2	False	False	True	Negative blood smear
+503	3542	pfama1.05	2018-02-05	4	0	2017-10-16	2017-12-16	Female	5-15 years	3	False	False	True	Asymptomatic parasitemia
+504	3542	pfama1.05	2018-03-05	5	0	2017-10-16	2017-12-16	Female	5-15 years	4	False	False	True	Asymptomatic parasitemia
+505	3542	pfama1.05	2018-04-02	6	0	2017-10-16	2017-12-16	Female	5-15 years	5	False	False	True	Asymptomatic parasitemia
+506	3542	pfama1.05	2018-04-30	7	0	2017-10-16	2017-12-16	Female	5-15 years	6	False	False	True	Negative blood smear
+507	3542	pfama1.08	2017-10-16	0	0	2017-10-16	2017-12-16	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+508	3542	pfama1.08	2017-11-13	1	0	2017-10-16	2017-12-16	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+509	3542	pfama1.08	2017-12-11	2	0	2017-10-16	2017-12-16	Female	5-15 years	3	False	False	True	Negative blood smear
+510	3542	pfama1.08	2018-01-08	3	0	2017-10-16	2017-12-16	Female	5-15 years	4	False	False	True	Negative blood smear
+511	3542	pfama1.08	2018-02-05	4	0	2017-10-16	2017-12-16	Female	5-15 years	5	False	False	True	Asymptomatic parasitemia
+512	3542	pfama1.08	2018-03-05	5	0	2017-10-16	2017-12-16	Female	5-15 years	6	False	False	True	Asymptomatic parasitemia
+513	3542	pfama1.16	2017-10-16	0	0	2017-10-16	2017-12-16	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+514	3542	pfama1.16	2017-11-13	1	0	2017-10-16	2017-12-16	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+515	3542	pfama1.16	2018-01-08	3	1	2017-10-16	2017-12-16	Female	5-15 years	3	False	False	True	Negative blood smear
+516	3542	pfama1.16	2018-03-05	5	1	2017-10-16	2017-12-16	Female	5-15 years	4	False	False	True	Asymptomatic parasitemia
+517	3542	pfama1.16	2018-04-02	6	0	2017-10-16	2017-12-16	Female	5-15 years	5	False	False	True	Asymptomatic parasitemia
+518	3542	pfama1.16	2018-04-30	7	0	2017-10-16	2017-12-16	Female	5-15 years	6	False	False	True	Negative blood smear
+519	3542	pfama1.16	2018-05-28	8	0	2017-10-16	2017-12-16	Female	5-15 years	7	False	False	True	Asymptomatic parasitemia
+520	3542	pfama1.16	2018-06-25	9	0	2017-10-16	2017-12-16	Female	5-15 years	8	False	False	True	Negative blood smear
+521	3542	pfama1.16	2018-09-17	12	2	2017-10-16	2017-12-16	Female	5-15 years	9	False	False	True	Asymptomatic parasitemia
+522	3542	pfama1.16	2018-10-15	13	0	2017-10-16	2017-12-16	Female	5-15 years	10	False	False	True	Negative blood smear
+523	3542	pfama1.16	2018-11-12	14	0	2017-10-16	2017-12-16	Female	5-15 years	11	False	False	True	Negative blood smear
+524	3542	pfama1.16	2019-02-04	17	2	2017-10-16	2017-12-16	Female	5-15 years	12	False	False	True	Negative blood smear
+525	3542	pfama1.25	2017-11-13	1	0	2017-10-16	2017-12-16	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+526	3542	pfama1.25	2018-01-08	3	1	2017-10-16	2017-12-16	Female	5-15 years	2	False	False	True	Negative blood smear
+527	3542	pfama1.25	2018-02-05	4	0	2017-10-16	2017-12-16	Female	5-15 years	3	False	False	True	Asymptomatic parasitemia
+528	3542	pfama1.25	2018-03-05	5	0	2017-10-16	2017-12-16	Female	5-15 years	4	False	False	True	Asymptomatic parasitemia
+529	3542	pfama1.25	2018-04-02	6	0	2017-10-16	2017-12-16	Female	5-15 years	5	False	False	True	Asymptomatic parasitemia
+530	3542	pfama1.25	2018-05-28	8	1	2017-10-16	2017-12-16	Female	5-15 years	6	False	False	True	Asymptomatic parasitemia
+531	3542	pfama1.25	2018-06-25	9	0	2017-10-16	2017-12-16	Female	5-15 years	7	False	False	True	Negative blood smear
+532	3542	pfama1.25	2018-07-23	10	0	2017-10-16	2017-12-16	Female	5-15 years	8	False	False	True	Negative blood smear
+533	3542	pfama1.25	2018-08-20	11	0	2017-10-16	2017-12-16	Female	5-15 years	9	False	False	True	Negative blood smear
+534	3542	pfama1.25	2018-09-17	12	0	2017-10-16	2017-12-16	Female	5-15 years	10	False	False	True	Asymptomatic parasitemia
+535	3542	pfama1.32	2017-10-16	0	0	2017-10-16	2017-12-16	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+536	3542	pfama1.32	2017-12-11	2	1	2017-10-16	2017-12-16	Female	5-15 years	2	False	False	True	Negative blood smear
+537	3542	pfama1.32	2018-04-30	7	4	2017-10-16	2017-12-16	Female	5-15 years	3	True	True	False	Negative blood smear
+538	3542	pfama1.33	2018-03-05	5	5	2017-10-16	2017-12-16	Female	5-15 years	1	True	True	False	Asymptomatic parasitemia
+539	3546	pfama1.06	2017-12-11	2	0	2017-10-16	2017-12-16	Male	16 years or older	1	False	False	True	Negative blood smear
+540	3546	pfama1.06	2018-01-08	3	0	2017-10-16	2017-12-16	Male	16 years or older	2	False	False	True	Negative blood smear
+541	3546	pfama1.09	2017-10-16	0	0	2017-10-16	2017-12-16	Male	16 years or older	1	False	False	True	Negative blood smear
+542	3546	pfama1.09	2017-12-11	2	1	2017-10-16	2017-12-16	Male	16 years or older	2	False	False	True	Negative blood smear
+543	3546	pfama1.09	2018-01-08	3	0	2017-10-16	2017-12-16	Male	16 years or older	3	False	False	True	Negative blood smear
+544	3546	pfama1.09	2018-02-06	4	0	2017-10-16	2017-12-16	Male	16 years or older	4	False	False	True	Negative blood smear
+545	3546	pfama1.09	2018-04-04	6	1	2017-10-16	2017-12-16	Male	16 years or older	5	False	False	True	Negative blood smear
+546	3546	pfama1.09	2018-04-30	7	0	2017-10-16	2017-12-16	Male	16 years or older	6	False	False	True	Negative blood smear
+547	3546	pfama1.09	2018-05-28	8	0	2017-10-16	2017-12-16	Male	16 years or older	7	False	False	True	Negative blood smear
+548	3546	pfama1.09	2018-09-17	12	3	2017-10-16	2017-12-16	Male	16 years or older	8	False	False	True	Negative blood smear
+549	3546	pfama1.09	2018-11-12	14	1	2017-10-16	2017-12-16	Male	16 years or older	9	False	False	True	Negative blood smear
+550	3546	pfama1.09	2018-12-10	15	0	2017-10-16	2017-12-16	Male	16 years or older	10	False	False	True	Negative blood smear
+551	3546	pfama1.09	2019-02-04	17	1	2017-10-16	2017-12-16	Male	16 years or older	11	False	False	True	Negative blood smear
+552	3547	pfama1.07	2017-10-16	0	0	2017-10-16	2017-12-16	Female	16 years or older	1	False	False	True	Negative blood smear
+553	3547	pfama1.07	2017-11-13	1	0	2017-10-16	2017-12-16	Female	16 years or older	2	False	False	True	Negative blood smear
+554	3547	pfama1.07	2017-12-11	2	0	2017-10-16	2017-12-16	Female	16 years or older	3	False	False	True	Negative blood smear
+555	3549	pfama1.09	2017-10-16	0	0	2017-10-16	2017-12-16	Female	5-15 years	1	False	False	True	Negative blood smear
+556	3554	pfama1.06	2019-02-04	17	17	2017-10-16	2017-12-16	Female	16 years or older	1	True	True	False	Negative blood smear
+557	3555	pfama1.06	2018-06-20	9	9	2017-10-16	2017-12-16	Female	5-15 years	1	True	True	False	Malaria
+558	3555	pfama1.06	2018-06-25	10	0	2017-10-16	2017-12-16	Female	5-15 years	2	False	True	False	Negative blood smear
+559	3555	pfama1.11	2018-06-20	9	9	2017-10-16	2017-12-16	Female	5-15 years	1	True	True	False	Malaria
+560	3557	pfama1.22	2017-10-16	0	0	2017-10-16	2017-12-16	Female	< 5 years	1	False	False	True	Negative blood smear
+561	3557	pfama1.22	2017-11-13	1	0	2017-10-16	2017-12-16	Female	< 5 years	2	False	False	True	Asymptomatic parasitemia
+562	3557	pfama1.22	2017-12-11	2	0	2017-10-16	2017-12-16	Female	< 5 years	3	False	False	True	Negative blood smear
+563	3570	pfama1.00	2018-05-28	8	8	2017-10-16	2017-12-16	Female	< 5 years	1	True	True	False	Negative blood smear
+564	3570	pfama1.00	2018-06-25	9	0	2017-10-16	2017-12-16	Female	< 5 years	2	False	True	False	Asymptomatic parasitemia
+565	3570	pfama1.00	2018-07-23	10	0	2017-10-16	2017-12-16	Female	< 5 years	3	False	True	False	Asymptomatic parasitemia
+566	3570	pfama1.00	2018-08-20	11	0	2017-10-16	2017-12-16	Female	< 5 years	4	False	True	False	Asymptomatic parasitemia
+567	3570	pfama1.00	2018-09-17	12	0	2017-10-16	2017-12-16	Female	< 5 years	5	False	True	False	Negative blood smear
+568	3575	pfama1.00	2017-10-17	0	0	2017-10-17	2017-12-17	Male	16 years or older	1	False	False	True	Negative blood smear
+569	3575	pfama1.00	2018-06-26	9	8	2017-10-17	2017-12-17	Male	16 years or older	2	True	True	False	Negative blood smear
+570	3575	pfama1.00	2018-07-24	10	0	2017-10-17	2017-12-17	Male	16 years or older	3	False	True	False	Negative blood smear
+571	3575	pfama1.00	2018-08-21	11	0	2017-10-17	2017-12-17	Male	16 years or older	4	False	True	False	Negative blood smear
+572	3575	pfama1.00	2018-10-16	13	1	2017-10-17	2017-12-17	Male	16 years or older	5	False	True	False	Negative blood smear
+573	3577	pfama1.00	2017-10-17	0	0	2017-10-17	2017-12-17	Female	5-15 years	1	False	False	True	Negative blood smear
+574	3577	pfama1.00	2017-12-12	2	1	2017-10-17	2017-12-17	Female	5-15 years	2	False	False	True	Negative blood smear
+575	3577	pfama1.00	2018-02-06	4	1	2017-10-17	2017-12-17	Female	5-15 years	3	False	False	True	Negative blood smear
+576	3577	pfama1.00	2018-03-06	5	0	2017-10-17	2017-12-17	Female	5-15 years	4	False	False	True	Negative blood smear
+577	3577	pfama1.00	2018-05-01	7	1	2017-10-17	2017-12-17	Female	5-15 years	5	False	False	True	Negative blood smear
+578	3577	pfama1.00	2018-05-29	8	0	2017-10-17	2017-12-17	Female	5-15 years	6	False	False	True	Negative blood smear
+579	3577	pfama1.00	2018-08-21	11	2	2017-10-17	2017-12-17	Female	5-15 years	7	False	False	True	Negative blood smear
+580	3578	pfama1.00	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+581	3578	pfama1.00	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+582	3578	pfama1.00	2018-04-04	6	1	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+583	3578	pfama1.00	2018-05-29	8	1	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Negative blood smear
+584	3578	pfama1.00	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Negative blood smear
+585	3578	pfama1.00	2018-09-18	12	2	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Negative blood smear
+586	3578	pfama1.00	2018-12-11	15	2	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+587	3578	pfama1.00	2019-02-05	17	1	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Negative blood smear
+588	3578	pfama1.03	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Negative blood smear
+589	3578	pfama1.03	2018-01-09	3	2	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+590	3578	pfama1.03	2018-03-06	5	1	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Negative blood smear
+591	3578	pfama1.03	2018-05-29	8	2	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Negative blood smear
+592	3578	pfama1.03	2018-07-24	10	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+593	3578	pfama1.04	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+594	3578	pfama1.04	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+595	3578	pfama1.04	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+596	3578	pfama1.04	2018-04-04	6	1	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+597	3578	pfama1.04	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+598	3578	pfama1.04	2018-08-21	11	3	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+599	3578	pfama1.04	2018-11-13	14	2	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Negative blood smear
+600	3578	pfama1.04	2019-02-05	17	2	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Negative blood smear
+601	3578	pfama1.06	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Negative blood smear
+602	3578	pfama1.06	2017-11-14	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+603	3578	pfama1.06	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+604	3578	pfama1.06	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+605	3578	pfama1.06	2018-03-06	5	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Negative blood smear
+606	3578	pfama1.06	2018-04-04	6	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+607	3578	pfama1.06	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+608	3578	pfama1.06	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Negative blood smear
+609	3578	pfama1.06	2018-07-24	10	1	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Asymptomatic parasitemia
+610	3578	pfama1.06	2018-08-21	11	0	2017-10-17	2017-12-17	Male	5-15 years	10	False	False	True	Asymptomatic parasitemia
+611	3578	pfama1.06	2018-09-18	12	0	2017-10-17	2017-12-17	Male	5-15 years	11	False	False	True	Negative blood smear
+612	3578	pfama1.06	2018-10-16	13	0	2017-10-17	2017-12-17	Male	5-15 years	12	False	False	True	Negative blood smear
+613	3578	pfama1.06	2018-11-13	14	0	2017-10-17	2017-12-17	Male	5-15 years	13	False	False	True	Negative blood smear
+614	3578	pfama1.06	2018-12-11	15	0	2017-10-17	2017-12-17	Male	5-15 years	14	False	False	True	Asymptomatic parasitemia
+615	3578	pfama1.06	2019-01-08	16	0	2017-10-17	2017-12-17	Male	5-15 years	15	False	False	True	Negative blood smear
+616	3578	pfama1.06	2019-02-05	17	0	2017-10-17	2017-12-17	Male	5-15 years	16	False	False	True	Negative blood smear
+617	3578	pfama1.06	2019-03-05	18	0	2017-10-17	2017-12-17	Male	5-15 years	17	False	False	True	Asymptomatic parasitemia
+618	3578	pfama1.07	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Negative blood smear
+619	3578	pfama1.07	2017-11-14	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+620	3578	pfama1.07	2018-02-06	4	2	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+621	3578	pfama1.07	2018-05-01	7	2	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+622	3578	pfama1.07	2018-06-26	9	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Negative blood smear
+623	3578	pfama1.07	2018-08-21	11	1	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+624	3578	pfama1.07	2018-10-16	13	1	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Negative blood smear
+625	3578	pfama1.07	2018-11-13	14	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Negative blood smear
+626	3578	pfama1.09	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+627	3578	pfama1.09	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+628	3578	pfama1.09	2018-04-04	6	1	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+629	3578	pfama1.09	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+630	3578	pfama1.09	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Negative blood smear
+631	3578	pfama1.09	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Negative blood smear
+632	3578	pfama1.09	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+633	3578	pfama1.09	2018-08-21	11	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Asymptomatic parasitemia
+634	3578	pfama1.09	2018-09-18	12	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Negative blood smear
+635	3578	pfama1.09	2018-10-16	13	0	2017-10-17	2017-12-17	Male	5-15 years	10	False	False	True	Negative blood smear
+636	3578	pfama1.09	2018-11-13	14	0	2017-10-17	2017-12-17	Male	5-15 years	11	False	False	True	Negative blood smear
+637	3578	pfama1.09	2018-12-11	15	0	2017-10-17	2017-12-17	Male	5-15 years	12	False	False	True	Asymptomatic parasitemia
+638	3578	pfama1.09	2019-01-08	16	0	2017-10-17	2017-12-17	Male	5-15 years	13	False	False	True	Negative blood smear
+639	3578	pfama1.10	2017-11-14	1	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+640	3578	pfama1.10	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+641	3578	pfama1.10	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+642	3578	pfama1.10	2018-03-06	5	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Negative blood smear
+643	3578	pfama1.10	2018-04-04	6	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+644	3578	pfama1.10	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+645	3578	pfama1.10	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Negative blood smear
+646	3578	pfama1.11	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Negative blood smear
+647	3578	pfama1.11	2017-11-14	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+648	3578	pfama1.11	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+649	3578	pfama1.11	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+650	3578	pfama1.11	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+651	3578	pfama1.11	2018-03-06	5	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Negative blood smear
+652	3578	pfama1.11	2018-04-04	6	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+653	3578	pfama1.11	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Asymptomatic parasitemia
+654	3578	pfama1.11	2018-06-26	9	1	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Negative blood smear
+655	3578	pfama1.11	2018-08-21	11	1	2017-10-17	2017-12-17	Male	5-15 years	10	False	False	True	Asymptomatic parasitemia
+656	3578	pfama1.11	2018-10-16	13	1	2017-10-17	2017-12-17	Male	5-15 years	11	False	False	True	Negative blood smear
+657	3578	pfama1.11	2018-11-13	14	0	2017-10-17	2017-12-17	Male	5-15 years	12	False	False	True	Negative blood smear
+658	3578	pfama1.11	2018-12-11	15	0	2017-10-17	2017-12-17	Male	5-15 years	13	False	False	True	Asymptomatic parasitemia
+659	3578	pfama1.11	2019-01-08	16	0	2017-10-17	2017-12-17	Male	5-15 years	14	False	False	True	Negative blood smear
+660	3578	pfama1.11	2019-02-05	17	0	2017-10-17	2017-12-17	Male	5-15 years	15	False	False	True	Negative blood smear
+661	3578	pfama1.12	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Negative blood smear
+662	3578	pfama1.12	2017-11-14	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+663	3578	pfama1.12	2018-02-06	4	2	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+664	3578	pfama1.12	2018-03-06	5	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Negative blood smear
+665	3578	pfama1.12	2018-05-01	7	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+666	3578	pfama1.12	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Negative blood smear
+667	3578	pfama1.12	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Negative blood smear
+668	3578	pfama1.12	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Asymptomatic parasitemia
+669	3578	pfama1.12	2018-08-21	11	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Asymptomatic parasitemia
+670	3578	pfama1.12	2018-10-16	13	1	2017-10-17	2017-12-17	Male	5-15 years	10	False	False	True	Negative blood smear
+671	3578	pfama1.12	2018-11-13	14	0	2017-10-17	2017-12-17	Male	5-15 years	11	False	False	True	Negative blood smear
+672	3578	pfama1.12	2019-01-08	16	1	2017-10-17	2017-12-17	Male	5-15 years	12	False	False	True	Negative blood smear
+673	3578	pfama1.12	2019-02-05	17	0	2017-10-17	2017-12-17	Male	5-15 years	13	False	False	True	Negative blood smear
+674	3578	pfama1.18	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Negative blood smear
+675	3578	pfama1.18	2018-04-04	6	5	2017-10-17	2017-12-17	Male	5-15 years	2	True	True	False	Asymptomatic parasitemia
+676	3578	pfama1.18	2018-05-29	8	1	2017-10-17	2017-12-17	Male	5-15 years	3	False	True	False	Negative blood smear
+677	3578	pfama1.18	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	True	False	Negative blood smear
+678	3578	pfama1.18	2018-08-21	11	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	True	False	Asymptomatic parasitemia
+679	3578	pfama1.18	2018-10-16	13	1	2017-10-17	2017-12-17	Male	5-15 years	6	False	True	False	Negative blood smear
+680	3578	pfama1.18	2018-11-13	14	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	True	False	Negative blood smear
+681	3578	pfama1.18	2018-12-11	15	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	True	False	Asymptomatic parasitemia
+682	3578	pfama1.18	2019-02-05	17	1	2017-10-17	2017-12-17	Male	5-15 years	9	False	True	False	Negative blood smear
+683	3578	pfama1.19	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Negative blood smear
+684	3578	pfama1.19	2017-11-14	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+685	3578	pfama1.19	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+686	3578	pfama1.19	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+687	3578	pfama1.19	2018-03-06	5	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Negative blood smear
+688	3578	pfama1.19	2018-05-01	7	1	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+689	3578	pfama1.19	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Negative blood smear
+690	3578	pfama1.19	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Negative blood smear
+691	3578	pfama1.19	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Asymptomatic parasitemia
+692	3578	pfama1.19	2018-09-18	12	1	2017-10-17	2017-12-17	Male	5-15 years	10	False	False	True	Negative blood smear
+693	3578	pfama1.19	2018-10-16	13	0	2017-10-17	2017-12-17	Male	5-15 years	11	False	False	True	Negative blood smear
+694	3578	pfama1.19	2018-12-11	15	1	2017-10-17	2017-12-17	Male	5-15 years	12	False	False	True	Asymptomatic parasitemia
+695	3578	pfama1.19	2019-01-08	16	0	2017-10-17	2017-12-17	Male	5-15 years	13	False	False	True	Negative blood smear
+696	3578	pfama1.19	2019-02-05	17	0	2017-10-17	2017-12-17	Male	5-15 years	14	False	False	True	Negative blood smear
+697	3578	pfama1.22	2017-11-14	1	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+698	3578	pfama1.22	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+699	3578	pfama1.22	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+700	3578	pfama1.22	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+701	3578	pfama1.22	2018-03-06	5	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Negative blood smear
+702	3578	pfama1.22	2018-04-04	6	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+703	3578	pfama1.22	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+704	3578	pfama1.22	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Negative blood smear
+705	3578	pfama1.22	2018-08-21	11	2	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Asymptomatic parasitemia
+706	3578	pfama1.22	2018-09-18	12	0	2017-10-17	2017-12-17	Male	5-15 years	10	False	False	True	Negative blood smear
+707	3578	pfama1.22	2018-10-16	13	0	2017-10-17	2017-12-17	Male	5-15 years	11	False	False	True	Negative blood smear
+708	3578	pfama1.22	2018-12-11	15	1	2017-10-17	2017-12-17	Male	5-15 years	12	False	False	True	Asymptomatic parasitemia
+709	3578	pfama1.22	2019-02-05	17	1	2017-10-17	2017-12-17	Male	5-15 years	13	False	False	True	Negative blood smear
+710	3578	pfama1.31	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Negative blood smear
+711	3578	pfama1.31	2017-11-14	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+712	3578	pfama1.31	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+713	3578	pfama1.31	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+714	3578	pfama1.31	2018-03-06	5	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Negative blood smear
+715	3578	pfama1.31	2018-04-04	6	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+716	3578	pfama1.31	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+717	3578	pfama1.31	2018-06-26	9	1	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Negative blood smear
+718	3578	pfama1.31	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Asymptomatic parasitemia
+719	3578	pfama1.31	2018-08-21	11	0	2017-10-17	2017-12-17	Male	5-15 years	10	False	False	True	Asymptomatic parasitemia
+720	3578	pfama1.31	2018-10-16	13	1	2017-10-17	2017-12-17	Male	5-15 years	11	False	False	True	Negative blood smear
+721	3578	pfama1.31	2019-01-08	16	2	2017-10-17	2017-12-17	Male	5-15 years	12	False	False	True	Negative blood smear
+722	3578	pfama1.31	2019-02-05	17	0	2017-10-17	2017-12-17	Male	5-15 years	13	False	False	True	Negative blood smear
+723	3578	pfama1.39	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Negative blood smear
+724	3579	pfama1.34	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Negative blood smear
+725	3579	pfama1.34	2017-11-14	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+726	3579	pfama1.34	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Negative blood smear
+727	3579	pfama1.34	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Negative blood smear
+728	3579	pfama1.34	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Negative blood smear
+729	3579	pfama1.34	2018-04-04	6	1	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Negative blood smear
+730	3579	pfama1.34	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Negative blood smear
+731	3579	pfama1.34	2018-06-26	9	1	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Negative blood smear
+732	3579	pfama1.34	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Negative blood smear
+733	3580	pfama1.07	2017-10-17	0	0	2017-10-17	2017-12-17	Male	< 5 years	1	False	False	True	Asymptomatic parasitemia
+734	3580	pfama1.07	2017-11-14	1	0	2017-10-17	2017-12-17	Male	< 5 years	2	False	False	True	Negative blood smear
+735	3580	pfama1.07	2017-12-12	2	0	2017-10-17	2017-12-17	Male	< 5 years	3	False	False	True	Negative blood smear
+736	3580	pfama1.07	2018-07-24	10	7	2017-10-17	2017-12-17	Male	< 5 years	4	True	True	False	Negative blood smear
+737	3580	pfama1.07	2018-09-18	12	1	2017-10-17	2017-12-17	Male	< 5 years	5	False	True	False	Negative blood smear
+738	3580	pfama1.07	2018-12-11	15	2	2017-10-17	2017-12-17	Male	< 5 years	6	False	True	False	Negative blood smear
+739	3580	pfama1.08	2017-10-17	0	0	2017-10-17	2017-12-17	Male	< 5 years	1	False	False	True	Asymptomatic parasitemia
+740	3597	pfama1.13	2018-06-26	9	9	2017-10-17	2017-12-17	Male	5-15 years	1	True	True	False	Asymptomatic parasitemia
+741	3597	pfama1.13	2018-08-21	11	1	2017-10-17	2017-12-17	Male	5-15 years	2	False	True	False	Negative blood smear
+742	3597	pfama1.13	2018-09-18	12	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	True	False	Asymptomatic parasitemia
+743	3597	pfama1.13	2018-10-16	13	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	True	False	Negative blood smear
+744	3597	pfama1.13	2018-12-11	15	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	True	False	Negative blood smear
+745	3597	pfama1.13	2019-01-08	16	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	True	False	Negative blood smear
+746	3597	pfama1.13	2019-02-05	17	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	True	False	Negative blood smear
+747	3597	pfama1.13	2019-03-05	18	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	True	False	Negative blood smear
+748	3598	pfama1.13	2018-07-24	10	10	2017-10-17	2017-12-17	Female	5-15 years	1	True	True	False	Negative blood smear
+749	3602	pfama1.00	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+750	3602	pfama1.00	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+751	3602	pfama1.00	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+752	3602	pfama1.00	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+753	3602	pfama1.00	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Negative blood smear
+754	3602	pfama1.00	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+755	3602	pfama1.00	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+756	3602	pfama1.00	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Negative blood smear
+757	3602	pfama1.00	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Negative blood smear
+758	3602	pfama1.00	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	10	False	False	True	Asymptomatic parasitemia
+759	3602	pfama1.00	2018-08-21	11	0	2017-10-17	2017-12-17	Male	5-15 years	11	False	False	True	Negative blood smear
+760	3602	pfama1.00	2018-09-18	12	0	2017-10-17	2017-12-17	Male	5-15 years	12	False	False	True	Negative blood smear
+761	3602	pfama1.00	2018-10-16	13	0	2017-10-17	2017-12-17	Male	5-15 years	13	False	False	True	Negative blood smear
+762	3602	pfama1.00	2018-12-11	15	1	2017-10-17	2017-12-17	Male	5-15 years	14	False	False	True	Asymptomatic parasitemia
+763	3602	pfama1.00	2019-01-08	16	0	2017-10-17	2017-12-17	Male	5-15 years	15	False	False	True	Negative blood smear
+764	3602	pfama1.02	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+765	3602	pfama1.02	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+766	3602	pfama1.02	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+767	3602	pfama1.02	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Negative blood smear
+768	3602	pfama1.02	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+769	3602	pfama1.02	2018-10-16	13	6	2017-10-17	2017-12-17	Male	5-15 years	6	True	True	False	Negative blood smear
+770	3602	pfama1.02	2018-11-13	14	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	True	False	Negative blood smear
+771	3602	pfama1.02	2018-12-11	15	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	True	False	Asymptomatic parasitemia
+772	3602	pfama1.02	2019-01-08	16	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	True	False	Negative blood smear
+773	3602	pfama1.02	2019-02-05	17	0	2017-10-17	2017-12-17	Male	5-15 years	10	False	True	False	Negative blood smear
+774	3602	pfama1.03	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+775	3602	pfama1.03	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+776	3602	pfama1.03	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+777	3602	pfama1.03	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+778	3602	pfama1.03	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Negative blood smear
+779	3602	pfama1.03	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+780	3602	pfama1.03	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+781	3602	pfama1.03	2018-09-18	12	4	2017-10-17	2017-12-17	Male	5-15 years	8	True	True	False	Negative blood smear
+782	3602	pfama1.03	2018-10-16	13	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	True	False	Negative blood smear
+783	3602	pfama1.03	2018-12-11	15	1	2017-10-17	2017-12-17	Male	5-15 years	10	False	True	False	Asymptomatic parasitemia
+784	3602	pfama1.03	2019-01-08	16	0	2017-10-17	2017-12-17	Male	5-15 years	11	False	True	False	Negative blood smear
+785	3602	pfama1.06	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+786	3602	pfama1.06	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Negative blood smear
+787	3602	pfama1.07	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+788	3602	pfama1.07	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+789	3602	pfama1.07	2018-01-09	3	1	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+790	3602	pfama1.07	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Negative blood smear
+791	3602	pfama1.07	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+792	3602	pfama1.07	2018-07-24	10	3	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+793	3602	pfama1.07	2018-08-21	11	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Negative blood smear
+794	3602	pfama1.07	2018-09-18	12	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Negative blood smear
+795	3602	pfama1.07	2018-10-16	13	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Negative blood smear
+796	3602	pfama1.15	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+797	3602	pfama1.15	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+798	3602	pfama1.15	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+799	3602	pfama1.15	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Negative blood smear
+800	3602	pfama1.15	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+801	3602	pfama1.15	2018-06-26	9	2	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Negative blood smear
+802	3602	pfama1.15	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+803	3602	pfama1.15	2018-09-18	12	1	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Negative blood smear
+804	3602	pfama1.15	2018-10-16	13	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Negative blood smear
+805	3602	pfama1.15	2019-02-05	17	3	2017-10-17	2017-12-17	Male	5-15 years	10	False	False	True	Negative blood smear
+806	3602	pfama1.15	2019-03-05	18	0	2017-10-17	2017-12-17	Male	5-15 years	11	False	False	True	Asymptomatic parasitemia
+807	3602	pfama1.20	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+808	3602	pfama1.20	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+809	3602	pfama1.20	2018-01-09	3	1	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+810	3602	pfama1.20	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Negative blood smear
+811	3602	pfama1.20	2018-06-26	9	4	2017-10-17	2017-12-17	Male	5-15 years	5	True	True	False	Negative blood smear
+812	3602	pfama1.20	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	True	False	Asymptomatic parasitemia
+813	3602	pfama1.20	2018-08-21	11	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	True	False	Negative blood smear
+814	3602	pfama1.20	2018-09-18	12	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	True	False	Negative blood smear
+815	3602	pfama1.20	2018-10-16	13	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	True	False	Negative blood smear
+816	3602	pfama1.20	2018-12-11	15	1	2017-10-17	2017-12-17	Male	5-15 years	10	False	True	False	Asymptomatic parasitemia
+817	3602	pfama1.20	2019-01-08	16	0	2017-10-17	2017-12-17	Male	5-15 years	11	False	True	False	Negative blood smear
+818	3602	pfama1.20	2019-02-05	17	0	2017-10-17	2017-12-17	Male	5-15 years	12	False	True	False	Negative blood smear
+819	3602	pfama1.22	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+820	3602	pfama1.22	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+821	3602	pfama1.22	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+822	3602	pfama1.22	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Negative blood smear
+823	3602	pfama1.22	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+824	3602	pfama1.22	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+825	3602	pfama1.22	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Negative blood smear
+826	3604	pfama1.00	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+827	3604	pfama1.00	2017-12-12	2	1	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+828	3604	pfama1.00	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+829	3604	pfama1.00	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+830	3604	pfama1.00	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+831	3604	pfama1.00	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+832	3604	pfama1.00	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+833	3604	pfama1.00	2018-08-13	11	1	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Malaria
+834	3604	pfama1.01	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+835	3604	pfama1.01	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+836	3604	pfama1.01	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+837	3604	pfama1.01	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+838	3604	pfama1.01	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+839	3604	pfama1.01	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+840	3604	pfama1.01	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+841	3604	pfama1.01	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Asymptomatic parasitemia
+842	3604	pfama1.01	2018-08-13	11	1	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Malaria
+843	3604	pfama1.02	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+844	3604	pfama1.02	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+845	3604	pfama1.02	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+846	3604	pfama1.02	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+847	3604	pfama1.02	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+848	3604	pfama1.02	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+849	3604	pfama1.02	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+850	3604	pfama1.02	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Asymptomatic parasitemia
+851	3604	pfama1.02	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Negative blood smear
+852	3604	pfama1.02	2018-08-13	11	0	2017-10-17	2017-12-17	Male	5-15 years	10	False	False	True	Malaria
+853	3604	pfama1.03	2018-04-03	6	6	2017-10-17	2017-12-17	Male	5-15 years	1	True	True	False	Asymptomatic parasitemia
+854	3604	pfama1.03	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	True	False	Asymptomatic parasitemia
+855	3604	pfama1.03	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	True	False	Asymptomatic parasitemia
+856	3604	pfama1.03	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	True	False	Asymptomatic parasitemia
+857	3604	pfama1.04	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+858	3604	pfama1.04	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+859	3604	pfama1.04	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+860	3604	pfama1.04	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+861	3604	pfama1.05	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+862	3604	pfama1.05	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+863	3604	pfama1.05	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+864	3604	pfama1.05	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+865	3604	pfama1.05	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+866	3604	pfama1.05	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+867	3604	pfama1.05	2018-05-29	8	1	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+868	3604	pfama1.05	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Asymptomatic parasitemia
+869	3604	pfama1.05	2018-08-13	11	1	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Malaria
+870	3604	pfama1.06	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+871	3604	pfama1.06	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+872	3604	pfama1.06	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+873	3604	pfama1.06	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+874	3604	pfama1.06	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+875	3604	pfama1.06	2018-06-26	9	1	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+876	3604	pfama1.06	2018-08-13	11	1	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Malaria
+877	3604	pfama1.07	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+878	3604	pfama1.07	2018-08-13	11	10	2017-10-17	2017-12-17	Male	5-15 years	2	True	True	False	Malaria
+879	3604	pfama1.08	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+880	3604	pfama1.08	2017-12-12	2	1	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+881	3604	pfama1.08	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+882	3604	pfama1.08	2018-05-29	8	3	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+883	3604	pfama1.08	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+884	3604	pfama1.08	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Negative blood smear
+885	3604	pfama1.08	2018-08-13	11	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Malaria
+886	3604	pfama1.09	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+887	3604	pfama1.09	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+888	3604	pfama1.09	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+889	3604	pfama1.09	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+890	3604	pfama1.09	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+891	3604	pfama1.09	2018-05-01	7	2	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+892	3604	pfama1.09	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+893	3604	pfama1.10	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+894	3604	pfama1.10	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+895	3604	pfama1.10	2018-01-09	3	1	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+896	3604	pfama1.10	2018-06-26	9	5	2017-10-17	2017-12-17	Male	5-15 years	4	True	True	False	Asymptomatic parasitemia
+897	3604	pfama1.11	2018-02-06	4	4	2017-10-17	2017-12-17	Male	5-15 years	1	True	True	False	Asymptomatic parasitemia
+898	3604	pfama1.11	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	2	False	True	False	Asymptomatic parasitemia
+899	3604	pfama1.12	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+900	3604	pfama1.12	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+901	3604	pfama1.12	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+902	3604	pfama1.12	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+903	3604	pfama1.12	2018-05-29	8	3	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+904	3604	pfama1.12	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+905	3604	pfama1.13	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+906	3604	pfama1.13	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+907	3604	pfama1.13	2018-05-01	7	2	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+908	3604	pfama1.13	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+909	3604	pfama1.13	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+910	3604	pfama1.13	2018-08-13	11	1	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Malaria
+911	3604	pfama1.14	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+912	3604	pfama1.14	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+913	3604	pfama1.14	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+914	3604	pfama1.14	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+915	3604	pfama1.14	2018-08-13	11	4	2017-10-17	2017-12-17	Male	5-15 years	5	True	True	False	Malaria
+916	3604	pfama1.16	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+917	3604	pfama1.20	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+918	3604	pfama1.20	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+919	3604	pfama1.20	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+920	3604	pfama1.20	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+921	3604	pfama1.20	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+922	3604	pfama1.20	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+923	3604	pfama1.20	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+924	3604	pfama1.20	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Asymptomatic parasitemia
+925	3604	pfama1.20	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Asymptomatic parasitemia
+926	3604	pfama1.20	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	10	False	False	True	Negative blood smear
+927	3604	pfama1.20	2018-08-13	11	0	2017-10-17	2017-12-17	Male	5-15 years	11	False	False	True	Malaria
+928	3604	pfama1.29	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+929	3604	pfama1.29	2018-04-03	6	4	2017-10-17	2017-12-17	Male	5-15 years	2	True	True	False	Asymptomatic parasitemia
+930	3604	pfama1.29	2018-06-26	9	2	2017-10-17	2017-12-17	Male	5-15 years	3	False	True	False	Asymptomatic parasitemia
+931	3604	pfama1.29	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	True	False	Negative blood smear
+932	3604	pfama1.32	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+933	3604	pfama1.33	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+934	3604	pfama1.33	2017-11-13	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+935	3604	pfama1.33	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+936	3604	pfama1.33	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+937	3604	pfama1.33	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+938	3604	pfama1.33	2018-05-29	8	1	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+939	3604	pfama1.33	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+940	3604	pfama1.33	2018-08-13	11	1	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Malaria
+941	3604	pfama1.37	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+942	3604	pfama1.37	2017-12-12	2	1	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+943	3604	pfama1.37	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+944	3604	pfama1.37	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+945	3604	pfama1.37	2018-05-01	7	2	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+946	3604	pfama1.37	2018-05-29	8	0	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+947	3604	pfama1.37	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+948	3604	pfama1.41	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+949	3604	pfama1.41	2017-12-12	2	1	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+950	3604	pfama1.41	2018-02-06	4	1	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+951	3604	pfama1.45	2018-04-03	6	6	2017-10-17	2017-12-17	Male	5-15 years	1	True	True	False	Asymptomatic parasitemia
+952	3604	pfama1.45	2018-05-01	7	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	True	False	Asymptomatic parasitemia
+953	3612	pfama1.00	2017-10-17	0	0	2017-10-17	2017-12-17	Female	< 5 years	1	False	False	True	Asymptomatic parasitemia
+954	3612	pfama1.00	2017-11-14	1	0	2017-10-17	2017-12-17	Female	< 5 years	2	False	False	True	Negative blood smear
+955	3612	pfama1.02	2017-10-17	0	0	2017-10-17	2017-12-17	Female	< 5 years	1	False	False	True	Asymptomatic parasitemia
+956	3612	pfama1.03	2017-10-17	0	0	2017-10-17	2017-12-17	Female	< 5 years	1	False	False	True	Asymptomatic parasitemia
+957	3612	pfama1.06	2017-10-17	0	0	2017-10-17	2017-12-17	Female	< 5 years	1	False	False	True	Asymptomatic parasitemia
+958	3612	pfama1.06	2017-11-14	1	0	2017-10-17	2017-12-17	Female	< 5 years	2	False	False	True	Negative blood smear
+959	3614	pfama1.02	2017-10-17	0	0	2017-10-17	2017-12-17	Female	5-15 years	1	False	False	True	Negative blood smear
+960	3614	pfama1.02	2017-11-14	1	0	2017-10-17	2017-12-17	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+961	3614	pfama1.02	2017-12-12	2	0	2017-10-17	2017-12-17	Female	5-15 years	3	False	False	True	Asymptomatic parasitemia
+962	3614	pfama1.02	2018-01-09	3	0	2017-10-17	2017-12-17	Female	5-15 years	4	False	False	True	Negative blood smear
+963	3614	pfama1.02	2018-02-06	4	0	2017-10-17	2017-12-17	Female	5-15 years	5	False	False	True	Negative blood smear
+964	3614	pfama1.02	2018-04-03	6	1	2017-10-17	2017-12-17	Female	5-15 years	6	False	False	True	Negative blood smear
+965	3614	pfama1.02	2018-05-01	7	0	2017-10-17	2017-12-17	Female	5-15 years	7	False	False	True	Negative blood smear
+966	3614	pfama1.02	2018-05-28	8	0	2017-10-17	2017-12-17	Female	5-15 years	8	False	False	True	Negative blood smear
+967	3614	pfama1.02	2018-06-26	9	0	2017-10-17	2017-12-17	Female	5-15 years	9	False	False	True	Negative blood smear
+968	3614	pfama1.02	2018-07-24	10	0	2017-10-17	2017-12-17	Female	5-15 years	10	False	False	True	Asymptomatic parasitemia
+969	3614	pfama1.02	2018-08-21	11	0	2017-10-17	2017-12-17	Female	5-15 years	11	False	False	True	Negative blood smear
+970	3614	pfama1.02	2018-09-18	12	0	2017-10-17	2017-12-17	Female	5-15 years	12	False	False	True	Negative blood smear
+971	3614	pfama1.02	2018-10-16	13	0	2017-10-17	2017-12-17	Female	5-15 years	13	False	False	True	Negative blood smear
+972	3614	pfama1.02	2018-11-13	14	0	2017-10-17	2017-12-17	Female	5-15 years	14	False	False	True	Negative blood smear
+973	3614	pfama1.02	2019-02-05	17	2	2017-10-17	2017-12-17	Female	5-15 years	15	False	False	True	Negative blood smear
+974	3614	pfama1.39	2017-10-17	0	0	2017-10-17	2017-12-17	Female	5-15 years	1	False	False	True	Negative blood smear
+975	3614	pfama1.39	2018-02-06	4	3	2017-10-17	2017-12-17	Female	5-15 years	2	False	False	True	Negative blood smear
+976	3614	pfama1.39	2018-05-01	7	2	2017-10-17	2017-12-17	Female	5-15 years	3	False	False	True	Negative blood smear
+977	3614	pfama1.39	2018-06-26	9	1	2017-10-17	2017-12-17	Female	5-15 years	4	False	False	True	Negative blood smear
+978	3615	pfama1.03	2017-10-17	0	0	2017-10-17	2017-12-17	Female	5-15 years	1	False	False	True	Negative blood smear
+979	3615	pfama1.03	2017-11-14	1	0	2017-10-17	2017-12-17	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+980	3615	pfama1.03	2018-01-09	3	1	2017-10-17	2017-12-17	Female	5-15 years	3	False	False	True	Negative blood smear
+981	3616	pfama1.02	2017-10-17	0	0	2017-10-17	2017-12-17	Male	5-15 years	1	False	False	True	Negative blood smear
+982	3616	pfama1.02	2017-11-14	1	0	2017-10-17	2017-12-17	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+983	3616	pfama1.02	2017-12-12	2	0	2017-10-17	2017-12-17	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+984	3616	pfama1.02	2018-01-09	3	0	2017-10-17	2017-12-17	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+985	3616	pfama1.02	2018-02-06	4	0	2017-10-17	2017-12-17	Male	5-15 years	5	False	False	True	Negative blood smear
+986	3616	pfama1.02	2018-04-03	6	1	2017-10-17	2017-12-17	Male	5-15 years	6	False	False	True	Negative blood smear
+987	3616	pfama1.02	2018-05-28	8	1	2017-10-17	2017-12-17	Male	5-15 years	7	False	False	True	Negative blood smear
+988	3616	pfama1.02	2018-06-26	9	0	2017-10-17	2017-12-17	Male	5-15 years	8	False	False	True	Negative blood smear
+989	3616	pfama1.02	2018-07-24	10	0	2017-10-17	2017-12-17	Male	5-15 years	9	False	False	True	Negative blood smear
+990	3616	pfama1.02	2018-08-21	11	0	2017-10-17	2017-12-17	Male	5-15 years	10	False	False	True	Negative blood smear
+991	3616	pfama1.02	2018-10-16	13	1	2017-10-17	2017-12-17	Male	5-15 years	11	False	False	True	Negative blood smear
+992	3616	pfama1.02	2018-11-13	14	0	2017-10-17	2017-12-17	Male	5-15 years	12	False	False	True	Negative blood smear
+993	3616	pfama1.02	2019-02-05	17	2	2017-10-17	2017-12-17	Male	5-15 years	13	False	False	True	Negative blood smear
+994	3617	pfama1.07	2017-10-17	0	0	2017-10-17	2017-12-17	Female	< 5 years	1	False	False	True	Negative blood smear
+995	3617	pfama1.07	2017-11-14	1	0	2017-10-17	2017-12-17	Female	< 5 years	2	False	False	True	Negative blood smear
+996	3617	pfama1.07	2017-12-12	2	0	2017-10-17	2017-12-17	Female	< 5 years	3	False	False	True	Negative blood smear
+997	3626	pfama1.03	2018-06-20	9	9	2017-10-18	2017-12-18	Female	16 years or older	1	True	True	False	Malaria
+998	3627	pfama1.08	2017-10-18	0	0	2017-10-18	2017-12-18	Female	16 years or older	1	False	False	True	Negative blood smear
+999	3627	pfama1.08	2017-11-15	1	0	2017-10-18	2017-12-18	Female	16 years or older	2	False	False	True	Negative blood smear
+1000	3629	pfama1.03	2018-06-27	9	9	2017-10-18	2017-12-18	Male	5-15 years	1	True	True	False	Negative blood smear
+1001	3629	pfama1.03	2018-07-25	10	0	2017-10-18	2017-12-18	Male	5-15 years	2	False	True	False	Negative blood smear
+1002	3629	pfama1.03	2018-08-22	11	0	2017-10-18	2017-12-18	Male	5-15 years	3	False	True	False	Asymptomatic parasitemia
+1003	3629	pfama1.03	2018-09-19	12	0	2017-10-18	2017-12-18	Male	5-15 years	4	False	True	False	Asymptomatic parasitemia
+1004	3629	pfama1.03	2018-10-17	13	0	2017-10-18	2017-12-18	Male	5-15 years	5	False	True	False	Asymptomatic parasitemia
+1005	3629	pfama1.03	2018-11-14	14	0	2017-10-18	2017-12-18	Male	5-15 years	6	False	True	False	Asymptomatic parasitemia
+1006	3629	pfama1.03	2018-12-12	15	0	2017-10-18	2017-12-18	Male	5-15 years	7	False	True	False	Asymptomatic parasitemia
+1007	3629	pfama1.03	2019-02-06	17	1	2017-10-18	2017-12-18	Male	5-15 years	8	False	True	False	Negative blood smear
+1008	3630	pfama1.14	2017-10-18	0	0	2017-10-18	2017-12-18	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+1009	3630	pfama1.14	2017-11-15	1	0	2017-10-18	2017-12-18	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+1010	3630	pfama1.14	2017-12-13	2	0	2017-10-18	2017-12-18	Female	5-15 years	3	False	False	True	Negative blood smear
+1011	3630	pfama1.14	2018-01-10	3	0	2017-10-18	2017-12-18	Female	5-15 years	4	False	False	True	Asymptomatic parasitemia
+1012	3630	pfama1.14	2018-02-07	4	0	2017-10-18	2017-12-18	Female	5-15 years	5	False	False	True	Negative blood smear
+1013	3630	pfama1.14	2018-06-27	9	4	2017-10-18	2017-12-18	Female	5-15 years	6	True	True	False	Negative blood smear
+1014	3635	pfama1.07	2018-01-10	3	3	2017-10-18	2017-12-18	Female	< 5 years	1	True	True	False	Negative blood smear
+1015	3635	pfama1.07	2018-02-07	4	0	2017-10-18	2017-12-18	Female	< 5 years	2	False	True	False	Asymptomatic parasitemia
+1016	3637	pfama1.05	2017-12-13	2	0	2017-10-18	2017-12-18	Male	16 years or older	1	False	False	True	Negative blood smear
+1017	3642	pfama1.02	2017-10-18	0	0	2017-10-18	2017-12-18	Female	5-15 years	1	False	False	True	Negative blood smear
+1018	3642	pfama1.02	2017-11-15	1	0	2017-10-18	2017-12-18	Female	5-15 years	2	False	False	True	Negative blood smear
+1019	3642	pfama1.02	2017-12-13	2	0	2017-10-18	2017-12-18	Female	5-15 years	3	False	False	True	Negative blood smear
+1020	3642	pfama1.02	2018-02-07	4	1	2017-10-18	2017-12-18	Female	5-15 years	4	False	False	True	Negative blood smear
+1021	3642	pfama1.02	2018-04-04	6	1	2017-10-18	2017-12-18	Female	5-15 years	5	False	False	True	Negative blood smear
+1022	3642	pfama1.02	2018-05-30	8	1	2017-10-18	2017-12-18	Female	5-15 years	6	False	False	True	Negative blood smear
+1023	3642	pfama1.02	2018-06-28	9	0	2017-10-18	2017-12-18	Female	5-15 years	7	False	False	True	Negative blood smear
+1024	3649	pfama1.00	2017-11-20	1	0	2017-10-23	2017-12-23	Male	16 years or older	1	False	False	True	Negative blood smear
+1025	3649	pfama1.02	2017-12-18	2	0	2017-10-23	2017-12-23	Male	16 years or older	1	False	False	True	Negative blood smear
+1026	3658	pfama1.01	2018-01-15	3	3	2017-10-23	2017-12-23	Female	< 5 years	1	True	True	False	Negative blood smear
+1027	3659	pfama1.11	2017-10-23	0	0	2017-10-23	2017-12-23	Female	16 years or older	1	False	False	True	Negative blood smear
+1028	3659	pfama1.11	2017-11-20	1	0	2017-10-23	2017-12-23	Female	16 years or older	2	False	False	True	Asymptomatic parasitemia
+1029	3659	pfama1.11	2017-12-18	2	0	2017-10-23	2017-12-23	Female	16 years or older	3	False	False	True	Asymptomatic parasitemia
+1030	3659	pfama1.11	2018-01-15	3	0	2017-10-23	2017-12-23	Female	16 years or older	4	False	False	True	Negative blood smear
+1031	3659	pfama1.11	2018-02-12	4	0	2017-10-23	2017-12-23	Female	16 years or older	5	False	False	True	Negative blood smear
+1032	3659	pfama1.11	2018-03-12	5	0	2017-10-23	2017-12-23	Female	16 years or older	6	False	False	True	Negative blood smear
+1033	3659	pfama1.11	2018-04-09	6	0	2017-10-23	2017-12-23	Female	16 years or older	7	False	False	True	Negative blood smear
+1034	3659	pfama1.11	2018-05-07	7	0	2017-10-23	2017-12-23	Female	16 years or older	8	False	False	True	Negative blood smear
+1035	3659	pfama1.11	2018-06-04	8	0	2017-10-23	2017-12-23	Female	16 years or older	9	False	False	True	Negative blood smear
+1036	3659	pfama1.11	2018-07-02	9	0	2017-10-23	2017-12-23	Female	16 years or older	10	False	False	True	Negative blood smear
+1037	3659	pfama1.11	2018-07-30	10	0	2017-10-23	2017-12-23	Female	16 years or older	11	False	False	True	Negative blood smear
+1038	3659	pfama1.11	2018-08-27	11	0	2017-10-23	2017-12-23	Female	16 years or older	12	False	False	True	Negative blood smear
+1039	3659	pfama1.11	2018-09-24	12	0	2017-10-23	2017-12-23	Female	16 years or older	13	False	False	True	Asymptomatic parasitemia
+1040	3659	pfama1.11	2018-10-22	13	0	2017-10-23	2017-12-23	Female	16 years or older	14	False	False	True	Negative blood smear
+1041	3659	pfama1.11	2018-11-19	14	0	2017-10-23	2017-12-23	Female	16 years or older	15	False	False	True	Negative blood smear
+1042	3659	pfama1.11	2018-12-17	15	0	2017-10-23	2017-12-23	Female	16 years or older	16	False	False	True	Asymptomatic parasitemia
+1043	3659	pfama1.11	2019-01-14	16	0	2017-10-23	2017-12-23	Female	16 years or older	17	False	False	True	Negative blood smear
+1044	3659	pfama1.11	2019-02-11	17	0	2017-10-23	2017-12-23	Female	16 years or older	18	False	False	True	Negative blood smear
+1045	3659	pfama1.11	2019-03-11	18	0	2017-10-23	2017-12-23	Female	16 years or older	19	False	False	True	Negative blood smear
+1046	3659	pfama1.18	2018-02-12	4	4	2017-10-23	2017-12-23	Female	16 years or older	1	True	True	False	Negative blood smear
+1047	3659	pfama1.18	2018-04-09	6	1	2017-10-23	2017-12-23	Female	16 years or older	2	False	True	False	Negative blood smear
+1048	3659	pfama1.18	2018-05-07	7	0	2017-10-23	2017-12-23	Female	16 years or older	3	False	True	False	Negative blood smear
+1049	3659	pfama1.18	2018-07-30	10	2	2017-10-23	2017-12-23	Female	16 years or older	4	False	True	False	Negative blood smear
+1050	3659	pfama1.18	2018-08-27	11	0	2017-10-23	2017-12-23	Female	16 years or older	5	False	True	False	Negative blood smear
+1051	3659	pfama1.18	2018-09-24	12	0	2017-10-23	2017-12-23	Female	16 years or older	6	False	True	False	Asymptomatic parasitemia
+1052	3659	pfama1.18	2018-10-22	13	0	2017-10-23	2017-12-23	Female	16 years or older	7	False	True	False	Negative blood smear
+1053	3659	pfama1.32	2017-10-23	0	0	2017-10-23	2017-12-23	Female	16 years or older	1	False	False	True	Negative blood smear
+1054	3659	pfama1.32	2017-11-20	1	0	2017-10-23	2017-12-23	Female	16 years or older	2	False	False	True	Asymptomatic parasitemia
+1055	3659	pfama1.32	2017-12-18	2	0	2017-10-23	2017-12-23	Female	16 years or older	3	False	False	True	Asymptomatic parasitemia
+1056	3659	pfama1.32	2018-02-12	4	1	2017-10-23	2017-12-23	Female	16 years or older	4	False	False	True	Negative blood smear
+1057	3659	pfama1.32	2018-06-04	8	3	2017-10-23	2017-12-23	Female	16 years or older	5	False	False	True	Negative blood smear
+1058	3659	pfama1.32	2018-07-30	10	1	2017-10-23	2017-12-23	Female	16 years or older	6	False	False	True	Negative blood smear
+1059	3659	pfama1.32	2018-12-17	15	4	2017-10-23	2017-12-23	Female	16 years or older	7	True	True	False	Asymptomatic parasitemia
+1060	3665	pfama1.02	2017-10-23	0	0	2017-10-23	2017-12-23	Female	< 5 years	1	False	False	True	Negative blood smear
+1061	3665	pfama1.02	2017-11-20	1	0	2017-10-23	2017-12-23	Female	< 5 years	2	False	False	True	Asymptomatic parasitemia
+1062	3665	pfama1.02	2017-12-18	2	0	2017-10-23	2017-12-23	Female	< 5 years	3	False	False	True	Asymptomatic parasitemia
+1063	3665	pfama1.02	2018-01-15	3	0	2017-10-23	2017-12-23	Female	< 5 years	4	False	False	True	Negative blood smear
+1064	3665	pfama1.02	2018-02-12	4	0	2017-10-23	2017-12-23	Female	< 5 years	5	False	False	True	Negative blood smear
+1065	3665	pfama1.02	2018-04-11	6	1	2017-10-23	2017-12-23	Female	< 5 years	6	False	False	True	Negative blood smear
+1066	3665	pfama1.02	2018-05-07	7	0	2017-10-23	2017-12-23	Female	< 5 years	7	False	False	True	Negative blood smear
+1067	3672	pfama1.04	2017-11-21	1	0	2017-10-24	2017-12-24	Male	16 years or older	1	False	False	True	Negative blood smear
+1068	3672	pfama1.04	2018-02-13	4	2	2017-10-24	2017-12-24	Male	16 years or older	2	False	False	True	Negative blood smear
+1069	3672	pfama1.04	2018-05-08	7	2	2017-10-24	2017-12-24	Male	16 years or older	3	False	False	True	Negative blood smear
+1070	3672	pfama1.04	2018-06-05	8	0	2017-10-24	2017-12-24	Male	16 years or older	4	False	False	True	Negative blood smear
+1071	3672	pfama1.04	2018-07-03	9	0	2017-10-24	2017-12-24	Male	16 years or older	5	False	False	True	Negative blood smear
+1072	3672	pfama1.04	2018-07-31	10	0	2017-10-24	2017-12-24	Male	16 years or older	6	False	False	True	Negative blood smear
+1073	3672	pfama1.04	2018-11-20	14	3	2017-10-24	2017-12-24	Male	16 years or older	7	False	False	True	Negative blood smear
+1074	3672	pfama1.04	2019-01-15	16	1	2017-10-24	2017-12-24	Male	16 years or older	8	False	False	True	Negative blood smear
+1075	3672	pfama1.04	2019-03-12	18	1	2017-10-24	2017-12-24	Male	16 years or older	9	False	False	True	Negative blood smear
+1076	3672	pfama1.11	2017-12-19	2	0	2017-10-24	2017-12-24	Male	16 years or older	1	False	False	True	Asymptomatic parasitemia
+1077	3672	pfama1.11	2018-01-16	3	0	2017-10-24	2017-12-24	Male	16 years or older	2	False	False	True	Negative blood smear
+1078	3672	pfama1.17	2017-10-24	0	0	2017-10-24	2017-12-24	Male	16 years or older	1	False	False	True	Negative blood smear
+1079	3672	pfama1.25	2017-10-24	0	0	2017-10-24	2017-12-24	Male	16 years or older	1	False	False	True	Negative blood smear
+1080	3672	pfama1.25	2017-11-21	1	0	2017-10-24	2017-12-24	Male	16 years or older	2	False	False	True	Negative blood smear
+1081	3672	pfama1.25	2017-12-19	2	0	2017-10-24	2017-12-24	Male	16 years or older	3	False	False	True	Asymptomatic parasitemia
+1082	3672	pfama1.25	2018-02-13	4	1	2017-10-24	2017-12-24	Male	16 years or older	4	False	False	True	Negative blood smear
+1083	3672	pfama1.25	2018-07-31	10	5	2017-10-24	2017-12-24	Male	16 years or older	5	True	True	False	Negative blood smear
+1084	3672	pfama1.25	2018-09-25	12	1	2017-10-24	2017-12-24	Male	16 years or older	6	False	True	False	Negative blood smear
+1085	3673	pfama1.03	2017-10-24	0	0	2017-10-24	2017-12-24	Female	16 years or older	1	False	False	True	Negative blood smear
+1086	3673	pfama1.03	2017-11-21	1	0	2017-10-24	2017-12-24	Female	16 years or older	2	False	False	True	Negative blood smear
+1087	3673	pfama1.03	2017-12-19	2	0	2017-10-24	2017-12-24	Female	16 years or older	3	False	False	True	Negative blood smear
+1088	3673	pfama1.03	2018-04-10	6	3	2017-10-24	2017-12-24	Female	16 years or older	4	False	False	True	Negative blood smear
+1089	3673	pfama1.03	2018-05-08	7	0	2017-10-24	2017-12-24	Female	16 years or older	5	False	False	True	Negative blood smear
+1090	3673	pfama1.09	2017-10-24	0	0	2017-10-24	2017-12-24	Female	16 years or older	1	False	False	True	Negative blood smear
+1091	3673	pfama1.09	2017-12-19	2	1	2017-10-24	2017-12-24	Female	16 years or older	2	False	False	True	Negative blood smear
+1092	3677	pfama1.01	2018-01-16	3	3	2017-10-24	2017-12-24	Male	16 years or older	1	True	True	False	Negative blood smear
+1093	3677	pfama1.01	2018-01-30	4	0	2017-10-24	2017-12-24	Male	16 years or older	2	False	True	False	Malaria
+1094	3677	pfama1.02	2017-10-24	0	0	2017-10-24	2017-12-24	Male	16 years or older	1	False	False	True	Asymptomatic parasitemia
+1095	3677	pfama1.02	2017-12-19	2	1	2017-10-24	2017-12-24	Male	16 years or older	2	False	False	True	Asymptomatic parasitemia
+1096	3677	pfama1.02	2018-01-16	3	0	2017-10-24	2017-12-24	Male	16 years or older	3	False	False	True	Negative blood smear
+1097	3677	pfama1.02	2018-01-30	4	0	2017-10-24	2017-12-24	Male	16 years or older	4	False	False	True	Malaria
+1098	3677	pfama1.09	2017-12-19	2	0	2017-10-24	2017-12-24	Male	16 years or older	1	False	False	True	Asymptomatic parasitemia
+1099	3677	pfama1.09	2018-01-16	3	0	2017-10-24	2017-12-24	Male	16 years or older	2	False	False	True	Negative blood smear
+1100	3677	pfama1.09	2018-01-30	4	0	2017-10-24	2017-12-24	Male	16 years or older	3	False	False	True	Malaria
+1101	3677	pfama1.16	2017-10-24	0	0	2017-10-24	2017-12-24	Male	16 years or older	1	False	False	True	Asymptomatic parasitemia
+1102	3677	pfama1.16	2017-11-21	1	0	2017-10-24	2017-12-24	Male	16 years or older	2	False	False	True	Asymptomatic parasitemia
+1103	3677	pfama1.16	2017-12-19	2	0	2017-10-24	2017-12-24	Male	16 years or older	3	False	False	True	Asymptomatic parasitemia
+1104	3677	pfama1.24	2017-10-24	0	0	2017-10-24	2017-12-24	Male	16 years or older	1	False	False	True	Asymptomatic parasitemia
+1105	3677	pfama1.24	2017-11-21	1	0	2017-10-24	2017-12-24	Male	16 years or older	2	False	False	True	Asymptomatic parasitemia
+1106	3677	pfama1.24	2017-12-19	2	0	2017-10-24	2017-12-24	Male	16 years or older	3	False	False	True	Asymptomatic parasitemia
+1107	3677	pfama1.24	2018-01-16	3	0	2017-10-24	2017-12-24	Male	16 years or older	4	False	False	True	Negative blood smear
+1108	3677	pfama1.24	2018-01-30	4	0	2017-10-24	2017-12-24	Male	16 years or older	5	False	False	True	Malaria
+1109	3677	pfama1.24	2018-02-13	5	0	2017-10-24	2017-12-24	Male	16 years or older	6	False	False	True	Negative blood smear
+1110	3684	pfama1.16	2017-10-24	0	0	2017-10-24	2017-12-24	Female	16 years or older	1	False	False	True	Negative blood smear
+1111	3685	pfama1.03	2018-06-05	8	8	2017-10-24	2017-12-24	Female	< 5 years	1	True	True	False	Negative blood smear
+1112	3685	pfama1.03	2018-06-25	9	0	2017-10-24	2017-12-24	Female	< 5 years	2	False	True	False	Malaria
+1113	3685	pfama1.03	2018-07-03	10	0	2017-10-24	2017-12-24	Female	< 5 years	3	False	True	False	Negative blood smear
+1114	3685	pfama1.18	2017-10-24	0	0	2017-10-24	2017-12-24	Female	< 5 years	1	False	False	True	Asymptomatic parasitemia
+1115	3685	pfama1.18	2017-11-21	1	0	2017-10-24	2017-12-24	Female	< 5 years	2	False	False	True	Negative blood smear
+1116	3685	pfama1.18	2017-12-19	2	0	2017-10-24	2017-12-24	Female	< 5 years	3	False	False	True	Asymptomatic parasitemia
+1117	3685	pfama1.18	2018-01-16	3	0	2017-10-24	2017-12-24	Female	< 5 years	4	False	False	True	Asymptomatic parasitemia
+1118	3685	pfama1.18	2018-02-13	4	0	2017-10-24	2017-12-24	Female	< 5 years	5	False	False	True	Asymptomatic parasitemia
+1119	3685	pfama1.18	2018-05-08	7	2	2017-10-24	2017-12-24	Female	< 5 years	6	False	False	True	Negative blood smear
+1120	3685	pfama1.29	2017-10-24	0	0	2017-10-24	2017-12-24	Female	< 5 years	1	False	False	True	Asymptomatic parasitemia
+1121	3685	pfama1.29	2017-11-21	1	0	2017-10-24	2017-12-24	Female	< 5 years	2	False	False	True	Negative blood smear
+1122	3685	pfama1.29	2017-12-19	2	0	2017-10-24	2017-12-24	Female	< 5 years	3	False	False	True	Asymptomatic parasitemia
+1123	3685	pfama1.29	2018-01-16	3	0	2017-10-24	2017-12-24	Female	< 5 years	4	False	False	True	Asymptomatic parasitemia
+1124	3685	pfama1.29	2018-02-13	4	0	2017-10-24	2017-12-24	Female	< 5 years	5	False	False	True	Asymptomatic parasitemia
+1125	3685	pfama1.29	2018-03-13	5	0	2017-10-24	2017-12-24	Female	< 5 years	6	False	False	True	Negative blood smear
+1126	3685	pfama1.29	2018-04-10	6	0	2017-10-24	2017-12-24	Female	< 5 years	7	False	False	True	Negative blood smear
+1127	3685	pfama1.29	2018-05-08	7	0	2017-10-24	2017-12-24	Female	< 5 years	8	False	False	True	Negative blood smear
+1128	3685	pfama1.29	2018-06-05	8	0	2017-10-24	2017-12-24	Female	< 5 years	9	False	False	True	Negative blood smear
+1129	3699	pfama1.41	2018-08-28	11	11	2017-10-24	2017-12-24	Male	< 5 years	1	True	True	False	Negative blood smear
+1130	3708	pfama1.03	2017-10-25	0	0	2017-10-25	2017-12-25	Male	< 5 years	1	False	False	True	Asymptomatic parasitemia
+1131	3708	pfama1.03	2017-11-22	1	0	2017-10-25	2017-12-25	Male	< 5 years	2	False	False	True	Asymptomatic parasitemia
+1132	3708	pfama1.03	2017-12-20	2	0	2017-10-25	2017-12-25	Male	< 5 years	3	False	False	True	Asymptomatic parasitemia
+1133	3708	pfama1.03	2018-02-14	4	1	2017-10-25	2017-12-25	Male	< 5 years	4	False	False	True	Asymptomatic parasitemia
+1134	3708	pfama1.03	2018-04-11	6	1	2017-10-25	2017-12-25	Male	< 5 years	5	False	False	True	Negative blood smear
+1135	3708	pfama1.03	2018-05-09	7	0	2017-10-25	2017-12-25	Male	< 5 years	6	False	False	True	Negative blood smear
+1136	3708	pfama1.03	2018-06-06	8	0	2017-10-25	2017-12-25	Male	< 5 years	7	False	False	True	Negative blood smear
+1137	3708	pfama1.03	2018-07-04	9	0	2017-10-25	2017-12-25	Male	< 5 years	8	False	False	True	Negative blood smear
+1138	3708	pfama1.03	2018-08-01	10	0	2017-10-25	2017-12-25	Male	< 5 years	9	False	False	True	Negative blood smear
+1139	3709	pfama1.13	2017-10-25	0	0	2017-10-25	2017-12-25	Male	< 5 years	1	False	False	True	Asymptomatic parasitemia
+1140	3709	pfama1.13	2017-11-22	1	0	2017-10-25	2017-12-25	Male	< 5 years	2	False	False	True	Asymptomatic parasitemia
+1141	3709	pfama1.13	2017-12-20	2	0	2017-10-25	2017-12-25	Male	< 5 years	3	False	False	True	Asymptomatic parasitemia
+1142	3709	pfama1.13	2018-01-17	3	0	2017-10-25	2017-12-25	Male	< 5 years	4	False	False	True	Negative blood smear
+1143	3709	pfama1.13	2018-02-14	4	0	2017-10-25	2017-12-25	Male	< 5 years	5	False	False	True	Negative blood smear
+1144	3709	pfama1.13	2018-03-14	5	0	2017-10-25	2017-12-25	Male	< 5 years	6	False	False	True	Negative blood smear
+1145	3709	pfama1.13	2018-04-11	6	0	2017-10-25	2017-12-25	Male	< 5 years	7	False	False	True	Negative blood smear
+1146	3709	pfama1.13	2018-05-09	7	0	2017-10-25	2017-12-25	Male	< 5 years	8	False	False	True	Negative blood smear
+1147	3713	pfama1.19	2017-10-25	0	0	2017-10-25	2017-12-25	Male	5-15 years	1	False	False	True	Negative blood smear
+1148	3713	pfama1.19	2017-11-22	1	0	2017-10-25	2017-12-25	Male	5-15 years	2	False	False	True	Negative blood smear
+1149	3713	pfama1.19	2017-12-20	2	0	2017-10-25	2017-12-25	Male	5-15 years	3	False	False	True	Negative blood smear
+1150	3713	pfama1.19	2018-01-17	3	0	2017-10-25	2017-12-25	Male	5-15 years	4	False	False	True	Negative blood smear
+1151	3713	pfama1.19	2018-02-14	4	0	2017-10-25	2017-12-25	Male	5-15 years	5	False	False	True	Negative blood smear
+1152	3713	pfama1.19	2018-04-11	6	1	2017-10-25	2017-12-25	Male	5-15 years	6	False	False	True	Negative blood smear
+1153	3713	pfama1.19	2018-05-09	7	0	2017-10-25	2017-12-25	Male	5-15 years	7	False	False	True	Negative blood smear
+1154	3713	pfama1.19	2018-06-06	8	0	2017-10-25	2017-12-25	Male	5-15 years	8	False	False	True	Negative blood smear
+1155	3713	pfama1.19	2018-07-04	9	0	2017-10-25	2017-12-25	Male	5-15 years	9	False	False	True	Negative blood smear
+1156	3713	pfama1.19	2018-08-01	10	0	2017-10-25	2017-12-25	Male	5-15 years	10	False	False	True	Negative blood smear
+1157	3713	pfama1.19	2018-08-29	11	0	2017-10-25	2017-12-25	Male	5-15 years	11	False	False	True	Negative blood smear
+1158	3713	pfama1.19	2018-09-26	12	0	2017-10-25	2017-12-25	Male	5-15 years	12	False	False	True	Negative blood smear
+1159	3713	pfama1.19	2018-12-19	15	2	2017-10-25	2017-12-25	Male	5-15 years	13	False	False	True	Negative blood smear
+1160	3714	pfama1.05	2017-10-25	0	0	2017-10-25	2017-12-25	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+1161	3714	pfama1.05	2017-11-22	1	0	2017-10-25	2017-12-25	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+1162	3714	pfama1.05	2017-12-20	2	0	2017-10-25	2017-12-25	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+1163	3714	pfama1.05	2018-01-17	3	0	2017-10-25	2017-12-25	Male	5-15 years	4	False	False	True	Negative blood smear
+1164	3714	pfama1.05	2018-03-14	5	1	2017-10-25	2017-12-25	Male	5-15 years	5	False	False	True	Negative blood smear
+1165	3714	pfama1.05	2018-05-09	7	1	2017-10-25	2017-12-25	Male	5-15 years	6	False	False	True	Negative blood smear
+1166	3714	pfama1.05	2018-07-04	9	1	2017-10-25	2017-12-25	Male	5-15 years	7	False	False	True	Negative blood smear
+1167	3714	pfama1.05	2018-08-01	10	0	2017-10-25	2017-12-25	Male	5-15 years	8	False	False	True	Negative blood smear
+1168	3714	pfama1.10	2017-10-25	0	0	2017-10-25	2017-12-25	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+1169	3714	pfama1.10	2017-11-22	1	0	2017-10-25	2017-12-25	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+1170	3714	pfama1.10	2017-12-20	2	0	2017-10-25	2017-12-25	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+1171	3714	pfama1.10	2018-01-17	3	0	2017-10-25	2017-12-25	Male	5-15 years	4	False	False	True	Negative blood smear
+1172	3714	pfama1.10	2018-02-14	4	0	2017-10-25	2017-12-25	Male	5-15 years	5	False	False	True	Negative blood smear
+1173	3714	pfama1.10	2018-04-11	6	1	2017-10-25	2017-12-25	Male	5-15 years	6	False	False	True	Negative blood smear
+1174	3714	pfama1.10	2018-05-09	7	0	2017-10-25	2017-12-25	Male	5-15 years	7	False	False	True	Negative blood smear
+1175	3714	pfama1.10	2018-06-06	8	0	2017-10-25	2017-12-25	Male	5-15 years	8	False	False	True	Negative blood smear
+1176	3714	pfama1.10	2018-07-04	9	0	2017-10-25	2017-12-25	Male	5-15 years	9	False	False	True	Negative blood smear
+1177	3714	pfama1.10	2018-08-01	10	0	2017-10-25	2017-12-25	Male	5-15 years	10	False	False	True	Negative blood smear
+1178	3714	pfama1.10	2018-08-29	11	0	2017-10-25	2017-12-25	Male	5-15 years	11	False	False	True	Negative blood smear
+1179	3714	pfama1.10	2018-09-26	12	0	2017-10-25	2017-12-25	Male	5-15 years	12	False	False	True	Negative blood smear
+1180	3714	pfama1.10	2019-03-13	18	5	2017-10-25	2017-12-25	Male	5-15 years	13	True	True	False	Negative blood smear
+1181	3718	pfama1.06	2017-10-25	0	0	2017-10-25	2017-12-25	Male	5-15 years	1	False	False	True	Negative blood smear
+1182	3718	pfama1.06	2017-11-22	1	0	2017-10-25	2017-12-25	Male	5-15 years	2	False	False	True	Negative blood smear
+1183	3719	pfama1.00	2018-07-05	10	10	2017-10-25	2017-12-25	Male	< 5 years	1	True	True	False	Asymptomatic parasitemia
+1184	3719	pfama1.01	2018-07-05	10	10	2017-10-25	2017-12-25	Male	< 5 years	1	True	True	False	Asymptomatic parasitemia
+1185	3719	pfama1.03	2017-10-25	0	0	2017-10-25	2017-12-25	Male	< 5 years	1	False	False	True	Asymptomatic parasitemia
+1186	3719	pfama1.03	2017-11-13	1	0	2017-10-25	2017-12-25	Male	< 5 years	2	False	False	True	Malaria
+1187	3719	pfama1.21	2017-10-25	0	0	2017-10-25	2017-12-25	Male	< 5 years	1	False	False	True	Asymptomatic parasitemia
+1188	3719	pfama1.21	2017-11-13	1	0	2017-10-25	2017-12-25	Male	< 5 years	2	False	False	True	Malaria
+1189	3719	pfama1.21	2017-11-22	2	0	2017-10-25	2017-12-25	Male	< 5 years	3	False	False	True	Negative blood smear
+1190	3720	pfama1.00	2018-07-05	9	9	2017-10-25	2017-12-25	Female	< 5 years	1	True	True	False	Negative blood smear
+1191	3720	pfama1.00	2018-08-01	10	0	2017-10-25	2017-12-25	Female	< 5 years	2	False	True	False	Asymptomatic parasitemia
+1192	3720	pfama1.00	2018-08-29	11	0	2017-10-25	2017-12-25	Female	< 5 years	3	False	True	False	Negative blood smear
+1193	3720	pfama1.01	2017-10-25	0	0	2017-10-25	2017-12-25	Female	< 5 years	1	False	False	True	Asymptomatic parasitemia
+1194	3720	pfama1.01	2017-11-22	1	0	2017-10-25	2017-12-25	Female	< 5 years	2	False	False	True	Negative blood smear
+1195	3720	pfama1.01	2017-12-20	2	0	2017-10-25	2017-12-25	Female	< 5 years	3	False	False	True	Negative blood smear
+1196	3720	pfama1.01	2018-07-05	9	6	2017-10-25	2017-12-25	Female	< 5 years	4	True	True	False	Negative blood smear
+1197	3720	pfama1.01	2018-08-01	10	0	2017-10-25	2017-12-25	Female	< 5 years	5	False	True	False	Asymptomatic parasitemia
+1198	3720	pfama1.08	2017-10-25	0	0	2017-10-25	2017-12-25	Female	< 5 years	1	False	False	True	Asymptomatic parasitemia
+1199	3720	pfama1.21	2017-10-25	0	0	2017-10-25	2017-12-25	Female	< 5 years	1	False	False	True	Asymptomatic parasitemia
+1200	3720	pfama1.21	2017-11-22	1	0	2017-10-25	2017-12-25	Female	< 5 years	2	False	False	True	Negative blood smear
+1201	3728	pfama1.05	2017-10-25	0	0	2017-10-25	2017-12-25	Male	16 years or older	1	False	False	True	Negative blood smear
+1202	3728	pfama1.05	2017-11-22	1	0	2017-10-25	2017-12-25	Male	16 years or older	2	False	False	True	Negative blood smear
+1203	3728	pfama1.05	2017-12-20	2	0	2017-10-25	2017-12-25	Male	16 years or older	3	False	False	True	Negative blood smear
+1204	3728	pfama1.05	2018-01-17	3	0	2017-10-25	2017-12-25	Male	16 years or older	4	False	False	True	Negative blood smear
+1205	3728	pfama1.05	2018-02-14	4	0	2017-10-25	2017-12-25	Male	16 years or older	5	False	False	True	Negative blood smear
+1206	3728	pfama1.05	2018-04-11	6	1	2017-10-25	2017-12-25	Male	16 years or older	6	False	False	True	Negative blood smear
+1207	3728	pfama1.05	2018-05-09	7	0	2017-10-25	2017-12-25	Male	16 years or older	7	False	False	True	Negative blood smear
+1208	3728	pfama1.05	2018-06-06	8	0	2017-10-25	2017-12-25	Male	16 years or older	8	False	False	True	Negative blood smear
+1209	3728	pfama1.05	2018-08-01	10	1	2017-10-25	2017-12-25	Male	16 years or older	9	False	False	True	Negative blood smear
+1210	3728	pfama1.05	2018-08-29	11	0	2017-10-25	2017-12-25	Male	16 years or older	10	False	False	True	Negative blood smear
+1211	3728	pfama1.05	2018-09-26	12	0	2017-10-25	2017-12-25	Male	16 years or older	11	False	False	True	Negative blood smear
+1212	3728	pfama1.05	2018-10-24	13	0	2017-10-25	2017-12-25	Male	16 years or older	12	False	False	True	Negative blood smear
+1213	3728	pfama1.05	2018-11-21	14	0	2017-10-25	2017-12-25	Male	16 years or older	13	False	False	True	Negative blood smear
+1214	3728	pfama1.05	2019-01-16	16	1	2017-10-25	2017-12-25	Male	16 years or older	14	False	False	True	Negative blood smear
+1215	3728	pfama1.05	2019-03-13	18	1	2017-10-25	2017-12-25	Male	16 years or older	15	False	False	True	Negative blood smear
+1216	3742	pfama1.02	2018-09-03	11	11	2017-10-30	2017-12-30	Male	5-15 years	1	True	True	False	Negative blood smear
+1217	3744	pfama1.02	2018-10-01	12	12	2017-10-30	2017-12-30	Male	< 5 years	1	True	True	False	Asymptomatic parasitemia
+1218	3744	pfama1.02	2018-10-29	13	0	2017-10-30	2017-12-30	Male	< 5 years	2	False	True	False	Asymptomatic parasitemia
+1219	3744	pfama1.02	2018-11-26	14	0	2017-10-30	2017-12-30	Male	< 5 years	3	False	True	False	Asymptomatic parasitemia
+1220	3744	pfama1.02	2018-12-27	15	0	2017-10-30	2017-12-30	Male	< 5 years	4	False	True	False	Asymptomatic parasitemia
+1221	3744	pfama1.02	2019-01-21	16	0	2017-10-30	2017-12-30	Male	< 5 years	5	False	True	False	Asymptomatic parasitemia
+1222	3744	pfama1.02	2019-02-18	17	0	2017-10-30	2017-12-30	Male	< 5 years	6	False	True	False	Asymptomatic parasitemia
+1223	3744	pfama1.02	2019-03-18	18	0	2017-10-30	2017-12-30	Male	< 5 years	7	False	True	False	Asymptomatic parasitemia
+1224	3744	pfama1.11	2018-10-01	12	12	2017-10-30	2017-12-30	Male	< 5 years	1	True	True	False	Asymptomatic parasitemia
+1225	3744	pfama1.11	2018-10-29	13	0	2017-10-30	2017-12-30	Male	< 5 years	2	False	True	False	Asymptomatic parasitemia
+1226	3744	pfama1.11	2018-11-26	14	0	2017-10-30	2017-12-30	Male	< 5 years	3	False	True	False	Asymptomatic parasitemia
+1227	3744	pfama1.11	2018-12-27	15	0	2017-10-30	2017-12-30	Male	< 5 years	4	False	True	False	Asymptomatic parasitemia
+1228	3744	pfama1.11	2019-01-21	16	0	2017-10-30	2017-12-30	Male	< 5 years	5	False	True	False	Asymptomatic parasitemia
+1229	3744	pfama1.11	2019-02-18	17	0	2017-10-30	2017-12-30	Male	< 5 years	6	False	True	False	Asymptomatic parasitemia
+1230	3744	pfama1.11	2019-03-18	18	0	2017-10-30	2017-12-30	Male	< 5 years	7	False	True	False	Asymptomatic parasitemia
+1231	3744	pfama1.38	2018-10-01	12	12	2017-10-30	2017-12-30	Male	< 5 years	1	True	True	False	Asymptomatic parasitemia
+1232	3744	pfama1.38	2018-10-29	13	0	2017-10-30	2017-12-30	Male	< 5 years	2	False	True	False	Asymptomatic parasitemia
+1233	3744	pfama1.38	2018-11-26	14	0	2017-10-30	2017-12-30	Male	< 5 years	3	False	True	False	Asymptomatic parasitemia
+1234	3744	pfama1.38	2018-12-27	15	0	2017-10-30	2017-12-30	Male	< 5 years	4	False	True	False	Asymptomatic parasitemia
+1235	3744	pfama1.38	2019-01-21	16	0	2017-10-30	2017-12-30	Male	< 5 years	5	False	True	False	Asymptomatic parasitemia
+1236	3744	pfama1.38	2019-02-18	17	0	2017-10-30	2017-12-30	Male	< 5 years	6	False	True	False	Asymptomatic parasitemia
+1237	3746	pfama1.02	2017-10-30	0	0	2017-10-30	2017-12-30	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+1238	3746	pfama1.02	2017-11-27	1	0	2017-10-30	2017-12-30	Male	5-15 years	2	False	False	True	Negative blood smear
+1239	3746	pfama1.02	2017-12-27	2	0	2017-10-30	2017-12-30	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+1240	3746	pfama1.02	2018-01-22	3	0	2017-10-30	2017-12-30	Male	5-15 years	4	False	False	True	Negative blood smear
+1241	3746	pfama1.02	2018-02-19	4	0	2017-10-30	2017-12-30	Male	5-15 years	5	False	False	True	Negative blood smear
+1242	3746	pfama1.02	2018-03-19	5	0	2017-10-30	2017-12-30	Male	5-15 years	6	False	False	True	Negative blood smear
+1243	3746	pfama1.02	2018-04-16	6	0	2017-10-30	2017-12-30	Male	5-15 years	7	False	False	True	Negative blood smear
+1244	3746	pfama1.02	2018-05-14	7	0	2017-10-30	2017-12-30	Male	5-15 years	8	False	False	True	Negative blood smear
+1245	3746	pfama1.02	2018-06-11	8	0	2017-10-30	2017-12-30	Male	5-15 years	9	False	False	True	Negative blood smear
+1246	3746	pfama1.02	2018-07-09	9	0	2017-10-30	2017-12-30	Male	5-15 years	10	False	False	True	Negative blood smear
+1247	3746	pfama1.02	2018-08-06	10	0	2017-10-30	2017-12-30	Male	5-15 years	11	False	False	True	Negative blood smear
+1248	3746	pfama1.06	2017-10-30	0	0	2017-10-30	2017-12-30	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+1249	3746	pfama1.06	2017-11-27	1	0	2017-10-30	2017-12-30	Male	5-15 years	2	False	False	True	Negative blood smear
+1250	3746	pfama1.06	2017-12-27	2	0	2017-10-30	2017-12-30	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+1251	3746	pfama1.06	2018-01-22	3	0	2017-10-30	2017-12-30	Male	5-15 years	4	False	False	True	Negative blood smear
+1252	3746	pfama1.06	2018-04-16	6	2	2017-10-30	2017-12-30	Male	5-15 years	5	False	False	True	Negative blood smear
+1253	3746	pfama1.06	2018-05-14	7	0	2017-10-30	2017-12-30	Male	5-15 years	6	False	False	True	Negative blood smear
+1254	3746	pfama1.06	2018-07-09	9	1	2017-10-30	2017-12-30	Male	5-15 years	7	False	False	True	Negative blood smear
+1255	3747	pfama1.01	2017-10-30	0	0	2017-10-30	2017-12-30	Female	5-15 years	1	False	False	True	Negative blood smear
+1256	3747	pfama1.01	2017-11-27	1	0	2017-10-30	2017-12-30	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+1257	3747	pfama1.01	2017-12-27	2	0	2017-10-30	2017-12-30	Female	5-15 years	3	False	False	True	Asymptomatic parasitemia
+1258	3747	pfama1.01	2018-01-22	3	0	2017-10-30	2017-12-30	Female	5-15 years	4	False	False	True	Negative blood smear
+1259	3747	pfama1.01	2018-02-19	4	0	2017-10-30	2017-12-30	Female	5-15 years	5	False	False	True	Negative blood smear
+1260	3747	pfama1.01	2018-03-19	5	0	2017-10-30	2017-12-30	Female	5-15 years	6	False	False	True	Negative blood smear
+1261	3747	pfama1.01	2018-04-16	6	0	2017-10-30	2017-12-30	Female	5-15 years	7	False	False	True	Negative blood smear
+1262	3747	pfama1.01	2018-05-14	7	0	2017-10-30	2017-12-30	Female	5-15 years	8	False	False	True	Negative blood smear
+1263	3747	pfama1.01	2018-06-11	8	0	2017-10-30	2017-12-30	Female	5-15 years	9	False	False	True	Negative blood smear
+1264	3747	pfama1.01	2018-07-09	9	0	2017-10-30	2017-12-30	Female	5-15 years	10	False	False	True	Negative blood smear
+1265	3758	pfama1.20	2017-11-27	1	0	2017-10-30	2017-12-30	Male	5-15 years	1	False	False	True	Negative blood smear
+1266	3758	pfama1.20	2017-12-27	2	0	2017-10-30	2017-12-30	Male	5-15 years	2	False	False	True	Negative blood smear
+1267	3761	pfama1.07	2017-10-30	0	0	2017-10-30	2017-12-30	Female	< 5 years	1	False	False	True	Asymptomatic parasitemia
+1268	3761	pfama1.07	2017-11-27	1	0	2017-10-30	2017-12-30	Female	< 5 years	2	False	False	True	Asymptomatic parasitemia
+1269	3761	pfama1.07	2017-12-27	2	0	2017-10-30	2017-12-30	Female	< 5 years	3	False	False	True	Negative blood smear
+1270	3761	pfama1.07	2018-01-22	3	0	2017-10-30	2017-12-30	Female	< 5 years	4	False	False	True	Negative blood smear
+1271	3761	pfama1.07	2018-02-19	4	0	2017-10-30	2017-12-30	Female	< 5 years	5	False	False	True	Asymptomatic parasitemia
+1272	3761	pfama1.07	2018-03-19	5	0	2017-10-30	2017-12-30	Female	< 5 years	6	False	False	True	Negative blood smear
+1273	3761	pfama1.07	2018-04-16	6	0	2017-10-30	2017-12-30	Female	< 5 years	7	False	False	True	Negative blood smear
+1274	3761	pfama1.07	2018-07-09	9	2	2017-10-30	2017-12-30	Female	< 5 years	8	False	False	True	Asymptomatic parasitemia
+1275	3761	pfama1.07	2018-12-27	15	5	2017-10-30	2017-12-30	Female	< 5 years	9	True	True	False	Negative blood smear
+1276	3762	pfama1.14	2017-10-30	0	0	2017-10-30	2017-12-30	Male	5-15 years	1	False	False	True	Negative blood smear
+1277	3762	pfama1.14	2017-11-27	1	0	2017-10-30	2017-12-30	Male	5-15 years	2	False	False	True	Negative blood smear
+1278	3762	pfama1.14	2018-01-22	3	1	2017-10-30	2017-12-30	Male	5-15 years	3	False	False	True	Negative blood smear
+1279	3764	pfama1.06	2018-09-03	7	7	2017-10-30	2017-12-30	Female	16 years or older	1	True	True	False	Negative blood smear
+1280	3766	pfama1.00	2017-11-27	1	0	2017-10-30	2017-12-30	Female	5-15 years	1	False	False	True	Negative blood smear
+1281	3766	pfama1.00	2017-12-27	2	0	2017-10-30	2017-12-30	Female	5-15 years	2	False	False	True	Asymptomatic parasitemia
+1282	3766	pfama1.00	2018-01-22	3	0	2017-10-30	2017-12-30	Female	5-15 years	3	False	False	True	Negative blood smear
+1283	3766	pfama1.00	2018-04-16	6	2	2017-10-30	2017-12-30	Female	5-15 years	4	False	False	True	Negative blood smear
+1284	3766	pfama1.00	2018-05-14	7	0	2017-10-30	2017-12-30	Female	5-15 years	5	False	False	True	Negative blood smear
+1285	3766	pfama1.00	2018-08-06	10	2	2017-10-30	2017-12-30	Female	5-15 years	6	False	False	True	Negative blood smear
+1286	3766	pfama1.00	2018-09-03	11	0	2017-10-30	2017-12-30	Female	5-15 years	7	False	False	True	Negative blood smear
+1287	3766	pfama1.00	2018-10-01	12	0	2017-10-30	2017-12-30	Female	5-15 years	8	False	False	True	Negative blood smear
+1288	3766	pfama1.00	2018-10-29	13	0	2017-10-30	2017-12-30	Female	5-15 years	9	False	False	True	Negative blood smear
+1289	3766	pfama1.00	2018-12-27	15	1	2017-10-30	2017-12-30	Female	5-15 years	10	False	False	True	Negative blood smear
+1290	3766	pfama1.00	2019-01-21	16	0	2017-10-30	2017-12-30	Female	5-15 years	11	False	False	True	Negative blood smear
+1291	3766	pfama1.00	2019-02-18	17	0	2017-10-30	2017-12-30	Female	5-15 years	12	False	False	True	Negative blood smear
+1292	3766	pfama1.04	2017-10-30	0	0	2017-10-30	2017-12-30	Female	5-15 years	1	False	False	True	Negative blood smear
+1293	3766	pfama1.04	2017-11-27	1	0	2017-10-30	2017-12-30	Female	5-15 years	2	False	False	True	Negative blood smear
+1294	3766	pfama1.04	2017-12-27	2	0	2017-10-30	2017-12-30	Female	5-15 years	3	False	False	True	Asymptomatic parasitemia
+1295	3766	pfama1.04	2018-01-22	3	0	2017-10-30	2017-12-30	Female	5-15 years	4	False	False	True	Negative blood smear
+1296	3766	pfama1.04	2018-02-19	4	0	2017-10-30	2017-12-30	Female	5-15 years	5	False	False	True	Negative blood smear
+1297	3766	pfama1.04	2018-03-19	5	0	2017-10-30	2017-12-30	Female	5-15 years	6	False	False	True	Negative blood smear
+1298	3766	pfama1.04	2018-05-14	7	1	2017-10-30	2017-12-30	Female	5-15 years	7	False	False	True	Negative blood smear
+1299	3766	pfama1.04	2018-06-11	8	0	2017-10-30	2017-12-30	Female	5-15 years	8	False	False	True	Negative blood smear
+1300	3766	pfama1.04	2018-07-09	9	0	2017-10-30	2017-12-30	Female	5-15 years	9	False	False	True	Negative blood smear
+1301	3766	pfama1.04	2018-08-06	10	0	2017-10-30	2017-12-30	Female	5-15 years	10	False	False	True	Negative blood smear
+1302	3766	pfama1.04	2018-09-03	11	0	2017-10-30	2017-12-30	Female	5-15 years	11	False	False	True	Negative blood smear
+1303	3766	pfama1.04	2018-10-01	12	0	2017-10-30	2017-12-30	Female	5-15 years	12	False	False	True	Negative blood smear
+1304	3766	pfama1.04	2018-10-29	13	0	2017-10-30	2017-12-30	Female	5-15 years	13	False	False	True	Negative blood smear
+1305	3766	pfama1.04	2018-11-26	14	0	2017-10-30	2017-12-30	Female	5-15 years	14	False	False	True	Negative blood smear
+1306	3766	pfama1.04	2018-12-27	15	0	2017-10-30	2017-12-30	Female	5-15 years	15	False	False	True	Negative blood smear
+1307	3766	pfama1.04	2019-01-21	16	0	2017-10-30	2017-12-30	Female	5-15 years	16	False	False	True	Negative blood smear
+1308	3766	pfama1.04	2019-02-18	17	0	2017-10-30	2017-12-30	Female	5-15 years	17	False	False	True	Negative blood smear
+1309	3766	pfama1.04	2019-03-18	18	0	2017-10-30	2017-12-30	Female	5-15 years	18	False	False	True	Negative blood smear
+1310	3769	pfama1.01	2018-09-01	9	9	2017-10-30	2017-12-30	Male	< 5 years	1	True	True	False	Malaria
+1311	3769	pfama1.01	2018-09-03	10	0	2017-10-30	2017-12-30	Male	< 5 years	2	False	True	False	Malaria
+1312	3769	pfama1.02	2019-01-21	15	15	2017-10-30	2017-12-30	Male	< 5 years	1	True	True	False	Asymptomatic parasitemia
+1313	3769	pfama1.03	2018-09-01	9	9	2017-10-30	2017-12-30	Male	< 5 years	1	True	True	False	Malaria
+1314	3769	pfama1.03	2018-09-03	10	0	2017-10-30	2017-12-30	Male	< 5 years	2	False	True	False	Malaria
+1315	3769	pfama1.10	2019-01-21	15	15	2017-10-30	2017-12-30	Male	< 5 years	1	True	True	False	Asymptomatic parasitemia
+1316	3773	pfama1.04	2017-10-30	0	0	2017-10-30	2017-12-30	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+1317	3773	pfama1.04	2017-11-01	1	0	2017-10-30	2017-12-30	Female	5-15 years	2	False	False	True	Malaria
+1318	3773	pfama1.13	2017-11-27	2	0	2017-10-30	2017-12-30	Female	5-15 years	1	False	False	True	Negative blood smear
+1319	3773	pfama1.14	2017-10-30	0	0	2017-10-30	2017-12-30	Female	5-15 years	1	False	False	True	Asymptomatic parasitemia
+1320	3773	pfama1.14	2017-11-01	1	0	2017-10-30	2017-12-30	Female	5-15 years	2	False	False	True	Malaria
+1321	3777	pfama1.07	2017-10-30	0	0	2017-10-30	2017-12-30	Female	16 years or older	1	False	False	True	Negative blood smear
+1322	3777	pfama1.07	2017-11-27	1	0	2017-10-30	2017-12-30	Female	16 years or older	2	False	False	True	Negative blood smear
+1323	3777	pfama1.07	2017-12-27	2	0	2017-10-30	2017-12-30	Female	16 years or older	3	False	False	True	Asymptomatic parasitemia
+1324	3777	pfama1.07	2018-01-22	3	0	2017-10-30	2017-12-30	Female	16 years or older	4	False	False	True	Negative blood smear
+1325	3777	pfama1.07	2018-03-19	5	1	2017-10-30	2017-12-30	Female	16 years or older	5	False	False	True	Negative blood smear
+1326	3777	pfama1.07	2018-05-14	7	1	2017-10-30	2017-12-30	Female	16 years or older	6	False	False	True	Negative blood smear
+1327	3777	pfama1.09	2018-04-16	6	6	2017-10-30	2017-12-30	Female	16 years or older	1	True	True	False	Negative blood smear
+1328	3777	pfama1.09	2018-10-01	12	5	2017-10-30	2017-12-30	Female	16 years or older	2	True	True	False	Negative blood smear
+1329	3777	pfama1.09	2018-10-29	13	0	2017-10-30	2017-12-30	Female	16 years or older	3	False	True	False	Negative blood smear
+1330	3777	pfama1.11	2017-11-27	1	0	2017-10-30	2017-12-30	Female	16 years or older	1	False	False	True	Negative blood smear
+1331	3777	pfama1.11	2017-12-27	2	0	2017-10-30	2017-12-30	Female	16 years or older	2	False	False	True	Asymptomatic parasitemia
+1332	3777	pfama1.11	2018-04-16	6	3	2017-10-30	2017-12-30	Female	16 years or older	3	False	False	True	Negative blood smear
+1333	3777	pfama1.16	2017-12-27	2	0	2017-10-30	2017-12-30	Female	16 years or older	1	False	False	True	Asymptomatic parasitemia
+1334	3777	pfama1.16	2018-01-22	3	0	2017-10-30	2017-12-30	Female	16 years or older	2	False	False	True	Negative blood smear
+1335	3777	pfama1.16	2018-02-19	4	0	2017-10-30	2017-12-30	Female	16 years or older	3	False	False	True	Negative blood smear
+1336	3777	pfama1.16	2018-03-19	5	0	2017-10-30	2017-12-30	Female	16 years or older	4	False	False	True	Negative blood smear
+1337	3777	pfama1.16	2018-05-14	7	1	2017-10-30	2017-12-30	Female	16 years or older	5	False	False	True	Negative blood smear
+1338	3777	pfama1.16	2018-06-11	8	0	2017-10-30	2017-12-30	Female	16 years or older	6	False	False	True	Negative blood smear
+1339	3777	pfama1.16	2018-07-09	9	0	2017-10-30	2017-12-30	Female	16 years or older	7	False	False	True	Negative blood smear
+1340	3777	pfama1.16	2018-10-29	13	3	2017-10-30	2017-12-30	Female	16 years or older	8	False	False	True	Negative blood smear
+1341	3777	pfama1.16	2018-12-27	15	1	2017-10-30	2017-12-30	Female	16 years or older	9	False	False	True	Negative blood smear
+1342	3777	pfama1.42	2017-11-27	1	0	2017-10-30	2017-12-30	Female	16 years or older	1	False	False	True	Negative blood smear
+1343	3777	pfama1.42	2017-12-27	2	0	2017-10-30	2017-12-30	Female	16 years or older	2	False	False	True	Asymptomatic parasitemia
+1344	3779	pfama1.06	2017-11-17	1	0	2017-10-30	2017-12-30	Female	5-15 years	1	False	False	True	Malaria
+1345	3779	pfama1.06	2017-11-27	2	0	2017-10-30	2017-12-30	Female	5-15 years	2	False	False	True	Negative blood smear
+1346	3782	pfama1.02	2018-06-07	8	8	2017-10-30	2017-12-30	Female	< 5 years	1	True	True	False	Malaria
+1347	3782	pfama1.04	2018-06-07	8	8	2017-10-30	2017-12-30	Female	< 5 years	1	True	True	False	Malaria
+1348	3782	pfama1.09	2018-06-07	8	8	2017-10-30	2017-12-30	Female	< 5 years	1	True	True	False	Malaria
+1349	3782	pfama1.09	2018-06-11	9	0	2017-10-30	2017-12-30	Female	< 5 years	2	False	True	False	Negative blood smear
+1350	3782	pfama1.12	2018-06-07	8	8	2017-10-30	2017-12-30	Female	< 5 years	1	True	True	False	Malaria
+1351	3782	pfama1.12	2018-06-11	9	0	2017-10-30	2017-12-30	Female	< 5 years	2	False	True	False	Negative blood smear
+1352	3782	pfama1.20	2018-06-07	8	8	2017-10-30	2017-12-30	Female	< 5 years	1	True	True	False	Malaria
+1353	3785	pfama1.00	2017-12-28	2	0	2017-10-31	2017-12-31	Male	16 years or older	1	False	False	True	Negative blood smear
+1354	3785	pfama1.00	2018-04-18	6	3	2017-10-31	2017-12-31	Male	16 years or older	2	False	False	True	Asymptomatic parasitemia
+1355	3785	pfama1.00	2018-05-15	7	0	2017-10-31	2017-12-31	Male	16 years or older	3	False	False	True	Negative blood smear
+1356	3785	pfama1.00	2018-06-12	8	0	2017-10-31	2017-12-31	Male	16 years or older	4	False	False	True	Negative blood smear
+1357	3785	pfama1.00	2018-09-04	11	2	2017-10-31	2017-12-31	Male	16 years or older	5	False	False	True	Asymptomatic parasitemia
+1358	3785	pfama1.00	2018-10-30	13	1	2017-10-31	2017-12-31	Male	16 years or older	6	False	False	True	Negative blood smear
+1359	3785	pfama1.00	2018-11-27	14	0	2017-10-31	2017-12-31	Male	16 years or older	7	False	False	True	Negative blood smear
+1360	3785	pfama1.26	2017-10-31	0	0	2017-10-31	2017-12-31	Male	16 years or older	1	False	False	True	Negative blood smear
+1361	3785	pfama1.26	2017-11-28	1	0	2017-10-31	2017-12-31	Male	16 years or older	2	False	False	True	Negative blood smear
+1362	3785	pfama1.26	2017-12-28	2	0	2017-10-31	2017-12-31	Male	16 years or older	3	False	False	True	Negative blood smear
+1363	3785	pfama1.26	2018-01-24	3	0	2017-10-31	2017-12-31	Male	16 years or older	4	False	False	True	Negative blood smear
+1364	3785	pfama1.26	2018-02-20	4	0	2017-10-31	2017-12-31	Male	16 years or older	5	False	False	True	Negative blood smear
+1365	3785	pfama1.26	2018-04-18	6	1	2017-10-31	2017-12-31	Male	16 years or older	6	False	False	True	Asymptomatic parasitemia
+1366	3785	pfama1.26	2018-05-15	7	0	2017-10-31	2017-12-31	Male	16 years or older	7	False	False	True	Negative blood smear
+1367	3785	pfama1.26	2018-06-12	8	0	2017-10-31	2017-12-31	Male	16 years or older	8	False	False	True	Negative blood smear
+1368	3785	pfama1.26	2018-07-10	9	0	2017-10-31	2017-12-31	Male	16 years or older	9	False	False	True	Negative blood smear
+1369	3785	pfama1.26	2018-09-04	11	1	2017-10-31	2017-12-31	Male	16 years or older	10	False	False	True	Asymptomatic parasitemia
+1370	3785	pfama1.26	2018-10-02	12	0	2017-10-31	2017-12-31	Male	16 years or older	11	False	False	True	Negative blood smear
+1371	3785	pfama1.26	2018-12-28	15	2	2017-10-31	2017-12-31	Male	16 years or older	12	False	False	True	Negative blood smear
+1372	3785	pfama1.26	2019-01-22	16	0	2017-10-31	2017-12-31	Male	16 years or older	13	False	False	True	Negative blood smear
+1373	3785	pfama1.26	2019-02-19	17	0	2017-10-31	2017-12-31	Male	16 years or older	14	False	False	True	Negative blood smear
+1374	3786	pfama1.01	2017-10-31	0	0	2017-10-31	2017-12-31	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+1375	3786	pfama1.01	2017-12-28	2	1	2017-10-31	2017-12-31	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+1376	3786	pfama1.01	2018-01-24	3	0	2017-10-31	2017-12-31	Male	5-15 years	3	False	False	True	Negative blood smear
+1377	3786	pfama1.01	2018-03-20	5	1	2017-10-31	2017-12-31	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+1378	3786	pfama1.01	2018-04-19	6	0	2017-10-31	2017-12-31	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+1379	3786	pfama1.01	2018-05-15	7	0	2017-10-31	2017-12-31	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+1380	3786	pfama1.01	2018-06-12	8	0	2017-10-31	2017-12-31	Male	5-15 years	7	False	False	True	Negative blood smear
+1381	3786	pfama1.01	2018-09-04	11	2	2017-10-31	2017-12-31	Male	5-15 years	8	False	False	True	Negative blood smear
+1382	3786	pfama1.01	2018-10-02	12	0	2017-10-31	2017-12-31	Male	5-15 years	9	False	False	True	Negative blood smear
+1383	3786	pfama1.01	2018-10-30	13	0	2017-10-31	2017-12-31	Male	5-15 years	10	False	False	True	Negative blood smear
+1384	3786	pfama1.03	2017-11-28	1	0	2017-10-31	2017-12-31	Male	5-15 years	1	False	False	True	Negative blood smear
+1385	3786	pfama1.03	2017-12-28	2	0	2017-10-31	2017-12-31	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+1386	3786	pfama1.03	2018-01-24	3	0	2017-10-31	2017-12-31	Male	5-15 years	3	False	False	True	Negative blood smear
+1387	3786	pfama1.03	2018-02-20	4	0	2017-10-31	2017-12-31	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+1388	3786	pfama1.03	2018-04-19	6	1	2017-10-31	2017-12-31	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+1389	3786	pfama1.03	2018-05-15	7	0	2017-10-31	2017-12-31	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+1390	3786	pfama1.03	2018-06-12	8	0	2017-10-31	2017-12-31	Male	5-15 years	7	False	False	True	Negative blood smear
+1391	3786	pfama1.03	2018-07-10	9	0	2017-10-31	2017-12-31	Male	5-15 years	8	False	False	True	Negative blood smear
+1392	3786	pfama1.03	2018-08-07	10	0	2017-10-31	2017-12-31	Male	5-15 years	9	False	False	True	Negative blood smear
+1393	3786	pfama1.03	2018-09-04	11	0	2017-10-31	2017-12-31	Male	5-15 years	10	False	False	True	Negative blood smear
+1394	3786	pfama1.03	2018-10-02	12	0	2017-10-31	2017-12-31	Male	5-15 years	11	False	False	True	Negative blood smear
+1395	3786	pfama1.03	2018-10-30	13	0	2017-10-31	2017-12-31	Male	5-15 years	12	False	False	True	Negative blood smear
+1396	3786	pfama1.03	2018-11-28	14	0	2017-10-31	2017-12-31	Male	5-15 years	13	False	False	True	Negative blood smear
+1397	3786	pfama1.03	2018-12-28	15	0	2017-10-31	2017-12-31	Male	5-15 years	14	False	False	True	Negative blood smear
+1398	3786	pfama1.03	2019-01-22	16	0	2017-10-31	2017-12-31	Male	5-15 years	15	False	False	True	Negative blood smear
+1399	3786	pfama1.03	2019-02-19	17	0	2017-10-31	2017-12-31	Male	5-15 years	16	False	False	True	Negative blood smear
+1400	3786	pfama1.03	2019-03-19	18	0	2017-10-31	2017-12-31	Male	5-15 years	17	False	False	True	Negative blood smear
+1401	3786	pfama1.04	2017-10-31	0	0	2017-10-31	2017-12-31	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+1402	3786	pfama1.04	2018-01-24	3	2	2017-10-31	2017-12-31	Male	5-15 years	2	False	False	True	Negative blood smear
+1403	3786	pfama1.05	2017-10-31	0	0	2017-10-31	2017-12-31	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+1404	3786	pfama1.05	2017-12-28	2	1	2017-10-31	2017-12-31	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+1405	3786	pfama1.05	2018-01-24	3	0	2017-10-31	2017-12-31	Male	5-15 years	3	False	False	True	Negative blood smear
+1406	3786	pfama1.05	2018-02-20	4	0	2017-10-31	2017-12-31	Male	5-15 years	4	False	False	True	Asymptomatic parasitemia
+1407	3786	pfama1.05	2018-03-20	5	0	2017-10-31	2017-12-31	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+1408	3786	pfama1.05	2018-04-19	6	0	2017-10-31	2017-12-31	Male	5-15 years	6	False	False	True	Asymptomatic parasitemia
+1409	3786	pfama1.05	2018-05-15	7	0	2017-10-31	2017-12-31	Male	5-15 years	7	False	False	True	Asymptomatic parasitemia
+1410	3786	pfama1.05	2018-06-12	8	0	2017-10-31	2017-12-31	Male	5-15 years	8	False	False	True	Negative blood smear
+1411	3786	pfama1.05	2018-07-10	9	0	2017-10-31	2017-12-31	Male	5-15 years	9	False	False	True	Negative blood smear
+1412	3786	pfama1.05	2018-08-07	10	0	2017-10-31	2017-12-31	Male	5-15 years	10	False	False	True	Negative blood smear
+1413	3786	pfama1.05	2018-12-28	15	4	2017-10-31	2017-12-31	Male	5-15 years	11	True	True	False	Negative blood smear
+1414	3786	pfama1.05	2019-01-22	16	0	2017-10-31	2017-12-31	Male	5-15 years	12	False	True	False	Negative blood smear
+1415	3786	pfama1.05	2019-02-19	17	0	2017-10-31	2017-12-31	Male	5-15 years	13	False	True	False	Negative blood smear
+1416	3786	pfama1.05	2019-03-19	18	0	2017-10-31	2017-12-31	Male	5-15 years	14	False	True	False	Negative blood smear
+1417	3786	pfama1.06	2017-11-28	1	0	2017-10-31	2017-12-31	Male	5-15 years	1	False	False	True	Negative blood smear
+1418	3786	pfama1.06	2018-04-19	6	4	2017-10-31	2017-12-31	Male	5-15 years	2	True	True	False	Asymptomatic parasitemia
+1419	3786	pfama1.06	2018-05-15	7	0	2017-10-31	2017-12-31	Male	5-15 years	3	False	True	False	Asymptomatic parasitemia
+1420	3786	pfama1.06	2018-06-12	8	0	2017-10-31	2017-12-31	Male	5-15 years	4	False	True	False	Negative blood smear
+1421	3786	pfama1.06	2018-07-10	9	0	2017-10-31	2017-12-31	Male	5-15 years	5	False	True	False	Negative blood smear
+1422	3786	pfama1.06	2018-10-30	13	3	2017-10-31	2017-12-31	Male	5-15 years	6	False	True	False	Negative blood smear
+1423	3786	pfama1.06	2019-01-22	16	2	2017-10-31	2017-12-31	Male	5-15 years	7	False	True	False	Negative blood smear
+1424	3786	pfama1.06	2019-02-19	17	0	2017-10-31	2017-12-31	Male	5-15 years	8	False	True	False	Negative blood smear
+1425	3786	pfama1.06	2019-03-19	18	0	2017-10-31	2017-12-31	Male	5-15 years	9	False	True	False	Negative blood smear
+1426	3786	pfama1.14	2017-10-31	0	0	2017-10-31	2017-12-31	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+1427	3786	pfama1.14	2017-12-28	2	1	2017-10-31	2017-12-31	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+1428	3786	pfama1.14	2018-02-20	4	1	2017-10-31	2017-12-31	Male	5-15 years	3	False	False	True	Asymptomatic parasitemia
+1429	3786	pfama1.22	2018-08-07	10	10	2017-10-31	2017-12-31	Male	5-15 years	1	True	True	False	Negative blood smear
+1430	3787	pfama1.04	2017-10-31	0	0	2017-10-31	2017-12-31	Male	5-15 years	1	False	False	True	Negative blood smear
+1431	3787	pfama1.04	2017-11-28	1	0	2017-10-31	2017-12-31	Male	5-15 years	2	False	False	True	Negative blood smear
+1432	3787	pfama1.04	2017-12-28	2	0	2017-10-31	2017-12-31	Male	5-15 years	3	False	False	True	Negative blood smear
+1433	3787	pfama1.04	2018-01-24	3	0	2017-10-31	2017-12-31	Male	5-15 years	4	False	False	True	Negative blood smear
+1434	3787	pfama1.04	2018-02-20	4	0	2017-10-31	2017-12-31	Male	5-15 years	5	False	False	True	Negative blood smear
+1435	3787	pfama1.04	2018-04-18	6	1	2017-10-31	2017-12-31	Male	5-15 years	6	False	False	True	Negative blood smear
+1436	3787	pfama1.04	2018-05-15	7	0	2017-10-31	2017-12-31	Male	5-15 years	7	False	False	True	Negative blood smear
+1437	3787	pfama1.04	2018-06-12	8	0	2017-10-31	2017-12-31	Male	5-15 years	8	False	False	True	Negative blood smear
+1438	3787	pfama1.04	2018-08-07	10	1	2017-10-31	2017-12-31	Male	5-15 years	9	False	False	True	Negative blood smear
+1439	3787	pfama1.04	2018-09-04	11	0	2017-10-31	2017-12-31	Male	5-15 years	10	False	False	True	Negative blood smear
+1440	3787	pfama1.04	2018-10-02	12	0	2017-10-31	2017-12-31	Male	5-15 years	11	False	False	True	Negative blood smear
+1441	3787	pfama1.04	2018-10-30	13	0	2017-10-31	2017-12-31	Male	5-15 years	12	False	False	True	Negative blood smear
+1442	3787	pfama1.04	2019-01-22	16	2	2017-10-31	2017-12-31	Male	5-15 years	13	False	False	True	Negative blood smear
+1443	3787	pfama1.04	2019-02-19	17	0	2017-10-31	2017-12-31	Male	5-15 years	14	False	False	True	Negative blood smear
+1444	3787	pfama1.04	2019-03-19	18	0	2017-10-31	2017-12-31	Male	5-15 years	15	False	False	True	Negative blood smear
+1445	3801	pfama1.00	2018-10-30	13	13	2017-10-31	2017-12-31	Male	16 years or older	1	True	True	False	Asymptomatic parasitemia
+1446	3801	pfama1.00	2018-11-27	14	0	2017-10-31	2017-12-31	Male	16 years or older	2	False	True	False	Asymptomatic parasitemia
+1447	3801	pfama1.00	2018-12-28	15	0	2017-10-31	2017-12-31	Male	16 years or older	3	False	True	False	Negative blood smear
+1448	3801	pfama1.01	2018-10-30	13	13	2017-10-31	2017-12-31	Male	16 years or older	1	True	True	False	Asymptomatic parasitemia
+1449	3801	pfama1.01	2018-11-27	14	0	2017-10-31	2017-12-31	Male	16 years or older	2	False	True	False	Asymptomatic parasitemia
+1450	3801	pfama1.01	2018-12-28	15	0	2017-10-31	2017-12-31	Male	16 years or older	3	False	True	False	Negative blood smear
+1451	3801	pfama1.01	2019-01-22	16	0	2017-10-31	2017-12-31	Male	16 years or older	4	False	True	False	Negative blood smear
+1452	3801	pfama1.01	2019-02-19	17	0	2017-10-31	2017-12-31	Male	16 years or older	5	False	True	False	Negative blood smear
+1453	3801	pfama1.04	2018-10-30	13	13	2017-10-31	2017-12-31	Male	16 years or older	1	True	True	False	Asymptomatic parasitemia
+1454	3801	pfama1.04	2018-11-27	14	0	2017-10-31	2017-12-31	Male	16 years or older	2	False	True	False	Asymptomatic parasitemia
+1455	3801	pfama1.04	2018-12-28	15	0	2017-10-31	2017-12-31	Male	16 years or older	3	False	True	False	Negative blood smear
+1456	3801	pfama1.04	2019-01-22	16	0	2017-10-31	2017-12-31	Male	16 years or older	4	False	True	False	Negative blood smear
+1457	3801	pfama1.08	2018-10-30	13	13	2017-10-31	2017-12-31	Male	16 years or older	1	True	True	False	Asymptomatic parasitemia
+1458	3801	pfama1.08	2018-11-27	14	0	2017-10-31	2017-12-31	Male	16 years or older	2	False	True	False	Asymptomatic parasitemia
+1459	3801	pfama1.08	2018-12-28	15	0	2017-10-31	2017-12-31	Male	16 years or older	3	False	True	False	Negative blood smear
+1460	3801	pfama1.08	2019-01-22	16	0	2017-10-31	2017-12-31	Male	16 years or older	4	False	True	False	Negative blood smear
+1461	3801	pfama1.09	2019-01-22	16	16	2017-10-31	2017-12-31	Male	16 years or older	1	True	True	False	Negative blood smear
+1462	3801	pfama1.09	2019-03-19	18	1	2017-10-31	2017-12-31	Male	16 years or older	2	False	True	False	Negative blood smear
+1463	3801	pfama1.18	2018-12-28	15	15	2017-10-31	2017-12-31	Male	16 years or older	1	True	True	False	Negative blood smear
+1464	3801	pfama1.18	2019-01-22	16	0	2017-10-31	2017-12-31	Male	16 years or older	2	False	True	False	Negative blood smear
+1465	3801	pfama1.18	2019-02-19	17	0	2017-10-31	2017-12-31	Male	16 years or older	3	False	True	False	Negative blood smear
+1466	3801	pfama1.18	2019-03-19	18	0	2017-10-31	2017-12-31	Male	16 years or older	4	False	True	False	Negative blood smear
+1467	3805	pfama1.01	2017-10-31	0	0	2017-10-31	2017-12-31	Male	16 years or older	1	False	False	True	Negative blood smear
+1468	3805	pfama1.01	2017-11-28	1	0	2017-10-31	2017-12-31	Male	16 years or older	2	False	False	True	Asymptomatic parasitemia
+1469	3805	pfama1.01	2018-01-23	3	1	2017-10-31	2017-12-31	Male	16 years or older	3	False	False	True	Negative blood smear
+1470	3805	pfama1.01	2018-02-20	4	0	2017-10-31	2017-12-31	Male	16 years or older	4	False	False	True	Negative blood smear
+1471	3805	pfama1.01	2018-03-20	5	0	2017-10-31	2017-12-31	Male	16 years or older	5	False	False	True	Negative blood smear
+1472	3805	pfama1.01	2018-04-17	6	0	2017-10-31	2017-12-31	Male	16 years or older	6	False	False	True	Negative blood smear
+1473	3805	pfama1.01	2018-05-15	7	0	2017-10-31	2017-12-31	Male	16 years or older	7	False	False	True	Negative blood smear
+1474	3805	pfama1.01	2018-06-12	8	0	2017-10-31	2017-12-31	Male	16 years or older	8	False	False	True	Negative blood smear
+1475	3805	pfama1.01	2018-07-11	9	0	2017-10-31	2017-12-31	Male	16 years or older	9	False	False	True	Negative blood smear
+1476	3805	pfama1.01	2018-08-07	10	0	2017-10-31	2017-12-31	Male	16 years or older	10	False	False	True	Negative blood smear
+1477	3805	pfama1.01	2018-09-04	11	0	2017-10-31	2017-12-31	Male	16 years or older	11	False	False	True	Negative blood smear
+1478	3805	pfama1.01	2018-10-03	12	0	2017-10-31	2017-12-31	Male	16 years or older	12	False	False	True	Negative blood smear
+1479	3805	pfama1.01	2018-10-31	13	0	2017-10-31	2017-12-31	Male	16 years or older	13	False	False	True	Negative blood smear
+1480	3805	pfama1.01	2018-12-28	15	1	2017-10-31	2017-12-31	Male	16 years or older	14	False	False	True	Negative blood smear
+1481	3805	pfama1.01	2019-01-25	16	0	2017-10-31	2017-12-31	Male	16 years or older	15	False	False	True	Negative blood smear
+1482	3805	pfama1.01	2019-03-19	18	1	2017-10-31	2017-12-31	Male	16 years or older	16	False	False	True	Negative blood smear
+1483	3808	pfama1.00	2018-05-15	7	7	2017-10-31	2017-12-31	Female	< 5 years	1	True	True	False	Negative blood smear
+1484	3808	pfama1.00	2018-05-21	8	0	2017-10-31	2017-12-31	Female	< 5 years	2	False	True	False	Malaria
+1485	3808	pfama1.10	2018-05-15	7	7	2017-10-31	2017-12-31	Female	< 5 years	1	True	True	False	Negative blood smear
+1486	3808	pfama1.10	2018-05-21	8	0	2017-10-31	2017-12-31	Female	< 5 years	2	False	True	False	Malaria
+1487	3808	pfama1.14	2018-05-15	7	7	2017-10-31	2017-12-31	Female	< 5 years	1	True	True	False	Negative blood smear
+1488	3808	pfama1.14	2018-05-21	8	0	2017-10-31	2017-12-31	Female	< 5 years	2	False	True	False	Malaria
+1489	3808	pfama1.25	2018-05-15	7	7	2017-10-31	2017-12-31	Female	< 5 years	1	True	True	False	Negative blood smear
+1490	3808	pfama1.25	2018-05-21	8	0	2017-10-31	2017-12-31	Female	< 5 years	2	False	True	False	Malaria
+1491	3815	pfama1.00	2018-01-23	3	3	2017-10-31	2017-12-31	Female	16 years or older	1	True	True	False	Negative blood smear
+1492	3816	pfama1.00	2017-10-31	0	0	2017-10-31	2017-12-31	Male	5-15 years	1	False	False	True	Asymptomatic parasitemia
+1493	3816	pfama1.00	2017-11-28	1	0	2017-10-31	2017-12-31	Male	5-15 years	2	False	False	True	Negative blood smear
+1494	3816	pfama1.00	2017-12-28	2	0	2017-10-31	2017-12-31	Male	5-15 years	3	False	False	True	Negative blood smear
+1495	3816	pfama1.00	2018-01-23	3	0	2017-10-31	2017-12-31	Male	5-15 years	4	False	False	True	Negative blood smear
+1496	3816	pfama1.00	2018-02-21	4	0	2017-10-31	2017-12-31	Male	5-15 years	5	False	False	True	Asymptomatic parasitemia
+1497	3816	pfama1.00	2018-03-20	5	0	2017-10-31	2017-12-31	Male	5-15 years	6	False	False	True	Negative blood smear
+1498	3816	pfama1.00	2018-04-18	6	0	2017-10-31	2017-12-31	Male	5-15 years	7	False	False	True	Negative blood smear
+1499	3816	pfama1.00	2018-05-15	7	0	2017-10-31	2017-12-31	Male	5-15 years	8	False	False	True	Negative blood smear
+1500	3816	pfama1.00	2018-06-12	8	0	2017-10-31	2017-12-31	Male	5-15 years	9	False	False	True	Negative blood smear
+1501	3816	pfama1.00	2018-07-10	9	0	2017-10-31	2017-12-31	Male	5-15 years	10	False	False	True	Negative blood smear
+1502	3816	pfama1.00	2018-08-07	10	0	2017-10-31	2017-12-31	Male	5-15 years	11	False	False	True	Negative blood smear
+1503	3816	pfama1.00	2018-09-04	11	0	2017-10-31	2017-12-31	Male	5-15 years	12	False	False	True	Negative blood smear
+1504	3816	pfama1.00	2018-10-02	12	0	2017-10-31	2017-12-31	Male	5-15 years	13	False	False	True	Negative blood smear
+1505	3816	pfama1.00	2018-12-28	15	2	2017-10-31	2017-12-31	Male	5-15 years	14	False	False	True	Negative blood smear
+1506	3816	pfama1.00	2019-01-22	16	0	2017-10-31	2017-12-31	Male	5-15 years	15	False	False	True	Negative blood smear
+1507	3816	pfama1.00	2019-02-19	17	0	2017-10-31	2017-12-31	Male	5-15 years	16	False	False	True	Negative blood smear
+1508	3818	pfama1.09	2017-10-31	0	0	2017-10-31	2017-12-31	Male	< 5 years	1	False	False	True	Asymptomatic parasitemia
+1509	3818	pfama1.09	2017-11-28	1	0	2017-10-31	2017-12-31	Male	< 5 years	2	False	False	True	Negative blood smear
+1510	3818	pfama1.09	2017-12-28	2	0	2017-10-31	2017-12-31	Male	< 5 years	3	False	False	True	Negative blood smear
+1511	3818	pfama1.09	2018-01-23	3	0	2017-10-31	2017-12-31	Male	< 5 years	4	False	False	True	Negative blood smear
+1512	3818	pfama1.09	2018-02-21	4	0	2017-10-31	2017-12-31	Male	< 5 years	5	False	False	True	Negative blood smear
+1513	3818	pfama1.09	2018-03-20	5	0	2017-10-31	2017-12-31	Male	< 5 years	6	False	False	True	Negative blood smear
+1514	3818	pfama1.09	2018-04-17	6	0	2017-10-31	2017-12-31	Male	< 5 years	7	False	False	True	Negative blood smear
+1515	3818	pfama1.09	2018-08-07	10	3	2017-10-31	2017-12-31	Male	< 5 years	8	False	False	True	Negative blood smear
+1516	3818	pfama1.09	2018-09-04	11	0	2017-10-31	2017-12-31	Male	< 5 years	9	False	False	True	Negative blood smear
+1517	3818	pfama1.09	2018-12-28	15	3	2017-10-31	2017-12-31	Male	< 5 years	10	False	False	True	Negative blood smear
+1518	3825	pfama1.00	2018-01-15	1	0	2017-12-18	2018-02-18	Male	< 5 years	1	False	False	True	Negative blood smear
+1519	3825	pfama1.00	2018-06-26	7	5	2017-12-18	2018-02-18	Male	< 5 years	2	True	True	False	Malaria
+1520	3825	pfama1.00	2018-07-02	8	0	2017-12-18	2018-02-18	Male	< 5 years	3	False	True	False	Negative blood smear
+1521	3839	pfama1.01	2018-07-11	0	0	2018-07-11	2018-09-11	Male	5-15 years	1	False	False	True	Negative blood smear
+1522	3839	pfama1.01	2018-08-07	1	0	2018-07-11	2018-09-11	Male	5-15 years	2	False	False	True	Asymptomatic parasitemia
+1523	3839	pfama1.01	2018-09-04	2	0	2018-07-11	2018-09-11	Male	5-15 years	3	False	False	True	Negative blood smear
+1524	3839	pfama1.01	2018-10-02	3	0	2018-07-11	2018-09-11	Male	5-15 years	4	False	False	True	Negative blood smear
+1525	3839	pfama1.01	2018-10-30	4	0	2018-07-11	2018-09-11	Male	5-15 years	5	False	False	True	Negative blood smear
+1526	3839	pfama1.01	2019-01-22	7	2	2018-07-11	2018-09-11	Male	5-15 years	6	False	False	True	Negative blood smear
+1527	3839	pfama1.01	2019-02-19	8	0	2018-07-11	2018-09-11	Male	5-15 years	7	False	False	True	Negative blood smear

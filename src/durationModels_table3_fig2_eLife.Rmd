@@ -1,0 +1,491 @@
+---
+title: "Covariate Effects on Hazard for Clearance of Infection"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+suppressPackageStartupMessages(library(tidyverse))
+suppressPackageStartupMessages(library(survival)) 
+suppressPackageStartupMessages(library(frailtypack))
+suppressPackageStartupMessages(library(knitr)) 
+suppressPackageStartupMessages(library(DT)) 
+suppressPackageStartupMessages(library(plotly)) 
+library(geepack)
+
+```
+
+
+
+```{r functionLoaders, echo=FALSE}
+
+process_longform <- function(longform, censor_date = '2019-01-01', censor_left = '2018-01-01'){
+
+  lf <- longform %>%
+    filter(
+      end_date <= censor_date,
+      date >= censor_left
+    ) %>%
+    mutate(
+      tau = as.numeric(end_date - date),
+      censor = as.numeric(date <= censor_date),
+      terminal = as.numeric(terminal)
+    )
+  lf <- lf %>%
+    dplyr::select(cohortid, malariacat) %>%
+    group_by(cohortid) %>%
+    mutate(mal = malariacat == 'Malaria') %>%
+    summarise(mm = mean(mal)) %>%
+    filter(mm == 0) %>%
+    inner_join(lf) %>%
+    mutate(
+      log_qpcr = log10(qpcr)
+    ) %>%
+    filter(!is.infinite(log_qpcr)) %>%
+    mutate(
+      qpcr_cat = case_when(
+        log_qpcr >= 3 ~ '3',
+        log_qpcr >= 2 ~ '2',
+        log_qpcr >= 1 ~ '1',
+        log_qpcr >= 0 ~ '0',
+        TRUE ~ '-1'
+      ),
+      qpcr_cat = as.factor(qpcr_cat)
+    )
+
+  lf %>%
+    group_by(cohortid, date) %>%
+    summarise(moi = n()) %>%
+    inner_join(lf) %>%
+    mutate(moi_cat = ifelse(moi > 1, 'Poly', 'Mono')) %>%
+    ungroup()
+
+
+}
+
+
+get_ci <- function(object,level=.95, len=6, d=2){
+  
+  x <- object
+  if (!inherits(x, "frailtyPenal")) 
+    stop("Object must be of class 'frailtyPenal'")
+  
+  nvar <- length(x$coef)
+  
+  if (is.null(x$coef)){
+    cat("     Shared Gamma Frailty model: No covariates and no confidence interval\n")
+  }else{
+    if (nvar == 0){
+      cat("No constant coefficients, only time-varying effects of the covariates \n")
+    }else{
+      z<-abs(qnorm((1-level)/2))
+      co <- x$coef
+      if(is.matrix(x$varH)){
+        se <- sqrt(diag(x$varH))#[-1]
+      }else{
+        se <- sqrt(x$varH)
+      }
+      hr <- exp(co)
+      ci_l <- exp(co-z * se)
+      ci_u <- exp(co+z * se)
+      r <- cbind(hr, ci_l, ci_u)
+      r
+    }
+  }
+}
+
+"summary.frailtyPenal" <- function(object,level=.95, len=6, d=2, lab="hr", ...)
+{
+
+	x <- object
+	if (!inherits(x, "frailtyPenal")) 
+		stop("Object must be of class 'frailtyPenal'")
+	
+	nvar <- length(x$coef)
+	
+	if (is.null(x$coef)){
+		cat("     Shared Gamma Frailty model: No covariates and no confidence interval\n")
+	}else{
+		if (nvar == 0){
+			cat("No constant coefficients, only time-varying effects of the covariates \n")
+		}else{
+			z<-abs(qnorm((1-level)/2))
+			co <- x$coef
+			if(is.matrix(x$varH)){
+				se <- sqrt(diag(x$varH))#[-1]
+			}else{
+				se <- sqrt(x$varH)
+			}
+			or <- exp(co)
+			li <- exp(co-z * se)
+			ls <- exp(co+z * se)
+			r <- cbind(or, li, ls)
+			dimnames(r) <- list(names(co), c(lab, paste(level*100,"%",sep=""), "C.I."))
+			
+			n<-r
+		
+			dd <- dim(n)
+			n[n > 999.99] <- Inf
+			a <- formatC(n, d, len,format="f")
+	
+			dim(a) <- dd
+	
+			if(length(dd) == 1){
+				dd<-c(1,dd)
+				dim(a)<-dd
+				lab<-" "
+			}else{
+				lab <- dimnames(n)[[1]]
+			}
+	
+			mx <- max(nchar(lab)) + 1
+			cat(paste(rep(" ",mx),collapse=""),paste("   ",dimnames(n)[[2]]),"\n")
+			
+			# save column names
+			col_names <- c("compareGroup", dimnames(n)[[2]])
+			
+			rows = list()
+			
+			for(i in (1):dd[1]) {
+				lab[i] <- paste(c(rep(" ", mx - nchar(lab[i])), lab[i]),collapse = "")
+				cat(lab[i], a[i, 1], "(", a[i, 2], "-", a[i, 3], ") \n")
+				
+				# save values for rows
+				rows[[i]] <- c(lab[i], a[i, 1], a[i, 2], a[i, 3])
+			
+			}
+		}
+	}
+	
+	# prepare dataframe and return summary
+	summary_frame <- do.call(rbind, rows) %>%
+	  as.data.frame()
+
+	colnames(summary_frame) <- c("compareGroup", "hr", "5%", "95%")
+
+	summary_frame
+
+}
+
+# convenience function wrapping frailtyPenal
+run_model <- function(dat, formula){
+  frailtyPenal(
+    formula, data=dat, recurrentAG=FALSE, 
+    hazard="Piecewise-per", nb.int=1
+  )
+}
+
+# extract p values from frailtyPenal obj
+get_pVal <- function(fp_obj){
+  x <- fp_obj
+  coef <- x$coef
+  nvar <- length(x$coef) #+x$nvartimedep
+  digits <- max(options()$digits - 4)
+  if (x$istop == 1){
+  		if (!is.null(coef)){
+  			if(nvar != 1){
+  				seH <- sqrt(diag(x$varH))
+  				seHIH <- sqrt(diag(x$varHIH))
+  			}else{
+  				seH <- sqrt(x$varH)
+  				seHIH <- sqrt(x$varHIH)
+  			}
+  		}
+  }
+  # ifelse pour eviter que R n'affiche pval = 0 lorsque celle-ci est tres petite
+  tmp <- cbind(
+    coef, exp(coef), seH, seHIH, coef/seH, 
+    ifelse(signif(1 - pchisq((coef/seH)^2, 1), digits - 1) == 0, "< 1e-16", signif(1 - pchisq((coef/seH)^2, 1), digits - 1))
+    ) %>% 
+    as.data.frame()
+  
+  tmp[['V6']]
+}
+
+# prepare frailtyPenal object summary as dataframe
+prepare_fp_df <- function(fp_obj, ifx_grouping=NA){
+
+  summary.fp <- summary(fp_obj)
+  summary.fp['p_val'] <- get_pVal(fp_obj)
+  summary.fp['AIC'] <- 2 * fp_obj$AIC * fp_obj$n
+  
+  summary.fp %>% 
+    mutate(ifx_grouping = ifx_grouping)
+
+}
+
+# binds frailty penal survival summaries (fp1 must be clone, fp2 must be ifx)
+prepare_table <- function(fp1, fp2, label=NA){
+  
+  summary.fp1 <- prepare_fp_df(fp1, "clone")
+  
+  summary.fp2 <- prepare_fp_df(fp2, "ifx")
+
+  rbind(summary.fp1, summary.fp2) %>% 
+    mutate(label = label)
+
+  }
+
+```
+
+## Loading Data
+
+Loading clonal data date-to-date format. 
+
+```{r loading, echo=TRUE, warning=FALSE, error=FALSE, message=FALSE, results='hide'}
+
+# date to date datasets
+longform_clone <- read_tsv("~/Desktop/Duration_sex_paper/sex_based_differences/data/table3_fig2_labeled_db/labels_clones_longform.tab") %>% 
+  process_longform()
+
+longform_ifx <- read_tsv("~/Desktop/Duration_sex_paper/sex_based_differences/data/table3_fig2_labeled_db/labels_events_longform.tab") %>% 
+  process_longform()
+
+cohort_meta <- read_tsv("~/Desktop/Duration_sex_paper/sex_based_differences/data/meta/full_meta_6mo.tab") %>% 
+  dplyr::select(cohortid, date, ageyrs, agecat, qpcr, gender, malariacat, enrolldate) %>% 
+  mutate(
+    cohortid = as.character(cohortid),
+    burnin = enrolldate + 60
+  )
+
+age_categories <- c("< 5 years", "5-15 years", "16 years or older") 
+
+longform_clone$gender = factor(longform_clone$gender)
+longform_clone$gender = relevel(longform_clone$gender, ref = "Male")
+
+longform_ifx$gender = factor(longform_ifx$gender)
+longform_ifx$gender = relevel(longform_ifx$gender, ref = "Male")
+
+longform_clone$agecat = factor(longform_clone$agecat)
+longform_clone$agecat = relevel(longform_clone$agecat, ref = "16 years or older")
+longform_ifx$agecat = factor(longform_ifx$agecat)
+longform_ifx$agecat = relevel(longform_ifx$agecat, ref = "16 years or older")
+
+longform_clone$active_baseline_infection = factor(as.character(longform_clone$active_baseline_infection))
+longform_clone$active_baseline_infection = relevel(longform_clone$active_baseline_infection, ref = "TRUE")
+longform_ifx$active_baseline_infection = factor(as.character(longform_ifx$active_baseline_infection))
+longform_ifx$active_baseline_infection = relevel(longform_ifx$active_baseline_infection, ref = "TRUE")
+
+longform_clone$moi_cat = factor(longform_clone$moi_cat)
+longform_clone$moi_cat = relevel(longform_clone$moi_cat, ref = "Poly")
+longform_ifx$moi_cat = factor(longform_ifx$moi_cat)
+longform_ifx$moi_cat = relevel(longform_ifx$moi_cat, ref = "Poly")
+
+jess_ama1_sampInfo_tab <- read_delim("~/Desktop/Duration_sex_paper/sex_based_differences/data/meta/jess-ama1_sampInfo.tab.txt", 
+    "\t", escape_double = FALSE, trim_ws = TRUE)
+
+prism2_haps <- jess_ama1_sampInfo_tab %>%
+  filter(!grepl('ctrl|neg', s_Sample)) %>%
+  tidyr::extract(
+    s_Sample,
+    into=c('date', 'cohortid'),
+    regex="([[:alnum:]-]{10}\\b)-([[:alnum:]]{4}\\b)"
+  ) %>%
+  mutate(
+    date = lubridate::ymd(date)
+  )
+
+qpcr <- cohort_meta %>% select(cohortid, date, qpcr)
+
+prism2_haps <- prism2_haps %>% left_join(qpcr)
+prism2_haps <- prism2_haps %>% mutate(qpcr_clone = log10(qpcr*c_ReadCnt))
+prism2_haps %>% filter(is.na(qpcr))
+keep <- prism2_haps %>% mutate(cohortid = as.numeric(cohortid)) %>% select(cohortid, date, h_popUID, qpcr_clone)
+longform_clone <- longform_clone %>% left_join(keep)
+
+```
+
+## Unadjusted Models
+```{r unadjustedModels, include=FALSE}
+#clones
+unadj.clone.agecat <- run_model(longform_clone, Surv(time=tau, event=terminal) ~ agecat + cluster(cohortid))
+unadj.clone.sex <- run_model(longform_clone, Surv(time=tau, event=terminal) ~ gender + cluster(cohortid))
+unadj.clone.qpcr <- run_model(longform_clone, Surv(time=tau, event=terminal) ~ qpcr_clone + cluster(cohortid))
+
+unadj.clone.moi <- run_model(longform_clone, Surv(time=tau, event=terminal) ~ moi + cluster(cohortid))
+unadj.clone.moicat <- run_model(longform_clone, Surv(time=tau, event=terminal) ~ moi_cat + cluster(cohortid))
+unadj.clone.baseline <- run_model(longform_clone, Surv(time=tau, event=terminal) ~ active_baseline_infection + cluster(cohortid))
+
+#ifx events 
+unadj.ifx.agecat <- run_model(longform_ifx, Surv(time=tau, event=terminal) ~ agecat + cluster(cohortid))
+unadj.ifx.sex <- run_model(longform_ifx, Surv(time=tau, event=terminal) ~ gender + cluster(cohortid))
+unadj.ifx.qpcr <- run_model(longform_ifx, Surv(time=tau, event=terminal) ~ log_qpcr + cluster(cohortid))
+
+unadj.ifx.moi <- run_model(longform_ifx, Surv(time=tau, event=terminal) ~ moi + cluster(cohortid))
+unadj.ifx.moicat <- run_model(longform_ifx, Surv(time=tau, event=terminal) ~ moi_cat + cluster(cohortid))
+unadj.ifx.baseline <- run_model(longform_ifx, Surv(time=tau, event=terminal) ~ active_baseline_infection + cluster(cohortid))
+
+```
+
+```{r prepare_unadjusted, include=FALSE}
+
+table.unadj.agecat <- prepare_table(unadj.clone.agecat, unadj.ifx.agecat, label="unadj.agecat")
+table.unadj.sex <- prepare_table(unadj.clone.sex, unadj.ifx.sex, label="unadj.sex")
+table.unadj.qpcr <- prepare_table(unadj.clone.qpcr, unadj.ifx.qpcr, label="unadj.qpcr")
+table.unadj.moi <- prepare_table(unadj.clone.moi, unadj.ifx.moi, label="unadj.moi")
+table.unadj.moicat <- prepare_table(unadj.clone.moicat, unadj.ifx.moicat, label="unadj.moicat")
+table.unadj.baseline <- prepare_table(unadj.clone.baseline, unadj.ifx.baseline, label="unadj.baseline")
+
+full.unadj = rbind(
+  table.unadj.agecat,
+  table.unadj.sex,
+  table.unadj.qpcr,
+  table.unadj.moi,
+  table.unadj.moicat,
+  table.unadj.baseline
+)
+```
+
+#### All Unadjusted Models - 3 skips 
+```{r unadj.summary.age, echo=FALSE}
+datatable(full.unadj)
+```
+
+
+## Adjusted Models
+```{r adj.Models, include=FALSE}
+
+# Adjusted Model By Clone
+
+adj.clone.minusMOI <- run_model(
+  longform_clone, 
+ Surv(time=tau, event=terminal) ~ agecat + gender + qpcr_clone + active_baseline_infection + cluster(cohortid)
+ )
+
+
+# Adjusted Model By Infection Event
+
+adj.ifx.minusMOI <- run_model(
+ longform_ifx, 
+ Surv(time=tau, event=terminal) ~ agecat + gender + log_qpcr + active_baseline_infection + cluster(cohortid)
+ )
+
+```
+
+
+#### Model Formulas
+```{r model_formula, eval=FALSE}
+
+adj.minusMOI ~ agecat + gender + log_qpcr + active_baseline_infection + cluster(cohortid)
+
+```
+
+
+```{r prepare_adjusted, include=FALSE}
+
+
+table.adj.minusMOI <- prepare_table(
+  adj.clone.minusMOI, 
+  adj.ifx.minusMOI, 
+  "adj.minusMOI"
+  )
+
+full.adj <- rbind(
+  table.adj.minusMOI
+  )
+
+```
+#### Final adjusted Models - 3 skips 
+```{r show_adjusted, echo=FALSE}
+datatable(full.adj)
+
+```
+
+####Figure 2 
+
+```{r fig2}
+
+make_duration_frame_SE_new <- function(model){
+  # Makes a duration frame given a model
+  # Implements SE from model to estimate variability
+  # in estimate rather than the variability in lambda
+  lam <- 1 / model$lam[1,,]
+  lam_pe <- lam[1]
+  scalar_vals <- model$coef
+  coef_se <- sqrt(diag(model$varH))
+  upper_ci <- scalar_vals + coef_se
+  lower_ci <- scalar_vals - coef_se
+  coefs <- 1 / exp(rbind(scalar_vals, upper_ci, lower_ci)) %>% t()
+  duration_frame <- rbind(
+    ">15_male" = lam,
+    ">15_female" = lam_pe * coefs[1,],
+    "5-15_female" = lam_pe * coefs[1,] * coefs[3,],
+    "5-15_male" = lam_pe * coefs[3,],
+    "<5_female" = lam_pe * coefs[1,] * coefs[2,],
+    "<5_male" = lam_pe * coefs[1,]
+  ) %>% as.data.frame()
+  duration_frame$group <- rownames(duration_frame)
+  rownames(duration_frame) <- NULL
+  colnames(duration_frame) <- c("est.days", "ci95.days", "ci05.days", "group")
+  duration_frame <- duration_frame %>% 
+  extract(
+    group, into = c("agecat", "sex"), 
+    regex = "([[:graph:]]+)_([[:graph:]]+)"
+    )
+  duration_frame
+}
+
+# age_categories <- sort(unique(longform_clone$agecat))
+age_categories <- c(
+  '< 5 years',
+  '16 years or older',
+  '5-15 years'
+)
+longform_clone$gender <- factor(
+  longform_clone$gender, 
+  levels = c("Male", "Female")
+)
+longform_clone$agecat <- factor(
+  longform_clone$agecat, 
+  levels = c(
+    age_categories[2], age_categories[1], age_categories[3]
+    )
+  )
+longform_ifx$gender <- factor(
+  longform_ifx$gender, 
+  levels = c("Male", "Female")
+)
+longform_ifx$agecat <- factor(
+  longform_ifx$agecat, 
+  levels = c(
+    age_categories[2], age_categories[1], age_categories[3]
+    )
+  )
+model_clone <- frailtyPenal(
+    Surv(time=tau, event=terminal) ~ gender + agecat + cluster(cohortid), 
+    data=longform_clone, 
+    recurrentAG=FALSE, hazard="Piecewise-per", nb.int=1
+    )
+model_ifx <- frailtyPenal(
+    Surv(time=tau, event=terminal) ~ gender + agecat + cluster(cohortid), 
+    data=longform_ifx, 
+    recurrentAG=FALSE, hazard="Piecewise-per", nb.int=1
+    )
+clone.duration_frame <- make_duration_frame_SE_new(model_clone) %>% 
+  mutate(input_type = "clone")
+ifx.duration_frame <- make_duration_frame_SE_new(model_ifx) %>% 
+  mutate(input_type = "ifx")
+duration_frame <- rbind(clone.duration_frame, ifx.duration_frame)
+duration_frame$agecat <- factor(duration_frame$agecat, levels = c("<5", "5-15", ">15"))
+
+g <- ggplot(duration_frame, aes(x = agecat, y = est.days, color = sex)) +
+  geom_point(
+    shape = 19,
+    position=position_dodge(width = 0.5)
+    ) +
+  geom_errorbar(
+    data = duration_frame %>% filter(agecat != '>15' | sex != 'male'),
+    aes(ymin = ci05.days, ymax=ci95.days), 
+    position=position_dodge(width = 0.5),
+    width = 0.3, size = 0.9
+    ) +
+   theme_classic(base_size = 16) +
+  coord_flip() +
+  scale_color_brewer(palette = "Set2") +
+  facet_wrap(~input_type, ncol=1) + 
+  scale_y_continuous(limits = c(0,800), breaks=seq(0,800,200))
+
+g
+
+```

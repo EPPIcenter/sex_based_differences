@@ -1,0 +1,531 @@
+cohortid	agecat	gender	anymalaria	travelout	days
+3001	16 years or older	Female	0	2	539
+3003	5-15 years	Male	0	0	539
+3010	16 years or older	Female	1	2	539
+3011	5-15 years	Male	0	0	539
+3012	5-15 years	Male	0	0	539
+3013	5-15 years	Female	0	0	539
+3014	5-15 years	Female	1	1	539
+3020	16 years or older	Female	0	1	539
+3021	5-15 years	Female	0	0	539
+3022	5-15 years	Male	0	0	539
+3036	16 years or older	Female	0	2	537
+3037	5-15 years	Male	0	0	537
+3038	5-15 years	Male	0	0	537
+3039	5-15 years	Male	0	0	537
+3044	16 years or older	Female	0	1	538
+3045	5-15 years	Male	0	0	538
+3046	5-15 years	Female	1	0	538
+3047	5-15 years	Male	0	0	538
+3055	16 years or older	Female	0	3	539
+3075	16 years or older	Female	0	1	537
+3077	5-15 years	Female	0	0	537
+3078	16 years or older	Female	0	0	544
+3079	5-15 years	Female	0	0	544
+3080	5-15 years	Female	0	0	544
+3081	5-15 years	Female	1	0	544
+3093	16 years or older	Female	0	0	544
+3094	5-15 years	Female	0	0	219
+3094	16 years or older	Female	0	0	202
+3095	5-15 years	Male	0	0	544
+3096	5-15 years	Male	0	0	544
+3122	16 years or older	Female	0	0	525
+3123	5-15 years	Male	0	0	525
+3124	5-15 years	Male	0	0	525
+3125	5-15 years	Male	0	0	525
+3146	16 years or older	Female	0	2	525
+3147	5-15 years	Male	0	0	325
+3147	16 years or older	Male	0	0	200
+3148	5-15 years	Female	0	0	525
+3149	5-15 years	Female	1	0	525
+3150	5-15 years	Male	0	0	525
+3151	16 years or older	Female	0	0	525
+3152	5-15 years	Male	0	0	525
+3153	5-15 years	Female	0	0	525
+3154	5-15 years	Male	1	0	525
+3162	16 years or older	Female	0	0	539
+3163	5-15 years	Male	1	0	539
+3164	5-15 years	Female	0	0	539
+3188	16 years or older	Female	0	0	525
+3189	5-15 years	Male	0	0	525
+3190	5-15 years	Female	0	0	525
+3191	5-15 years	Female	0	0	525
+3193	5-15 years	Male	0	0	525
+3201	16 years or older	Female	0	1	525
+3202	5-15 years	Male	0	0	525
+3204	5-15 years	Female	0	0	525
+3205	5-15 years	Male	0	0	525
+3218	5-15 years	Male	0	0	476
+3218	16 years or older	Male	0	0	22
+3219	5-15 years	Female	0	0	477
+3220	5-15 years	Male	0	0	477
+3222	5-15 years	Male	0	1	544
+3223	16 years or older	Female	0	1	544
+3224	5-15 years	Male	0	0	544
+3228	16 years or older	Female	0	1	538
+3231	5-15 years	Female	0	1	538
+3236	16 years or older	Female	0	0	537
+3237	5-15 years	Male	0	0	537
+3238	5-15 years	Female	0	0	537
+3249	16 years or older	Female	0	2	537
+3250	5-15 years	Male	0	0	537
+3251	5-15 years	Male	0	0	537
+3252	5-15 years	Female	0	0	537
+3253	16 years or older	Female	0	0	538
+3255	5-15 years	Female	0	0	538
+3256	16 years or older	Female	0	1	538
+3283	16 years or older	Female	0	0	538
+3284	5-15 years	Female	0	0	538
+3285	5-15 years	Male	0	0	538
+3286	5-15 years	Male	0	0	538
+3288	16 years or older	Female	0	2	544
+3289	5-15 years	Male	0	0	544
+3290	5-15 years	Male	0	0	544
+3306	16 years or older	Female	0	0	537
+3309	5-15 years	Female	0	0	537
+3310	5-15 years	Male	0	0	537
+3311	16 years or older	Male	0	0	538
+3312	5-15 years	Male	0	0	538
+3313	16 years or older	Female	0	1	394
+3315	5-15 years	Female	0	0	544
+3316	5-15 years	Male	0	0	544
+3336	5-15 years	Male	0	0	537
+3337	5-15 years	Female	0	0	537
+3359	5-15 years	Female	0	1	539
+3360	5-15 years	Male	0	0	539
+3364	5-15 years	Female	0	1	544
+3367	5-15 years	Male	0	1	544
+3371	5-15 years	Male	0	0	525
+3373	5-15 years	Male	0	0	538
+3374	5-15 years	Female	0	0	544
+3375	5-15 years	Female	0	0	537
+3376	5-15 years	Male	0	0	537
+3377	5-15 years	Male	0	1	538
+3386	5-15 years	Male	0	0	544
+3391	5-15 years	Male	0	1	538
+3393	5-15 years	Male	1	0	538
+3394	5-15 years	Male	1	0	537
+3398	5-15 years	Female	0	0	525
+3399	5-15 years	Female	0	0	537
+3400	5-15 years	Male	0	0	544
+3402	5-15 years	Female	0	0	525
+3406	< 5 years	Male	0	0	41
+3406	5-15 years	Male	0	0	484
+3407	< 5 years	Female	0	0	114
+3407	5-15 years	Female	0	0	425
+3418	16 years or older	Female	0	3	532
+3419	5-15 years	Male	0	0	532
+3420	16 years or older	Female	0	0	539
+3421	5-15 years	Male	0	0	539
+3429	5-15 years	Female	0	0	532
+3434	5-15 years	Male	0	0	537
+3440	< 5 years	Female	0	0	250
+3440	5-15 years	Female	0	0	275
+3443	< 5 years	Female	0	0	346
+3443	5-15 years	Female	0	0	193
+3444	< 5 years	Male	0	0	359
+3444	5-15 years	Male	0	0	185
+3446	< 5 years	Male	0	0	22
+3446	5-15 years	Male	0	0	455
+3453	< 5 years	Male	0	0	422
+3453	5-15 years	Male	0	0	122
+3454	< 5 years	Male	0	0	387
+3454	5-15 years	Male	0	0	151
+3457	< 5 years	Female	0	0	484
+3457	5-15 years	Female	0	0	55
+3459	< 5 years	Female	0	0	135
+3459	5-15 years	Female	0	0	404
+3460	< 5 years	Male	1	0	354
+3460	5-15 years	Male	0	0	184
+3461	< 5 years	Male	0	0	537
+3463	5-15 years	Female	0	0	538
+3464	< 5 years	Female	0	0	525
+3466	5-15 years	Female	0	0	539
+3467	< 5 years	Male	0	0	544
+3470	< 5 years	Female	0	0	197
+3473	< 5 years	Male	0	0	539
+3475	< 5 years	Female	0	0	525
+3476	< 5 years	Male	0	0	525
+3478	5-15 years	Male	0	0	525
+3482	< 5 years	Female	0	0	539
+3485	< 5 years	Male	0	0	544
+3489	< 5 years	Female	0	0	532
+3491	< 5 years	Female	0	1	447
+3491	5-15 years	Female	0	0	91
+3493	< 5 years	Female	0	0	539
+3494	< 5 years	Male	0	0	369
+3494	5-15 years	Male	0	0	169
+3495	< 5 years	Female	0	1	538
+3497	< 5 years	Male	0	1	539
+3499	< 5 years	Female	0	0	537
+3500	< 5 years	Female	0	0	538
+3501	< 5 years	Female	0	0	309
+3501	5-15 years	Female	0	0	230
+3504	16 years or older	Male	0	0	544
+3505	16 years or older	Male	0	0	544
+3506	16 years or older	Male	0	0	544
+3507	16 years or older	Female	0	0	337
+3508	< 5 years	Male	0	0	544
+3509	16 years or older	Male	0	0	544
+3510	16 years or older	Male	0	0	544
+3511	16 years or older	Male	0	0	539
+3512	< 5 years	Female	0	0	421
+3513	< 5 years	Male	0	0	539
+3514	16 years or older	Male	0	0	539
+3515	16 years or older	Female	0	0	539
+3516	16 years or older	Male	0	1	539
+3517	16 years or older	Male	0	0	539
+3518	5-15 years	Female	0	0	7
+3518	16 years or older	Female	0	0	532
+3519	16 years or older	Male	0	1	539
+3520	16 years or older	Female	0	0	539
+3521	5-15 years	Male	0	0	539
+3522	16 years or older	Male	0	0	538
+3523	16 years or older	Male	0	0	533
+3524	< 5 years	Female	0	0	538
+3525	16 years or older	Male	0	0	538
+3526	16 years or older	Female	0	0	538
+3527	16 years or older	Male	0	0	538
+3529	16 years or older	Male	0	0	537
+3530	16 years or older	Male	0	0	537
+3531	16 years or older	Male	0	0	537
+3532	16 years or older	Male	0	0	537
+3533	16 years or older	Male	0	0	537
+3534	16 years or older	Female	0	0	537
+3535	5-15 years	Male	0	0	537
+3536	16 years or older	Male	0	0	537
+3537	5-15 years	Female	0	0	537
+3539	< 5 years	Male	0	0	537
+3540	16 years or older	Female	0	0	532
+3541	16 years or older	Female	0	0	532
+3542	5-15 years	Female	0	0	532
+3543	5-15 years	Male	0	0	532
+3544	< 5 years	Male	0	0	532
+3545	< 5 years	Male	0	0	532
+3546	16 years or older	Male	0	1	532
+3547	16 years or older	Female	0	1	532
+3548	5-15 years	Male	0	0	532
+3549	5-15 years	Female	0	1	532
+3550	5-15 years	Female	0	0	532
+3551	< 5 years	Female	0	0	532
+3552	< 5 years	Male	0	1	532
+3553	16 years or older	Male	0	0	532
+3554	16 years or older	Female	0	1	532
+3555	5-15 years	Female	1	0	532
+3556	< 5 years	Female	0	0	464
+3556	5-15 years	Female	0	0	68
+3557	< 5 years	Female	0	0	532
+3558	16 years or older	Male	0	1	532
+3559	16 years or older	Female	0	0	532
+3562	< 5 years	Female	0	0	532
+3563	< 5 years	Male	0	0	532
+3564	16 years or older	Male	0	0	532
+3565	5-15 years	Male	0	0	532
+3566	< 5 years	Female	0	0	532
+3568	16 years or older	Female	0	2	532
+3569	< 5 years	Male	0	0	284
+3569	5-15 years	Male	0	0	248
+3570	< 5 years	Female	0	0	532
+3571	16 years or older	Male	0	0	532
+3572	16 years or older	Female	0	0	532
+3573	< 5 years	Female	0	0	532
+3574	< 5 years	Female	0	0	532
+3575	16 years or older	Male	0	0	531
+3576	16 years or older	Female	0	0	531
+3577	5-15 years	Female	0	0	531
+3578	5-15 years	Male	0	0	531
+3579	5-15 years	Male	0	0	531
+3580	< 5 years	Male	0	0	531
+3581	< 5 years	Female	0	0	531
+3582	16 years or older	Male	0	0	531
+3583	16 years or older	Female	0	0	531
+3584	16 years or older	Female	0	0	531
+3585	5-15 years	Female	0	0	531
+3586	< 5 years	Male	0	0	31
+3586	5-15 years	Male	0	0	500
+3587	< 5 years	Male	0	0	531
+3588	16 years or older	Male	0	1	531
+3589	16 years or older	Female	0	0	531
+3590	5-15 years	Male	0	0	531
+3591	5-15 years	Female	0	0	531
+3592	5-15 years	Female	0	0	531
+3593	< 5 years	Female	0	0	11
+3593	5-15 years	Female	0	2	520
+3594	< 5 years	Female	0	2	531
+3596	16 years or older	Female	0	5	531
+3597	5-15 years	Male	0	0	505
+3598	5-15 years	Female	0	0	531
+3599	< 5 years	Female	0	0	288
+3599	5-15 years	Female	0	0	243
+3600	< 5 years	Male	0	0	531
+3601	16 years or older	Female	0	2	531
+3602	5-15 years	Male	0	0	531
+3603	5-15 years	Male	0	0	531
+3604	5-15 years	Male	1	0	531
+3605	5-15 years	Female	0	0	531
+3606	< 5 years	Male	0	0	531
+3607	< 5 years	Male	0	0	531
+3608	16 years or older	Male	0	0	467
+3609	16 years or older	Female	0	0	531
+3610	< 5 years	Male	0	0	169
+3610	5-15 years	Male	0	0	362
+3611	< 5 years	Female	0	0	180
+3611	5-15 years	Female	0	0	351
+3612	< 5 years	Female	0	1	531
+3613	16 years or older	Female	0	1	531
+3614	5-15 years	Female	0	0	531
+3615	5-15 years	Female	0	0	531
+3616	5-15 years	Male	0	0	531
+3617	< 5 years	Female	0	0	405
+3617	5-15 years	Female	0	0	126
+3618	< 5 years	Female	0	0	531
+3619	< 5 years	Female	0	0	531
+3620	16 years or older	Male	0	1	530
+3621	16 years or older	Female	0	0	530
+3622	5-15 years	Female	0	0	530
+3623	5-15 years	Male	0	0	530
+3624	5-15 years	Male	0	0	530
+3625	< 5 years	Male	0	0	530
+3626	16 years or older	Female	1	1	530
+3627	16 years or older	Female	0	1	530
+3628	5-15 years	Female	0	0	530
+3629	5-15 years	Male	0	1	530
+3630	5-15 years	Female	0	1	530
+3631	< 5 years	Male	0	1	441
+3631	5-15 years	Male	0	0	89
+3632	< 5 years	Male	0	0	530
+3633	16 years or older	Male	0	0	530
+3634	16 years or older	Female	0	0	530
+3635	< 5 years	Female	0	0	52
+3635	5-15 years	Female	0	0	478
+3636	< 5 years	Male	0	0	530
+3637	16 years or older	Male	0	0	530
+3638	16 years or older	Female	0	1	530
+3639	< 5 years	Female	0	0	352
+3639	5-15 years	Female	0	1	178
+3640	< 5 years	Female	0	1	530
+3641	16 years or older	Male	0	0	530
+3642	5-15 years	Female	0	0	144
+3642	16 years or older	Female	0	1	386
+3643	< 5 years	Female	0	1	530
+3644	< 5 years	Male	0	1	530
+3645	16 years or older	Female	0	4	530
+3646	5-15 years	Male	0	3	530
+3647	< 5 years	Female	0	3	529
+3647	5-15 years	Female	0	0	1
+3648	< 5 years	Male	0	4	530
+3649	16 years or older	Male	0	0	525
+3650	16 years or older	Male	0	0	525
+3651	< 5 years	Female	0	0	525
+3652	16 years or older	Male	0	0	525
+3653	< 5 years	Male	0	0	525
+3654	16 years or older	Female	0	0	525
+3655	< 5 years	Male	0	0	525
+3656	< 5 years	Female	0	0	525
+3657	5-15 years	Male	0	0	525
+3658	< 5 years	Female	0	0	525
+3659	16 years or older	Female	0	0	525
+3660	< 5 years	Male	0	0	525
+3662	16 years or older	Male	0	1	525
+3663	16 years or older	Female	0	0	525
+3665	< 5 years	Female	0	0	312
+3665	5-15 years	Female	0	0	213
+3666	< 5 years	Male	0	0	525
+3667	16 years or older	Male	0	0	253
+3668	16 years or older	Female	0	2	524
+3669	5-15 years	Female	0	0	524
+3670	< 5 years	Female	0	0	456
+3670	5-15 years	Female	0	0	68
+3671	< 5 years	Male	0	0	524
+3672	16 years or older	Male	0	0	524
+3673	16 years or older	Female	0	0	524
+3674	5-15 years	Male	0	0	524
+3675	< 5 years	Female	0	0	110
+3675	5-15 years	Female	0	0	414
+3676	< 5 years	Female	0	0	524
+3677	16 years or older	Male	1	0	524
+3678	16 years or older	Female	0	1	524
+3679	5-15 years	Female	0	0	524
+3680	< 5 years	Female	0	0	165
+3680	5-15 years	Female	0	0	359
+3681	< 5 years	Male	0	0	524
+3682	< 5 years	Male	0	1	524
+3683	16 years or older	Male	0	0	524
+3684	16 years or older	Female	0	0	524
+3685	< 5 years	Female	0	0	54
+3685	5-15 years	Female	1	0	470
+3686	< 5 years	Female	0	0	524
+3687	16 years or older	Female	0	0	524
+3688	5-15 years	Male	0	0	524
+3689	5-15 years	Male	0	0	524
+3690	< 5 years	Male	0	0	165
+3690	5-15 years	Male	0	0	359
+3691	< 5 years	Female	0	0	524
+3692	< 5 years	Female	0	0	524
+3693	16 years or older	Male	0	3	197
+3694	16 years or older	Female	0	3	524
+3695	5-15 years	Male	0	0	524
+3696	5-15 years	Female	0	0	524
+3697	5-15 years	Male	0	0	524
+3699	< 5 years	Male	0	1	524
+3700	16 years or older	Male	0	0	524
+3701	16 years or older	Female	0	2	524
+3702	< 5 years	Male	0	0	207
+3702	5-15 years	Male	0	0	317
+3703	< 5 years	Female	0	0	524
+3704	16 years or older	Female	0	1	523
+3705	5-15 years	Male	0	0	523
+3706	5-15 years	Female	0	0	523
+3707	< 5 years	Female	0	0	185
+3707	5-15 years	Female	0	0	338
+3708	< 5 years	Male	0	0	308
+3708	5-15 years	Male	0	0	113
+3709	< 5 years	Male	0	0	421
+3710	< 5 years	Female	0	1	523
+3711	16 years or older	Female	0	6	523
+3712	16 years or older	Female	0	0	523
+3713	5-15 years	Male	0	0	523
+3714	5-15 years	Male	0	0	523
+3715	< 5 years	Male	0	0	46
+3715	5-15 years	Male	0	0	477
+3716	< 5 years	Female	0	0	523
+3717	16 years or older	Female	0	1	523
+3718	5-15 years	Male	0	0	421
+3719	< 5 years	Male	1	0	337
+3720	< 5 years	Female	0	0	523
+3721	16 years or older	Male	0	0	523
+3722	16 years or older	Female	0	1	523
+3723	5-15 years	Male	0	0	421
+3724	5-15 years	Female	0	0	523
+3725	5-15 years	Female	0	0	523
+3726	< 5 years	Male	0	0	523
+3727	< 5 years	Female	0	1	523
+3728	16 years or older	Male	0	0	523
+3729	16 years or older	Female	0	0	523
+3730	< 5 years	Female	0	0	298
+3730	5-15 years	Female	0	0	225
+3731	< 5 years	Female	0	0	523
+3732	16 years or older	Female	0	1	523
+3733	5-15 years	Female	0	0	523
+3734	5-15 years	Female	0	0	523
+3735	5-15 years	Female	0	0	523
+3736	< 5 years	Female	0	0	523
+3737	< 5 years	Male	0	1	523
+3738	16 years or older	Female	0	3	518
+3739	16 years or older	Male	0	1	505
+3740	16 years or older	Female	0	3	505
+3741	5-15 years	Female	0	1	518
+3742	5-15 years	Male	0	0	518
+3743	< 5 years	Male	0	3	505
+3744	< 5 years	Male	0	0	494
+3744	5-15 years	Male	0	0	24
+3745	16 years or older	Female	0	2	518
+3746	5-15 years	Male	0	0	518
+3747	5-15 years	Female	0	0	518
+3748	5-15 years	Male	0	0	190
+3749	< 5 years	Male	0	0	447
+3749	5-15 years	Male	0	0	71
+3750	< 5 years	Female	0	0	518
+3751	< 5 years	Female	0	0	518
+3752	16 years or older	Male	0	0	518
+3753	16 years or older	Female	0	0	518
+3754	< 5 years	Female	0	0	518
+3755	< 5 years	Male	0	0	518
+3756	16 years or older	Male	0	0	518
+3757	16 years or older	Female	0	0	518
+3758	5-15 years	Male	0	0	518
+3759	5-15 years	Female	0	0	518
+3760	< 5 years	Female	0	0	245
+3760	5-15 years	Female	0	0	273
+3761	< 5 years	Female	0	0	487
+3761	5-15 years	Female	0	0	31
+3762	5-15 years	Male	0	0	518
+3763	16 years or older	Female	0	0	518
+3764	16 years or older	Female	0	2	449
+3765	5-15 years	Male	0	0	22
+3765	16 years or older	Male	0	0	427
+3766	5-15 years	Female	0	0	518
+3767	< 5 years	Female	0	0	337
+3768	< 5 years	Male	0	0	518
+3769	< 5 years	Male	2	0	518
+3770	16 years or older	Female	0	1	518
+3771	16 years or older	Female	0	0	518
+3772	5-15 years	Male	0	0	518
+3773	5-15 years	Female	1	0	518
+3774	5-15 years	Male	0	0	518
+3775	< 5 years	Female	0	1	518
+3776	< 5 years	Male	0	0	518
+3777	16 years or older	Female	0	2	518
+3779	5-15 years	Female	1	0	518
+3780	5-15 years	Male	0	0	518
+3781	< 5 years	Female	0	0	518
+3782	< 5 years	Female	1	1	518
+3783	16 years or older	Male	0	0	517
+3784	16 years or older	Female	0	0	517
+3785	16 years or older	Male	0	1	477
+3786	5-15 years	Male	0	0	517
+3787	5-15 years	Male	0	0	517
+3788	< 5 years	Female	0	0	209
+3788	5-15 years	Female	0	0	308
+3789	< 5 years	Male	0	0	517
+3790	16 years or older	Male	0	0	517
+3791	16 years or older	Female	0	0	517
+3792	< 5 years	Male	0	0	517
+3793	< 5 years	Female	0	0	517
+3794	16 years or older	Male	0	0	517
+3795	16 years or older	Female	0	0	517
+3796	5-15 years	Male	0	0	517
+3797	5-15 years	Male	0	0	517
+3798	5-15 years	Male	0	0	517
+3799	< 5 years	Female	0	0	517
+3800	< 5 years	Male	0	0	517
+3801	16 years or older	Male	0	0	517
+3802	16 years or older	Female	0	0	517
+3803	< 5 years	Male	0	0	467
+3803	5-15 years	Male	0	0	50
+3804	< 5 years	Male	0	0	517
+3805	16 years or older	Male	0	2	517
+3806	16 years or older	Female	0	0	517
+3807	5-15 years	Female	0	0	517
+3808	< 5 years	Female	0	0	87
+3808	5-15 years	Female	1	0	430
+3809	< 5 years	Female	0	0	517
+3810	16 years or older	Male	0	0	517
+3811	16 years or older	Female	0	0	517
+3812	< 5 years	Male	0	1	393
+3813	< 5 years	Female	0	0	517
+3814	16 years or older	Male	0	0	517
+3815	16 years or older	Female	0	1	517
+3816	5-15 years	Male	0	1	517
+3817	5-15 years	Female	0	0	517
+3818	< 5 years	Male	0	0	302
+3818	5-15 years	Male	0	0	215
+3819	< 5 years	Male	0	0	517
+3820	< 5 years	Female	0	0	517
+3821	< 5 years	Male	0	2	511
+3822	< 5 years	Female	1	2	509
+3823	< 5 years	Female	0	2	509
+3824	< 5 years	Male	0	1	469
+3825	< 5 years	Male	1	1	469
+3826	16 years or older	Female	0	0	448
+3827	5-15 years	Female	0	0	357
+3827	16 years or older	Female	0	0	91
+3829	< 5 years	Female	0	0	143
+3829	5-15 years	Female	0	0	262
+3830	5-15 years	Male	0	0	355
+3831	16 years or older	Male	0	0	322
+3832	5-15 years	Male	0	0	308
+3833	5-15 years	Male	0	0	308
+3834	5-15 years	Male	0	0	308
+3835	16 years or older	Female	0	0	224
+3836	< 5 years	Male	0	0	285
+3837	16 years or older	Male	0	0	279
+3838	< 5 years	Male	0	0	264
+3839	5-15 years	Male	0	0	264
+3840	< 5 years	Female	0	1	251
+3841	< 5 years	Male	0	0	250
+3842	< 5 years	Female	0	0	245
+3843	< 5 years	Male	0	2	244
+3844	< 5 years	Female	0	0	231
+3845	< 5 years	Male	0	0	229
+3846	< 5 years	Female	0	0	217

@@ -1,0 +1,1394 @@
+	cohortid	h_popUID	date	end_date	agecat	gender	active_baseline_infection	terminal	malariacat	qpcr	hhid	hemoglobin
+0	3001	ifx_events.0	2017-10-09	2017-11-06	16 years or older	Female	True	False	Negative blood smear	5.010800838470459	101009801	11.399999618530273
+1	3001	ifx_events.0	2017-11-06	2017-12-04	16 years or older	Female	True	False	Negative blood smear	0.9553999900817872	101009801	-9.0
+2	3001	ifx_events.0	2017-12-04	2018-01-03	16 years or older	Female	True	True	Negative blood smear	0.06120000034570694	101009801	-9.0
+3	3003	ifx_events.0	2017-10-09	2017-11-06	5-15 years	Male	True	True	Negative blood smear	0.01020000036805868	101009801	12.0
+4	3010	ifx_event.1	2019-01-28	2019-02-02	16 years or older	Female	False	False	Negative blood smear	13.77661418914795	108001201	-9.0
+5	3010	ifx_event.1	2019-02-02	2019-02-25	16 years or older	Female	False	True	Malaria	19189.0	108001201	14.600000381469727
+6	3014	ifx_event.1	2019-01-28	2019-02-25	5-15 years	Female	False	True	Malaria	38487.41015625	108001201	13.699999809265135
+7	3021	ifx_event.1	2018-08-15	2018-09-10	5-15 years	Female	False	True	Negative blood smear	0.0518152192234993	112000801	-9.0
+8	3038	ifx_events.0	2017-10-11	2017-11-08	5-15 years	Male	True	True	Negative blood smear	0.02380000054836273	114007303	15.800000190734865
+9	3046	ifx_event.1	2018-06-19	2018-06-30	5-15 years	Female	False	False	Negative blood smear	0.6776209473609924	114004501	15.300000190734865
+10	3046	ifx_event.1	2018-06-30	2018-07-17	5-15 years	Female	False	False	Malaria	91761.6171875	114004501	13.199999809265135
+11	3046	ifx_event.1	2018-07-17	2018-08-14	5-15 years	Female	False	True	Negative blood smear	0.061692312359809875	114004501	-9.0
+12	3047	ifx_events.0	2017-11-07	2017-12-05	5-15 years	Male	True	True	Negative blood smear	0.06289999932050705	114004501	-9.0
+13	3055	ifx_events.0	2017-11-06	2017-12-04	16 years or older	Female	True	False	Negative blood smear	0.15639999508857727	114001102	-9.0
+14	3055	ifx_events.0	2017-12-04	2018-01-03	16 years or older	Female	True	True	Negative blood smear	0.1257999986410141	114001102	-9.0
+15	3079	ifx_event.0	2017-10-04	2017-11-01	5-15 years	Female	True	False	Negative blood smear	7.687399864196777	119008702	12.899999618530273
+16	3079	ifx_event.0	2017-11-01	2017-11-29	5-15 years	Female	True	False	Negative blood smear	96.50559997558594	119008702	-9.0
+17	3079	ifx_event.0	2017-11-29	2017-12-29	5-15 years	Female	True	False	Negative blood smear	3.6737000942230233	119008702	-9.0
+18	3079	ifx_event.0	2017-12-29	2018-01-24	5-15 years	Female	True	False	Negative blood smear	3.4475998878479004	119008702	15.800000190734865
+19	3079	ifx_event.0	2018-01-24	2018-02-21	5-15 years	Female	True	False	Negative blood smear	2.141443014144897	119008702	-9.0
+20	3079	ifx_event.0	2018-02-21	2018-03-21	5-15 years	Female	True	False	Negative blood smear	0.9304726719856262	119008702	-9.0
+21	3079	ifx_event.0	2018-03-21	2018-04-18	5-15 years	Female	True	False	Negative blood smear	0.0228745024651289	119008702	-9.0
+22	3079	ifx_event.0	2018-04-18	2018-05-16	5-15 years	Female	True	True	Negative blood smear	0.08157516270875931	119008702	-9.0
+23	3079	ifx_event.1	2018-06-13	2018-07-11	5-15 years	Female	False	False	Asymptomatic parasitemia	252.82774353027344	119008702	-9.0
+24	3079	ifx_event.1	2018-07-11	2018-08-08	5-15 years	Female	False	False	Negative blood smear	33.673202514648445	119008702	-9.0
+25	3079	ifx_event.1	2018-08-08	2018-09-05	5-15 years	Female	False	False	Negative blood smear	23.108781814575195	119008702	12.5
+26	3079	ifx_event.1	2018-09-05	2018-10-03	5-15 years	Female	False	False	Negative blood smear	0.9449201226234436	119008702	-9.0
+27	3079	ifx_event.1	2018-10-03	2018-10-31	5-15 years	Female	False	True	Negative blood smear	0.004009840078651905	119008702	-9.0
+28	3081	ifx_event.1	2018-06-13	2018-07-11	5-15 years	Female	False	False	Asymptomatic parasitemia	530.8723754882812	119008702	-9.0
+29	3081	ifx_event.1	2018-07-11	2018-08-08	5-15 years	Female	False	False	Asymptomatic parasitemia	2219.05908203125	119008702	-9.0
+30	3081	ifx_event.1	2018-08-08	2018-08-23	5-15 years	Female	False	False	Negative blood smear	64.75772857666016	119008702	14.199999809265135
+31	3081	ifx_event.1	2018-08-23	2018-09-05	5-15 years	Female	False	False	Malaria	793.8656005859375	119008702	11.699999809265135
+32	3081	ifx_event.1	2018-09-05	2018-10-03	5-15 years	Female	False	True	Negative blood smear	12.785233497619627	119008702	-9.0
+33	3093	ifx_events.0	2017-10-04	2017-11-01	16 years or older	Female	True	False	Negative blood smear	6.4004998207092285	141017201	14.800000190734865
+34	3093	ifx_events.0	2017-11-01	2017-11-29	16 years or older	Female	True	False	Negative blood smear	0.27709999680519104	141017201	-9.0
+35	3093	ifx_events.0	2017-11-29	2017-12-29	16 years or older	Female	True	False	Negative blood smear	2.832200050354004	141017201	-9.0
+36	3093	ifx_events.0	2017-12-29	2018-01-24	16 years or older	Female	True	False	Negative blood smear	0.5338000059127808	141017201	15.899999618530273
+37	3093	ifx_events.0	2018-01-24	2018-02-21	16 years or older	Female	True	False	Negative blood smear	0.023558370769023892	141017201	-9.0
+38	3093	ifx_events.0	2018-02-21	2018-03-21	16 years or older	Female	True	False	Negative blood smear	0.2540569305419922	141017201	-9.0
+39	3093	ifx_events.0	2018-03-21	2018-04-18	16 years or older	Female	True	False	Negative blood smear	0.0	141017201	-9.0
+40	3093	ifx_events.0	2018-04-18	2018-05-16	16 years or older	Female	True	False	Negative blood smear	0.15212871134281158	141017201	16.899999618530273
+41	3093	ifx_events.0	2018-05-16	2018-06-13	16 years or older	Female	True	False	Negative blood smear	0.0	141017201	-9.0
+42	3093	ifx_events.0	2018-06-13	2018-07-11	16 years or older	Female	True	False	Negative blood smear	0.013938027434051035	141017201	-9.0
+43	3093	ifx_events.0	2018-07-11	2018-08-08	16 years or older	Female	True	False	Negative blood smear	1.0196369886398315	141017201	15.5
+44	3093	ifx_events.0	2018-08-08	2018-09-05	16 years or older	Female	True	False	Negative blood smear	14.832335472106935	141017201	-9.0
+45	3093	ifx_events.0	2018-09-05	2018-10-03	16 years or older	Female	True	False	Negative blood smear	0.1486341506242752	141017201	-9.0
+46	3093	ifx_events.0	2018-10-03	2018-10-31	16 years or older	Female	True	False	Negative blood smear	0.0	141017201	15.199999809265135
+47	3093	ifx_events.0	2018-10-31	2018-11-28	16 years or older	Female	True	False	Negative blood smear	0.0	141017201	-9.0
+48	3093	ifx_events.0	2018-11-28	2018-12-29	16 years or older	Female	True	False	Negative blood smear	0.21656456589698792	141017201	-9.0
+49	3093	ifx_events.0	2018-12-29	2019-01-23	16 years or older	Female	True	False	Negative blood smear	0.0	141017201	14.899999618530273
+50	3093	ifx_events.0	2019-01-23	2019-02-20	16 years or older	Female	True	False	Negative blood smear	0.33381980657577515	141017201	-9.0
+51	3093	ifx_events.0	2019-02-20	2019-03-20	16 years or older	Female	True	True	Negative blood smear	7.977980136871338	141017201	-9.0
+52	3095	ifx_event.1	2017-12-29	2018-01-24	5-15 years	Male	False	False	Asymptomatic parasitemia	84.58689880371094	141017201	16.399999618530273
+53	3095	ifx_event.1	2018-01-24	2018-02-21	5-15 years	Male	False	False	Negative blood smear	14.604743957519533	141017201	-9.0
+54	3095	ifx_event.1	2018-02-21	2018-03-21	5-15 years	Male	False	False	Negative blood smear	80.11603546142578	141017201	-9.0
+55	3095	ifx_event.1	2018-03-21	2018-04-18	5-15 years	Male	False	False	Negative blood smear	1.4896140098571775	141017201	-9.0
+56	3095	ifx_event.1	2018-04-18	2018-05-16	5-15 years	Male	False	False	Negative blood smear	80.63646697998047	141017201	15.5
+57	3095	ifx_event.1	2018-05-16	2018-06-13	5-15 years	Male	False	False	Negative blood smear	0.2547847032546997	141017201	-9.0
+58	3095	ifx_event.1	2018-06-13	2018-07-11	5-15 years	Male	False	False	Asymptomatic parasitemia	38.10920715332031	141017201	-9.0
+59	3095	ifx_event.1	2018-07-11	2018-08-08	5-15 years	Male	False	False	Negative blood smear	0.03724675625562668	141017201	15.199999809265135
+60	3095	ifx_event.1	2018-08-08	2018-09-05	5-15 years	Male	False	False	Negative blood smear	43.97521209716797	141017201	-9.0
+61	3095	ifx_event.1	2018-09-05	2018-10-03	5-15 years	Male	False	False	Negative blood smear	1.1829800605773926	141017201	-9.0
+62	3095	ifx_event.1	2018-10-03	2018-10-31	5-15 years	Male	False	False	Negative blood smear	2.271757841110229	141017201	14.899999618530273
+63	3095	ifx_event.1	2018-10-31	2018-11-28	5-15 years	Male	False	False	Negative blood smear	0.2077249437570572	141017201	-9.0
+64	3095	ifx_event.1	2018-11-28	2018-12-29	5-15 years	Male	False	False	Negative blood smear	1.3825308084487915	141017201	-9.0
+65	3095	ifx_event.1	2018-12-29	2019-01-23	5-15 years	Male	False	False	Negative blood smear	0.7294771075248718	141017201	14.0
+66	3095	ifx_event.1	2019-01-23	2019-02-20	5-15 years	Male	False	False	Negative blood smear	80.95040893554686	141017201	-9.0
+67	3095	ifx_event.1	2019-02-20	2019-03-20	5-15 years	Male	False	False	Asymptomatic parasitemia	111.25884246826172	141017201	-9.0
+68	3095	ifx_event.1	2019-03-20	2019-04-17	5-15 years	Male	False	False	Negative blood smear	0.03748910874128342	141017201	15.399999618530273
+69	3095	ifx_event.1	2019-04-17	2019-05-15	5-15 years	Male	False	False	Asymptomatic parasitemia	5.098592281341553	141017201	-9.0
+70	3095	ifx_event.1	2019-05-15	2019-06-12	5-15 years	Male	False	False	Negative blood smear	0.0	141017201	-9.0
+71	3095	ifx_event.1	2019-06-12	2019-07-10	5-15 years	Male	False	True	Negative blood smear	3.506422996520996	141017201	14.600000381469727
+72	3096	ifx_event.0	2017-10-04	2017-11-01	5-15 years	Male	True	False	Asymptomatic parasitemia	1963.551025390625	141017201	13.5
+73	3096	ifx_event.0	2017-11-01	2017-11-29	5-15 years	Male	True	False	Asymptomatic parasitemia	4288.52197265625	141017201	-9.0
+74	3096	ifx_event.0	2017-11-29	2017-12-29	5-15 years	Male	True	False	Asymptomatic parasitemia	108.7251968383789	141017201	-9.0
+75	3096	ifx_event.0	2017-12-29	2018-01-24	5-15 years	Male	True	False	Asymptomatic parasitemia	700.2963256835938	141017201	13.699999809265135
+76	3096	ifx_event.0	2018-01-24	2018-02-21	5-15 years	Male	True	False	Negative blood smear	23.08406639099121	141017201	-9.0
+77	3096	ifx_event.0	2018-02-21	2018-03-21	5-15 years	Male	True	False	Negative blood smear	7.3985962867736825	141017201	-9.0
+78	3096	ifx_event.0	2018-03-21	2018-04-18	5-15 years	Male	True	False	Negative blood smear	55.40289306640625	141017201	-9.0
+79	3096	ifx_event.0	2018-04-18	2018-05-16	5-15 years	Male	True	False	Asymptomatic parasitemia	205.0105133056641	141017201	13.699999809265135
+80	3096	ifx_event.0	2018-05-16	2018-06-13	5-15 years	Male	True	False	Asymptomatic parasitemia	126.77815246582031	141017201	-9.0
+81	3096	ifx_event.0	2018-06-13	2018-07-11	5-15 years	Male	True	False	Asymptomatic parasitemia	11.96101188659668	141017201	-9.0
+82	3096	ifx_event.0	2018-07-11	2018-08-08	5-15 years	Male	True	False	Negative blood smear	14.191929817199707	141017201	14.399999618530273
+83	3096	ifx_event.0	2018-08-08	2018-09-05	5-15 years	Male	True	False	Negative blood smear	56.26673889160156	141017201	-9.0
+84	3096	ifx_event.0	2018-09-05	2018-10-03	5-15 years	Male	True	False	Negative blood smear	11.4722261428833	141017201	-9.0
+85	3096	ifx_event.0	2018-10-03	2018-10-31	5-15 years	Male	True	False	Negative blood smear	3.2293736934661865	141017201	13.300000190734865
+86	3096	ifx_event.0	2018-10-31	2018-11-28	5-15 years	Male	True	False	Negative blood smear	0.31983482837677	141017201	-9.0
+87	3096	ifx_event.0	2018-11-28	2018-12-29	5-15 years	Male	True	False	Negative blood smear	15.025064468383787	141017201	-9.0
+88	3096	ifx_event.0	2018-12-29	2019-01-23	5-15 years	Male	True	False	Negative blood smear	26.478801727294922	141017201	14.600000381469727
+89	3096	ifx_event.0	2019-01-23	2019-02-20	5-15 years	Male	True	False	Negative blood smear	19.159217834472656	141017201	-9.0
+90	3096	ifx_event.0	2019-02-20	2019-03-20	5-15 years	Male	True	False	Negative blood smear	5.229660034179688	141017201	-9.0
+91	3096	ifx_event.0	2019-03-20	2019-04-17	5-15 years	Male	True	False	Negative blood smear	0.4769988656044006	141017201	14.800000190734865
+92	3096	ifx_event.0	2019-04-17	2019-05-15	5-15 years	Male	True	False	Negative blood smear	0.7605533599853516	141017201	-9.0
+93	3096	ifx_event.0	2019-05-15	2019-06-12	5-15 years	Male	True	False	Asymptomatic parasitemia	1.6473442316055298	141017201	-9.0
+94	3096	ifx_event.0	2019-06-12	2019-07-10	5-15 years	Male	True	True	Negative blood smear	4.3195457458496085	141017201	14.5
+95	3096	ifx_event.1	2019-01-23	2019-02-20	5-15 years	Male	False	False	Negative blood smear	19.159217834472656	141017201	-9.0
+96	3096	ifx_event.1	2019-02-20	2019-03-20	5-15 years	Male	False	False	Negative blood smear	5.229660034179688	141017201	-9.0
+97	3096	ifx_event.1	2019-03-20	2019-04-17	5-15 years	Male	False	False	Negative blood smear	0.4769988656044006	141017201	14.800000190734865
+98	3096	ifx_event.1	2019-04-17	2019-05-15	5-15 years	Male	False	False	Negative blood smear	0.7605533599853516	141017201	-9.0
+99	3096	ifx_event.1	2019-05-15	2019-06-12	5-15 years	Male	False	False	Asymptomatic parasitemia	1.6473442316055298	141017201	-9.0
+100	3096	ifx_event.1	2019-06-12	2019-07-10	5-15 years	Male	False	True	Negative blood smear	4.3195457458496085	141017201	14.5
+101	3122	ifx_event.0	2017-10-23	2017-11-20	16 years or older	Female	True	False	Negative blood smear	5.977200031280518	141001901	13.699999809265135
+102	3122	ifx_event.0	2017-11-20	2017-12-18	16 years or older	Female	True	False	Negative blood smear	27.98253059387207	141001901	-9.0
+103	3122	ifx_event.0	2017-12-18	2018-01-15	16 years or older	Female	True	False	Negative blood smear	400.0735168457031	141001901	-9.0
+104	3122	ifx_event.0	2018-01-15	2018-02-12	16 years or older	Female	True	False	Negative blood smear	3.5006096363067627	141001901	14.699999809265135
+105	3122	ifx_event.0	2018-02-12	2018-03-12	16 years or older	Female	True	False	Negative blood smear	1.3168121576309204	141001901	-9.0
+106	3122	ifx_event.0	2018-03-12	2018-04-09	16 years or older	Female	True	False	Negative blood smear	0.002935901982709765	141001901	14.300000190734865
+107	3122	ifx_event.0	2018-04-09	2018-05-07	16 years or older	Female	True	False	Negative blood smear	7.912188529968263	141001901	-9.0
+108	3122	ifx_event.0	2018-05-07	2018-06-04	16 years or older	Female	True	False	Negative blood smear	0.8824205994606018	141001901	-9.0
+109	3122	ifx_event.0	2018-06-04	2018-07-02	16 years or older	Female	True	False	Negative blood smear	3.0851986408233643	141001901	14.0
+110	3122	ifx_event.0	2018-07-02	2018-07-30	16 years or older	Female	True	False	Negative blood smear	3.7207109928131104	141001901	-9.0
+111	3122	ifx_event.0	2018-07-30	2018-08-27	16 years or older	Female	True	False	Negative blood smear	1.3762876987457275	141001901	-9.0
+112	3122	ifx_event.0	2018-08-27	2018-09-24	16 years or older	Female	True	False	Negative blood smear	1.3263472318649292	141001901	14.699999809265135
+113	3122	ifx_event.0	2018-09-24	2018-10-22	16 years or older	Female	True	True	Negative blood smear	1.0046966075897217	141001901	-9.0
+114	3122	ifx_event.1	2018-04-09	2018-05-07	16 years or older	Female	False	False	Negative blood smear	7.912188529968263	141001901	-9.0
+115	3122	ifx_event.1	2018-05-07	2018-06-04	16 years or older	Female	False	False	Negative blood smear	0.8824205994606018	141001901	-9.0
+116	3122	ifx_event.1	2018-06-04	2018-07-02	16 years or older	Female	False	False	Negative blood smear	3.0851986408233643	141001901	14.0
+117	3122	ifx_event.1	2018-07-02	2018-07-30	16 years or older	Female	False	False	Negative blood smear	3.7207109928131104	141001901	-9.0
+118	3122	ifx_event.1	2018-07-30	2018-08-27	16 years or older	Female	False	False	Negative blood smear	1.3762876987457275	141001901	-9.0
+119	3122	ifx_event.1	2018-08-27	2018-09-24	16 years or older	Female	False	False	Negative blood smear	1.3263472318649292	141001901	14.699999809265135
+120	3122	ifx_event.1	2018-09-24	2018-10-22	16 years or older	Female	False	False	Negative blood smear	1.0046966075897217	141001901	-9.0
+121	3122	ifx_event.1	2018-10-22	2018-11-19	16 years or older	Female	False	False	Negative blood smear	0.2800569236278534	141001901	-9.0
+122	3122	ifx_event.1	2018-11-19	2018-12-17	16 years or older	Female	False	True	Negative blood smear	0.3746337890625	141001901	11.899999618530273
+123	3122	ifx_event.3	2019-01-14	2019-02-15	16 years or older	Female	False	False	Negative blood smear	0.6904969215393066	141001901	-9.0
+124	3122	ifx_event.3	2019-02-15	2019-03-11	16 years or older	Female	False	False	Negative blood smear	4.614646911621094	141001901	14.5
+125	3122	ifx_event.3	2019-03-11	2019-04-08	16 years or older	Female	False	False	Negative blood smear	0.0	141001901	-9.0
+126	3122	ifx_event.3	2019-04-08	2019-05-06	16 years or older	Female	False	False	Negative blood smear	0.07887077331542969	141001901	-9.0
+127	3122	ifx_event.3	2019-05-06	2019-06-03	16 years or older	Female	False	False	Negative blood smear	0.0	141001901	-9.0
+128	3122	ifx_event.3	2019-06-03	2019-07-01	16 years or older	Female	False	False	Negative blood smear	0.0	141001901	-9.0
+129	3122	ifx_event.3	2019-07-01	2019-07-29	16 years or older	Female	False	True	Negative blood smear	0.4889747798442841	141001901	-9.0
+130	3147	ifx_event.1	2019-04-01	2019-04-08	5-15 years	Male	False	False	Malaria	8811.3603515625	143000601	16.100000381469727
+131	3147	ifx_event.1	2019-04-08	2019-05-06	5-15 years	Male	False	False	Negative blood smear	0.09671325236558914	143000601	-9.0
+132	3147	ifx_event.1	2019-05-06	2019-06-03	5-15 years	Male	False	True	Negative blood smear	0.023170407861471176	143000601	-9.0
+133	3148	ifx_events.0	2017-10-23	2017-11-20	5-15 years	Female	True	False	Negative blood smear	0.2294999957084656	143000601	10.600000381469727
+134	3148	ifx_events.0	2017-11-20	2017-12-18	5-15 years	Female	True	False	Negative blood smear	0.07479999959468843	143000601	-9.0
+135	3148	ifx_events.0	2017-12-18	2018-01-15	5-15 years	Female	True	False	Negative blood smear	2.0689001083374023	143000601	-9.0
+136	3148	ifx_events.0	2018-01-15	2018-02-12	5-15 years	Female	True	False	Negative blood smear	0.5884303450584412	143000601	11.399999618530273
+137	3148	ifx_events.0	2018-02-12	2018-03-12	5-15 years	Female	True	False	Negative blood smear	0.06392937898635864	143000601	-9.0
+138	3148	ifx_events.0	2018-03-12	2018-04-09	5-15 years	Female	True	False	Negative blood smear	0.0	143000601	-9.0
+139	3148	ifx_events.0	2018-04-09	2018-05-07	5-15 years	Female	True	False	Negative blood smear	2.7937085628509517	143000601	11.0
+140	3148	ifx_events.0	2018-05-07	2018-06-04	5-15 years	Female	True	False	Negative blood smear	0.43182316422462463	143000601	-9.0
+141	3148	ifx_events.0	2018-06-04	2018-07-02	5-15 years	Female	True	False	Negative blood smear	0.08578933775424957	143000601	-9.0
+142	3148	ifx_events.0	2018-07-02	2018-07-30	5-15 years	Female	True	True	Negative blood smear	0.03583095967769623	143000601	11.199999809265137
+143	3149	ifx_event.1	2018-07-15	2018-07-30	5-15 years	Female	False	False	Malaria	95286.1171875	143000601	11.800000190734865
+144	3149	ifx_event.1	2018-07-30	2018-08-27	5-15 years	Female	False	True	Negative blood smear	0.07459595799446106	143000601	-9.0
+145	3150	ifx_events.0	2017-11-20	2017-12-18	5-15 years	Male	True	True	Negative blood smear	0.009166758507490158	143000601	-9.0
+146	3154	ifx_events.0	2017-10-23	2017-11-20	5-15 years	Male	True	False	Asymptomatic parasitemia	4309.39794921875	128001701	13.100000381469727
+147	3154	ifx_events.0	2017-11-20	2017-12-18	5-15 years	Male	True	False	Asymptomatic parasitemia	436.0143127441406	128001701	-9.0
+148	3154	ifx_events.0	2017-12-18	2018-01-15	5-15 years	Male	True	False	Asymptomatic parasitemia	1591.7015380859375	128001701	-9.0
+149	3154	ifx_events.0	2018-01-15	2018-01-26	5-15 years	Male	True	False	Negative blood smear	116.2710952758789	128001701	12.5
+150	3154	ifx_events.0	2018-01-26	2018-02-12	5-15 years	Male	True	False	Malaria	11102.103515625	128001701	12.0
+151	3154	ifx_events.0	2018-02-12	2018-03-12	5-15 years	Male	True	True	Negative blood smear	0.2553935647010803	128001701	-9.0
+152	3162	ifx_event.0	2017-10-09	2017-11-06	16 years or older	Female	True	False	Negative blood smear	0.11050000041723253	128003501	15.899999618530273
+153	3162	ifx_event.0	2017-11-06	2017-12-04	16 years or older	Female	True	True	Negative blood smear	0.5015000104904175	128003501	-9.0
+154	3162	ifx_event.1	2019-01-03	2019-01-28	16 years or older	Female	False	True	Negative blood smear	0.017730852589011192	128003501	-9.0
+155	3163	ifx_events.0	2017-10-09	2017-11-06	5-15 years	Male	True	False	Negative blood smear	2148.514404296875	128003501	15.199999809265135
+156	3163	ifx_events.0	2017-11-06	2017-12-04	5-15 years	Male	True	True	Malaria	156409.421875	128003501	15.399999618530273
+157	3164	ifx_events.0	2017-10-09	2017-11-06	5-15 years	Female	True	False	Asymptomatic parasitemia	146.50259399414062	128003501	14.5
+158	3164	ifx_events.0	2017-11-06	2017-12-04	5-15 years	Female	True	False	Asymptomatic parasitemia	7907.05029296875	128003501	-9.0
+159	3164	ifx_events.0	2017-12-04	2018-01-03	5-15 years	Female	True	False	Asymptomatic parasitemia	117.75054931640624	128003501	-9.0
+160	3164	ifx_events.0	2018-01-03	2018-01-29	5-15 years	Female	True	False	Asymptomatic parasitemia	922.50048828125	128003501	14.100000381469727
+161	3164	ifx_events.0	2018-01-29	2018-02-26	5-15 years	Female	True	False	Negative blood smear	19.218477249145508	128003501	-9.0
+162	3164	ifx_events.0	2018-02-26	2018-03-26	5-15 years	Female	True	False	Negative blood smear	36.238243103027344	128003501	-9.0
+163	3164	ifx_events.0	2018-03-26	2018-04-23	5-15 years	Female	True	False	Negative blood smear	29.94375038146973	128003501	14.300000190734865
+164	3164	ifx_events.0	2018-04-23	2018-05-21	5-15 years	Female	True	False	Asymptomatic parasitemia	1610.940673828125	128003501	-9.0
+165	3164	ifx_events.0	2018-05-21	2018-06-18	5-15 years	Female	True	False	Asymptomatic parasitemia	60.95581436157226	128003501	-9.0
+166	3164	ifx_events.0	2018-06-18	2018-07-16	5-15 years	Female	True	False	Negative blood smear	9.671273231506348	128003501	15.899999618530273
+167	3164	ifx_events.0	2018-07-16	2018-08-13	5-15 years	Female	True	False	Negative blood smear	8.526870727539062	128003501	-9.0
+168	3164	ifx_events.0	2018-08-13	2018-09-10	5-15 years	Female	True	False	Negative blood smear	64.20236968994139	128003501	-9.0
+169	3164	ifx_events.0	2018-09-10	2018-10-08	5-15 years	Female	True	False	Negative blood smear	1.9374140501022337	128003501	13.0
+170	3164	ifx_events.0	2018-10-08	2018-11-05	5-15 years	Female	True	False	Negative blood smear	22.59536361694336	128003501	-9.0
+171	3164	ifx_events.0	2018-11-05	2018-12-03	5-15 years	Female	True	False	Negative blood smear	3.717780590057373	128003501	-9.0
+172	3164	ifx_events.0	2018-12-03	2019-01-03	5-15 years	Female	True	False	Negative blood smear	0.7614912986755371	128003501	13.800000190734865
+173	3164	ifx_events.0	2019-01-03	2019-01-28	5-15 years	Female	True	True	Negative blood smear	0.2220027893781662	128003501	-9.0
+174	3190	ifx_events.0	2017-10-23	2017-11-20	5-15 years	Female	True	False	Negative blood smear	24.55307197570801	131011801	14.199999809265135
+175	3190	ifx_events.0	2017-11-20	2017-12-18	5-15 years	Female	True	False	Negative blood smear	77.24970245361328	131011801	-9.0
+176	3190	ifx_events.0	2017-12-18	2018-01-15	5-15 years	Female	True	False	Negative blood smear	844.2249145507811	131011801	-9.0
+177	3190	ifx_events.0	2018-01-15	2018-02-12	5-15 years	Female	True	False	Negative blood smear	38.650238037109375	131011801	13.899999618530273
+178	3190	ifx_events.0	2018-02-12	2018-03-12	5-15 years	Female	True	False	Negative blood smear	46.68269729614258	131011801	-9.0
+179	3190	ifx_events.0	2018-03-12	2018-04-09	5-15 years	Female	True	False	Asymptomatic parasitemia	0.9240688681602478	131011801	-9.0
+180	3190	ifx_events.0	2018-04-09	2018-05-07	5-15 years	Female	True	False	Negative blood smear	4.170504093170166	131011801	13.199999809265135
+181	3190	ifx_events.0	2018-05-07	2018-06-04	5-15 years	Female	True	False	Negative blood smear	1.0421594381332395	131011801	-9.0
+182	3190	ifx_events.0	2018-06-04	2018-07-02	5-15 years	Female	True	False	Negative blood smear	5.1741156578063965	131011801	-9.0
+183	3190	ifx_events.0	2018-07-02	2018-07-30	5-15 years	Female	True	False	Negative blood smear	0.9989474415779114	131011801	12.600000381469727
+184	3190	ifx_events.0	2018-07-30	2018-08-27	5-15 years	Female	True	False	Negative blood smear	11.923787117004395	131011801	-9.0
+185	3190	ifx_events.0	2018-08-27	2018-09-24	5-15 years	Female	True	False	Negative blood smear	0.01739650778472424	131011801	-9.0
+186	3190	ifx_events.0	2018-09-24	2018-10-22	5-15 years	Female	True	False	Negative blood smear	7.076793670654298	131011801	12.699999809265135
+187	3190	ifx_events.0	2018-10-22	2018-11-19	5-15 years	Female	True	False	Negative blood smear	0.0	131011801	-9.0
+188	3190	ifx_events.0	2018-11-19	2018-12-17	5-15 years	Female	True	False	Negative blood smear	0.0	131011801	-9.0
+189	3190	ifx_events.0	2018-12-17	2019-01-14	5-15 years	Female	True	False	Negative blood smear	2.346054553985596	131011801	12.5
+190	3190	ifx_events.0	2019-01-14	2019-02-11	5-15 years	Female	True	False	Negative blood smear	0.3877506256103516	131011801	-9.0
+191	3190	ifx_events.0	2019-02-11	2019-03-11	5-15 years	Female	True	False	Negative blood smear	0.15645211935043335	131011801	-9.0
+192	3190	ifx_events.0	2019-03-11	2019-04-08	5-15 years	Female	True	False	Negative blood smear	1.7215112447738647	131011801	14.699999809265135
+193	3190	ifx_events.0	2019-04-08	2019-05-06	5-15 years	Female	True	False	Negative blood smear	0.02441442757844925	131011801	-9.0
+194	3190	ifx_events.0	2019-05-06	2019-06-03	5-15 years	Female	True	False	Negative blood smear	2.6963064670562744	131011801	-9.0
+195	3190	ifx_events.0	2019-06-03	2019-07-01	5-15 years	Female	True	False	Negative blood smear	0.17776528000831604	131011801	13.399999618530273
+196	3190	ifx_events.0	2019-07-01	2019-07-29	5-15 years	Female	True	True	Negative blood smear	1.8206332921981807	131011801	-9.0
+197	3202	ifx_events.0	2017-10-23	2017-11-20	5-15 years	Male	True	False	Negative blood smear	52.74760055541992	125006301	15.699999809265135
+198	3202	ifx_events.0	2017-11-20	2017-12-18	5-15 years	Male	True	False	Asymptomatic parasitemia	183.67140197753903	125006301	-9.0
+199	3202	ifx_events.0	2017-12-18	2018-01-17	5-15 years	Male	True	False	Asymptomatic parasitemia	127.4813003540039	125006301	-9.0
+200	3202	ifx_events.0	2018-01-17	2018-02-12	5-15 years	Male	True	False	Negative blood smear	0.4190305471420288	125006301	13.899999618530273
+201	3202	ifx_events.0	2018-02-12	2018-03-12	5-15 years	Male	True	False	Negative blood smear	14.424761772155762	125006301	-9.0
+202	3202	ifx_events.0	2018-03-12	2018-04-09	5-15 years	Male	True	False	Asymptomatic parasitemia	9.367889404296877	125006301	-9.0
+203	3202	ifx_events.0	2018-04-09	2018-05-07	5-15 years	Male	True	False	Negative blood smear	34.251846313476555	125006301	14.800000190734865
+204	3202	ifx_events.0	2018-05-07	2018-06-04	5-15 years	Male	True	False	Asymptomatic parasitemia	14.379554748535154	125006301	-9.0
+205	3202	ifx_events.0	2018-06-04	2018-07-02	5-15 years	Male	True	False	Negative blood smear	0.05203527957201004	125006301	-9.0
+206	3202	ifx_events.0	2018-07-02	2018-07-30	5-15 years	Male	True	False	Negative blood smear	6.2933106422424325	125006301	14.899999618530273
+207	3202	ifx_events.0	2018-07-30	2018-08-27	5-15 years	Male	True	False	Negative blood smear	0.3779449164867401	125006301	-9.0
+208	3202	ifx_events.0	2018-08-27	2018-09-24	5-15 years	Male	True	False	Negative blood smear	5.199801445007324	125006301	-9.0
+209	3202	ifx_events.0	2018-09-24	2018-10-22	5-15 years	Male	True	False	Negative blood smear	0.0	125006301	13.800000190734865
+210	3202	ifx_events.0	2018-10-22	2018-11-19	5-15 years	Male	True	False	Negative blood smear	1.815374970436096	125006301	-9.0
+211	3202	ifx_events.0	2018-11-19	2018-12-17	5-15 years	Male	True	False	Negative blood smear	1.682508111000061	125006301	-9.0
+212	3202	ifx_events.0	2018-12-17	2019-01-14	5-15 years	Male	True	False	Negative blood smear	1.741590142250061	125006301	14.5
+213	3202	ifx_events.0	2019-01-14	2019-02-11	5-15 years	Male	True	False	Negative blood smear	0.0	125006301	-9.0
+214	3202	ifx_events.0	2019-02-11	2019-03-11	5-15 years	Male	True	False	Negative blood smear	0.4204481244087219	125006301	-9.0
+215	3202	ifx_events.0	2019-03-11	2019-04-08	5-15 years	Male	True	False	Negative blood smear	0.10061398148536682	125006301	14.5
+216	3202	ifx_events.0	2019-04-08	2019-05-06	5-15 years	Male	True	False	Negative blood smear	0.0	125006301	-9.0
+217	3202	ifx_events.0	2019-05-06	2019-06-03	5-15 years	Male	True	False	Negative blood smear	1.7055634260177612	125006301	-9.0
+218	3202	ifx_events.0	2019-06-03	2019-07-01	5-15 years	Male	True	False	Negative blood smear	0.03315834328532219	125006301	14.899999618530273
+219	3202	ifx_events.0	2019-07-01	2019-07-29	5-15 years	Male	True	True	Negative blood smear	0.09302685409784316	125006301	-9.0
+220	3205	ifx_event.0	2017-10-23	2017-11-20	5-15 years	Male	True	False	Asymptomatic parasitemia	187.38079833984372	125006301	16.5
+221	3205	ifx_event.0	2017-11-20	2017-12-18	5-15 years	Male	True	False	Negative blood smear	5.745999813079834	125006301	-9.0
+222	3205	ifx_event.0	2017-12-18	2018-01-17	5-15 years	Male	True	False	Negative blood smear	563.2637939453125	125006301	-9.0
+223	3205	ifx_event.0	2018-01-17	2018-02-12	5-15 years	Male	True	False	Negative blood smear	7.828505992889403	125006301	14.899999618530273
+224	3205	ifx_event.0	2018-02-12	2018-03-12	5-15 years	Male	True	False	Negative blood smear	11.68975830078125	125006301	-9.0
+225	3205	ifx_event.0	2018-03-12	2018-04-09	5-15 years	Male	True	False	Negative blood smear	0.14114248752593994	125006301	-9.0
+226	3205	ifx_event.0	2018-04-09	2018-05-07	5-15 years	Male	True	False	Negative blood smear	1.9079385995864868	125006301	16.200000762939453
+227	3205	ifx_event.0	2018-05-07	2018-06-04	5-15 years	Male	True	False	Negative blood smear	0.909592866897583	125006301	-9.0
+228	3205	ifx_event.0	2018-06-04	2018-07-02	5-15 years	Male	True	False	Negative blood smear	2.231942892074585	125006301	-9.0
+229	3205	ifx_event.0	2018-07-02	2018-07-30	5-15 years	Male	True	False	Negative blood smear	3.4158828258514404	125006301	15.399999618530273
+230	3205	ifx_event.0	2018-07-30	2018-08-27	5-15 years	Male	True	False	Negative blood smear	3.874545574188232	125006301	-9.0
+231	3205	ifx_event.0	2018-08-27	2018-09-24	5-15 years	Male	True	False	Negative blood smear	67.68648529052734	125006301	-9.0
+232	3205	ifx_event.0	2018-09-24	2018-10-22	5-15 years	Male	True	False	Negative blood smear	46.63802337646485	125006301	15.100000381469727
+233	3205	ifx_event.0	2018-10-22	2018-11-19	5-15 years	Male	True	False	Negative blood smear	3.020091772079468	125006301	-9.0
+234	3205	ifx_event.0	2018-11-19	2018-12-17	5-15 years	Male	True	False	Negative blood smear	1.5527149438858032	125006301	-9.0
+235	3205	ifx_event.0	2018-12-17	2019-01-14	5-15 years	Male	True	False	Negative blood smear	0.2063419669866562	125006301	14.399999618530273
+236	3205	ifx_event.0	2019-01-14	2019-02-11	5-15 years	Male	True	False	Negative blood smear	0.18579043447971344	125006301	-9.0
+237	3205	ifx_event.0	2019-02-11	2019-03-11	5-15 years	Male	True	False	Negative blood smear	0.027532434090971947	125006301	-9.0
+238	3205	ifx_event.0	2019-03-11	2019-04-08	5-15 years	Male	True	False	Negative blood smear	1.513949990272522	125006301	15.399999618530273
+239	3205	ifx_event.0	2019-04-08	2019-05-06	5-15 years	Male	True	False	Negative blood smear	2.691542387008667	125006301	-9.0
+240	3205	ifx_event.0	2019-05-06	2019-06-03	5-15 years	Male	True	False	Negative blood smear	1.225186824798584	125006301	-9.0
+241	3205	ifx_event.0	2019-06-03	2019-07-01	5-15 years	Male	True	False	Negative blood smear	3.5793778896331787	125006301	13.199999809265135
+242	3205	ifx_event.0	2019-07-01	2019-07-29	5-15 years	Male	True	True	Negative blood smear	2.831464529037476	125006301	-9.0
+243	3205	ifx_event.1	2019-03-11	2019-04-08	5-15 years	Male	False	False	Negative blood smear	1.513949990272522	125006301	15.399999618530273
+244	3205	ifx_event.1	2019-04-08	2019-05-06	5-15 years	Male	False	False	Negative blood smear	2.691542387008667	125006301	-9.0
+245	3205	ifx_event.1	2019-05-06	2019-06-03	5-15 years	Male	False	False	Negative blood smear	1.225186824798584	125006301	-9.0
+246	3205	ifx_event.1	2019-06-03	2019-07-01	5-15 years	Male	False	False	Negative blood smear	3.5793778896331787	125006301	13.199999809265135
+247	3205	ifx_event.1	2019-07-01	2019-07-29	5-15 years	Male	False	True	Negative blood smear	2.831464529037476	125006301	-9.0
+248	3236	ifx_events.0	2017-10-11	2017-11-08	16 years or older	Female	True	True	Negative blood smear	0.6020258069038391	115007801	15.800000190734865
+249	3238	ifx_event.1	2019-07-17	2019-07-23	5-15 years	Female	False	True	Asymptomatic parasitemia	2085.13232421875	115007801	-9.0
+250	3249	ifx_event.1	2018-04-25	2018-05-23	16 years or older	Female	False	True	Negative blood smear	0.3940650224685669	134001001	-9.0
+251	3284	ifx_events.0	2017-10-10	2017-11-07	5-15 years	Female	True	False	Asymptomatic parasitemia	525.4989013671875	143006701	15.399999618530273
+252	3284	ifx_events.0	2017-11-07	2017-12-05	5-15 years	Female	True	False	Negative blood smear	7.9559998512268075	143006701	-9.0
+253	3284	ifx_events.0	2017-12-05	2018-01-04	5-15 years	Female	True	False	Negative blood smear	5.80210018157959	143006701	-9.0
+254	3284	ifx_events.0	2018-01-04	2018-01-30	5-15 years	Female	True	True	Negative blood smear	0.35320326685905457	143006701	14.100000381469727
+255	3285	ifx_event.0	2017-10-10	2017-11-07	5-15 years	Male	True	False	Asymptomatic parasitemia	1355.5408935546875	143006701	15.899999618530273
+256	3285	ifx_event.0	2017-11-07	2017-12-05	5-15 years	Male	True	False	Asymptomatic parasitemia	1992.0260009765625	143006701	-9.0
+257	3285	ifx_event.0	2017-12-05	2018-01-04	5-15 years	Male	True	False	Asymptomatic parasitemia	600.6032104492188	143006701	-9.0
+258	3285	ifx_event.0	2018-01-04	2018-01-30	5-15 years	Male	True	False	Asymptomatic parasitemia	1019.529541015625	143006701	13.5
+259	3285	ifx_event.0	2018-01-30	2018-02-27	5-15 years	Male	True	False	Asymptomatic parasitemia	862.4189453125	143006701	-9.0
+260	3285	ifx_event.0	2018-02-27	2018-03-27	5-15 years	Male	True	False	Asymptomatic parasitemia	1624.427490234375	143006701	15.100000381469727
+261	3285	ifx_event.0	2018-03-27	2018-04-26	5-15 years	Male	True	False	Asymptomatic parasitemia	126.57561492919922	143006701	-9.0
+262	3285	ifx_event.0	2018-04-26	2018-05-22	5-15 years	Male	True	False	Negative blood smear	23.82436752319336	143006701	-9.0
+263	3285	ifx_event.0	2018-05-22	2018-06-19	5-15 years	Male	True	False	Asymptomatic parasitemia	90.20257568359376	143006701	14.5
+264	3285	ifx_event.0	2018-06-19	2018-07-17	5-15 years	Male	True	False	Asymptomatic parasitemia	911.753173828125	143006701	-9.0
+265	3285	ifx_event.0	2018-07-17	2018-08-14	5-15 years	Male	True	False	Negative blood smear	47.28909683227539	143006701	-9.0
+266	3285	ifx_event.0	2018-08-14	2018-09-11	5-15 years	Male	True	False	Asymptomatic parasitemia	616.0695190429688	143006701	16.5
+267	3285	ifx_event.0	2018-09-11	2018-10-09	5-15 years	Male	True	False	Asymptomatic parasitemia	674.822265625	143006701	-9.0
+268	3285	ifx_event.0	2018-10-09	2018-11-06	5-15 years	Male	True	False	Asymptomatic parasitemia	331.4861755371094	143006701	-9.0
+269	3285	ifx_event.0	2018-11-06	2018-12-04	5-15 years	Male	True	False	Asymptomatic parasitemia	149.1078338623047	143006701	13.399999618530273
+270	3285	ifx_event.0	2018-12-04	2019-01-04	5-15 years	Male	True	False	Negative blood smear	13.172581672668455	143006701	-9.0
+271	3285	ifx_event.0	2019-01-04	2019-01-30	5-15 years	Male	True	False	Asymptomatic parasitemia	94.24855041503906	143006701	-9.0
+272	3285	ifx_event.0	2019-01-30	2019-02-26	5-15 years	Male	True	False	Negative blood smear	20.05924415588379	143006701	14.0
+273	3285	ifx_event.0	2019-02-26	2019-03-26	5-15 years	Male	True	False	Asymptomatic parasitemia	20.276397705078125	143006701	-9.0
+274	3285	ifx_event.0	2019-03-26	2019-04-23	5-15 years	Male	True	False	Asymptomatic parasitemia	19.36225891113281	143006701	-9.0
+275	3285	ifx_event.0	2019-04-23	2019-05-21	5-15 years	Male	True	False	Asymptomatic parasitemia	31.0	143006701	14.699999809265135
+276	3285	ifx_event.0	2019-05-21	2019-06-18	5-15 years	Male	True	False	Negative blood smear	0.0	143006701	-9.0
+277	3285	ifx_event.0	2019-06-18	2019-07-16	5-15 years	Male	True	True	Negative blood smear	30.425701141357425	143006701	-9.0
+278	3285	ifx_event.1	2018-05-22	2018-06-19	5-15 years	Male	False	False	Asymptomatic parasitemia	90.20257568359376	143006701	14.5
+279	3285	ifx_event.1	2018-06-19	2018-07-17	5-15 years	Male	False	False	Asymptomatic parasitemia	911.753173828125	143006701	-9.0
+280	3285	ifx_event.1	2018-07-17	2018-08-14	5-15 years	Male	False	False	Negative blood smear	47.28909683227539	143006701	-9.0
+281	3285	ifx_event.1	2018-08-14	2018-09-11	5-15 years	Male	False	False	Asymptomatic parasitemia	616.0695190429688	143006701	16.5
+282	3285	ifx_event.1	2018-09-11	2018-10-09	5-15 years	Male	False	False	Asymptomatic parasitemia	674.822265625	143006701	-9.0
+283	3285	ifx_event.1	2018-10-09	2018-11-06	5-15 years	Male	False	False	Asymptomatic parasitemia	331.4861755371094	143006701	-9.0
+284	3285	ifx_event.1	2018-11-06	2018-12-04	5-15 years	Male	False	False	Asymptomatic parasitemia	149.1078338623047	143006701	13.399999618530273
+285	3285	ifx_event.1	2018-12-04	2019-01-04	5-15 years	Male	False	False	Negative blood smear	13.172581672668455	143006701	-9.0
+286	3285	ifx_event.1	2019-01-04	2019-01-30	5-15 years	Male	False	False	Asymptomatic parasitemia	94.24855041503906	143006701	-9.0
+287	3285	ifx_event.1	2019-01-30	2019-02-26	5-15 years	Male	False	False	Negative blood smear	20.05924415588379	143006701	14.0
+288	3285	ifx_event.1	2019-02-26	2019-03-26	5-15 years	Male	False	False	Asymptomatic parasitemia	20.276397705078125	143006701	-9.0
+289	3285	ifx_event.1	2019-03-26	2019-04-23	5-15 years	Male	False	False	Asymptomatic parasitemia	19.36225891113281	143006701	-9.0
+290	3285	ifx_event.1	2019-04-23	2019-05-21	5-15 years	Male	False	False	Asymptomatic parasitemia	31.0	143006701	14.699999809265135
+291	3285	ifx_event.1	2019-05-21	2019-06-18	5-15 years	Male	False	False	Negative blood smear	0.0	143006701	-9.0
+292	3285	ifx_event.1	2019-06-18	2019-07-16	5-15 years	Male	False	True	Negative blood smear	30.425701141357425	143006701	-9.0
+293	3285	ifx_event.2	2019-01-04	2019-01-30	5-15 years	Male	False	False	Asymptomatic parasitemia	94.24855041503906	143006701	-9.0
+294	3285	ifx_event.2	2019-01-30	2019-02-26	5-15 years	Male	False	False	Negative blood smear	20.05924415588379	143006701	14.0
+295	3285	ifx_event.2	2019-02-26	2019-03-26	5-15 years	Male	False	False	Asymptomatic parasitemia	20.276397705078125	143006701	-9.0
+296	3285	ifx_event.2	2019-03-26	2019-04-23	5-15 years	Male	False	False	Asymptomatic parasitemia	19.36225891113281	143006701	-9.0
+297	3285	ifx_event.2	2019-04-23	2019-05-21	5-15 years	Male	False	False	Asymptomatic parasitemia	31.0	143006701	14.699999809265135
+298	3285	ifx_event.2	2019-05-21	2019-06-18	5-15 years	Male	False	False	Negative blood smear	0.0	143006701	-9.0
+299	3285	ifx_event.2	2019-06-18	2019-07-16	5-15 years	Male	False	True	Negative blood smear	30.425701141357425	143006701	-9.0
+300	3313	ifx_event.0	2017-10-04	2017-11-01	16 years or older	Female	True	False	Negative blood smear	35.042098999023445	120000201	13.399999618530273
+301	3313	ifx_event.0	2017-11-01	2017-11-29	16 years or older	Female	True	True	Negative blood smear	0.2906999886035919	120000201	-9.0
+302	3313	ifx_event.1	2018-03-21	2018-04-18	16 years or older	Female	False	False	Negative blood smear	0.333247184753418	120000201	11.699999809265135
+303	3313	ifx_event.1	2018-04-18	2018-05-16	16 years or older	Female	False	False	Negative blood smear	0.0	120000201	-9.0
+304	3313	ifx_event.1	2018-05-16	2018-06-13	16 years or older	Female	False	False	Negative blood smear	0.0	120000201	-9.0
+305	3313	ifx_event.1	2018-06-13	2018-07-11	16 years or older	Female	False	False	Negative blood smear	89.73986053466797	120000201	12.300000190734865
+306	3313	ifx_event.1	2018-07-11	2018-08-08	16 years or older	Female	False	True	Negative blood smear	0.2914134562015533	120000201	-9.0
+307	3313	ifx_event.2	2018-06-13	2018-07-11	16 years or older	Female	False	False	Negative blood smear	89.73986053466797	120000201	12.300000190734865
+308	3313	ifx_event.2	2018-07-11	2018-08-08	16 years or older	Female	False	True	Negative blood smear	0.2914134562015533	120000201	-9.0
+309	3315	ifx_events.0	2017-10-04	2017-11-01	5-15 years	Female	True	False	Negative blood smear	78.69363403320312	120000201	12.899999618530273
+310	3315	ifx_events.0	2017-11-01	2017-11-29	5-15 years	Female	True	False	Asymptomatic parasitemia	139.85057067871094	120000201	-9.0
+311	3315	ifx_events.0	2017-11-29	2017-12-29	5-15 years	Female	True	False	Asymptomatic parasitemia	267.082763671875	120000201	-9.0
+312	3315	ifx_events.0	2017-12-29	2018-01-24	5-15 years	Female	True	False	Asymptomatic parasitemia	65.73220062255861	120000201	13.600000381469727
+313	3315	ifx_events.0	2018-01-24	2018-02-21	5-15 years	Female	True	False	Negative blood smear	11.665979385375975	120000201	-9.0
+314	3315	ifx_events.0	2018-02-21	2018-03-21	5-15 years	Female	True	False	Negative blood smear	22.83242034912109	120000201	-9.0
+315	3315	ifx_events.0	2018-03-21	2018-04-18	5-15 years	Female	True	False	Asymptomatic parasitemia	1560.1292724609375	120000201	12.699999809265135
+316	3315	ifx_events.0	2018-04-18	2018-05-16	5-15 years	Female	True	False	Negative blood smear	63.10067367553711	120000201	-9.0
+317	3315	ifx_events.0	2018-05-16	2018-06-13	5-15 years	Female	True	False	Negative blood smear	28.83566474914551	120000201	-9.0
+318	3315	ifx_events.0	2018-06-13	2018-07-11	5-15 years	Female	True	False	Negative blood smear	1.8846020698547363	120000201	12.5
+319	3315	ifx_events.0	2018-07-11	2018-08-08	5-15 years	Female	True	False	Negative blood smear	16.215618133544922	120000201	-9.0
+320	3315	ifx_events.0	2018-08-08	2018-09-05	5-15 years	Female	True	False	Negative blood smear	15.331291198730467	120000201	-9.0
+321	3315	ifx_events.0	2018-09-05	2018-10-03	5-15 years	Female	True	False	Asymptomatic parasitemia	52.56088256835938	120000201	11.100000381469727
+322	3315	ifx_events.0	2018-10-03	2018-10-31	5-15 years	Female	True	False	Negative blood smear	4.537644863128662	120000201	-9.0
+323	3315	ifx_events.0	2018-10-31	2018-11-28	5-15 years	Female	True	False	Negative blood smear	9.721046447753906	120000201	-9.0
+324	3315	ifx_events.0	2018-11-28	2018-12-29	5-15 years	Female	True	True	Negative blood smear	0.042415641248226166	120000201	12.300000190734865
+325	3336	ifx_events.0	2017-10-11	2017-11-08	5-15 years	Male	True	False	Negative blood smear	0.06120000034570694	122007301	15.800000190734865
+326	3336	ifx_events.0	2017-11-08	2017-12-06	5-15 years	Male	True	False	Negative blood smear	9.229299545288086	122007301	-9.0
+327	3336	ifx_events.0	2017-12-06	2018-01-05	5-15 years	Male	True	False	Negative blood smear	0.045899998396635056	122007301	-9.0
+328	3336	ifx_events.0	2018-01-05	2018-01-31	5-15 years	Male	True	True	Negative blood smear	0.008326419629156591	122007301	15.0
+329	3364	ifx_events.0	2017-10-04	2017-11-01	5-15 years	Female	True	False	Asymptomatic parasitemia	700.4552612304688	120000201	11.699999809265135
+330	3364	ifx_events.0	2017-11-01	2017-11-29	5-15 years	Female	True	False	Negative blood smear	25.91559410095215	120000201	-9.0
+331	3364	ifx_events.0	2017-11-29	2017-12-29	5-15 years	Female	True	False	Negative blood smear	47.1427001953125	120000201	-9.0
+332	3364	ifx_events.0	2017-12-29	2018-01-24	5-15 years	Female	True	False	Negative blood smear	2564.123046875	120000201	11.899999618530273
+333	3364	ifx_events.0	2018-01-24	2018-02-21	5-15 years	Female	True	False	Negative blood smear	5.922187805175781	120000201	-9.0
+334	3364	ifx_events.0	2018-02-21	2018-03-21	5-15 years	Female	True	False	Negative blood smear	22.53249549865723	120000201	-9.0
+335	3364	ifx_events.0	2018-03-21	2018-04-18	5-15 years	Female	True	False	Negative blood smear	176.60142517089844	120000201	11.100000381469727
+336	3364	ifx_events.0	2018-04-18	2018-05-16	5-15 years	Female	True	False	Negative blood smear	7.418079853057861	120000201	-9.0
+337	3364	ifx_events.0	2018-05-16	2018-06-13	5-15 years	Female	True	False	Negative blood smear	3.0119245052337646	120000201	-9.0
+338	3364	ifx_events.0	2018-06-13	2018-07-11	5-15 years	Female	True	False	Negative blood smear	4.020618438720703	120000201	12.600000381469727
+339	3364	ifx_events.0	2018-07-11	2018-08-08	5-15 years	Female	True	False	Asymptomatic parasitemia	600.3859252929688	120000201	-9.0
+340	3364	ifx_events.0	2018-08-08	2018-09-05	5-15 years	Female	True	False	Negative blood smear	2.8955783843994136	120000201	-9.0
+341	3364	ifx_events.0	2018-09-05	2018-10-03	5-15 years	Female	True	False	Negative blood smear	0.7404341101646423	120000201	11.100000381469727
+342	3364	ifx_events.0	2018-10-03	2018-10-31	5-15 years	Female	True	False	Negative blood smear	17.210681915283207	120000201	-9.0
+343	3364	ifx_events.0	2018-10-31	2018-11-28	5-15 years	Female	True	False	Negative blood smear	0.6734519600868225	120000201	-9.0
+344	3364	ifx_events.0	2018-11-28	2018-12-29	5-15 years	Female	True	False	Negative blood smear	0.34976914525032043	120000201	10.899999618530273
+345	3364	ifx_events.0	2018-12-29	2019-01-23	5-15 years	Female	True	False	Negative blood smear	0.031458556652069085	120000201	-9.0
+346	3364	ifx_events.0	2019-01-23	2019-02-20	5-15 years	Female	True	False	Negative blood smear	1.5449018478393557	120000201	-9.0
+347	3364	ifx_events.0	2019-02-20	2019-03-20	5-15 years	Female	True	False	Negative blood smear	0.31918710470199585	120000201	11.699999809265135
+348	3364	ifx_events.0	2019-03-20	2019-04-17	5-15 years	Female	True	False	Negative blood smear	0.0	120000201	-9.0
+349	3364	ifx_events.0	2019-04-17	2019-05-15	5-15 years	Female	True	True	Negative blood smear	0.059838976711034775	120000201	-9.0
+350	3371	ifx_events.0	2017-11-20	2017-12-18	5-15 years	Male	True	True	Negative blood smear	0.12070000171661376	132005501	-9.0
+351	3376	ifx_event.1	2019-07-17	2019-07-23	5-15 years	Male	False	True	Negative blood smear	288.0020446777344	145001701	-9.0
+352	3393	ifx_event.1	2018-05-22	2018-05-28	5-15 years	Male	False	False	Negative blood smear	18.876781463623047	114004501	-9.0
+353	3393	ifx_event.1	2018-05-28	2018-06-19	5-15 years	Male	False	False	Malaria	77014.265625	114004501	13.100000381469727
+354	3393	ifx_event.1	2018-06-19	2018-07-17	5-15 years	Male	False	True	Negative blood smear	0.02397950366139412	114004501	13.699999809265135
+355	3394	ifx_event.1	2018-12-22	2019-01-05	5-15 years	Male	False	False	Malaria	64949.95703125	134001001	12.899999618530273
+356	3394	ifx_event.1	2019-01-05	2019-01-30	5-15 years	Male	False	False	Negative blood smear	0.05705804750323296	134001001	-9.0
+357	3394	ifx_event.1	2019-01-30	2019-02-27	5-15 years	Male	False	True	Negative blood smear	0.010299406945705414	134001001	13.899999618530273
+358	3402	ifx_event.1	2019-05-06	2019-06-03	5-15 years	Female	False	True	Negative blood smear	0.025516320019960403	128001701	14.5
+359	3421	ifx_event.1	2018-10-08	2018-11-05	5-15 years	Male	False	True	Negative blood smear	0.012990030460059645	143001101	-9.0
+360	3429	ifx_event.1	2018-06-25	2018-07-23	5-15 years	Female	False	False	Negative blood smear	0.034282766282558434	114006801	14.300000190734865
+361	3429	ifx_event.1	2018-07-23	2018-08-20	5-15 years	Female	False	False	Negative blood smear	36.43574905395508	114006801	-9.0
+362	3429	ifx_event.1	2018-08-20	2018-09-17	5-15 years	Female	False	False	Negative blood smear	10.084810256958008	114006801	-9.0
+363	3429	ifx_event.1	2018-09-17	2018-10-15	5-15 years	Female	False	False	Asymptomatic parasitemia	29.543880462646484	114006801	13.5
+364	3429	ifx_event.1	2018-10-15	2018-11-12	5-15 years	Female	False	False	Negative blood smear	3.2624752521514893	114006801	-9.0
+365	3429	ifx_event.1	2018-11-12	2018-12-10	5-15 years	Female	False	False	Negative blood smear	0.8199989199638367	114006801	-9.0
+366	3429	ifx_event.1	2018-12-10	2019-01-07	5-15 years	Female	False	False	Negative blood smear	1.2667887210845947	114006801	14.199999809265135
+367	3429	ifx_event.1	2019-01-07	2019-02-04	5-15 years	Female	False	False	Negative blood smear	9.937121391296387	114006801	-9.0
+368	3429	ifx_event.1	2019-02-04	2019-03-04	5-15 years	Female	False	False	Negative blood smear	3.812486886978149	114006801	-9.0
+369	3429	ifx_event.1	2019-03-04	2019-04-01	5-15 years	Female	False	False	Negative blood smear	0.1723356992006302	114006801	12.600000381469727
+370	3429	ifx_event.1	2019-04-01	2019-04-29	5-15 years	Female	False	False	Negative blood smear	3.25147557258606	114006801	-9.0
+371	3429	ifx_event.1	2019-04-29	2019-05-27	5-15 years	Female	False	False	Negative blood smear	2.713774442672729	114006801	-9.0
+372	3429	ifx_event.1	2019-05-27	2019-06-24	5-15 years	Female	False	False	Negative blood smear	3.0	114006801	13.199999809265135
+373	3429	ifx_event.1	2019-06-24	2019-07-22	5-15 years	Female	False	True	Negative blood smear	0.3329775631427765	114006801	-9.0
+374	3444	ifx_event.1	2018-07-11	2018-08-08	< 5 years	Male	False	True	Negative blood smear	0.012455086223781107	120005401	12.600000381469727
+375	3467	ifx_event.1	2018-06-13	2018-07-11	< 5 years	Male	False	True	Negative blood smear	0.15746907889842987	141017201	-9.0
+376	3482	ifx_event.1	2018-12-03	2019-01-03	< 5 years	Female	False	True	Negative blood smear	0.02046791091561317	114011201	-9.0
+377	3504	ifx_event.1	2017-12-29	2018-01-24	16 years or older	Male	False	True	Negative blood smear	0.6240038871765137	118002402	16.5
+378	3505	ifx_events.0	2017-10-04	2017-11-01	16 years or older	Male	True	False	Negative blood smear	0.5490999817848206	119008702	17.799999237060547
+379	3505	ifx_events.0	2017-11-01	2017-11-29	16 years or older	Male	True	False	Negative blood smear	39.25640106201172	119008702	-9.0
+380	3505	ifx_events.0	2017-11-29	2017-12-29	16 years or older	Male	True	False	Negative blood smear	0.4181999862194061	119008702	-9.0
+381	3505	ifx_events.0	2017-12-29	2018-01-24	16 years or older	Male	True	False	Negative blood smear	0.913287878036499	119008702	14.300000190734865
+382	3505	ifx_events.0	2018-01-24	2018-02-21	16 years or older	Male	True	False	Negative blood smear	13.692490577697756	119008702	-9.0
+383	3505	ifx_events.0	2018-02-21	2018-03-21	16 years or older	Male	True	False	Negative blood smear	0.008728411048650742	119008702	-9.0
+384	3505	ifx_events.0	2018-03-21	2018-04-18	16 years or older	Male	True	False	Negative blood smear	0.981269598007202	119008702	-9.0
+385	3505	ifx_events.0	2018-04-18	2018-05-16	16 years or older	Male	True	False	Negative blood smear	0.4544536173343658	119008702	-9.0
+386	3505	ifx_events.0	2018-05-16	2018-06-13	16 years or older	Male	True	False	Negative blood smear	0.08630549162626266	119008702	-9.0
+387	3505	ifx_events.0	2018-06-13	2018-07-11	16 years or older	Male	True	False	Negative blood smear	0.1160782277584076	119008702	-9.0
+388	3505	ifx_events.0	2018-07-11	2018-08-08	16 years or older	Male	True	True	Negative blood smear	0.04854811355471611	119008702	-9.0
+389	3506	ifx_event.1	2018-03-21	2018-04-18	16 years or older	Male	False	False	Negative blood smear	0.06366641819477081	120000201	15.5
+390	3506	ifx_event.1	2018-04-18	2018-05-16	16 years or older	Male	False	False	Asymptomatic parasitemia	377.221923828125	120000201	-9.0
+391	3506	ifx_event.1	2018-05-16	2018-06-13	16 years or older	Male	False	False	Negative blood smear	0.3268468379974365	120000201	-9.0
+392	3506	ifx_event.1	2018-06-13	2018-07-11	16 years or older	Male	False	False	Negative blood smear	0.5700901746749878	120000201	15.899999618530273
+393	3506	ifx_event.1	2018-07-11	2018-08-08	16 years or older	Male	False	False	Asymptomatic parasitemia	140.87852478027344	120000201	-9.0
+394	3506	ifx_event.1	2018-08-08	2018-09-05	16 years or older	Male	False	False	Negative blood smear	17.633386611938477	120000201	-9.0
+395	3506	ifx_event.1	2018-09-05	2018-10-03	16 years or older	Male	False	False	Negative blood smear	7.936585426330566	120000201	15.100000381469727
+396	3506	ifx_event.1	2018-10-03	2018-10-31	16 years or older	Male	False	False	Negative blood smear	15.229375839233398	120000201	-9.0
+397	3506	ifx_event.1	2018-10-31	2018-11-28	16 years or older	Male	False	False	Asymptomatic parasitemia	30.132709503173828	120000201	-9.0
+398	3506	ifx_event.1	2018-11-28	2018-12-29	16 years or older	Male	False	False	Negative blood smear	0.482061505317688	120000201	15.800000190734865
+399	3506	ifx_event.1	2018-12-29	2019-01-23	16 years or older	Male	False	False	Negative blood smear	0.1780606508255005	120000201	-9.0
+400	3506	ifx_event.1	2019-01-23	2019-02-20	16 years or older	Male	False	False	Negative blood smear	0.3803919851779938	120000201	-9.0
+401	3506	ifx_event.1	2019-02-20	2019-03-20	16 years or older	Male	False	False	Negative blood smear	1.0198589563369749	120000201	17.299999237060547
+402	3506	ifx_event.1	2019-03-20	2019-04-17	16 years or older	Male	False	False	Negative blood smear	0.010659657418727876	120000201	-9.0
+403	3506	ifx_event.1	2019-04-17	2019-05-15	16 years or older	Male	False	False	Negative blood smear	0.4953549802303314	120000201	-9.0
+404	3506	ifx_event.1	2019-05-15	2019-06-12	16 years or older	Male	False	False	Negative blood smear	3.0	120000201	15.5
+405	3506	ifx_event.1	2019-06-12	2019-07-10	16 years or older	Male	False	True	Negative blood smear	1.9149267673492432	120000201	-9.0
+406	3506	ifx_event.3	2018-07-11	2018-08-08	16 years or older	Male	False	False	Asymptomatic parasitemia	140.87852478027344	120000201	-9.0
+407	3506	ifx_event.3	2018-08-08	2018-09-05	16 years or older	Male	False	False	Negative blood smear	17.633386611938477	120000201	-9.0
+408	3506	ifx_event.3	2018-09-05	2018-10-03	16 years or older	Male	False	False	Negative blood smear	7.936585426330566	120000201	15.100000381469727
+409	3506	ifx_event.3	2018-10-03	2018-10-31	16 years or older	Male	False	False	Negative blood smear	15.229375839233398	120000201	-9.0
+410	3506	ifx_event.3	2018-10-31	2018-11-28	16 years or older	Male	False	False	Asymptomatic parasitemia	30.132709503173828	120000201	-9.0
+411	3506	ifx_event.3	2018-11-28	2018-12-29	16 years or older	Male	False	False	Negative blood smear	0.482061505317688	120000201	15.800000190734865
+412	3506	ifx_event.3	2018-12-29	2019-01-23	16 years or older	Male	False	False	Negative blood smear	0.1780606508255005	120000201	-9.0
+413	3506	ifx_event.3	2019-01-23	2019-02-20	16 years or older	Male	False	False	Negative blood smear	0.3803919851779938	120000201	-9.0
+414	3506	ifx_event.3	2019-02-20	2019-03-20	16 years or older	Male	False	False	Negative blood smear	1.0198589563369749	120000201	17.299999237060547
+415	3506	ifx_event.3	2019-03-20	2019-04-17	16 years or older	Male	False	False	Negative blood smear	0.010659657418727876	120000201	-9.0
+416	3506	ifx_event.3	2019-04-17	2019-05-15	16 years or older	Male	False	False	Negative blood smear	0.4953549802303314	120000201	-9.0
+417	3506	ifx_event.3	2019-05-15	2019-06-12	16 years or older	Male	False	False	Negative blood smear	3.0	120000201	15.5
+418	3506	ifx_event.3	2019-06-12	2019-07-10	16 years or older	Male	False	True	Negative blood smear	1.9149267673492432	120000201	-9.0
+419	3508	ifx_event.1	2017-12-29	2018-01-24	< 5 years	Male	False	True	Negative blood smear	0.7710391283035278	140005904	12.800000190734865
+420	3510	ifx_event.0	2017-10-04	2017-11-01	16 years or older	Male	True	False	Negative blood smear	0.6765999794006348	141017201	17.100000381469727
+421	3510	ifx_event.0	2017-11-01	2017-11-29	16 years or older	Male	True	False	Negative blood smear	13.372200012207033	141017201	-9.0
+422	3510	ifx_event.0	2017-11-29	2017-12-29	16 years or older	Male	True	False	Negative blood smear	0.6833999752998352	141017201	-9.0
+423	3510	ifx_event.0	2017-12-29	2018-01-24	16 years or older	Male	True	False	Negative blood smear	0.3740000128746033	141017201	17.200000762939453
+424	3510	ifx_event.0	2018-01-24	2018-02-21	16 years or older	Male	True	False	Negative blood smear	1.6671695709228516	141017201	-9.0
+425	3510	ifx_event.0	2018-02-21	2018-03-21	16 years or older	Male	True	False	Negative blood smear	0.5784493684768677	141017201	-9.0
+426	3510	ifx_event.0	2018-03-21	2018-04-18	16 years or older	Male	True	False	Negative blood smear	4.903264999389648	141017201	-9.0
+427	3510	ifx_event.0	2018-04-18	2018-05-16	16 years or older	Male	True	False	Negative blood smear	6.609140396118164	141017201	16.700000762939453
+428	3510	ifx_event.0	2018-05-16	2018-06-13	16 years or older	Male	True	False	Negative blood smear	1.8263087272644043	141017201	-9.0
+429	3510	ifx_event.0	2018-06-13	2018-07-11	16 years or older	Male	True	False	Negative blood smear	6.029703140258789	141017201	-9.0
+430	3510	ifx_event.0	2018-07-11	2018-08-08	16 years or older	Male	True	True	Negative blood smear	2.1747701168060303	141017201	17.0
+431	3510	ifx_event.1	2018-05-16	2018-06-13	16 years or older	Male	False	False	Negative blood smear	1.8263087272644043	141017201	-9.0
+432	3510	ifx_event.1	2018-06-13	2018-07-11	16 years or older	Male	False	False	Negative blood smear	6.029703140258789	141017201	-9.0
+433	3510	ifx_event.1	2018-07-11	2018-08-08	16 years or older	Male	False	False	Negative blood smear	2.1747701168060303	141017201	17.0
+434	3510	ifx_event.1	2018-08-08	2018-09-05	16 years or older	Male	False	False	Negative blood smear	0.7486510872840881	141017201	-9.0
+435	3510	ifx_event.1	2018-09-05	2018-10-03	16 years or older	Male	False	False	Negative blood smear	1.3624279499053955	141017201	-9.0
+436	3510	ifx_event.1	2018-10-03	2018-10-31	16 years or older	Male	False	False	Negative blood smear	0.2382325083017349	141017201	15.100000381469727
+437	3510	ifx_event.1	2018-10-31	2018-11-28	16 years or older	Male	False	False	Negative blood smear	1.597291350364685	141017201	-9.0
+438	3510	ifx_event.1	2018-11-28	2018-12-29	16 years or older	Male	False	False	Negative blood smear	0.031049752607941624	141017201	-9.0
+439	3510	ifx_event.1	2018-12-29	2019-01-23	16 years or older	Male	False	False	Negative blood smear	1.862991571426392	141017201	-9.0
+440	3510	ifx_event.1	2019-01-23	2019-02-20	16 years or older	Male	False	False	Negative blood smear	4.2018446922302255	141017201	-9.0
+441	3510	ifx_event.1	2019-02-20	2019-03-20	16 years or older	Male	False	False	Negative blood smear	11.931018829345705	141017201	-9.0
+442	3510	ifx_event.1	2019-03-20	2019-04-17	16 years or older	Male	False	True	Negative blood smear	0.011200939305126669	141017201	17.200000762939453
+443	3510	ifx_event.2	2018-12-29	2019-01-23	16 years or older	Male	False	False	Negative blood smear	1.862991571426392	141017201	-9.0
+444	3510	ifx_event.2	2019-01-23	2019-02-20	16 years or older	Male	False	False	Negative blood smear	4.2018446922302255	141017201	-9.0
+445	3510	ifx_event.2	2019-02-20	2019-03-20	16 years or older	Male	False	False	Negative blood smear	11.931018829345705	141017201	-9.0
+446	3510	ifx_event.2	2019-03-20	2019-04-17	16 years or older	Male	False	True	Negative blood smear	0.011200939305126669	141017201	17.200000762939453
+447	3511	ifx_event.1	2018-07-16	2018-08-13	16 years or older	Male	False	True	Negative blood smear	0.009414223022758959	143001101	-9.0
+448	3514	ifx_events.0	2017-11-06	2017-12-04	16 years or older	Male	True	False	Negative blood smear	0.0332813486456871	114001102	-9.0
+449	3514	ifx_events.0	2017-12-04	2018-01-03	16 years or older	Male	True	True	Negative blood smear	0.05609999969601631	114001102	-9.0
+450	3515	ifx_event.1	2019-03-25	2019-04-22	16 years or older	Female	False	False	Asymptomatic parasitemia	1682.92578125	114001102	-9.0
+451	3515	ifx_event.1	2019-04-22	2019-05-20	16 years or older	Female	False	False	Negative blood smear	29.0	114001102	12.399999618530273
+452	3515	ifx_event.1	2019-05-20	2019-06-17	16 years or older	Female	False	False	Negative blood smear	70.0	114001102	-9.0
+453	3515	ifx_event.1	2019-06-17	2019-07-15	16 years or older	Female	False	True	Negative blood smear	1.3986128568649292	114001102	-9.0
+454	3521	ifx_event.1	2018-01-29	2018-02-26	5-15 years	Male	False	True	Negative blood smear	0.4495792984962464	114011201	-9.0
+455	3522	ifx_event.1	2019-02-27	2019-03-26	16 years or older	Male	False	True	Negative blood smear	0.005790906026959418	126002501	-9.0
+456	3523	ifx_events.0	2017-10-10	2017-11-07	16 years or older	Male	True	False	Negative blood smear	5.392399787902832	114004501	15.0
+457	3523	ifx_events.0	2017-11-07	2017-12-05	16 years or older	Male	True	False	Negative blood smear	5.320731163024902	114004501	-9.0
+458	3523	ifx_events.0	2017-12-05	2018-01-04	16 years or older	Male	True	False	Negative blood smear	0.1088000014424324	114004501	-9.0
+459	3523	ifx_events.0	2018-01-04	2018-01-30	16 years or older	Male	True	False	Negative blood smear	11.032373428344727	114004501	15.899999618530273
+460	3523	ifx_events.0	2018-01-30	2018-02-27	16 years or older	Male	True	False	Negative blood smear	2.0269968509674072	114004501	-9.0
+461	3523	ifx_events.0	2018-02-27	2018-03-27	16 years or older	Male	True	False	Negative blood smear	1.0	114004501	-9.0
+462	3523	ifx_events.0	2018-03-27	2018-04-24	16 years or older	Male	True	False	Negative blood smear	1.0	114004501	16.600000381469727
+463	3523	ifx_events.0	2018-04-24	2018-05-22	16 years or older	Male	True	False	Negative blood smear	0.6377443075180054	114004501	-9.0
+464	3523	ifx_events.0	2018-05-22	2018-06-19	16 years or older	Male	True	False	Negative blood smear	0.5821011066436768	114004501	-9.0
+465	3523	ifx_events.0	2018-06-19	2018-07-18	16 years or older	Male	True	False	Negative blood smear	0.5502161979675293	114004501	15.300000190734865
+466	3523	ifx_events.0	2018-07-18	2018-08-14	16 years or older	Male	True	False	Negative blood smear	0.7620082497596741	114004501	-9.0
+467	3523	ifx_events.0	2018-08-14	2018-09-11	16 years or older	Male	True	False	Negative blood smear	1.1309231519699097	114004501	-9.0
+468	3523	ifx_events.0	2018-09-11	2018-10-09	16 years or older	Male	True	True	Negative blood smear	0.13384249806404114	114004501	12.0
+469	3525	ifx_event.1	2018-01-04	2018-01-30	16 years or older	Male	False	False	Negative blood smear	0.02623336762189865	105006801	15.899999618530273
+470	3525	ifx_event.1	2018-01-30	2018-02-27	16 years or older	Male	False	False	Negative blood smear	12.03619384765625	105006801	-9.0
+471	3525	ifx_event.1	2018-02-27	2018-05-23	16 years or older	Male	False	False	Negative blood smear	1.0	105006801	-9.0
+472	3525	ifx_event.1	2018-05-23	2018-06-19	16 years or older	Male	False	False	Negative blood smear	0.046340737491846085	105006801	-9.0
+473	3525	ifx_event.1	2018-06-19	2018-07-18	16 years or older	Male	False	True	Negative blood smear	0.04407263919711113	105006801	16.299999237060547
+474	3527	ifx_events.0	2017-10-10	2017-11-07	16 years or older	Male	True	False	Negative blood smear	0.6103000044822693	146001002	17.0
+475	3527	ifx_events.0	2017-11-07	2017-12-05	16 years or older	Male	True	False	Negative blood smear	6.85099983215332	146001002	-9.0
+476	3527	ifx_events.0	2017-12-05	2018-01-04	16 years or older	Male	True	False	Negative blood smear	0.657950222492218	146001002	-9.0
+477	3527	ifx_events.0	2018-01-04	2018-01-30	16 years or older	Male	True	False	Negative blood smear	0.15172995626926422	146001002	17.299999237060547
+478	3527	ifx_events.0	2018-01-30	2018-02-27	16 years or older	Male	True	False	Negative blood smear	0.12229153513908385	146001002	-9.0
+479	3527	ifx_events.0	2018-02-27	2018-03-27	16 years or older	Male	True	False	Negative blood smear	0.02275560051202774	146001002	-9.0
+480	3527	ifx_events.0	2018-03-27	2018-04-24	16 years or older	Male	True	False	Negative blood smear	0.0	146001002	-9.0
+481	3527	ifx_events.0	2018-04-24	2018-05-22	16 years or older	Male	True	False	Negative blood smear	0.4321893155574799	146001002	16.799999237060547
+482	3527	ifx_events.0	2018-05-22	2018-06-19	16 years or older	Male	True	False	Negative blood smear	1.7980424165725708	146001002	-9.0
+483	3527	ifx_events.0	2018-06-19	2018-07-19	16 years or older	Male	True	False	Negative blood smear	0.3635563850402832	146001002	-9.0
+484	3527	ifx_events.0	2018-07-19	2018-08-14	16 years or older	Male	True	False	Negative blood smear	0.3523707091808319	146001002	15.300000190734865
+485	3527	ifx_events.0	2018-08-14	2018-09-11	16 years or older	Male	True	False	Negative blood smear	0.889537513256073	146001002	-9.0
+486	3527	ifx_events.0	2018-09-11	2018-10-09	16 years or older	Male	True	False	Negative blood smear	0.31892627477645874	146001002	-9.0
+487	3527	ifx_events.0	2018-10-09	2018-11-06	16 years or older	Male	True	True	Negative blood smear	0.04427792876958847	146001002	15.0
+488	3529	ifx_events.0	2017-10-11	2017-11-08	16 years or older	Male	True	False	Negative blood smear	0.09962370246648787	134001001	17.0
+489	3529	ifx_events.0	2017-11-08	2017-12-06	16 years or older	Male	True	True	Negative blood smear	5.817399978637695	134001001	-9.0
+490	3530	ifx_events.0	2017-10-11	2017-11-08	16 years or older	Male	True	True	Negative blood smear	1.829200029373169	114007303	16.0
+491	3532	ifx_event.1	2019-05-22	2019-06-19	16 years or older	Male	False	False	Negative blood smear	1.0	115007801	14.199999809265135
+492	3532	ifx_event.1	2019-06-19	2019-07-17	16 years or older	Male	False	True	Negative blood smear	11.346339225769045	115007801	-9.0
+493	3535	ifx_event.1	2018-02-28	2018-03-28	5-15 years	Male	False	True	Negative blood smear	0.03840858116745949	122007301	-9.0
+494	3540	ifx_events.0	2017-10-16	2017-11-13	16 years or older	Female	True	False	Asymptomatic parasitemia	641.63427734375	127000301	14.300000190734865
+495	3540	ifx_events.0	2017-11-13	2017-12-11	16 years or older	Female	True	False	Asymptomatic parasitemia	145.35943603515625	127000301	-9.0
+496	3540	ifx_events.0	2017-12-11	2018-01-08	16 years or older	Female	True	False	Negative blood smear	2.9665000438690186	127000301	-9.0
+497	3540	ifx_events.0	2018-01-08	2018-02-05	16 years or older	Female	True	False	Negative blood smear	0.0402052253484726	127000301	14.300000190734865
+498	3540	ifx_events.0	2018-02-05	2018-03-05	16 years or older	Female	True	False	Negative blood smear	0.4258681833744049	127000301	-9.0
+499	3540	ifx_events.0	2018-03-05	2018-04-02	16 years or older	Female	True	False	Negative blood smear	0.0	127000301	13.199999809265135
+500	3540	ifx_events.0	2018-04-02	2018-04-30	16 years or older	Female	True	False	Negative blood smear	0.08379759639501573	127000301	-9.0
+501	3540	ifx_events.0	2018-04-30	2018-05-28	16 years or older	Female	True	False	Negative blood smear	10.819705963134766	127000301	-9.0
+502	3540	ifx_events.0	2018-05-28	2018-06-25	16 years or older	Female	True	True	Negative blood smear	0.015440571121871471	127000301	11.699999809265135
+503	3541	ifx_event.0	2017-10-16	2017-11-13	16 years or older	Female	True	False	Negative blood smear	4.341565608978272	127000301	14.399999618530273
+504	3541	ifx_event.0	2017-11-13	2017-12-11	16 years or older	Female	True	False	Negative blood smear	2.240600109100342	127000301	-9.0
+505	3541	ifx_event.0	2017-12-11	2018-01-08	16 years or older	Female	True	False	Negative blood smear	0.10540000349283217	127000301	-9.0
+506	3541	ifx_event.0	2018-01-08	2018-02-05	16 years or older	Female	True	False	Negative blood smear	0.020359691232442856	127000301	14.199999809265135
+507	3541	ifx_event.0	2018-02-05	2018-03-05	16 years or older	Female	True	False	Negative blood smear	1.1723006963729858	127000301	-9.0
+508	3541	ifx_event.0	2018-03-05	2018-04-02	16 years or older	Female	True	False	Negative blood smear	0.581654965877533	127000301	15.5
+509	3541	ifx_event.0	2018-04-02	2018-04-30	16 years or older	Female	True	False	Negative blood smear	0.06465980410575868	127000301	-9.0
+510	3541	ifx_event.0	2018-04-30	2018-05-28	16 years or older	Female	True	False	Negative blood smear	1.8087081909179688	127000301	-9.0
+511	3541	ifx_event.0	2018-05-28	2018-06-25	16 years or older	Female	True	False	Negative blood smear	1.6536459922790527	127000301	14.399999618530273
+512	3541	ifx_event.0	2018-06-25	2018-07-23	16 years or older	Female	True	False	Negative blood smear	0.9753422141075134	127000301	-9.0
+513	3541	ifx_event.0	2018-07-23	2018-08-20	16 years or older	Female	True	True	Negative blood smear	0.33216193318367004	127000301	-9.0
+514	3542	ifx_event.0	2017-10-16	2017-11-13	5-15 years	Female	True	False	Asymptomatic parasitemia	1343.1666259765625	127000301	14.399999618530273
+515	3542	ifx_event.0	2017-11-13	2017-12-11	5-15 years	Female	True	False	Asymptomatic parasitemia	522.8193969726562	127000301	-9.0
+516	3542	ifx_event.0	2017-12-11	2018-01-08	5-15 years	Female	True	False	Negative blood smear	185.52609252929688	127000301	-9.0
+517	3542	ifx_event.0	2018-01-08	2018-02-05	5-15 years	Female	True	False	Negative blood smear	97.7566146850586	127000301	14.100000381469727
+518	3542	ifx_event.0	2018-02-05	2018-03-05	5-15 years	Female	True	False	Asymptomatic parasitemia	312.66253662109375	127000301	-9.0
+519	3542	ifx_event.0	2018-03-05	2018-04-02	5-15 years	Female	True	False	Asymptomatic parasitemia	390.8209228515625	127000301	13.800000190734865
+520	3542	ifx_event.0	2018-04-02	2018-04-30	5-15 years	Female	True	False	Asymptomatic parasitemia	674.6602172851562	127000301	-9.0
+521	3542	ifx_event.0	2018-04-30	2018-05-28	5-15 years	Female	True	False	Negative blood smear	42.34971618652344	127000301	-9.0
+522	3542	ifx_event.0	2018-05-28	2018-06-25	5-15 years	Female	True	False	Asymptomatic parasitemia	22.20005989074707	127000301	11.800000190734865
+523	3542	ifx_event.0	2018-06-25	2018-07-23	5-15 years	Female	True	False	Negative blood smear	1.4471100568771362	127000301	-9.0
+524	3542	ifx_event.0	2018-07-23	2018-08-20	5-15 years	Female	True	False	Negative blood smear	1.6234140396118164	127000301	-9.0
+525	3542	ifx_event.0	2018-08-20	2018-09-17	5-15 years	Female	True	False	Negative blood smear	1.2419509887695312	127000301	10.699999809265137
+526	3542	ifx_event.0	2018-09-17	2018-10-15	5-15 years	Female	True	False	Asymptomatic parasitemia	4.79987096786499	127000301	-9.0
+527	3542	ifx_event.0	2018-10-15	2018-11-12	5-15 years	Female	True	False	Negative blood smear	0.4966244697570801	127000301	-9.0
+528	3542	ifx_event.0	2018-11-12	2018-12-10	5-15 years	Female	True	False	Negative blood smear	0.19818757474422452	127000301	13.800000190734865
+529	3542	ifx_event.0	2018-12-10	2019-01-07	5-15 years	Female	True	False	Negative blood smear	0.0848521813750267	127000301	-9.0
+530	3542	ifx_event.0	2019-01-07	2019-02-04	5-15 years	Female	True	False	Negative blood smear	0.001922869007103145	127000301	-9.0
+531	3542	ifx_event.0	2019-02-04	2019-03-04	5-15 years	Female	True	True	Negative blood smear	2.438015937805176	127000301	13.600000381469727
+532	3542	ifx_event.1	2018-03-05	2018-04-02	5-15 years	Female	False	False	Asymptomatic parasitemia	390.8209228515625	127000301	13.800000190734865
+533	3542	ifx_event.1	2018-04-02	2018-04-30	5-15 years	Female	False	False	Asymptomatic parasitemia	674.6602172851562	127000301	-9.0
+534	3542	ifx_event.1	2018-04-30	2018-05-28	5-15 years	Female	False	True	Negative blood smear	42.34971618652344	127000301	-9.0
+535	3546	ifx_events.0	2017-10-16	2017-11-13	16 years or older	Male	True	False	Negative blood smear	63.90135955810547	131010802	17.0
+536	3546	ifx_events.0	2017-11-13	2017-12-11	16 years or older	Male	True	False	Asymptomatic parasitemia	18.609899520874023	131010802	-9.0
+537	3546	ifx_events.0	2017-12-11	2018-01-08	16 years or older	Male	True	False	Negative blood smear	7.587833881378174	131010802	-9.0
+538	3546	ifx_events.0	2018-01-08	2018-02-06	16 years or older	Male	True	False	Negative blood smear	0.3399772942066193	131010802	17.5
+539	3546	ifx_events.0	2018-02-06	2018-03-05	16 years or older	Male	True	False	Negative blood smear	0.27511700987815857	131010802	-9.0
+540	3546	ifx_events.0	2018-03-05	2018-04-04	16 years or older	Male	True	False	Negative blood smear	0.1641780585050583	131010802	17.700000762939453
+541	3546	ifx_events.0	2018-04-04	2018-04-30	16 years or older	Male	True	False	Negative blood smear	2.4743125438690186	131010802	-9.0
+542	3546	ifx_events.0	2018-04-30	2018-05-28	16 years or older	Male	True	False	Negative blood smear	3.061264991760254	131010802	-9.0
+543	3546	ifx_events.0	2018-05-28	2018-06-25	16 years or older	Male	True	False	Negative blood smear	0.26986798644065857	131010802	16.399999618530273
+544	3546	ifx_events.0	2018-06-25	2018-07-23	16 years or older	Male	True	False	Negative blood smear	0.028467174619436264	131010802	-9.0
+545	3546	ifx_events.0	2018-07-23	2018-08-20	16 years or older	Male	True	False	Negative blood smear	0.035552978515625	131010802	-9.0
+546	3546	ifx_events.0	2018-08-20	2018-09-17	16 years or older	Male	True	False	Negative blood smear	0.12810987234115598	131010802	14.100000381469727
+547	3546	ifx_events.0	2018-09-17	2018-10-17	16 years or older	Male	True	False	Negative blood smear	2.0036840438842773	131010802	-9.0
+548	3546	ifx_events.0	2018-10-17	2018-11-12	16 years or older	Male	True	False	Negative blood smear	0.0	131010802	-9.0
+549	3546	ifx_events.0	2018-11-12	2018-12-10	16 years or older	Male	True	False	Negative blood smear	0.1738547384738922	131010802	17.200000762939453
+550	3546	ifx_events.0	2018-12-10	2019-01-07	16 years or older	Male	True	False	Negative blood smear	2.07337498664856	131010802	-9.0
+551	3546	ifx_events.0	2019-01-07	2019-02-04	16 years or older	Male	True	False	Negative blood smear	0.0	131010802	-9.0
+552	3546	ifx_events.0	2019-02-04	2019-03-04	16 years or older	Male	True	False	Negative blood smear	0.4773264229297638	131010802	17.299999237060547
+553	3546	ifx_events.0	2019-03-04	2019-04-01	16 years or older	Male	True	False	Negative blood smear	0.20447291433811188	131010802	-9.0
+554	3546	ifx_events.0	2019-04-01	2019-04-29	16 years or older	Male	True	False	Negative blood smear	0.22065070271492004	131010802	-9.0
+555	3546	ifx_events.0	2019-04-29	2019-05-27	16 years or older	Male	True	False	Negative blood smear	0.6592759490013123	131010802	17.0
+556	3546	ifx_events.0	2019-05-27	2019-06-24	16 years or older	Male	True	False	Negative blood smear	0.0	131010802	-9.0
+557	3546	ifx_events.0	2019-06-24	2019-07-22	16 years or older	Male	True	True	Negative blood smear	26.237701416015625	131010802	-9.0
+558	3547	ifx_events.0	2017-10-16	2017-11-13	16 years or older	Female	True	False	Negative blood smear	0.5184999704360962	131010802	16.399999618530273
+559	3547	ifx_events.0	2017-11-13	2017-12-11	16 years or older	Female	True	False	Negative blood smear	1.6054821014404297	131010802	-9.0
+560	3547	ifx_events.0	2017-12-11	2018-01-08	16 years or older	Female	True	True	Negative blood smear	0.4199000000953674	131010802	-9.0
+561	3549	ifx_events.0	2017-10-16	2017-11-13	5-15 years	Female	True	True	Negative blood smear	5.119470596313477	131010802	16.100000381469727
+562	3554	ifx_event.1	2018-06-25	2018-07-23	16 years or older	Female	False	True	Negative blood smear	0.032108183950185776	131005501	-9.0
+563	3554	ifx_event.2	2019-02-04	2019-03-04	16 years or older	Female	False	False	Negative blood smear	0.4667251706123352	131005501	15.399999618530273
+564	3554	ifx_event.2	2019-03-04	2019-04-01	16 years or older	Female	False	True	Negative blood smear	0.007933714427053928	131005501	-9.0
+565	3555	ifx_event.1	2018-06-20	2018-06-25	5-15 years	Female	False	False	Malaria	54418.5859375	131005501	14.5
+566	3555	ifx_event.1	2018-06-25	2018-07-23	5-15 years	Female	False	True	Negative blood smear	2.370684862136841	131005501	-9.0
+567	3557	ifx_events.0	2017-10-16	2017-11-13	< 5 years	Female	True	False	Negative blood smear	22.449337005615234	131005501	12.600000381469727
+568	3557	ifx_events.0	2017-11-13	2017-12-11	< 5 years	Female	True	False	Asymptomatic parasitemia	37256.40234375	131005501	-9.0
+569	3557	ifx_events.0	2017-12-11	2018-01-08	< 5 years	Female	True	True	Negative blood smear	0.4216000139713288	131005501	-9.0
+570	3565	ifx_event.1	2018-08-20	2018-09-17	5-15 years	Male	False	True	Negative blood smear	0.14172424376010895	114006801	-9.0
+571	3570	ifx_event.1	2018-05-28	2018-06-25	< 5 years	Female	False	False	Negative blood smear	61.364501953125	129001002	-9.0
+572	3570	ifx_event.1	2018-06-25	2018-07-23	< 5 years	Female	False	False	Asymptomatic parasitemia	9034.8525390625	129001002	10.5
+573	3570	ifx_event.1	2018-07-23	2018-08-20	< 5 years	Female	False	False	Asymptomatic parasitemia	397.5938415527344	129001002	-9.0
+574	3570	ifx_event.1	2018-08-20	2018-09-17	< 5 years	Female	False	False	Asymptomatic parasitemia	4555.62109375	129001002	-9.0
+575	3570	ifx_event.1	2018-09-17	2018-10-15	< 5 years	Female	False	False	Negative blood smear	1.2684563398361206	129001002	13.100000381469727
+576	3570	ifx_event.1	2018-10-15	2018-11-12	< 5 years	Female	False	True	Negative blood smear	0.008724341168999672	129001002	-9.0
+577	3575	ifx_events.0	2017-10-17	2017-11-14	16 years or older	Male	True	False	Negative blood smear	0.21930000185966486	103007901	16.399999618530273
+578	3575	ifx_events.0	2017-11-14	2017-12-12	16 years or older	Male	True	False	Negative blood smear	0.0559183768928051	103007901	-9.0
+579	3575	ifx_events.0	2017-12-12	2018-01-09	16 years or older	Male	True	False	Negative blood smear	0.13600000739097595	103007901	-9.0
+580	3575	ifx_events.0	2018-01-09	2018-02-06	16 years or older	Male	True	False	Negative blood smear	0.0141631867736578	103007901	14.600000381469727
+581	3575	ifx_events.0	2018-02-06	2018-03-06	16 years or older	Male	True	False	Negative blood smear	0.0	103007901	-9.0
+582	3575	ifx_events.0	2018-03-06	2018-04-04	16 years or older	Male	True	False	Negative blood smear	0.0	103007901	16.5
+583	3575	ifx_events.0	2018-04-04	2018-05-01	16 years or older	Male	True	False	Negative blood smear	0.14000743627548218	103007901	-9.0
+584	3575	ifx_events.0	2018-05-01	2018-05-29	16 years or older	Male	True	False	Negative blood smear	0.041826266795396805	103007901	-9.0
+585	3575	ifx_events.0	2018-05-29	2018-06-26	16 years or older	Male	True	False	Negative blood smear	0.08525962382555008	103007901	14.699999809265135
+586	3575	ifx_events.0	2018-06-26	2018-07-24	16 years or older	Male	True	False	Negative blood smear	0.2819315791130066	103007901	-9.0
+587	3575	ifx_events.0	2018-07-24	2018-08-21	16 years or older	Male	True	False	Negative blood smear	3.254250288009644	103007901	-9.0
+588	3575	ifx_events.0	2018-08-21	2018-09-18	16 years or older	Male	True	False	Negative blood smear	2.75036883354187	103007901	10.100000381469727
+589	3575	ifx_events.0	2018-09-18	2018-10-16	16 years or older	Male	True	False	Negative blood smear	0.0566990040242672	103007901	-9.0
+590	3575	ifx_events.0	2018-10-16	2018-11-13	16 years or older	Male	True	False	Negative blood smear	9.949655532836914	103007901	-9.0
+591	3575	ifx_events.0	2018-11-13	2018-12-11	16 years or older	Male	True	False	Asymptomatic parasitemia	12.227803230285645	103007901	15.0
+592	3575	ifx_events.0	2018-12-11	2019-01-08	16 years or older	Male	True	False	Negative blood smear	0.0	103007901	-9.0
+593	3575	ifx_events.0	2019-01-08	2019-02-05	16 years or older	Male	True	False	Negative blood smear	0.0	103007901	-9.0
+594	3575	ifx_events.0	2019-02-05	2019-03-05	16 years or older	Male	True	False	Negative blood smear	0.014466971158981325	103007901	14.899999618530273
+595	3575	ifx_events.0	2019-03-05	2019-04-02	16 years or older	Male	True	False	Negative blood smear	0.0	103007901	-9.0
+596	3575	ifx_events.0	2019-04-02	2019-04-30	16 years or older	Male	True	False	Negative blood smear	0.0253283865749836	103007901	-9.0
+597	3575	ifx_events.0	2019-04-30	2019-05-28	16 years or older	Male	True	False	Negative blood smear	0.04081149399280548	103007901	16.399999618530273
+598	3575	ifx_events.0	2019-05-28	2019-06-25	16 years or older	Male	True	True	Negative blood smear	0.0019732550717890267	103007901	-9.0
+599	3577	ifx_event.0	2017-10-17	2017-11-14	5-15 years	Female	True	False	Negative blood smear	22.23430061340332	103007901	16.5
+600	3577	ifx_event.0	2017-11-14	2017-12-12	5-15 years	Female	True	False	Negative blood smear	0.08160000294446945	103007901	-9.0
+601	3577	ifx_event.0	2017-12-12	2018-01-09	5-15 years	Female	True	False	Negative blood smear	4.02899980545044	103007901	-9.0
+602	3577	ifx_event.0	2018-01-09	2018-02-06	5-15 years	Female	True	False	Negative blood smear	0.2084308415651321	103007901	14.5
+603	3577	ifx_event.0	2018-02-06	2018-03-06	5-15 years	Female	True	False	Negative blood smear	0.2033494859933853	103007901	-9.0
+604	3577	ifx_event.0	2018-03-06	2018-04-04	5-15 years	Female	True	False	Negative blood smear	7.22218132019043	103007901	15.300000190734865
+605	3577	ifx_event.0	2018-04-04	2018-05-01	5-15 years	Female	True	False	Negative blood smear	0.11682230234146118	103007901	-9.0
+606	3577	ifx_event.0	2018-05-01	2018-05-29	5-15 years	Female	True	False	Negative blood smear	0.2383371442556381	103007901	-9.0
+607	3577	ifx_event.0	2018-05-29	2018-06-26	5-15 years	Female	True	False	Negative blood smear	0.14130505919456482	103007901	15.600000381469727
+608	3577	ifx_event.0	2018-06-26	2018-07-24	5-15 years	Female	True	False	Negative blood smear	0.5673216581344604	103007901	-9.0
+609	3577	ifx_event.0	2018-07-24	2018-08-21	5-15 years	Female	True	False	Negative blood smear	0.24036744236946106	103007901	-9.0
+610	3577	ifx_event.0	2018-08-21	2018-09-18	5-15 years	Female	True	False	Negative blood smear	0.1446504294872284	103007901	16.100000381469727
+611	3577	ifx_event.0	2018-09-18	2018-10-16	5-15 years	Female	True	False	Negative blood smear	0.07248040288686752	103007901	-9.0
+612	3577	ifx_event.0	2018-10-16	2018-11-13	5-15 years	Female	True	False	Negative blood smear	0.0226691123098135	103007901	-9.0
+613	3577	ifx_event.0	2018-11-13	2018-12-11	5-15 years	Female	True	False	Negative blood smear	0.02092236839234829	103007901	13.899999618530273
+614	3577	ifx_event.0	2018-12-11	2019-01-08	5-15 years	Female	True	True	Negative blood smear	0.07659664005041122	103007901	-9.0
+615	3577	ifx_event.1	2019-04-30	2019-05-28	5-15 years	Female	False	False	Negative blood smear	0.26483771204948425	103007901	14.699999809265135
+616	3577	ifx_event.1	2019-05-28	2019-06-25	5-15 years	Female	False	False	Negative blood smear	0.07012047618627547	103007901	-9.0
+617	3577	ifx_event.1	2019-06-25	2019-07-23	5-15 years	Female	False	True	Negative blood smear	0.0	103007901	-9.0
+618	3578	ifx_event.0	2017-10-17	2017-11-14	5-15 years	Male	True	False	Negative blood smear	85.26860046386719	103007901	15.0
+619	3578	ifx_event.0	2017-11-14	2017-12-12	5-15 years	Male	True	False	Asymptomatic parasitemia	244.39370727539062	103007901	-9.0
+620	3578	ifx_event.0	2017-12-12	2018-01-09	5-15 years	Male	True	False	Asymptomatic parasitemia	213.8090057373047	103007901	-9.0
+621	3578	ifx_event.0	2018-01-09	2018-02-06	5-15 years	Male	True	False	Asymptomatic parasitemia	42.63494491577149	103007901	13.199999809265135
+622	3578	ifx_event.0	2018-02-06	2018-03-06	5-15 years	Male	True	False	Asymptomatic parasitemia	236.87901306152344	103007901	-9.0
+623	3578	ifx_event.0	2018-03-06	2018-04-04	5-15 years	Male	True	False	Negative blood smear	74.35990142822266	103007901	13.0
+624	3578	ifx_event.0	2018-04-04	2018-05-01	5-15 years	Male	True	False	Asymptomatic parasitemia	145.54649353027344	103007901	-9.0
+625	3578	ifx_event.0	2018-05-01	2018-05-29	5-15 years	Male	True	False	Asymptomatic parasitemia	222.31182861328125	103007901	-9.0
+626	3578	ifx_event.0	2018-05-29	2018-06-26	5-15 years	Male	True	False	Negative blood smear	26.00504493713379	103007901	13.199999809265135
+627	3578	ifx_event.0	2018-06-26	2018-07-24	5-15 years	Male	True	False	Negative blood smear	26.75641250610352	103007901	-9.0
+628	3578	ifx_event.0	2018-07-24	2018-08-21	5-15 years	Male	True	False	Asymptomatic parasitemia	40.95154571533203	103007901	-9.0
+629	3578	ifx_event.0	2018-08-21	2018-09-18	5-15 years	Male	True	False	Asymptomatic parasitemia	146.0310516357422	103007901	13.300000190734865
+630	3578	ifx_event.0	2018-09-18	2018-10-16	5-15 years	Male	True	False	Negative blood smear	28.03602600097656	103007901	-9.0
+631	3578	ifx_event.0	2018-10-16	2018-11-13	5-15 years	Male	True	False	Negative blood smear	15.3231782913208	103007901	-9.0
+632	3578	ifx_event.0	2018-11-13	2018-12-11	5-15 years	Male	True	False	Negative blood smear	38.84397888183594	103007901	13.199999809265135
+633	3578	ifx_event.0	2018-12-11	2019-01-08	5-15 years	Male	True	False	Asymptomatic parasitemia	139.412841796875	103007901	-9.0
+634	3578	ifx_event.0	2019-01-08	2019-02-05	5-15 years	Male	True	False	Negative blood smear	88.0	103007901	-9.0
+635	3578	ifx_event.0	2019-02-05	2019-03-05	5-15 years	Male	True	False	Negative blood smear	31.31032752990723	103007901	14.600000381469727
+636	3578	ifx_event.0	2019-03-05	2019-04-02	5-15 years	Male	True	False	Asymptomatic parasitemia	0.5888248682022095	103007901	-9.0
+637	3578	ifx_event.0	2019-04-02	2019-04-30	5-15 years	Male	True	False	Negative blood smear	10.034857749938963	103007901	-9.0
+638	3578	ifx_event.0	2019-04-30	2019-05-28	5-15 years	Male	True	False	Asymptomatic parasitemia	72.79271697998047	103007901	14.300000190734865
+639	3578	ifx_event.0	2019-05-28	2019-06-25	5-15 years	Male	True	False	Asymptomatic parasitemia	23.71208953857422	103007901	-9.0
+640	3578	ifx_event.0	2019-06-25	2019-07-23	5-15 years	Male	True	True	Asymptomatic parasitemia	37.22014617919922	103007901	-9.0
+641	3578	ifx_event.1	2018-04-04	2018-05-01	5-15 years	Male	False	False	Asymptomatic parasitemia	145.54649353027344	103007901	-9.0
+642	3578	ifx_event.1	2018-05-01	2018-05-29	5-15 years	Male	False	False	Asymptomatic parasitemia	222.31182861328125	103007901	-9.0
+643	3578	ifx_event.1	2018-05-29	2018-06-26	5-15 years	Male	False	False	Negative blood smear	26.00504493713379	103007901	13.199999809265135
+644	3578	ifx_event.1	2018-06-26	2018-07-24	5-15 years	Male	False	False	Negative blood smear	26.75641250610352	103007901	-9.0
+645	3578	ifx_event.1	2018-07-24	2018-08-21	5-15 years	Male	False	False	Asymptomatic parasitemia	40.95154571533203	103007901	-9.0
+646	3578	ifx_event.1	2018-08-21	2018-09-18	5-15 years	Male	False	False	Asymptomatic parasitemia	146.0310516357422	103007901	13.300000190734865
+647	3578	ifx_event.1	2018-09-18	2018-10-16	5-15 years	Male	False	False	Negative blood smear	28.03602600097656	103007901	-9.0
+648	3578	ifx_event.1	2018-10-16	2018-11-13	5-15 years	Male	False	False	Negative blood smear	15.3231782913208	103007901	-9.0
+649	3578	ifx_event.1	2018-11-13	2018-12-11	5-15 years	Male	False	False	Negative blood smear	38.84397888183594	103007901	13.199999809265135
+650	3578	ifx_event.1	2018-12-11	2019-01-08	5-15 years	Male	False	False	Asymptomatic parasitemia	139.412841796875	103007901	-9.0
+651	3578	ifx_event.1	2019-01-08	2019-02-05	5-15 years	Male	False	False	Negative blood smear	88.0	103007901	-9.0
+652	3578	ifx_event.1	2019-02-05	2019-03-05	5-15 years	Male	False	False	Negative blood smear	31.31032752990723	103007901	14.600000381469727
+653	3578	ifx_event.1	2019-03-05	2019-04-02	5-15 years	Male	False	False	Asymptomatic parasitemia	0.5888248682022095	103007901	-9.0
+654	3578	ifx_event.1	2019-04-02	2019-04-30	5-15 years	Male	False	False	Negative blood smear	10.034857749938963	103007901	-9.0
+655	3578	ifx_event.1	2019-04-30	2019-05-28	5-15 years	Male	False	False	Asymptomatic parasitemia	72.79271697998047	103007901	14.300000190734865
+656	3578	ifx_event.1	2019-05-28	2019-06-25	5-15 years	Male	False	False	Asymptomatic parasitemia	23.71208953857422	103007901	-9.0
+657	3578	ifx_event.1	2019-06-25	2019-07-23	5-15 years	Male	False	True	Asymptomatic parasitemia	37.22014617919922	103007901	-9.0
+658	3579	ifx_event.0	2017-10-17	2017-11-14	5-15 years	Male	True	False	Negative blood smear	2.5836000442504883	103007901	12.300000190734865
+659	3579	ifx_event.0	2017-11-14	2017-12-12	5-15 years	Male	True	False	Asymptomatic parasitemia	170.50830078125	103007901	-9.0
+660	3579	ifx_event.0	2017-12-12	2018-01-09	5-15 years	Male	True	False	Negative blood smear	14.55370044708252	103007901	-9.0
+661	3579	ifx_event.0	2018-01-09	2018-02-06	5-15 years	Male	True	False	Negative blood smear	5.89606523513794	103007901	12.699999809265135
+662	3579	ifx_event.0	2018-02-06	2018-03-06	5-15 years	Male	True	False	Negative blood smear	1.3877315521240234	103007901	-9.0
+663	3579	ifx_event.0	2018-03-06	2018-04-04	5-15 years	Male	True	False	Negative blood smear	20.77589225769043	103007901	15.0
+664	3579	ifx_event.0	2018-04-04	2018-05-01	5-15 years	Male	True	False	Negative blood smear	0.5572239756584167	103007901	-9.0
+665	3579	ifx_event.0	2018-05-01	2018-05-29	5-15 years	Male	True	False	Negative blood smear	1.9247374534606931	103007901	-9.0
+666	3579	ifx_event.0	2018-05-29	2018-06-26	5-15 years	Male	True	False	Negative blood smear	0.07858920842409134	103007901	12.5
+667	3579	ifx_event.0	2018-06-26	2018-07-24	5-15 years	Male	True	False	Negative blood smear	5.119258403778076	103007901	-9.0
+668	3579	ifx_event.0	2018-07-24	2018-08-21	5-15 years	Male	True	False	Negative blood smear	1.1476584672927856	103007901	-9.0
+669	3579	ifx_event.0	2018-08-21	2018-09-18	5-15 years	Male	True	False	Negative blood smear	1.2276475429534912	103007901	13.300000190734865
+670	3579	ifx_event.0	2018-09-18	2018-10-16	5-15 years	Male	True	True	Negative blood smear	0.05065638571977616	103007901	-9.0
+671	3580	ifx_events.0	2017-10-17	2017-11-14	< 5 years	Male	True	False	Asymptomatic parasitemia	39.90069961547852	103007901	13.699999809265135
+672	3580	ifx_events.0	2017-11-14	2017-12-12	< 5 years	Male	True	False	Negative blood smear	1.1084133386611938	103007901	-9.0
+673	3580	ifx_events.0	2017-12-12	2018-01-09	< 5 years	Male	True	False	Negative blood smear	1.7628999948501587	103007901	-9.0
+674	3580	ifx_events.0	2018-01-09	2018-02-06	< 5 years	Male	True	False	Negative blood smear	0.007388113997876644	103007901	15.5
+675	3580	ifx_events.0	2018-02-06	2018-03-06	< 5 years	Male	True	False	Negative blood smear	0.0	103007901	-9.0
+676	3580	ifx_events.0	2018-03-06	2018-04-04	< 5 years	Male	True	False	Negative blood smear	0.0	103007901	14.699999809265135
+677	3580	ifx_events.0	2018-04-04	2018-05-01	< 5 years	Male	True	False	Negative blood smear	0.0	103007901	-9.0
+678	3580	ifx_events.0	2018-05-01	2018-05-29	< 5 years	Male	True	False	Negative blood smear	0.013205225579440594	103007901	-9.0
+679	3580	ifx_events.0	2018-05-29	2018-06-26	< 5 years	Male	True	False	Negative blood smear	0.01868513785302639	103007901	12.0
+680	3580	ifx_events.0	2018-06-26	2018-07-24	< 5 years	Male	True	False	Negative blood smear	0.02866056933999062	103007901	-9.0
+681	3580	ifx_events.0	2018-07-24	2018-08-21	< 5 years	Male	True	False	Negative blood smear	0.4410007297992706	103007901	-9.0
+682	3580	ifx_events.0	2018-08-21	2018-09-18	< 5 years	Male	True	False	Negative blood smear	0.0792987272143364	103007901	16.399999618530273
+683	3580	ifx_events.0	2018-09-18	2018-10-16	< 5 years	Male	True	False	Negative blood smear	0.15002405643463135	103007901	-9.0
+684	3580	ifx_events.0	2018-10-16	2018-11-13	< 5 years	Male	True	False	Negative blood smear	0.06522028148174286	103007901	-9.0
+685	3580	ifx_events.0	2018-11-13	2018-12-11	< 5 years	Male	True	False	Negative blood smear	0.0	103007901	12.699999809265135
+686	3580	ifx_events.0	2018-12-11	2019-01-08	< 5 years	Male	True	True	Negative blood smear	0.5833588242530823	103007901	-9.0
+687	3589	ifx_events.0	2017-12-12	2018-01-09	16 years or older	Female	True	True	Negative blood smear	0.002641359809786081	127008701	-9.0
+688	3597	ifx_event.1	2018-06-26	2018-07-24	5-15 years	Male	False	False	Asymptomatic parasitemia	12.93813419342041	130015301	11.800000190734865
+689	3597	ifx_event.1	2018-07-24	2018-08-21	5-15 years	Male	False	False	Negative blood smear	0.0	130015301	-9.0
+690	3597	ifx_event.1	2018-08-21	2018-09-18	5-15 years	Male	False	False	Negative blood smear	16.663938522338867	130015301	-9.0
+691	3597	ifx_event.1	2018-09-18	2018-10-16	5-15 years	Male	False	False	Asymptomatic parasitemia	255.8369598388672	130015301	-9.0
+692	3597	ifx_event.1	2018-10-16	2018-11-13	5-15 years	Male	False	False	Negative blood smear	14.477359771728516	130015301	-9.0
+693	3597	ifx_event.1	2018-11-13	2018-12-11	5-15 years	Male	False	False	Negative blood smear	5.521905422210693	130015301	-9.0
+694	3597	ifx_event.1	2018-12-11	2019-01-08	5-15 years	Male	False	False	Negative blood smear	6.427098751068115	130015301	15.699999809265135
+695	3597	ifx_event.1	2019-01-08	2019-02-05	5-15 years	Male	False	False	Negative blood smear	2.0	130015301	-9.0
+696	3597	ifx_event.1	2019-02-05	2019-03-05	5-15 years	Male	False	True	Negative blood smear	0.9833788275718688	130015301	-9.0
+697	3598	ifx_event.1	2018-07-24	2018-08-21	5-15 years	Female	False	True	Negative blood smear	16.875755310058597	130015301	-9.0
+698	3602	ifx_event.0	2017-10-17	2017-11-13	5-15 years	Male	True	False	Asymptomatic parasitemia	2510.27099609375	111007501	14.899999618530273
+699	3602	ifx_event.0	2017-11-13	2017-12-12	5-15 years	Male	True	False	Asymptomatic parasitemia	246.9011993408203	111007501	-9.0
+700	3602	ifx_event.0	2017-12-12	2018-01-09	5-15 years	Male	True	False	Asymptomatic parasitemia	1325.3336181640625	111007501	-9.0
+701	3602	ifx_event.0	2018-01-09	2018-02-06	5-15 years	Male	True	False	Asymptomatic parasitemia	112.31909942626952	111007501	15.800000190734865
+702	3602	ifx_event.0	2018-02-06	2018-03-06	5-15 years	Male	True	False	Negative blood smear	34.096202850341804	111007501	-9.0
+703	3602	ifx_event.0	2018-03-06	2018-04-03	5-15 years	Male	True	False	Negative blood smear	0.0	111007501	-9.0
+704	3602	ifx_event.0	2018-04-03	2018-05-01	5-15 years	Male	True	False	Asymptomatic parasitemia	260.57110595703125	111007501	-9.0
+705	3602	ifx_event.0	2018-05-01	2018-05-29	5-15 years	Male	True	False	Asymptomatic parasitemia	333.93182373046875	111007501	12.600000381469727
+706	3602	ifx_event.0	2018-05-29	2018-06-26	5-15 years	Male	True	False	Negative blood smear	9.514830589294434	111007501	-9.0
+707	3602	ifx_event.0	2018-06-26	2018-07-24	5-15 years	Male	True	False	Negative blood smear	75.49859619140625	111007501	-9.0
+708	3602	ifx_event.0	2018-07-24	2018-08-21	5-15 years	Male	True	False	Asymptomatic parasitemia	58.78723907470703	111007501	14.100000381469727
+709	3602	ifx_event.0	2018-08-21	2018-09-18	5-15 years	Male	True	False	Negative blood smear	18.594432830810547	111007501	-9.0
+710	3602	ifx_event.0	2018-09-18	2018-10-16	5-15 years	Male	True	False	Negative blood smear	2.6791036128997803	111007501	-9.0
+711	3602	ifx_event.0	2018-10-16	2018-11-13	5-15 years	Male	True	False	Negative blood smear	9.664161682128906	111007501	13.199999809265135
+712	3602	ifx_event.0	2018-11-13	2018-12-11	5-15 years	Male	True	False	Negative blood smear	10.355509757995604	111007501	-9.0
+713	3602	ifx_event.0	2018-12-11	2019-01-08	5-15 years	Male	True	False	Asymptomatic parasitemia	98.08406066894531	111007501	-9.0
+714	3602	ifx_event.0	2019-01-08	2019-02-05	5-15 years	Male	True	False	Negative blood smear	3.0	111007501	16.0
+715	3602	ifx_event.0	2019-02-05	2019-03-05	5-15 years	Male	True	False	Negative blood smear	1.3943803310394287	111007501	-9.0
+716	3602	ifx_event.0	2019-03-05	2019-04-02	5-15 years	Male	True	False	Asymptomatic parasitemia	1.5177066326141355	111007501	-9.0
+717	3602	ifx_event.0	2019-04-02	2019-04-30	5-15 years	Male	True	False	Negative blood smear	1.4342304468154907	111007501	14.699999809265135
+718	3602	ifx_event.0	2019-04-30	2019-05-28	5-15 years	Male	True	False	Asymptomatic parasitemia	8.817785263061523	111007501	-9.0
+719	3602	ifx_event.0	2019-05-28	2019-06-24	5-15 years	Male	True	False	Asymptomatic parasitemia	16.89384651184082	111007501	-9.0
+720	3602	ifx_event.0	2019-06-24	2019-07-23	5-15 years	Male	True	True	Asymptomatic parasitemia	11.935288429260256	111007501	14.0
+721	3602	ifx_event.1	2018-06-26	2018-07-24	5-15 years	Male	False	False	Negative blood smear	75.49859619140625	111007501	-9.0
+722	3602	ifx_event.1	2018-07-24	2018-08-21	5-15 years	Male	False	False	Asymptomatic parasitemia	58.78723907470703	111007501	14.100000381469727
+723	3602	ifx_event.1	2018-08-21	2018-09-18	5-15 years	Male	False	False	Negative blood smear	18.594432830810547	111007501	-9.0
+724	3602	ifx_event.1	2018-09-18	2018-10-16	5-15 years	Male	False	False	Negative blood smear	2.6791036128997803	111007501	-9.0
+725	3602	ifx_event.1	2018-10-16	2018-11-13	5-15 years	Male	False	False	Negative blood smear	9.664161682128906	111007501	13.199999809265135
+726	3602	ifx_event.1	2018-11-13	2018-12-11	5-15 years	Male	False	False	Negative blood smear	10.355509757995604	111007501	-9.0
+727	3602	ifx_event.1	2018-12-11	2019-01-08	5-15 years	Male	False	False	Asymptomatic parasitemia	98.08406066894531	111007501	-9.0
+728	3602	ifx_event.1	2019-01-08	2019-02-05	5-15 years	Male	False	False	Negative blood smear	3.0	111007501	16.0
+729	3602	ifx_event.1	2019-02-05	2019-03-05	5-15 years	Male	False	False	Negative blood smear	1.3943803310394287	111007501	-9.0
+730	3602	ifx_event.1	2019-03-05	2019-04-02	5-15 years	Male	False	False	Asymptomatic parasitemia	1.5177066326141355	111007501	-9.0
+731	3602	ifx_event.1	2019-04-02	2019-04-30	5-15 years	Male	False	False	Negative blood smear	1.4342304468154907	111007501	14.699999809265135
+732	3602	ifx_event.1	2019-04-30	2019-05-28	5-15 years	Male	False	False	Asymptomatic parasitemia	8.817785263061523	111007501	-9.0
+733	3602	ifx_event.1	2019-05-28	2019-06-24	5-15 years	Male	False	False	Asymptomatic parasitemia	16.89384651184082	111007501	-9.0
+734	3602	ifx_event.1	2019-06-24	2019-07-23	5-15 years	Male	False	True	Asymptomatic parasitemia	11.935288429260256	111007501	14.0
+735	3602	ifx_event.2	2018-09-18	2018-10-16	5-15 years	Male	False	False	Negative blood smear	2.6791036128997803	111007501	-9.0
+736	3602	ifx_event.2	2018-10-16	2018-11-13	5-15 years	Male	False	False	Negative blood smear	9.664161682128906	111007501	13.199999809265135
+737	3602	ifx_event.2	2018-11-13	2018-12-11	5-15 years	Male	False	False	Negative blood smear	10.355509757995604	111007501	-9.0
+738	3602	ifx_event.2	2018-12-11	2019-01-08	5-15 years	Male	False	False	Asymptomatic parasitemia	98.08406066894531	111007501	-9.0
+739	3602	ifx_event.2	2019-01-08	2019-02-05	5-15 years	Male	False	False	Negative blood smear	3.0	111007501	16.0
+740	3602	ifx_event.2	2019-02-05	2019-03-05	5-15 years	Male	False	False	Negative blood smear	1.3943803310394287	111007501	-9.0
+741	3602	ifx_event.2	2019-03-05	2019-04-02	5-15 years	Male	False	False	Asymptomatic parasitemia	1.5177066326141355	111007501	-9.0
+742	3602	ifx_event.2	2019-04-02	2019-04-30	5-15 years	Male	False	False	Negative blood smear	1.4342304468154907	111007501	14.699999809265135
+743	3602	ifx_event.2	2019-04-30	2019-05-28	5-15 years	Male	False	False	Asymptomatic parasitemia	8.817785263061523	111007501	-9.0
+744	3602	ifx_event.2	2019-05-28	2019-06-24	5-15 years	Male	False	False	Asymptomatic parasitemia	16.89384651184082	111007501	-9.0
+745	3602	ifx_event.2	2019-06-24	2019-07-23	5-15 years	Male	False	True	Asymptomatic parasitemia	11.935288429260256	111007501	14.0
+746	3604	ifx_event.0	2017-10-17	2017-11-13	5-15 years	Male	True	False	Asymptomatic parasitemia	4553.10986328125	111007501	14.399999618530273
+747	3604	ifx_event.0	2017-11-13	2017-12-12	5-15 years	Male	True	False	Asymptomatic parasitemia	92221.2265625	111007501	-9.0
+748	3604	ifx_event.0	2017-12-12	2018-01-09	5-15 years	Male	True	False	Asymptomatic parasitemia	3399.489990234375	111007501	-9.0
+749	3604	ifx_event.0	2018-01-09	2018-02-06	5-15 years	Male	True	False	Asymptomatic parasitemia	374.7860412597656	111007501	13.899999618530273
+750	3604	ifx_event.0	2018-02-06	2018-03-06	5-15 years	Male	True	False	Asymptomatic parasitemia	712.0	111007501	-9.0
+751	3604	ifx_event.0	2018-03-06	2018-04-03	5-15 years	Male	True	False	Asymptomatic parasitemia	276.65023803710943	111007501	-9.0
+752	3604	ifx_event.0	2018-04-03	2018-05-01	5-15 years	Male	True	False	Asymptomatic parasitemia	1212.867919921875	111007501	-9.0
+753	3604	ifx_event.0	2018-05-01	2018-05-29	5-15 years	Male	True	False	Asymptomatic parasitemia	1288.566650390625	111007501	13.600000381469727
+754	3604	ifx_event.0	2018-05-29	2018-06-26	5-15 years	Male	True	False	Asymptomatic parasitemia	121.8405303955078	111007501	-9.0
+755	3604	ifx_event.0	2018-06-26	2018-07-24	5-15 years	Male	True	False	Asymptomatic parasitemia	530.0869750976562	111007501	-9.0
+756	3604	ifx_event.0	2018-07-24	2018-08-13	5-15 years	Male	True	False	Negative blood smear	86.91964721679686	111007501	13.100000381469727
+757	3604	ifx_event.0	2018-08-13	2018-08-21	5-15 years	Male	True	False	Malaria	188.1511383056641	111007501	13.399999618530273
+758	3604	ifx_event.0	2018-08-21	2018-09-18	5-15 years	Male	True	True	Negative blood smear	0.16172555088996887	111007501	-9.0
+759	3604	ifx_event.1	2018-02-06	2018-03-06	5-15 years	Male	False	False	Asymptomatic parasitemia	712.0	111007501	-9.0
+760	3604	ifx_event.1	2018-03-06	2018-04-03	5-15 years	Male	False	False	Asymptomatic parasitemia	276.65023803710943	111007501	-9.0
+761	3604	ifx_event.1	2018-04-03	2018-05-01	5-15 years	Male	False	False	Asymptomatic parasitemia	1212.867919921875	111007501	-9.0
+762	3604	ifx_event.1	2018-05-01	2018-05-29	5-15 years	Male	False	False	Asymptomatic parasitemia	1288.566650390625	111007501	13.600000381469727
+763	3604	ifx_event.1	2018-05-29	2018-06-26	5-15 years	Male	False	False	Asymptomatic parasitemia	121.8405303955078	111007501	-9.0
+764	3604	ifx_event.1	2018-06-26	2018-07-24	5-15 years	Male	False	False	Asymptomatic parasitemia	530.0869750976562	111007501	-9.0
+765	3604	ifx_event.1	2018-07-24	2018-08-13	5-15 years	Male	False	False	Negative blood smear	86.91964721679686	111007501	13.100000381469727
+766	3604	ifx_event.1	2018-08-13	2018-08-21	5-15 years	Male	False	False	Malaria	188.1511383056641	111007501	13.399999618530273
+767	3604	ifx_event.1	2018-08-21	2018-09-18	5-15 years	Male	False	True	Negative blood smear	0.16172555088996887	111007501	-9.0
+768	3604	ifx_event.3	2018-08-13	2018-08-21	5-15 years	Male	False	False	Malaria	188.1511383056641	111007501	13.399999618530273
+769	3604	ifx_event.3	2018-08-21	2018-09-18	5-15 years	Male	False	True	Negative blood smear	0.16172555088996887	111007501	-9.0
+770	3612	ifx_events.0	2017-10-17	2017-11-14	< 5 years	Female	True	False	Asymptomatic parasitemia	21580.232421875	124007001	13.199999809265135
+771	3612	ifx_events.0	2017-11-14	2017-12-12	< 5 years	Female	True	True	Negative blood smear	2.8457999229431152	124007001	-9.0
+772	3614	ifx_events.0	2017-10-17	2017-11-14	5-15 years	Female	True	False	Negative blood smear	12.8423433303833	105000101	15.100000381469727
+773	3614	ifx_events.0	2017-11-14	2017-12-12	5-15 years	Female	True	False	Asymptomatic parasitemia	593.2711181640625	105000101	-9.0
+774	3614	ifx_events.0	2017-12-12	2018-01-09	5-15 years	Female	True	False	Asymptomatic parasitemia	139.62100219726562	105000101	-9.0
+775	3614	ifx_events.0	2018-01-09	2018-02-06	5-15 years	Female	True	False	Negative blood smear	1.7333238124847412	105000101	16.5
+776	3614	ifx_events.0	2018-02-06	2018-03-06	5-15 years	Female	True	False	Negative blood smear	1.2825257778167725	105000101	-9.0
+777	3614	ifx_events.0	2018-03-06	2018-04-03	5-15 years	Female	True	False	Negative blood smear	0.0	105000101	-9.0
+778	3614	ifx_events.0	2018-04-03	2018-05-01	5-15 years	Female	True	False	Negative blood smear	39.03549575805664	105000101	-9.0
+779	3614	ifx_events.0	2018-05-01	2018-05-28	5-15 years	Female	True	False	Negative blood smear	19.707275390625	105000101	14.5
+780	3614	ifx_events.0	2018-05-28	2018-06-26	5-15 years	Female	True	False	Negative blood smear	0.21345973014831546	105000101	-9.0
+781	3614	ifx_events.0	2018-06-26	2018-07-24	5-15 years	Female	True	False	Negative blood smear	7.6694273948669425	105000101	-9.0
+782	3614	ifx_events.0	2018-07-24	2018-08-21	5-15 years	Female	True	False	Asymptomatic parasitemia	15.345965385437012	105000101	16.200000762939453
+783	3614	ifx_events.0	2018-08-21	2018-09-18	5-15 years	Female	True	False	Negative blood smear	2.06386399269104	105000101	-9.0
+784	3614	ifx_events.0	2018-09-18	2018-10-16	5-15 years	Female	True	False	Negative blood smear	2.4174363613128658	105000101	-9.0
+785	3614	ifx_events.0	2018-10-16	2018-11-13	5-15 years	Female	True	False	Negative blood smear	0.24594803154468536	105000101	14.100000381469727
+786	3614	ifx_events.0	2018-11-13	2018-12-11	5-15 years	Female	True	False	Negative blood smear	0.8625292181968689	105000101	-9.0
+787	3614	ifx_events.0	2018-12-11	2019-01-08	5-15 years	Female	True	False	Negative blood smear	0.10152922570705414	105000101	-9.0
+788	3614	ifx_events.0	2019-01-08	2019-02-05	5-15 years	Female	True	False	Negative blood smear	0.0	105000101	14.699999809265135
+789	3614	ifx_events.0	2019-02-05	2019-03-05	5-15 years	Female	True	False	Negative blood smear	9.233567237854004	105000101	-9.0
+790	3614	ifx_events.0	2019-03-05	2019-04-02	5-15 years	Female	True	False	Negative blood smear	0.0	105000101	-9.0
+791	3614	ifx_events.0	2019-04-02	2019-04-30	5-15 years	Female	True	False	Negative blood smear	0.06273560225963593	105000101	14.100000381469727
+792	3614	ifx_events.0	2019-04-30	2019-05-28	5-15 years	Female	True	False	Negative blood smear	4.757111072540283	105000101	-9.0
+793	3614	ifx_events.0	2019-05-28	2019-06-25	5-15 years	Female	True	False	Negative blood smear	53.95009231567383	105000101	-9.0
+794	3614	ifx_events.0	2019-06-25	2019-07-23	5-15 years	Female	True	True	Negative blood smear	3.7581841945648193	105000101	15.800000190734865
+795	3615	ifx_events.0	2017-10-17	2017-11-14	5-15 years	Female	True	False	Negative blood smear	42.86040115356445	105000101	14.899999618530273
+796	3615	ifx_events.0	2017-11-14	2017-12-12	5-15 years	Female	True	False	Asymptomatic parasitemia	241.5513000488281	105000101	-9.0
+797	3615	ifx_events.0	2017-12-12	2018-01-09	5-15 years	Female	True	False	Negative blood smear	0.10199999809265137	105000101	-9.0
+798	3615	ifx_events.0	2018-01-09	2018-02-06	5-15 years	Female	True	True	Negative blood smear	1.9118459224700928	105000101	15.199999809265135
+799	3616	ifx_events.0	2017-10-17	2017-11-14	5-15 years	Male	True	False	Negative blood smear	34.98600006103516	105000101	14.300000190734865
+800	3616	ifx_events.0	2017-11-14	2017-12-12	5-15 years	Male	True	False	Asymptomatic parasitemia	4636.99658203125	105000101	-9.0
+801	3616	ifx_events.0	2017-12-12	2018-01-09	5-15 years	Male	True	False	Asymptomatic parasitemia	781.973876953125	105000101	-9.0
+802	3616	ifx_events.0	2018-01-09	2018-02-06	5-15 years	Male	True	False	Asymptomatic parasitemia	16.328819274902347	105000101	13.5
+803	3616	ifx_events.0	2018-02-06	2018-03-06	5-15 years	Male	True	False	Negative blood smear	9.704529762268066	105000101	-9.0
+804	3616	ifx_events.0	2018-03-06	2018-04-03	5-15 years	Male	True	False	Negative blood smear	0.0	105000101	-9.0
+805	3616	ifx_events.0	2018-04-03	2018-05-01	5-15 years	Male	True	False	Negative blood smear	10.98029327392578	105000101	-9.0
+806	3616	ifx_events.0	2018-05-01	2018-05-28	5-15 years	Male	True	False	Negative blood smear	0.022499267011880875	105000101	13.300000190734865
+807	3616	ifx_events.0	2018-05-28	2018-06-26	5-15 years	Male	True	False	Negative blood smear	1.7666101455688477	105000101	-9.0
+808	3616	ifx_events.0	2018-06-26	2018-07-24	5-15 years	Male	True	False	Negative blood smear	2.4047939777374268	105000101	-9.0
+809	3616	ifx_events.0	2018-07-24	2018-08-21	5-15 years	Male	True	False	Negative blood smear	0.7776241302490234	105000101	14.800000190734865
+810	3616	ifx_events.0	2018-08-21	2018-09-18	5-15 years	Male	True	False	Negative blood smear	11.114286422729492	105000101	-9.0
+811	3616	ifx_events.0	2018-09-18	2018-10-16	5-15 years	Male	True	False	Negative blood smear	0.04624338820576668	105000101	-9.0
+812	3616	ifx_events.0	2018-10-16	2018-11-13	5-15 years	Male	True	False	Negative blood smear	0.7381851077079773	105000101	12.899999618530273
+813	3616	ifx_events.0	2018-11-13	2018-12-11	5-15 years	Male	True	False	Negative blood smear	15.325294494628904	105000101	-9.0
+814	3616	ifx_events.0	2018-12-11	2019-01-08	5-15 years	Male	True	False	Negative blood smear	0.0	105000101	-9.0
+815	3616	ifx_events.0	2019-01-08	2019-02-05	5-15 years	Male	True	False	Negative blood smear	0.0	105000101	14.399999618530273
+816	3616	ifx_events.0	2019-02-05	2019-03-05	5-15 years	Male	True	True	Negative blood smear	0.5646857619285583	105000101	-9.0
+817	3617	ifx_events.0	2017-10-17	2017-11-14	< 5 years	Female	True	False	Negative blood smear	86.13899993896484	105000101	14.600000381469727
+818	3617	ifx_events.0	2017-11-14	2017-12-12	< 5 years	Female	True	False	Negative blood smear	1463.049072265625	105000101	-9.0
+819	3617	ifx_events.0	2017-12-12	2018-01-09	< 5 years	Female	True	True	Negative blood smear	0.6154000163078308	105000101	-9.0
+820	3622	ifx_event.1	2018-05-02	2018-05-30	5-15 years	Female	False	True	Negative blood smear	0.010315973311662674	113005301	-9.0
+821	3626	ifx_event.1	2018-06-20	2018-06-27	16 years or older	Female	False	True	Malaria	196.6455841064453	145001301	14.699999809265135
+822	3627	ifx_events.0	2017-10-18	2017-11-15	16 years or older	Female	True	False	Negative blood smear	0.3569999933242798	145001301	15.899999618530273
+823	3627	ifx_events.0	2017-11-15	2017-12-13	16 years or older	Female	True	False	Negative blood smear	3.5292000770568848	145001301	-9.0
+824	3627	ifx_events.0	2017-12-13	2018-01-10	16 years or older	Female	True	False	Negative blood smear	0.3910000026226044	145001301	-9.0
+825	3627	ifx_events.0	2018-01-10	2018-02-07	16 years or older	Female	True	True	Negative blood smear	0.05231330916285515	145001301	15.699999809265135
+826	3629	ifx_event.1	2018-06-27	2018-07-25	5-15 years	Male	False	False	Negative blood smear	0.4005465805530548	145001301	-9.0
+827	3629	ifx_event.1	2018-07-25	2018-08-22	5-15 years	Male	False	False	Negative blood smear	319.7277526855469	145001301	-9.0
+828	3629	ifx_event.1	2018-08-22	2018-09-19	5-15 years	Male	False	False	Asymptomatic parasitemia	3464.4267578125	145001301	12.899999618530273
+829	3629	ifx_event.1	2018-09-19	2018-10-17	5-15 years	Male	False	False	Asymptomatic parasitemia	199.316650390625	145001301	-9.0
+830	3629	ifx_event.1	2018-10-17	2018-11-14	5-15 years	Male	False	False	Asymptomatic parasitemia	195.2271423339844	145001301	-9.0
+831	3629	ifx_event.1	2018-11-14	2018-12-12	5-15 years	Male	False	False	Asymptomatic parasitemia	160.57115173339844	145001301	13.899999618530273
+832	3629	ifx_event.1	2018-12-12	2019-01-09	5-15 years	Male	False	False	Asymptomatic parasitemia	42.29560089111328	145001301	-9.0
+833	3629	ifx_event.1	2019-01-09	2019-02-06	5-15 years	Male	False	False	Negative blood smear	0.2544678151607513	145001301	-9.0
+834	3629	ifx_event.1	2019-02-06	2019-03-06	5-15 years	Male	False	False	Negative blood smear	0.13065186142921448	145001301	13.600000381469727
+835	3629	ifx_event.1	2019-03-06	2019-04-03	5-15 years	Male	False	True	Negative blood smear	0.006443021818995476	145001301	-9.0
+836	3630	ifx_events.0	2017-10-18	2017-11-15	5-15 years	Female	True	False	Asymptomatic parasitemia	252.94639587402344	145001301	14.600000381469727
+837	3630	ifx_events.0	2017-11-15	2017-12-13	5-15 years	Female	True	False	Asymptomatic parasitemia	40067.89453125	145001301	-9.0
+838	3630	ifx_events.0	2017-12-13	2018-01-10	5-15 years	Female	True	False	Negative blood smear	4975.8193359375	145001301	-9.0
+839	3630	ifx_events.0	2018-01-10	2018-02-07	5-15 years	Female	True	False	Asymptomatic parasitemia	266.13345336914057	145001301	16.899999618530273
+840	3630	ifx_events.0	2018-02-07	2018-03-07	5-15 years	Female	True	False	Negative blood smear	1.8229708671569824	145001301	-9.0
+841	3630	ifx_events.0	2018-03-07	2018-04-04	5-15 years	Female	True	False	Negative blood smear	0.0	145001301	15.0
+842	3630	ifx_events.0	2018-04-04	2018-05-02	5-15 years	Female	True	False	Negative blood smear	0.0	145001301	-9.0
+843	3630	ifx_events.0	2018-05-02	2018-05-30	5-15 years	Female	True	False	Negative blood smear	0.01743617653846741	145001301	-9.0
+844	3630	ifx_events.0	2018-05-30	2018-06-27	5-15 years	Female	True	False	Negative blood smear	0.0	145001301	14.899999618530273
+845	3630	ifx_events.0	2018-06-27	2018-07-25	5-15 years	Female	True	False	Negative blood smear	0.13321366906166074	145001301	-9.0
+846	3630	ifx_events.0	2018-07-25	2018-08-22	5-15 years	Female	True	False	Negative blood smear	0.007764400914311409	145001301	-9.0
+847	3630	ifx_events.0	2018-08-22	2018-09-19	5-15 years	Female	True	False	Negative blood smear	0.034968160092830665	145001301	14.5
+848	3630	ifx_events.0	2018-09-19	2018-10-17	5-15 years	Female	True	True	Negative blood smear	0.041406501084566116	145001301	-9.0
+849	3635	ifx_event.1	2018-01-10	2018-02-07	< 5 years	Female	False	False	Negative blood smear	2.8832688331604004	116003001	13.100000381469727
+850	3635	ifx_event.1	2018-02-07	2018-03-07	< 5 years	Female	False	True	Asymptomatic parasitemia	3515.45947265625	116003001	-9.0
+851	3637	ifx_events.0	2017-10-18	2017-11-15	16 years or older	Male	True	False	Negative blood smear	0.0714000016450882	101008404	17.700000762939453
+852	3637	ifx_events.0	2017-11-15	2017-12-13	16 years or older	Male	True	False	Negative blood smear	0.017000000923871994	101008404	-9.0
+853	3637	ifx_events.0	2017-12-13	2018-01-10	16 years or older	Male	True	True	Negative blood smear	0.5932999849319458	101008404	-9.0
+854	3642	ifx_events.0	2017-10-18	2017-11-15	5-15 years	Female	True	False	Negative blood smear	1.815600037574768	118010701	16.0
+855	3642	ifx_events.0	2017-11-15	2017-12-13	5-15 years	Female	True	False	Negative blood smear	19.93079948425293	118010701	-9.0
+856	3642	ifx_events.0	2017-12-13	2018-01-10	5-15 years	Female	True	False	Negative blood smear	0.6748999953269958	118010701	-9.0
+857	3642	ifx_events.0	2018-01-10	2018-02-07	5-15 years	Female	True	False	Negative blood smear	0.0	118010701	16.700000762939453
+858	3642	ifx_events.0	2018-02-07	2018-03-07	5-15 years	Female	True	False	Negative blood smear	0.1745867133140564	118010701	-9.0
+859	3642	ifx_events.0	2018-03-07	2018-04-04	5-15 years	Female	True	False	Negative blood smear	1.761282205581665	118010701	-9.0
+860	3642	ifx_events.0	2018-04-04	2018-05-01	5-15 years	Female	True	False	Negative blood smear	1.313113808631897	118010701	-9.0
+861	3642	ifx_events.0	2018-05-01	2018-05-30	5-15 years	Female	True	False	Negative blood smear	0.5356253981590271	118010701	17.799999237060547
+862	3642	ifx_events.0	2018-05-30	2018-06-28	5-15 years	Female	True	False	Negative blood smear	0.13766339421272278	118010701	-9.0
+863	3642	ifx_events.0	2018-06-28	2018-07-25	5-15 years	Female	True	False	Negative blood smear	1.8917150497436523	118010701	-9.0
+864	3642	ifx_events.0	2018-07-25	2018-08-22	5-15 years	Female	True	True	Negative blood smear	0.007482384797185659	118010701	15.800000190734865
+865	3644	ifx_events.0	2017-10-18	2017-11-15	< 5 years	Male	True	True	Negative blood smear	0.006410377100110054	118010701	10.899999618530273
+866	3648	ifx_event.1	2019-07-03	2019-07-24	< 5 years	Male	False	True	Malaria	79774.21875	136002504	13.199999809265135
+867	3649	ifx_events.0	2017-10-23	2017-11-20	16 years or older	Male	True	False	Negative blood smear	0.8007000088691711	141001901	15.899999618530273
+868	3649	ifx_events.0	2017-11-20	2017-12-18	16 years or older	Male	True	False	Negative blood smear	3.5088000297546387	141001901	-9.0
+869	3649	ifx_events.0	2017-12-18	2018-01-15	16 years or older	Male	True	True	Negative blood smear	0.1597999930381775	141001901	-9.0
+870	3658	ifx_event.1	2018-01-15	2018-02-12	< 5 years	Female	False	True	Negative blood smear	2.232985734939575	131011801	11.699999809265135
+871	3659	ifx_event.0	2017-10-23	2017-11-20	16 years or older	Female	True	False	Negative blood smear	18.1542911529541	143000601	17.200000762939453
+872	3659	ifx_event.0	2017-11-20	2017-12-18	16 years or older	Female	True	False	Asymptomatic parasitemia	448.6265869140625	143000601	-9.0
+873	3659	ifx_event.0	2017-12-18	2018-01-15	16 years or older	Female	True	False	Asymptomatic parasitemia	114.42359924316406	143000601	-9.0
+874	3659	ifx_event.0	2018-01-15	2018-02-12	16 years or older	Female	True	False	Negative blood smear	1.9206494092941284	143000601	16.399999618530273
+875	3659	ifx_event.0	2018-02-12	2018-03-12	16 years or older	Female	True	False	Negative blood smear	330.51715087890625	143000601	-9.0
+876	3659	ifx_event.0	2018-03-12	2018-04-09	16 years or older	Female	True	False	Negative blood smear	6.2997474670410165	143000601	-9.0
+877	3659	ifx_event.0	2018-04-09	2018-05-07	16 years or older	Female	True	False	Negative blood smear	1.3137809038162231	143000601	14.899999618530273
+878	3659	ifx_event.0	2018-05-07	2018-06-04	16 years or older	Female	True	False	Negative blood smear	6.42396354675293	143000601	-9.0
+879	3659	ifx_event.0	2018-06-04	2018-07-02	16 years or older	Female	True	False	Negative blood smear	5.257490158081055	143000601	-9.0
+880	3659	ifx_event.0	2018-07-02	2018-07-30	16 years or older	Female	True	False	Negative blood smear	0.7633695006370544	143000601	16.200000762939453
+881	3659	ifx_event.0	2018-07-30	2018-08-27	16 years or older	Female	True	False	Negative blood smear	4.890247344970703	143000601	-9.0
+882	3659	ifx_event.0	2018-08-27	2018-09-24	16 years or older	Female	True	False	Negative blood smear	6.1356749534606925	143000601	-9.0
+883	3659	ifx_event.0	2018-09-24	2018-10-22	16 years or older	Female	True	False	Asymptomatic parasitemia	40.16660690307617	143000601	15.0
+884	3659	ifx_event.0	2018-10-22	2018-11-19	16 years or older	Female	True	False	Negative blood smear	8.190574645996094	143000601	-9.0
+885	3659	ifx_event.0	2018-11-19	2018-12-17	16 years or older	Female	True	False	Negative blood smear	3.7274599075317374	143000601	-9.0
+886	3659	ifx_event.0	2018-12-17	2019-01-14	16 years or older	Female	True	False	Asymptomatic parasitemia	2.1654608249664307	143000601	13.899999618530273
+887	3659	ifx_event.0	2019-01-14	2019-02-11	16 years or older	Female	True	False	Negative blood smear	11.145530700683594	143000601	-9.0
+888	3659	ifx_event.0	2019-02-11	2019-03-11	16 years or older	Female	True	False	Negative blood smear	11.794341087341307	143000601	-9.0
+889	3659	ifx_event.0	2019-03-11	2019-04-08	16 years or older	Female	True	False	Negative blood smear	0.12652914226055145	143000601	16.200000762939453
+890	3659	ifx_event.0	2019-04-08	2019-05-06	16 years or older	Female	True	False	Negative blood smear	4.147214889526366	143000601	-9.0
+891	3659	ifx_event.0	2019-05-06	2019-06-03	16 years or older	Female	True	False	Negative blood smear	28.00115966796875	143000601	-9.0
+892	3659	ifx_event.0	2019-06-03	2019-07-01	16 years or older	Female	True	False	Negative blood smear	0.0	143000601	13.100000381469727
+893	3659	ifx_event.0	2019-07-01	2019-07-29	16 years or older	Female	True	True	Negative blood smear	16.697259902954098	143000601	-9.0
+894	3659	ifx_event.1	2018-02-12	2018-03-12	16 years or older	Female	False	False	Negative blood smear	330.51715087890625	143000601	-9.0
+895	3659	ifx_event.1	2018-03-12	2018-04-09	16 years or older	Female	False	False	Negative blood smear	6.2997474670410165	143000601	-9.0
+896	3659	ifx_event.1	2018-04-09	2018-05-07	16 years or older	Female	False	False	Negative blood smear	1.3137809038162231	143000601	14.899999618530273
+897	3659	ifx_event.1	2018-05-07	2018-06-04	16 years or older	Female	False	False	Negative blood smear	6.42396354675293	143000601	-9.0
+898	3659	ifx_event.1	2018-06-04	2018-07-02	16 years or older	Female	False	False	Negative blood smear	5.257490158081055	143000601	-9.0
+899	3659	ifx_event.1	2018-07-02	2018-07-30	16 years or older	Female	False	False	Negative blood smear	0.7633695006370544	143000601	16.200000762939453
+900	3659	ifx_event.1	2018-07-30	2018-08-27	16 years or older	Female	False	False	Negative blood smear	4.890247344970703	143000601	-9.0
+901	3659	ifx_event.1	2018-08-27	2018-09-24	16 years or older	Female	False	False	Negative blood smear	6.1356749534606925	143000601	-9.0
+902	3659	ifx_event.1	2018-09-24	2018-10-22	16 years or older	Female	False	False	Asymptomatic parasitemia	40.16660690307617	143000601	15.0
+903	3659	ifx_event.1	2018-10-22	2018-11-19	16 years or older	Female	False	True	Negative blood smear	8.190574645996094	143000601	-9.0
+904	3659	ifx_event.2	2018-12-17	2019-01-14	16 years or older	Female	False	True	Asymptomatic parasitemia	2.1654608249664307	143000601	13.899999618530273
+905	3665	ifx_events.0	2017-10-23	2017-11-20	< 5 years	Female	True	False	Negative blood smear	19.31879997253418	102018901	13.399999618530273
+906	3665	ifx_events.0	2017-11-20	2017-12-18	< 5 years	Female	True	False	Asymptomatic parasitemia	2604.757080078125	102018901	-9.0
+907	3665	ifx_events.0	2017-12-18	2018-01-15	< 5 years	Female	True	False	Asymptomatic parasitemia	66.44619750976561	102018901	-9.0
+908	3665	ifx_events.0	2018-01-15	2018-02-12	< 5 years	Female	True	False	Negative blood smear	3.888594388961792	102018901	12.800000190734865
+909	3665	ifx_events.0	2018-02-12	2018-03-12	< 5 years	Female	True	False	Negative blood smear	43.19786834716797	102018901	-9.0
+910	3665	ifx_events.0	2018-03-12	2018-04-11	< 5 years	Female	True	False	Negative blood smear	0.0	102018901	-9.0
+911	3665	ifx_events.0	2018-04-11	2018-05-07	< 5 years	Female	True	False	Negative blood smear	13.195464134216307	102018901	-9.0
+912	3665	ifx_events.0	2018-05-07	2018-06-04	< 5 years	Female	True	False	Negative blood smear	2.6155173778533936	102018901	13.5
+913	3665	ifx_events.0	2018-06-04	2018-07-02	< 5 years	Female	True	True	Negative blood smear	0.026747137308120728	102018901	-9.0
+914	3672	ifx_events.0	2017-10-24	2017-11-21	16 years or older	Male	True	False	Negative blood smear	220.4568634033203	128014101	16.100000381469727
+915	3672	ifx_events.0	2017-11-21	2017-12-19	16 years or older	Male	True	False	Negative blood smear	58.40859985351562	128014101	-9.0
+916	3672	ifx_events.0	2017-12-19	2018-01-16	16 years or older	Male	True	False	Asymptomatic parasitemia	242.572998046875	128014101	-9.0
+917	3672	ifx_events.0	2018-01-16	2018-02-13	16 years or older	Male	True	False	Negative blood smear	12.541013717651367	128014101	16.299999237060547
+918	3672	ifx_events.0	2018-02-13	2018-03-13	16 years or older	Male	True	False	Negative blood smear	1.0998877286911009	128014101	-9.0
+919	3672	ifx_events.0	2018-03-13	2018-04-10	16 years or older	Male	True	False	Negative blood smear	1.2567687034606934	128014101	15.699999809265135
+920	3672	ifx_events.0	2018-04-10	2018-05-08	16 years or older	Male	True	False	Negative blood smear	0.2520691752433777	128014101	-9.0
+921	3672	ifx_events.0	2018-05-08	2018-06-05	16 years or older	Male	True	False	Negative blood smear	2.5184478759765625	128014101	-9.0
+922	3672	ifx_events.0	2018-06-05	2018-07-03	16 years or older	Male	True	False	Negative blood smear	1.0291416645050049	128014101	17.600000381469727
+923	3672	ifx_events.0	2018-07-03	2018-07-31	16 years or older	Male	True	False	Negative blood smear	3.65692949295044	128014101	-9.0
+924	3672	ifx_events.0	2018-07-31	2018-08-28	16 years or older	Male	True	False	Negative blood smear	21.518638610839844	128014101	-9.0
+925	3672	ifx_events.0	2018-08-28	2018-09-25	16 years or older	Male	True	False	Negative blood smear	0.4126461744308472	128014101	16.600000381469727
+926	3672	ifx_events.0	2018-09-25	2018-10-23	16 years or older	Male	True	False	Negative blood smear	0.10393085330724716	128014101	-9.0
+927	3672	ifx_events.0	2018-10-23	2018-11-20	16 years or older	Male	True	False	Negative blood smear	0.2873753309249878	128014101	-9.0
+928	3672	ifx_events.0	2018-11-20	2018-12-18	16 years or older	Male	True	False	Negative blood smear	0.9337568879127502	128014101	15.899999618530273
+929	3672	ifx_events.0	2018-12-18	2019-01-15	16 years or older	Male	True	False	Negative blood smear	0.12452267855405807	128014101	-9.0
+930	3672	ifx_events.0	2019-01-15	2019-02-12	16 years or older	Male	True	False	Negative blood smear	2.5829973220825195	128014101	-9.0
+931	3672	ifx_events.0	2019-02-12	2019-03-12	16 years or older	Male	True	False	Negative blood smear	0.1397177428007126	128014101	15.899999618530273
+932	3672	ifx_events.0	2019-03-12	2019-04-09	16 years or older	Male	True	False	Negative blood smear	2.0	128014101	-9.0
+933	3672	ifx_events.0	2019-04-09	2019-05-07	16 years or older	Male	True	False	Negative blood smear	0.5361618995666504	128014101	-9.0
+934	3672	ifx_events.0	2019-05-07	2019-06-04	16 years or older	Male	True	False	Negative blood smear	1.836403965950012	128014101	14.399999618530273
+935	3672	ifx_events.0	2019-06-04	2019-07-02	16 years or older	Male	True	False	Negative blood smear	0.3031072318553925	128014101	-9.0
+936	3672	ifx_events.0	2019-07-02	2019-07-30	16 years or older	Male	True	True	Negative blood smear	0.9828956723213196	128014101	-9.0
+937	3673	ifx_events.0	2017-10-24	2017-11-21	16 years or older	Female	True	False	Negative blood smear	6.878200054168701	128014101	15.899999618530273
+938	3673	ifx_events.0	2017-11-21	2017-12-19	16 years or older	Female	True	False	Negative blood smear	8.695500373840332	128014101	-9.0
+939	3673	ifx_events.0	2017-12-19	2018-01-16	16 years or older	Female	True	False	Negative blood smear	4.435299873352051	128014101	-9.0
+940	3673	ifx_events.0	2018-01-16	2018-02-13	16 years or older	Female	True	False	Negative blood smear	0.0	128014101	15.199999809265135
+941	3673	ifx_events.0	2018-02-13	2018-03-13	16 years or older	Female	True	False	Negative blood smear	0.14917095005512238	128014101	-9.0
+942	3673	ifx_events.0	2018-03-13	2018-04-10	16 years or older	Female	True	False	Negative blood smear	0.018219921737909317	128014101	15.600000381469727
+943	3673	ifx_events.0	2018-04-10	2018-05-08	16 years or older	Female	True	False	Negative blood smear	0.1318671554327011	128014101	-9.0
+944	3673	ifx_events.0	2018-05-08	2018-06-05	16 years or older	Female	True	True	Negative blood smear	0.15950113534927368	128014101	-9.0
+945	3677	ifx_event.0	2017-10-24	2017-11-21	16 years or older	Male	True	False	Asymptomatic parasitemia	134.90010070800778	128011502	16.0
+946	3677	ifx_event.0	2017-11-21	2017-12-19	16 years or older	Male	True	False	Asymptomatic parasitemia	66.21499633789064	128011502	-9.0
+947	3677	ifx_event.0	2017-12-19	2018-01-16	16 years or older	Male	True	False	Asymptomatic parasitemia	252.9049530029297	128011502	-9.0
+948	3677	ifx_event.0	2018-01-16	2018-01-30	16 years or older	Male	True	False	Negative blood smear	21.43699836730957	128011502	17.899999618530273
+949	3677	ifx_event.0	2018-01-30	2018-02-13	16 years or older	Male	True	False	Malaria	38.73419952392578	128011502	16.399999618530273
+950	3677	ifx_event.0	2018-02-13	2018-03-13	16 years or older	Male	True	True	Negative blood smear	3.718397855758667	128011502	-9.0
+951	3677	ifx_event.1	2018-01-16	2018-01-30	16 years or older	Male	False	False	Negative blood smear	21.43699836730957	128011502	17.899999618530273
+952	3677	ifx_event.1	2018-01-30	2018-02-13	16 years or older	Male	False	True	Malaria	38.73419952392578	128011502	16.399999618530273
+953	3680	ifx_events.0	2017-10-24	2017-11-21	< 5 years	Female	True	True	Negative blood smear	0.025407649576663967	128011502	15.0
+954	3681	ifx_events.0	2017-12-19	2018-01-16	< 5 years	Male	True	True	Negative blood smear	0.052700001746416085	128011502	-9.0
+955	3684	ifx_events.0	2017-10-24	2017-11-21	16 years or older	Female	True	True	Negative blood smear	1.2477999925613403	118009702	18.100000381469727
+956	3685	ifx_event.0	2017-10-24	2017-11-21	< 5 years	Female	True	False	Asymptomatic parasitemia	512.8798217773438	118009702	13.5
+957	3685	ifx_event.0	2017-11-21	2017-12-19	< 5 years	Female	True	False	Negative blood smear	61.89360046386719	118009702	-9.0
+958	3685	ifx_event.0	2017-12-19	2018-01-16	< 5 years	Female	True	False	Asymptomatic parasitemia	888.3214111328125	118009702	-9.0
+959	3685	ifx_event.0	2018-01-16	2018-02-13	< 5 years	Female	True	False	Asymptomatic parasitemia	349.1161193847656	118009702	11.5
+960	3685	ifx_event.0	2018-02-13	2018-03-13	< 5 years	Female	True	False	Asymptomatic parasitemia	200.993408203125	118009702	-9.0
+961	3685	ifx_event.0	2018-03-13	2018-04-10	< 5 years	Female	True	False	Negative blood smear	0.26995304226875305	118009702	-9.0
+962	3685	ifx_event.0	2018-04-10	2018-05-08	< 5 years	Female	True	False	Negative blood smear	0.5940452814102173	118009702	13.0
+963	3685	ifx_event.0	2018-05-08	2018-06-05	< 5 years	Female	True	False	Negative blood smear	68.87601470947266	118009702	-9.0
+964	3685	ifx_event.0	2018-06-05	2018-06-25	< 5 years	Female	True	False	Negative blood smear	7.3646769523620605	118009702	-9.0
+965	3685	ifx_event.0	2018-06-25	2018-07-03	< 5 years	Female	True	False	Malaria	45073.14453125	118009702	12.800000190734865
+966	3685	ifx_event.0	2018-07-03	2018-07-31	< 5 years	Female	True	False	Negative blood smear	0.5385398268699646	118009702	12.699999809265135
+967	3685	ifx_event.0	2018-07-31	2018-08-28	< 5 years	Female	True	True	Negative blood smear	0.013957541435956957	118009702	-9.0
+968	3685	ifx_event.1	2018-06-05	2018-06-25	< 5 years	Female	False	False	Negative blood smear	7.3646769523620605	118009702	-9.0
+969	3685	ifx_event.1	2018-06-25	2018-07-03	< 5 years	Female	False	False	Malaria	45073.14453125	118009702	12.800000190734865
+970	3685	ifx_event.1	2018-07-03	2018-07-31	< 5 years	Female	False	False	Negative blood smear	0.5385398268699646	118009702	12.699999809265135
+971	3685	ifx_event.1	2018-07-31	2018-08-28	< 5 years	Female	False	True	Negative blood smear	0.013957541435956957	118009702	-9.0
+972	3690	ifx_event.1	2018-11-20	2018-12-18	< 5 years	Male	False	True	Negative blood smear	0.005469570867717265	109004502	-9.0
+973	3699	ifx_event.1	2018-06-05	2018-07-03	< 5 years	Male	False	False	Negative blood smear	0.012862255796790123	128008201	-9.0
+974	3699	ifx_event.1	2018-07-03	2018-07-31	< 5 years	Male	False	False	Negative blood smear	0.0	128008201	-9.0
+975	3699	ifx_event.1	2018-07-31	2018-08-28	< 5 years	Male	False	False	Negative blood smear	0.0	128008201	12.899999618530273
+976	3699	ifx_event.1	2018-08-28	2018-09-26	< 5 years	Male	False	False	Negative blood smear	0.717356264591217	128008201	-9.0
+977	3699	ifx_event.1	2018-09-26	2018-10-23	< 5 years	Male	False	True	Negative blood smear	0.13515964150428772	128008201	-9.0
+978	3699	ifx_event.2	2018-08-28	2018-09-26	< 5 years	Male	False	False	Negative blood smear	0.717356264591217	128008201	-9.0
+979	3699	ifx_event.2	2018-09-26	2018-10-23	< 5 years	Male	False	True	Negative blood smear	0.13515964150428772	128008201	-9.0
+980	3708	ifx_events.0	2017-10-25	2017-11-22	< 5 years	Male	True	False	Asymptomatic parasitemia	1256.1690673828125	121004301	13.100000381469727
+981	3708	ifx_events.0	2017-11-22	2017-12-20	< 5 years	Male	True	False	Asymptomatic parasitemia	6590.01611328125	121004301	-9.0
+982	3708	ifx_events.0	2017-12-20	2018-01-17	< 5 years	Male	True	False	Asymptomatic parasitemia	1885.43603515625	121004301	-9.0
+983	3708	ifx_events.0	2018-01-17	2018-02-14	< 5 years	Male	True	False	Asymptomatic parasitemia	275.97299194335943	121004301	12.800000190734865
+984	3708	ifx_events.0	2018-02-14	2018-03-14	< 5 years	Male	True	False	Asymptomatic parasitemia	450.12774658203125	121004301	-9.0
+985	3708	ifx_events.0	2018-03-14	2018-04-11	< 5 years	Male	True	False	Negative blood smear	0.09699565917253494	121004301	14.5
+986	3708	ifx_events.0	2018-04-11	2018-05-09	< 5 years	Male	True	False	Negative blood smear	0.6900173425674438	121004301	-9.0
+987	3708	ifx_events.0	2018-05-09	2018-06-06	< 5 years	Male	True	False	Negative blood smear	3.551438808441162	121004301	-9.0
+988	3708	ifx_events.0	2018-06-06	2018-07-04	< 5 years	Male	True	False	Negative blood smear	1.5752140283584597	121004301	13.899999618530273
+989	3708	ifx_events.0	2018-07-04	2018-08-01	< 5 years	Male	True	False	Negative blood smear	3.3110752105712886	121004301	-9.0
+990	3708	ifx_events.0	2018-08-01	2018-08-29	< 5 years	Male	True	False	Negative blood smear	13.80286979675293	121004301	-9.0
+991	3708	ifx_events.0	2018-08-29	2018-09-26	< 5 years	Male	True	True	Negative blood smear	0.11441019177436827	121004301	12.399999618530273
+992	3709	ifx_events.0	2017-10-25	2017-11-22	< 5 years	Male	True	False	Asymptomatic parasitemia	1309.2906494140625	121004301	11.600000381469727
+993	3709	ifx_events.0	2017-11-22	2017-12-20	< 5 years	Male	True	False	Asymptomatic parasitemia	147.0206756591797	121004301	-9.0
+994	3709	ifx_events.0	2017-12-20	2018-01-17	< 5 years	Male	True	False	Asymptomatic parasitemia	155.68600463867188	121004301	-9.0
+995	3709	ifx_events.0	2018-01-17	2018-02-14	< 5 years	Male	True	False	Negative blood smear	1.305670142173767	121004301	14.300000190734865
+996	3709	ifx_events.0	2018-02-14	2018-03-14	< 5 years	Male	True	False	Negative blood smear	33.480453491210945	121004301	-9.0
+997	3709	ifx_events.0	2018-03-14	2018-04-11	< 5 years	Male	True	False	Negative blood smear	0.5880959033966064	121004301	14.199999809265135
+998	3709	ifx_events.0	2018-04-11	2018-05-09	< 5 years	Male	True	False	Negative blood smear	90.52191925048828	121004301	-9.0
+999	3709	ifx_events.0	2018-05-09	2018-06-06	< 5 years	Male	True	False	Negative blood smear	1.652594804763794	121004301	-9.0
+1000	3709	ifx_events.0	2018-06-06	2018-07-04	< 5 years	Male	True	True	Negative blood smear	0.044379863888025284	121004301	13.199999809265135
+1001	3712	ifx_events.0	2017-10-25	2017-11-22	16 years or older	Female	True	True	Negative blood smear	0.014263362623751162	141017101	16.100000381469727
+1002	3713	ifx_events.0	2017-10-25	2017-11-22	5-15 years	Male	True	False	Negative blood smear	23.91559982299805	141017101	15.600000381469727
+1003	3713	ifx_events.0	2017-11-22	2017-12-20	5-15 years	Male	True	False	Negative blood smear	30.62394905090332	141017101	-9.0
+1004	3713	ifx_events.0	2017-12-20	2018-01-17	5-15 years	Male	True	False	Negative blood smear	2.600020170211792	141017101	-9.0
+1005	3713	ifx_events.0	2018-01-17	2018-02-14	5-15 years	Male	True	False	Negative blood smear	18.157081604003906	141017101	15.800000190734865
+1006	3713	ifx_events.0	2018-02-14	2018-03-14	5-15 years	Male	True	False	Negative blood smear	1.4682450294494631	141017101	-9.0
+1007	3713	ifx_events.0	2018-03-14	2018-04-11	5-15 years	Male	True	False	Negative blood smear	0.0	141017101	16.399999618530273
+1008	3713	ifx_events.0	2018-04-11	2018-05-09	5-15 years	Male	True	False	Negative blood smear	1.9228225946426392	141017101	-9.0
+1009	3713	ifx_events.0	2018-05-09	2018-06-06	5-15 years	Male	True	False	Negative blood smear	3.4490280151367188	141017101	-9.0
+1010	3713	ifx_events.0	2018-06-06	2018-07-04	5-15 years	Male	True	False	Negative blood smear	0.2993522882461548	141017101	15.300000190734865
+1011	3713	ifx_events.0	2018-07-04	2018-08-01	5-15 years	Male	True	False	Negative blood smear	4.516151905059815	141017101	-9.0
+1012	3713	ifx_events.0	2018-08-01	2018-08-29	5-15 years	Male	True	False	Negative blood smear	0.7342373728752136	141017101	-9.0
+1013	3713	ifx_events.0	2018-08-29	2018-09-26	5-15 years	Male	True	False	Negative blood smear	0.1898626685142517	141017101	16.5
+1014	3713	ifx_events.0	2018-09-26	2018-10-24	5-15 years	Male	True	False	Negative blood smear	3.150294065475464	141017101	-9.0
+1015	3713	ifx_events.0	2018-10-24	2018-11-21	5-15 years	Male	True	False	Negative blood smear	0.047250572592020035	141017101	-9.0
+1016	3713	ifx_events.0	2018-11-21	2018-12-19	5-15 years	Male	True	False	Negative blood smear	0.02285156212747097	141017101	13.100000381469727
+1017	3713	ifx_events.0	2018-12-19	2019-01-16	5-15 years	Male	True	False	Negative blood smear	0.6250407695770264	141017101	-9.0
+1018	3713	ifx_events.0	2019-01-16	2019-02-13	5-15 years	Male	True	False	Negative blood smear	0.0	141017101	-9.0
+1019	3713	ifx_events.0	2019-02-13	2019-03-13	5-15 years	Male	True	False	Negative blood smear	0.0	141017101	14.5
+1020	3713	ifx_events.0	2019-03-13	2019-04-10	5-15 years	Male	True	False	Negative blood smear	0.013606445863842964	141017101	-9.0
+1021	3713	ifx_events.0	2019-04-10	2019-05-08	5-15 years	Male	True	False	Negative blood smear	0.027063703164458275	141017101	-9.0
+1022	3713	ifx_events.0	2019-05-08	2019-06-05	5-15 years	Male	True	False	Negative blood smear	0.0	141017101	15.100000381469727
+1023	3713	ifx_events.0	2019-06-05	2019-07-03	5-15 years	Male	True	False	Negative blood smear	0.0	141017101	-9.0
+1024	3713	ifx_events.0	2019-07-03	2019-07-31	5-15 years	Male	True	True	Negative blood smear	0.051059596240520484	141017101	-9.0
+1025	3714	ifx_event.0	2017-10-25	2017-11-22	5-15 years	Male	True	False	Asymptomatic parasitemia	438.7138977050781	141017101	15.699999809265135
+1026	3714	ifx_event.0	2017-11-22	2017-12-20	5-15 years	Male	True	False	Asymptomatic parasitemia	354.9872131347656	141017101	-9.0
+1027	3714	ifx_event.0	2017-12-20	2018-01-17	5-15 years	Male	True	False	Asymptomatic parasitemia	39.34568786621094	141017101	-9.0
+1028	3714	ifx_event.0	2018-01-17	2018-02-14	5-15 years	Male	True	False	Negative blood smear	17.519105911254886	141017101	13.800000190734865
+1029	3714	ifx_event.0	2018-02-14	2018-03-14	5-15 years	Male	True	False	Negative blood smear	5.060728549957275	141017101	-9.0
+1030	3714	ifx_event.0	2018-03-14	2018-04-11	5-15 years	Male	True	False	Negative blood smear	0.19819432497024536	141017101	15.100000381469727
+1031	3714	ifx_event.0	2018-04-11	2018-05-09	5-15 years	Male	True	False	Negative blood smear	0.18811340630054474	141017101	-9.0
+1032	3714	ifx_event.0	2018-05-09	2018-06-06	5-15 years	Male	True	False	Negative blood smear	0.2334341406822205	141017101	-9.0
+1033	3714	ifx_event.0	2018-06-06	2018-07-04	5-15 years	Male	True	False	Negative blood smear	2.417653083801269	141017101	14.100000381469727
+1034	3714	ifx_event.0	2018-07-04	2018-08-01	5-15 years	Male	True	False	Negative blood smear	1.9978628158569336	141017101	-9.0
+1035	3714	ifx_event.0	2018-08-01	2018-08-29	5-15 years	Male	True	False	Negative blood smear	7.404690742492676	141017101	-9.0
+1036	3714	ifx_event.0	2018-08-29	2018-09-26	5-15 years	Male	True	False	Negative blood smear	0.8367546200752258	141017101	12.899999618530273
+1037	3714	ifx_event.0	2018-09-26	2018-10-24	5-15 years	Male	True	False	Negative blood smear	0.2069538086652756	141017101	-9.0
+1038	3714	ifx_event.0	2018-10-24	2018-11-21	5-15 years	Male	True	False	Negative blood smear	0.02941724844276905	141017101	-9.0
+1039	3714	ifx_event.0	2018-11-21	2018-12-19	5-15 years	Male	True	False	Negative blood smear	0.03898526728153229	141017101	12.600000381469727
+1040	3714	ifx_event.0	2018-12-19	2019-01-16	5-15 years	Male	True	False	Negative blood smear	0.0	141017101	-9.0
+1041	3714	ifx_event.0	2019-01-16	2019-02-13	5-15 years	Male	True	False	Negative blood smear	0.1569821983575821	141017101	-9.0
+1042	3714	ifx_event.0	2019-02-13	2019-03-13	5-15 years	Male	True	False	Negative blood smear	0.0	141017101	14.699999809265135
+1043	3714	ifx_event.0	2019-03-13	2019-04-10	5-15 years	Male	True	True	Negative blood smear	0.17550712823867798	141017101	-9.0
+1044	3718	ifx_events.0	2017-10-25	2017-11-22	5-15 years	Male	True	False	Negative blood smear	2.471508502960205	136005801	15.300000190734865
+1045	3718	ifx_events.0	2017-11-22	2017-12-20	5-15 years	Male	True	True	Negative blood smear	0.14959999918937686	136005801	-9.0
+1046	3719	ifx_event.0	2017-10-25	2017-11-13	< 5 years	Male	True	False	Asymptomatic parasitemia	4482.01611328125	136005801	12.0
+1047	3719	ifx_event.0	2017-11-13	2017-11-22	< 5 years	Male	True	False	Malaria	1986.5350341796875	136005801	11.5
+1048	3719	ifx_event.0	2017-11-22	2017-12-20	< 5 years	Male	True	False	Negative blood smear	4.9069504737854	136005801	-9.0
+1049	3719	ifx_event.0	2017-12-20	2018-01-17	< 5 years	Male	True	True	Negative blood smear	0.022099999710917476	136005801	-9.0
+1050	3719	ifx_event.1	2018-07-05	2018-08-01	< 5 years	Male	False	True	Asymptomatic parasitemia	267.90859985351557	136005801	12.0
+1051	3720	ifx_event.0	2017-10-25	2017-11-22	< 5 years	Female	True	False	Asymptomatic parasitemia	1332.1710205078125	136005801	12.899999618530273
+1052	3720	ifx_event.0	2017-11-22	2017-12-20	< 5 years	Female	True	False	Negative blood smear	22.88540077209473	136005801	-9.0
+1053	3720	ifx_event.0	2017-12-20	2018-01-17	< 5 years	Female	True	True	Negative blood smear	1.346400022506714	136005801	-9.0
+1054	3720	ifx_event.1	2018-07-05	2018-08-01	< 5 years	Female	False	False	Negative blood smear	6.021193981170653	136005801	13.0
+1055	3720	ifx_event.1	2018-08-01	2018-08-29	< 5 years	Female	False	False	Asymptomatic parasitemia	1193.0615234375	136005801	-9.0
+1056	3720	ifx_event.1	2018-08-29	2018-09-26	< 5 years	Female	False	True	Negative blood smear	2.1297860145568848	136005801	-9.0
+1057	3724	ifx_event.1	2018-02-14	2018-03-14	5-15 years	Female	False	True	Negative blood smear	0.0682201161980629	127010602	-9.0
+1058	3727	ifx_event.1	2019-07-03	2019-07-31	< 5 years	Female	False	True	Negative blood smear	0.014084292575716972	127010602	-9.0
+1059	3728	ifx_events.0	2017-10-25	2017-11-22	16 years or older	Male	True	False	Negative blood smear	14.796799659729006	112003901	16.700000762939453
+1060	3728	ifx_events.0	2017-11-22	2017-12-20	16 years or older	Male	True	False	Negative blood smear	4.975900173187256	112003901	-9.0
+1061	3728	ifx_events.0	2017-12-20	2018-01-17	16 years or older	Male	True	False	Negative blood smear	1.6642999649047852	112003901	-9.0
+1062	3728	ifx_events.0	2018-01-17	2018-02-14	16 years or older	Male	True	False	Negative blood smear	0.13171319663524628	112003901	16.5
+1063	3728	ifx_events.0	2018-02-14	2018-03-14	16 years or older	Male	True	False	Negative blood smear	0.5735212564468384	112003901	-9.0
+1064	3728	ifx_events.0	2018-03-14	2018-04-11	16 years or older	Male	True	False	Negative blood smear	0.05145718529820442	112003901	-9.0
+1065	3728	ifx_events.0	2018-04-11	2018-05-09	16 years or older	Male	True	False	Negative blood smear	11.730386734008787	112003901	-9.0
+1066	3728	ifx_events.0	2018-05-09	2018-06-06	16 years or older	Male	True	False	Negative blood smear	0.7762909531593323	112003901	14.600000381469727
+1067	3728	ifx_events.0	2018-06-06	2018-07-04	16 years or older	Male	True	False	Negative blood smear	0.1241770163178444	112003901	-9.0
+1068	3728	ifx_events.0	2018-07-04	2018-08-01	16 years or older	Male	True	False	Negative blood smear	0.04183950275182724	112003901	-9.0
+1069	3728	ifx_events.0	2018-08-01	2018-08-29	16 years or older	Male	True	False	Negative blood smear	1.2720253467559814	112003901	15.800000190734865
+1070	3728	ifx_events.0	2018-08-29	2018-09-26	16 years or older	Male	True	False	Negative blood smear	8.26523494720459	112003901	-9.0
+1071	3728	ifx_events.0	2018-09-26	2018-10-24	16 years or older	Male	True	False	Negative blood smear	1.6277989149093628	112003901	-9.0
+1072	3728	ifx_events.0	2018-10-24	2018-11-21	16 years or older	Male	True	False	Negative blood smear	13.067138671875	112003901	16.0
+1073	3728	ifx_events.0	2018-11-21	2018-12-19	16 years or older	Male	True	False	Negative blood smear	0.5222128033637999	112003901	-9.0
+1074	3728	ifx_events.0	2018-12-19	2019-01-16	16 years or older	Male	True	False	Negative blood smear	0.0	112003901	-9.0
+1075	3728	ifx_events.0	2019-01-16	2019-02-13	16 years or older	Male	True	False	Negative blood smear	1.2533949613571167	112003901	15.600000381469727
+1076	3728	ifx_events.0	2019-02-13	2019-03-13	16 years or older	Male	True	False	Negative blood smear	0.010490912944078444	112003901	-9.0
+1077	3728	ifx_events.0	2019-03-13	2019-04-10	16 years or older	Male	True	False	Negative blood smear	3.9307429790496826	112003901	-9.0
+1078	3728	ifx_events.0	2019-04-10	2019-05-08	16 years or older	Male	True	False	Negative blood smear	0.4722850918769837	112003901	15.300000190734865
+1079	3728	ifx_events.0	2019-05-08	2019-06-05	16 years or older	Male	True	False	Negative blood smear	0.0	112003901	-9.0
+1080	3728	ifx_events.0	2019-06-05	2019-07-03	16 years or older	Male	True	False	Negative blood smear	0.0201815664768219	112003901	-9.0
+1081	3728	ifx_events.0	2019-07-03	2019-07-31	16 years or older	Male	True	True	Negative blood smear	0.0	112003901	15.300000190734865
+1082	3742	ifx_event.1	2018-09-03	2018-10-01	5-15 years	Male	False	False	Negative blood smear	26.11805534362793	131005201	13.0
+1083	3742	ifx_event.1	2018-10-01	2018-10-29	5-15 years	Male	False	False	Negative blood smear	0.1596459597349167	131005201	-9.0
+1084	3742	ifx_event.1	2018-10-29	2018-11-26	5-15 years	Male	False	True	Negative blood smear	0.01476292125880718	131005201	-9.0
+1085	3744	ifx_event.1	2018-09-03	2018-10-01	< 5 years	Male	False	False	Negative blood smear	0.04511890932917595	131005201	14.300000190734865
+1086	3744	ifx_event.1	2018-10-01	2018-10-29	< 5 years	Male	False	False	Asymptomatic parasitemia	12530.94140625	131005201	-9.0
+1087	3744	ifx_event.1	2018-10-29	2018-11-26	< 5 years	Male	False	False	Asymptomatic parasitemia	1509.8641357421875	131005201	-9.0
+1088	3744	ifx_event.1	2018-11-26	2018-12-27	< 5 years	Male	False	False	Asymptomatic parasitemia	2277.078857421875	131005201	11.699999809265135
+1089	3744	ifx_event.1	2018-12-27	2019-01-21	< 5 years	Male	False	False	Asymptomatic parasitemia	1268.6588134765625	131005201	-9.0
+1090	3744	ifx_event.1	2019-01-21	2019-02-18	< 5 years	Male	False	False	Asymptomatic parasitemia	3371.791015625	131005201	-9.0
+1091	3744	ifx_event.1	2019-02-18	2019-03-18	< 5 years	Male	False	False	Asymptomatic parasitemia	98.06291961669922	131005201	12.0
+1092	3744	ifx_event.1	2019-03-18	2019-04-15	< 5 years	Male	False	False	Asymptomatic parasitemia	599.6422119140625	131005201	-9.0
+1093	3744	ifx_event.1	2019-04-15	2019-05-13	< 5 years	Male	False	False	Asymptomatic parasitemia	46.65576934814453	131005201	-9.0
+1094	3744	ifx_event.1	2019-05-13	2019-06-10	< 5 years	Male	False	False	Asymptomatic parasitemia	39.094322204589844	131005201	11.699999809265135
+1095	3744	ifx_event.1	2019-06-10	2019-07-08	< 5 years	Male	False	True	Negative blood smear	6.4818787574768075	131005201	-9.0
+1096	3745	ifx_events.0	2017-11-27	2017-12-27	16 years or older	Female	True	True	Negative blood smear	0.06120000034570694	131004001	-9.0
+1097	3746	ifx_events.0	2017-10-30	2017-11-27	5-15 years	Male	True	False	Asymptomatic parasitemia	30.452077865600586	131004001	13.899999618530273
+1098	3746	ifx_events.0	2017-11-27	2017-12-27	5-15 years	Male	True	False	Negative blood smear	69.72550201416016	131004001	-9.0
+1099	3746	ifx_events.0	2017-12-27	2018-01-22	5-15 years	Male	True	False	Asymptomatic parasitemia	134.40370178222656	131004001	-9.0
+1100	3746	ifx_events.0	2018-01-22	2018-02-19	5-15 years	Male	True	False	Negative blood smear	10.774575233459473	131004001	15.0
+1101	3746	ifx_events.0	2018-02-19	2018-03-19	5-15 years	Male	True	False	Negative blood smear	1.6174272298812866	131004001	-9.0
+1102	3746	ifx_events.0	2018-03-19	2018-04-16	5-15 years	Male	True	False	Negative blood smear	0.6594433188438416	131004001	14.800000190734865
+1103	3746	ifx_events.0	2018-04-16	2018-05-14	5-15 years	Male	True	False	Negative blood smear	14.504507064819336	131004001	-9.0
+1104	3746	ifx_events.0	2018-05-14	2018-06-11	5-15 years	Male	True	False	Negative blood smear	12.95200252532959	131004001	-9.0
+1105	3746	ifx_events.0	2018-06-11	2018-07-09	5-15 years	Male	True	False	Negative blood smear	1.6803287267684937	131004001	13.899999618530273
+1106	3746	ifx_events.0	2018-07-09	2018-08-06	5-15 years	Male	True	False	Negative blood smear	2.714877128601074	131004001	-9.0
+1107	3746	ifx_events.0	2018-08-06	2018-09-03	5-15 years	Male	True	False	Negative blood smear	0.2383568286895752	131004001	-9.0
+1108	3746	ifx_events.0	2018-09-03	2018-10-01	5-15 years	Male	True	True	Negative blood smear	0.01887031458318233	131004001	12.199999809265135
+1109	3747	ifx_events.0	2017-10-30	2017-11-27	5-15 years	Female	True	False	Negative blood smear	6.640920162200928	131004001	15.300000190734865
+1110	3747	ifx_events.0	2017-11-27	2017-12-27	5-15 years	Female	True	False	Asymptomatic parasitemia	260.87838745117193	131004001	-9.0
+1111	3747	ifx_events.0	2017-12-27	2018-01-22	5-15 years	Female	True	False	Asymptomatic parasitemia	7940.955078125	131004001	-9.0
+1112	3747	ifx_events.0	2018-01-22	2018-02-19	5-15 years	Female	True	False	Negative blood smear	1.2782427072525024	131004001	14.699999809265135
+1113	3747	ifx_events.0	2018-02-19	2018-03-19	5-15 years	Female	True	False	Negative blood smear	2.652693510055542	131004001	-9.0
+1114	3747	ifx_events.0	2018-03-19	2018-04-16	5-15 years	Female	True	False	Negative blood smear	0.8359683752059937	131004001	12.899999618530273
+1115	3747	ifx_events.0	2018-04-16	2018-05-14	5-15 years	Female	True	False	Negative blood smear	10.509671211242676	131004001	-9.0
+1116	3747	ifx_events.0	2018-05-14	2018-06-11	5-15 years	Female	True	False	Negative blood smear	3.426726818084717	131004001	-9.0
+1117	3747	ifx_events.0	2018-06-11	2018-07-09	5-15 years	Female	True	False	Negative blood smear	8.751040458679201	131004001	14.0
+1118	3747	ifx_events.0	2018-07-09	2018-08-06	5-15 years	Female	True	False	Negative blood smear	2.2503976821899414	131004001	-9.0
+1119	3747	ifx_events.0	2018-08-06	2018-09-03	5-15 years	Female	True	True	Negative blood smear	0.034172367304563515	131004001	-9.0
+1120	3757	ifx_event.1	2019-01-21	2019-02-18	16 years or older	Female	False	True	Negative blood smear	0.037613332271575935	103015402	-9.0
+1121	3758	ifx_events.0	2017-10-30	2017-11-27	5-15 years	Male	True	False	Negative blood smear	0.0714000016450882	103015402	14.300000190734865
+1122	3758	ifx_events.0	2017-11-27	2017-12-27	5-15 years	Male	True	False	Negative blood smear	0.2924000024795532	103015402	-9.0
+1123	3758	ifx_events.0	2017-12-27	2018-01-22	5-15 years	Male	True	False	Negative blood smear	0.24140000343322754	103015402	-9.0
+1124	3758	ifx_events.0	2018-01-22	2018-02-19	5-15 years	Male	True	False	Negative blood smear	0.0	103015402	15.5
+1125	3758	ifx_events.0	2018-02-19	2018-03-19	5-15 years	Male	True	True	Negative blood smear	0.006979824043810368	103015402	-9.0
+1126	3761	ifx_events.0	2017-10-30	2017-11-27	< 5 years	Female	True	False	Asymptomatic parasitemia	20595.212890625	103015402	12.199999809265135
+1127	3761	ifx_events.0	2017-11-27	2017-12-27	< 5 years	Female	True	False	Asymptomatic parasitemia	708.8847045898438	103015402	-9.0
+1128	3761	ifx_events.0	2017-12-27	2018-01-22	< 5 years	Female	True	False	Negative blood smear	422.2282409667969	103015402	-9.0
+1129	3761	ifx_events.0	2018-01-22	2018-02-19	< 5 years	Female	True	False	Negative blood smear	43.907005310058594	103015402	13.199999809265135
+1130	3761	ifx_events.0	2018-02-19	2018-03-19	< 5 years	Female	True	False	Asymptomatic parasitemia	132.96641540527344	103015402	-9.0
+1131	3761	ifx_events.0	2018-03-19	2018-04-16	< 5 years	Female	True	False	Negative blood smear	9.776300430297852	103015402	-9.0
+1132	3761	ifx_events.0	2018-04-16	2018-05-14	< 5 years	Female	True	False	Negative blood smear	0.6459012627601624	103015402	14.199999809265135
+1133	3761	ifx_events.0	2018-05-14	2018-06-11	< 5 years	Female	True	False	Negative blood smear	0.010221664793789387	103015402	-9.0
+1134	3761	ifx_events.0	2018-06-11	2018-07-09	< 5 years	Female	True	False	Negative blood smear	0.18799665570259091	103015402	-9.0
+1135	3761	ifx_events.0	2018-07-09	2018-08-06	< 5 years	Female	True	False	Asymptomatic parasitemia	37.91474151611328	103015402	13.5
+1136	3761	ifx_events.0	2018-08-06	2018-09-03	< 5 years	Female	True	False	Negative blood smear	0.0	103015402	-9.0
+1137	3761	ifx_events.0	2018-09-03	2018-10-01	< 5 years	Female	True	False	Negative blood smear	0.04758699610829353	103015402	-9.0
+1138	3761	ifx_events.0	2018-10-01	2018-10-29	< 5 years	Female	True	False	Negative blood smear	0.0	103015402	12.100000381469727
+1139	3761	ifx_events.0	2018-10-29	2018-11-26	< 5 years	Female	True	False	Negative blood smear	0.01722767762839794	103015402	-9.0
+1140	3761	ifx_events.0	2018-11-26	2018-12-27	< 5 years	Female	True	False	Negative blood smear	0.0	103015402	-9.0
+1141	3761	ifx_events.0	2018-12-27	2019-01-21	< 5 years	Female	True	True	Negative blood smear	1.2505923509597778	103015402	14.399999618530273
+1142	3762	ifx_events.0	2017-10-30	2017-11-27	5-15 years	Male	True	False	Negative blood smear	0.1597999930381775	103015402	16.399999618530273
+1143	3762	ifx_events.0	2017-11-27	2017-12-27	5-15 years	Male	True	False	Negative blood smear	0.192100003361702	103015402	-9.0
+1144	3762	ifx_events.0	2017-12-27	2018-01-22	5-15 years	Male	True	False	Negative blood smear	2.478600025177002	103015402	-9.0
+1145	3762	ifx_events.0	2018-01-22	2018-02-19	5-15 years	Male	True	False	Negative blood smear	0.533388614654541	103015402	16.399999618530273
+1146	3762	ifx_events.0	2018-02-19	2018-03-19	5-15 years	Male	True	True	Negative blood smear	0.07182181626558304	103015402	-9.0
+1147	3764	ifx_event.1	2018-09-03	2018-12-29	16 years or older	Female	False	False	Negative blood smear	4.338189125061035	132006001	-9.0
+1148	3764	ifx_event.1	2018-12-29	2019-01-21	16 years or older	Female	False	True	Negative blood smear	0.0	132006001	16.0
+1149	3766	ifx_events.0	2017-10-30	2017-11-27	5-15 years	Female	True	False	Negative blood smear	30.9025993347168	132006001	13.600000381469727
+1150	3766	ifx_events.0	2017-11-27	2017-12-27	5-15 years	Female	True	False	Negative blood smear	47.00329971313477	132006001	-9.0
+1151	3766	ifx_events.0	2017-12-27	2018-01-22	5-15 years	Female	True	False	Asymptomatic parasitemia	1177.120849609375	132006001	-9.0
+1152	3766	ifx_events.0	2018-01-22	2018-02-19	5-15 years	Female	True	False	Negative blood smear	10.625421524047852	132006001	15.199999809265135
+1153	3766	ifx_events.0	2018-02-19	2018-03-19	5-15 years	Female	True	False	Negative blood smear	17.211423873901367	132006001	-9.0
+1154	3766	ifx_events.0	2018-03-19	2018-04-16	5-15 years	Female	True	False	Negative blood smear	6.228679180145264	132006001	-9.0
+1155	3766	ifx_events.0	2018-04-16	2018-05-14	5-15 years	Female	True	False	Negative blood smear	2.7943711280822754	132006001	12.5
+1156	3766	ifx_events.0	2018-05-14	2018-06-11	5-15 years	Female	True	False	Negative blood smear	5.682565689086914	132006001	-9.0
+1157	3766	ifx_events.0	2018-06-11	2018-07-09	5-15 years	Female	True	False	Negative blood smear	25.8319091796875	132006001	-9.0
+1158	3766	ifx_events.0	2018-07-09	2018-08-06	5-15 years	Female	True	False	Negative blood smear	82.11405181884766	132006001	13.199999809265135
+1159	3766	ifx_events.0	2018-08-06	2018-09-03	5-15 years	Female	True	False	Negative blood smear	0.7476223707199097	132006001	-9.0
+1160	3766	ifx_events.0	2018-09-03	2018-10-01	5-15 years	Female	True	False	Negative blood smear	5.445481300354004	132006001	-9.0
+1161	3766	ifx_events.0	2018-10-01	2018-10-29	5-15 years	Female	True	False	Negative blood smear	9.687359809875488	132006001	13.600000381469727
+1162	3766	ifx_events.0	2018-10-29	2018-11-26	5-15 years	Female	True	False	Negative blood smear	5.846733093261719	132006001	-9.0
+1163	3766	ifx_events.0	2018-11-26	2018-12-27	5-15 years	Female	True	False	Negative blood smear	0.8064594864845276	132006001	-9.0
+1164	3766	ifx_events.0	2018-12-27	2019-01-21	5-15 years	Female	True	False	Negative blood smear	2.628891944885254	132006001	14.100000381469727
+1165	3766	ifx_events.0	2019-01-21	2019-02-18	5-15 years	Female	True	False	Negative blood smear	2.0	132006001	-9.0
+1166	3766	ifx_events.0	2019-02-18	2019-03-18	5-15 years	Female	True	False	Negative blood smear	1.0	132006001	-9.0
+1167	3766	ifx_events.0	2019-03-18	2019-05-13	5-15 years	Female	True	False	Negative blood smear	8.0	132006001	12.899999618530273
+1168	3766	ifx_events.0	2019-05-13	2019-06-10	5-15 years	Female	True	False	Negative blood smear	0.03194345161318779	132006001	-9.0
+1169	3766	ifx_events.0	2019-06-10	2019-07-08	5-15 years	Female	True	True	Negative blood smear	0.05814062803983688	132006001	12.199999809265135
+1170	3769	ifx_event.1	2018-09-01	2018-09-03	< 5 years	Male	False	False	Malaria	49495.52734375	132006001	10.199999809265137
+1171	3769	ifx_event.1	2018-09-03	2018-10-01	< 5 years	Male	False	False	Malaria	46564.1328125	132006001	9.800000190734863
+1172	3769	ifx_event.1	2018-10-01	2018-10-29	< 5 years	Male	False	False	Negative blood smear	0.02603115700185299	132006001	11.5
+1173	3769	ifx_event.1	2018-10-29	2018-11-26	< 5 years	Male	False	False	Negative blood smear	0.0	132006001	-9.0
+1174	3769	ifx_event.1	2018-11-26	2018-12-27	< 5 years	Male	False	False	Negative blood smear	0.0	132006001	-9.0
+1175	3769	ifx_event.1	2018-12-27	2019-01-21	< 5 years	Male	False	False	Negative blood smear	0.0	132006001	12.100000381469727
+1176	3769	ifx_event.1	2019-01-21	2019-02-18	< 5 years	Male	False	True	Asymptomatic parasitemia	445.794921875	132006001	-9.0
+1177	3769	ifx_event.2	2019-01-21	2019-02-18	< 5 years	Male	False	True	Asymptomatic parasitemia	445.794921875	132006001	-9.0
+1178	3772	ifx_events.0	2017-10-30	2017-11-27	5-15 years	Male	True	True	Negative blood smear	0.03669535368680954	124006801	13.699999809265135
+1179	3773	ifx_events.0	2017-10-30	2017-11-01	5-15 years	Female	True	False	Asymptomatic parasitemia	53536.375	124006801	12.600000381469727
+1180	3773	ifx_events.0	2017-11-01	2017-11-27	5-15 years	Female	True	False	Malaria	67647.3203125	124006801	13.800000190734865
+1181	3773	ifx_events.0	2017-11-27	2017-12-27	5-15 years	Female	True	True	Negative blood smear	3.886199951171875	124006801	-9.0
+1182	3774	ifx_event.1	2018-02-19	2018-03-19	5-15 years	Male	False	True	Negative blood smear	0.046444814652204514	124006801	-9.0
+1183	3777	ifx_event.0	2017-10-30	2017-11-27	16 years or older	Female	True	False	Negative blood smear	5.705705642700195	131006901	14.699999809265135
+1184	3777	ifx_event.0	2017-11-27	2017-12-27	16 years or older	Female	True	False	Negative blood smear	6.800000190734862	131006901	-9.0
+1185	3777	ifx_event.0	2017-12-27	2018-01-22	16 years or older	Female	True	False	Asymptomatic parasitemia	35.212100982666016	131006901	-9.0
+1186	3777	ifx_event.0	2018-01-22	2018-02-19	16 years or older	Female	True	False	Negative blood smear	23.52996635437012	131006901	15.600000381469727
+1187	3777	ifx_event.0	2018-02-19	2018-03-19	16 years or older	Female	True	False	Negative blood smear	3.677103281021118	131006901	-9.0
+1188	3777	ifx_event.0	2018-03-19	2018-04-16	16 years or older	Female	True	False	Negative blood smear	6.385195732116699	131006901	-9.0
+1189	3777	ifx_event.0	2018-04-16	2018-05-14	16 years or older	Female	True	False	Negative blood smear	5.164550304412842	131006901	-9.0
+1190	3777	ifx_event.0	2018-05-14	2018-06-11	16 years or older	Female	True	False	Negative blood smear	4.419116973876953	131006901	13.699999809265135
+1191	3777	ifx_event.0	2018-06-11	2018-07-09	16 years or older	Female	True	False	Negative blood smear	2.8628854751586914	131006901	-9.0
+1192	3777	ifx_event.0	2018-07-09	2018-08-06	16 years or older	Female	True	False	Negative blood smear	0.1426657736301422	131006901	-9.0
+1193	3777	ifx_event.0	2018-08-06	2018-09-03	16 years or older	Female	True	False	Negative blood smear	0.4017783999443054	131006901	14.0
+1194	3777	ifx_event.0	2018-09-03	2018-10-01	16 years or older	Female	True	False	Negative blood smear	0.0	131006901	-9.0
+1195	3777	ifx_event.0	2018-10-01	2018-10-29	16 years or older	Female	True	False	Negative blood smear	0.3845730423927307	131006901	-9.0
+1196	3777	ifx_event.0	2018-10-29	2018-11-26	16 years or older	Female	True	False	Negative blood smear	1.0038692951202393	131006901	15.0
+1197	3777	ifx_event.0	2018-11-26	2018-12-27	16 years or older	Female	True	False	Negative blood smear	0.050137650221586234	131006901	-9.0
+1198	3777	ifx_event.0	2018-12-27	2019-01-21	16 years or older	Female	True	True	Negative blood smear	3.6287250518798833	131006901	-9.0
+1199	3777	ifx_event.1	2018-04-16	2018-05-14	16 years or older	Female	False	True	Negative blood smear	5.164550304412842	131006901	-9.0
+1200	3777	ifx_event.2	2018-10-01	2018-10-29	16 years or older	Female	False	False	Negative blood smear	0.3845730423927307	131006901	-9.0
+1201	3777	ifx_event.2	2018-10-29	2018-11-26	16 years or older	Female	False	False	Negative blood smear	1.0038692951202393	131006901	15.0
+1202	3777	ifx_event.2	2018-11-26	2018-12-27	16 years or older	Female	False	True	Negative blood smear	0.050137650221586234	131006901	-9.0
+1203	3779	ifx_events.0	2017-10-30	2017-11-17	5-15 years	Female	True	False	Negative blood smear	0.020400000736117363	131006901	12.899999618530273
+1204	3779	ifx_events.0	2017-11-17	2017-11-27	5-15 years	Female	True	False	Malaria	52373.4140625	131006901	13.600000381469727
+1205	3779	ifx_events.0	2017-11-27	2017-12-27	5-15 years	Female	True	False	Negative blood smear	0.29580000042915344	131006901	-9.0
+1206	3779	ifx_events.0	2017-12-27	2018-01-22	5-15 years	Female	True	False	Negative blood smear	0.10369999706745148	131006901	-9.0
+1207	3779	ifx_events.0	2018-01-22	2018-02-19	5-15 years	Female	True	True	Negative blood smear	0.03133861720561981	131006901	14.300000190734865
+1208	3782	ifx_event.1	2018-06-07	2018-06-11	< 5 years	Female	False	False	Malaria	19878.697265625	131006901	12.800000190734865
+1209	3782	ifx_event.1	2018-06-11	2018-07-09	< 5 years	Female	False	False	Negative blood smear	3.71179461479187	131006901	-9.0
+1210	3782	ifx_event.1	2018-07-09	2018-08-06	< 5 years	Female	False	True	Negative blood smear	0.026434967294335362	131006901	-9.0
+1211	3783	ifx_events.0	2017-11-28	2017-12-28	16 years or older	Male	True	True	Negative blood smear	0.08669999986886978	107013201	-9.0
+1212	3784	ifx_event.1	2018-11-27	2018-12-28	16 years or older	Female	False	True	Negative blood smear	0.002015192992985249	107013201	16.0
+1213	3785	ifx_events.0	2017-10-31	2017-11-28	16 years or older	Male	True	False	Negative blood smear	10.817099571228027	107013201	16.200000762939453
+1214	3785	ifx_events.0	2017-11-28	2017-12-28	16 years or older	Male	True	False	Negative blood smear	1.8111571073532104	107013201	-9.0
+1215	3785	ifx_events.0	2017-12-28	2018-01-24	16 years or older	Male	True	False	Negative blood smear	9.78730010986328	107013201	-9.0
+1216	3785	ifx_events.0	2018-01-24	2018-02-20	16 years or older	Male	True	False	Negative blood smear	1.5978217124938965	107013201	17.200000762939453
+1217	3785	ifx_events.0	2018-02-20	2018-03-20	16 years or older	Male	True	False	Negative blood smear	0.18482889235019684	107013201	-9.0
+1218	3785	ifx_events.0	2018-03-20	2018-04-18	16 years or older	Male	True	False	Asymptomatic parasitemia	118.21514892578124	107013201	16.200000762939453
+1219	3785	ifx_events.0	2018-04-18	2018-05-15	16 years or older	Male	True	False	Asymptomatic parasitemia	72.79708099365234	107013201	-9.0
+1220	3785	ifx_events.0	2018-05-15	2018-06-12	16 years or older	Male	True	False	Negative blood smear	6.915804862976074	107013201	-9.0
+1221	3785	ifx_events.0	2018-06-12	2018-07-10	16 years or older	Male	True	False	Negative blood smear	21.604454040527344	107013201	17.200000762939453
+1222	3785	ifx_events.0	2018-07-10	2018-08-07	16 years or older	Male	True	False	Negative blood smear	1.4060120582580566	107013201	-9.0
+1223	3785	ifx_events.0	2018-08-07	2018-09-04	16 years or older	Male	True	False	Negative blood smear	0.636216402053833	107013201	-9.0
+1224	3785	ifx_events.0	2018-09-04	2018-10-02	16 years or older	Male	True	False	Asymptomatic parasitemia	64.30938720703125	107013201	15.100000381469727
+1225	3785	ifx_events.0	2018-10-02	2018-10-30	16 years or older	Male	True	False	Negative blood smear	5.3780174255371085	107013201	-9.0
+1226	3785	ifx_events.0	2018-10-30	2018-11-27	16 years or older	Male	True	False	Negative blood smear	9.430310249328613	107013201	-9.0
+1227	3785	ifx_events.0	2018-11-27	2018-12-28	16 years or older	Male	True	False	Negative blood smear	2.7724335193634038	107013201	16.799999237060547
+1228	3785	ifx_events.0	2018-12-28	2019-01-22	16 years or older	Male	True	False	Negative blood smear	2.245861530303955	107013201	-9.0
+1229	3785	ifx_events.0	2019-01-22	2019-02-19	16 years or older	Male	True	True	Negative blood smear	2.857371091842652	107013201	-9.0
+1230	3786	ifx_event.0	2017-10-31	2017-11-28	5-15 years	Male	True	False	Asymptomatic parasitemia	181.8421936035156	107013201	13.0
+1231	3786	ifx_event.0	2017-11-28	2017-12-28	5-15 years	Male	True	False	Negative blood smear	45.06700134277344	107013201	-9.0
+1232	3786	ifx_event.0	2017-12-28	2018-01-24	5-15 years	Male	True	False	Asymptomatic parasitemia	124.8254852294922	107013201	-9.0
+1233	3786	ifx_event.0	2018-01-24	2018-02-20	5-15 years	Male	True	False	Negative blood smear	67.95045471191406	107013201	13.199999809265135
+1234	3786	ifx_event.0	2018-02-20	2018-03-20	5-15 years	Male	True	False	Asymptomatic parasitemia	177.1874542236328	107013201	-9.0
+1235	3786	ifx_event.0	2018-03-20	2018-04-19	5-15 years	Male	True	False	Asymptomatic parasitemia	3754.19091796875	107013201	14.600000381469727
+1236	3786	ifx_event.0	2018-04-19	2018-05-15	5-15 years	Male	True	False	Asymptomatic parasitemia	109.39495849609376	107013201	-9.0
+1237	3786	ifx_event.0	2018-05-15	2018-06-12	5-15 years	Male	True	False	Asymptomatic parasitemia	49.42979431152344	107013201	-9.0
+1238	3786	ifx_event.0	2018-06-12	2018-07-10	5-15 years	Male	True	False	Negative blood smear	19.723588943481445	107013201	13.399999618530273
+1239	3786	ifx_event.0	2018-07-10	2018-08-07	5-15 years	Male	True	False	Negative blood smear	91.61251068115234	107013201	-9.0
+1240	3786	ifx_event.0	2018-08-07	2018-09-04	5-15 years	Male	True	False	Negative blood smear	3.0294904708862305	107013201	-9.0
+1241	3786	ifx_event.0	2018-09-04	2018-10-02	5-15 years	Male	True	False	Negative blood smear	8.508175849914549	107013201	12.5
+1242	3786	ifx_event.0	2018-10-02	2018-10-30	5-15 years	Male	True	False	Negative blood smear	4.6958513259887695	107013201	-9.0
+1243	3786	ifx_event.0	2018-10-30	2018-11-28	5-15 years	Male	True	False	Negative blood smear	16.813377380371097	107013201	-9.0
+1244	3786	ifx_event.0	2018-11-28	2018-12-28	5-15 years	Male	True	False	Negative blood smear	3.570952653884888	107013201	13.300000190734865
+1245	3786	ifx_event.0	2018-12-28	2019-01-22	5-15 years	Male	True	False	Negative blood smear	2.454575061798096	107013201	-9.0
+1246	3786	ifx_event.0	2019-01-22	2019-02-19	5-15 years	Male	True	False	Negative blood smear	63.20086669921875	107013201	-9.0
+1247	3786	ifx_event.0	2019-02-19	2019-03-19	5-15 years	Male	True	False	Negative blood smear	11.73241901397705	107013201	14.600000381469727
+1248	3786	ifx_event.0	2019-03-19	2019-04-17	5-15 years	Male	True	False	Negative blood smear	9.656163215637207	107013201	-9.0
+1249	3786	ifx_event.0	2019-04-17	2019-05-15	5-15 years	Male	True	False	Negative blood smear	0.2467920482158661	107013201	-9.0
+1250	3786	ifx_event.0	2019-05-15	2019-06-11	5-15 years	Male	True	True	Negative blood smear	5.0	107013201	13.0
+1251	3786	ifx_event.1	2018-04-19	2018-05-15	5-15 years	Male	False	False	Asymptomatic parasitemia	109.39495849609376	107013201	-9.0
+1252	3786	ifx_event.1	2018-05-15	2018-06-12	5-15 years	Male	False	False	Asymptomatic parasitemia	49.42979431152344	107013201	-9.0
+1253	3786	ifx_event.1	2018-06-12	2018-07-10	5-15 years	Male	False	False	Negative blood smear	19.723588943481445	107013201	13.399999618530273
+1254	3786	ifx_event.1	2018-07-10	2018-08-07	5-15 years	Male	False	False	Negative blood smear	91.61251068115234	107013201	-9.0
+1255	3786	ifx_event.1	2018-08-07	2018-09-04	5-15 years	Male	False	False	Negative blood smear	3.0294904708862305	107013201	-9.0
+1256	3786	ifx_event.1	2018-09-04	2018-10-02	5-15 years	Male	False	False	Negative blood smear	8.508175849914549	107013201	12.5
+1257	3786	ifx_event.1	2018-10-02	2018-10-30	5-15 years	Male	False	False	Negative blood smear	4.6958513259887695	107013201	-9.0
+1258	3786	ifx_event.1	2018-10-30	2018-11-28	5-15 years	Male	False	False	Negative blood smear	16.813377380371097	107013201	-9.0
+1259	3786	ifx_event.1	2018-11-28	2018-12-28	5-15 years	Male	False	False	Negative blood smear	3.570952653884888	107013201	13.300000190734865
+1260	3786	ifx_event.1	2018-12-28	2019-01-22	5-15 years	Male	False	False	Negative blood smear	2.454575061798096	107013201	-9.0
+1261	3786	ifx_event.1	2019-01-22	2019-02-19	5-15 years	Male	False	False	Negative blood smear	63.20086669921875	107013201	-9.0
+1262	3786	ifx_event.1	2019-02-19	2019-03-19	5-15 years	Male	False	False	Negative blood smear	11.73241901397705	107013201	14.600000381469727
+1263	3786	ifx_event.1	2019-03-19	2019-04-17	5-15 years	Male	False	False	Negative blood smear	9.656163215637207	107013201	-9.0
+1264	3786	ifx_event.1	2019-04-17	2019-05-15	5-15 years	Male	False	False	Negative blood smear	0.2467920482158661	107013201	-9.0
+1265	3786	ifx_event.1	2019-05-15	2019-06-11	5-15 years	Male	False	True	Negative blood smear	5.0	107013201	13.0
+1266	3786	ifx_event.2	2018-08-07	2018-09-04	5-15 years	Male	False	True	Negative blood smear	3.0294904708862305	107013201	-9.0
+1267	3786	ifx_event.3	2018-12-28	2019-01-22	5-15 years	Male	False	False	Negative blood smear	2.454575061798096	107013201	-9.0
+1268	3786	ifx_event.3	2019-01-22	2019-02-19	5-15 years	Male	False	False	Negative blood smear	63.20086669921875	107013201	-9.0
+1269	3786	ifx_event.3	2019-02-19	2019-03-19	5-15 years	Male	False	False	Negative blood smear	11.73241901397705	107013201	14.600000381469727
+1270	3786	ifx_event.3	2019-03-19	2019-04-17	5-15 years	Male	False	False	Negative blood smear	9.656163215637207	107013201	-9.0
+1271	3786	ifx_event.3	2019-04-17	2019-05-15	5-15 years	Male	False	False	Negative blood smear	0.2467920482158661	107013201	-9.0
+1272	3786	ifx_event.3	2019-05-15	2019-06-11	5-15 years	Male	False	True	Negative blood smear	5.0	107013201	13.0
+1273	3787	ifx_events.0	2017-10-31	2017-11-28	5-15 years	Male	True	False	Negative blood smear	0.6800000071525574	107013201	16.100000381469727
+1274	3787	ifx_events.0	2017-11-28	2017-12-28	5-15 years	Male	True	False	Negative blood smear	1.140618920326233	107013201	-9.0
+1275	3787	ifx_events.0	2017-12-28	2018-01-24	5-15 years	Male	True	False	Negative blood smear	10.402299880981444	107013201	-9.0
+1276	3787	ifx_events.0	2018-01-24	2018-02-20	5-15 years	Male	True	False	Negative blood smear	3.09676194190979	107013201	14.5
+1277	3787	ifx_events.0	2018-02-20	2018-03-20	5-15 years	Male	True	False	Negative blood smear	5.108826637268066	107013201	-9.0
+1278	3787	ifx_events.0	2018-03-20	2018-04-18	5-15 years	Male	True	False	Negative blood smear	97.20310974121094	107013201	14.399999618530273
+1279	3787	ifx_events.0	2018-04-18	2018-05-15	5-15 years	Male	True	False	Negative blood smear	2.2957334518432617	107013201	-9.0
+1280	3787	ifx_events.0	2018-05-15	2018-06-12	5-15 years	Male	True	False	Negative blood smear	2.1281604766845703	107013201	-9.0
+1281	3787	ifx_events.0	2018-06-12	2018-07-10	5-15 years	Male	True	False	Negative blood smear	0.20674040913581848	107013201	15.100000381469727
+1282	3787	ifx_events.0	2018-07-10	2018-08-07	5-15 years	Male	True	False	Negative blood smear	0.06634807586669922	107013201	-9.0
+1283	3787	ifx_events.0	2018-08-07	2018-09-04	5-15 years	Male	True	False	Negative blood smear	1.7385952472686768	107013201	-9.0
+1284	3787	ifx_events.0	2018-09-04	2018-10-02	5-15 years	Male	True	False	Negative blood smear	8.669517517089844	107013201	15.100000381469727
+1285	3787	ifx_events.0	2018-10-02	2018-10-30	5-15 years	Male	True	False	Negative blood smear	0.29872462153434753	107013201	-9.0
+1286	3787	ifx_events.0	2018-10-30	2018-11-28	5-15 years	Male	True	False	Negative blood smear	13.75620937347412	107013201	-9.0
+1287	3787	ifx_events.0	2018-11-28	2018-12-28	5-15 years	Male	True	False	Negative blood smear	0.021541057154536247	107013201	14.899999618530273
+1288	3787	ifx_events.0	2018-12-28	2019-01-22	5-15 years	Male	True	False	Negative blood smear	0.245574951171875	107013201	-9.0
+1289	3787	ifx_events.0	2019-01-22	2019-02-19	5-15 years	Male	True	False	Negative blood smear	9.959699630737305	107013201	-9.0
+1290	3787	ifx_events.0	2019-02-19	2019-03-19	5-15 years	Male	True	False	Negative blood smear	0.3613365888595581	107013201	15.600000381469727
+1291	3787	ifx_events.0	2019-03-19	2019-04-17	5-15 years	Male	True	False	Negative blood smear	4.0	107013201	-9.0
+1292	3787	ifx_events.0	2019-04-17	2019-05-14	5-15 years	Male	True	False	Negative blood smear	6.647993564605713	107013201	-9.0
+1293	3787	ifx_events.0	2019-05-14	2019-06-11	5-15 years	Male	True	False	Negative blood smear	0.0	107013201	14.199999809265135
+1294	3787	ifx_events.0	2019-06-11	2019-07-09	5-15 years	Male	True	True	Negative blood smear	0.02100089751183987	107013201	-9.0
+1295	3801	ifx_event.1	2018-10-30	2018-11-27	16 years or older	Male	False	False	Asymptomatic parasitemia	8720.8994140625	128000201	-9.0
+1296	3801	ifx_event.1	2018-11-27	2018-12-28	16 years or older	Male	False	False	Asymptomatic parasitemia	100.19027709960938	128000201	-9.0
+1297	3801	ifx_event.1	2018-12-28	2019-01-22	16 years or older	Male	False	False	Negative blood smear	11.15947723388672	128000201	16.5
+1298	3801	ifx_event.1	2019-01-22	2019-02-19	16 years or older	Male	False	False	Negative blood smear	76.87796783447266	128000201	-9.0
+1299	3801	ifx_event.1	2019-02-19	2019-03-19	16 years or older	Male	False	False	Negative blood smear	8.958550453186035	128000201	-9.0
+1300	3801	ifx_event.1	2019-03-19	2019-04-17	16 years or older	Male	False	False	Negative blood smear	14.274299621582033	128000201	16.100000381469727
+1301	3801	ifx_event.1	2019-04-17	2019-05-14	16 years or older	Male	False	False	Negative blood smear	0.08115525543689728	128000201	-9.0
+1302	3801	ifx_event.1	2019-05-14	2019-06-11	16 years or older	Male	False	False	Negative blood smear	8.402751922607424	128000201	-9.0
+1303	3801	ifx_event.1	2019-06-11	2019-07-09	16 years or older	Male	False	True	Negative blood smear	1.2350542545318604	128000201	16.100000381469727
+1304	3801	ifx_event.3	2019-01-22	2019-02-19	16 years or older	Male	False	False	Negative blood smear	76.87796783447266	128000201	-9.0
+1305	3801	ifx_event.3	2019-02-19	2019-03-19	16 years or older	Male	False	False	Negative blood smear	8.958550453186035	128000201	-9.0
+1306	3801	ifx_event.3	2019-03-19	2019-04-17	16 years or older	Male	False	False	Negative blood smear	14.274299621582033	128000201	16.100000381469727
+1307	3801	ifx_event.3	2019-04-17	2019-05-14	16 years or older	Male	False	False	Negative blood smear	0.08115525543689728	128000201	-9.0
+1308	3801	ifx_event.3	2019-05-14	2019-06-11	16 years or older	Male	False	False	Negative blood smear	8.402751922607424	128000201	-9.0
+1309	3801	ifx_event.3	2019-06-11	2019-07-09	16 years or older	Male	False	True	Negative blood smear	1.2350542545318604	128000201	16.100000381469727
+1310	3803	ifx_events.0	2017-11-28	2017-12-28	< 5 years	Male	True	True	Negative blood smear	0.7598999738693237	128000201	-9.0
+1311	3805	ifx_events.0	2017-10-31	2017-11-28	16 years or older	Male	True	False	Negative blood smear	45.58380126953125	119000701	17.899999618530273
+1312	3805	ifx_events.0	2017-11-28	2017-12-28	16 years or older	Male	True	False	Asymptomatic parasitemia	659.2396240234375	119000701	-9.0
+1313	3805	ifx_events.0	2017-12-28	2018-01-23	16 years or older	Male	True	False	Negative blood smear	4.593400001525879	119000701	-9.0
+1314	3805	ifx_events.0	2018-01-23	2018-02-20	16 years or older	Male	True	False	Negative blood smear	1.4765897989273071	119000701	17.5
+1315	3805	ifx_events.0	2018-02-20	2018-03-20	16 years or older	Male	True	False	Negative blood smear	1.872724294662476	119000701	-9.0
+1316	3805	ifx_events.0	2018-03-20	2018-04-17	16 years or older	Male	True	False	Negative blood smear	7.460693836212157	119000701	-9.0
+1317	3805	ifx_events.0	2018-04-17	2018-05-15	16 years or older	Male	True	False	Negative blood smear	2.4072513580322266	119000701	-9.0
+1318	3805	ifx_events.0	2018-05-15	2018-06-12	16 years or older	Male	True	False	Negative blood smear	2.0322062969207764	119000701	16.600000381469727
+1319	3805	ifx_events.0	2018-06-12	2018-07-11	16 years or older	Male	True	False	Negative blood smear	7.2336363792419425	119000701	-9.0
+1320	3805	ifx_events.0	2018-07-11	2018-08-07	16 years or older	Male	True	False	Negative blood smear	0.1848134398460388	119000701	-9.0
+1321	3805	ifx_events.0	2018-08-07	2018-09-04	16 years or older	Male	True	False	Negative blood smear	0.4639174938201904	119000701	16.200000762939453
+1322	3805	ifx_events.0	2018-09-04	2018-10-03	16 years or older	Male	True	False	Negative blood smear	0.9530608654022216	119000701	-9.0
+1323	3805	ifx_events.0	2018-10-03	2018-10-31	16 years or older	Male	True	False	Negative blood smear	7.413937568664551	119000701	-9.0
+1324	3805	ifx_events.0	2018-10-31	2018-11-27	16 years or older	Male	True	False	Negative blood smear	0.1514115333557129	119000701	16.200000762939453
+1325	3805	ifx_events.0	2018-11-27	2018-12-28	16 years or older	Male	True	False	Negative blood smear	0.0011928490130230784	119000701	-9.0
+1326	3805	ifx_events.0	2018-12-28	2019-01-25	16 years or older	Male	True	False	Negative blood smear	1.660971999168396	119000701	-9.0
+1327	3805	ifx_events.0	2019-01-25	2019-02-19	16 years or older	Male	True	False	Negative blood smear	1.0	119000701	16.399999618530273
+1328	3805	ifx_events.0	2019-02-19	2019-03-19	16 years or older	Male	True	False	Negative blood smear	0.0	119000701	-9.0
+1329	3805	ifx_events.0	2019-03-19	2019-04-16	16 years or older	Male	True	False	Negative blood smear	1.0	119000701	-9.0
+1330	3805	ifx_events.0	2019-04-16	2019-05-14	16 years or older	Male	True	False	Negative blood smear	0.0	119000701	18.200000762939453
+1331	3805	ifx_events.0	2019-05-14	2019-06-11	16 years or older	Male	True	False	Negative blood smear	0.0	119000701	-9.0
+1332	3805	ifx_events.0	2019-06-11	2019-07-09	16 years or older	Male	True	True	Negative blood smear	0.6638649106025696	119000701	-9.0
+1333	3807	ifx_events.0	2017-12-28	2018-01-23	5-15 years	Female	True	True	Negative blood smear	0.02904544211924076	119000701	-9.0
+1334	3808	ifx_event.1	2018-05-15	2018-05-21	< 5 years	Female	False	False	Negative blood smear	39.22465133666992	119000701	11.199999809265137
+1335	3808	ifx_event.1	2018-05-21	2018-06-12	< 5 years	Female	False	False	Malaria	46781.59375	119000701	11.699999809265135
+1336	3808	ifx_event.1	2018-06-12	2018-07-11	< 5 years	Female	False	False	Negative blood smear	0.0	119000701	-9.0
+1337	3808	ifx_event.1	2018-07-11	2018-08-07	< 5 years	Female	False	True	Negative blood smear	0.026245934888720512	119000701	-9.0
+1338	3815	ifx_event.1	2018-01-23	2018-02-21	16 years or older	Female	False	True	Negative blood smear	11.593612670898438	104003801	15.600000381469727
+1339	3816	ifx_events.0	2017-10-31	2017-11-28	5-15 years	Male	True	False	Asymptomatic parasitemia	404.676513671875	104003801	13.100000381469727
+1340	3816	ifx_events.0	2017-11-28	2017-12-28	5-15 years	Male	True	False	Negative blood smear	48.7151985168457	104003801	-9.0
+1341	3816	ifx_events.0	2017-12-28	2018-01-23	5-15 years	Male	True	False	Negative blood smear	12.090399742126465	104003801	-9.0
+1342	3816	ifx_events.0	2018-01-23	2018-02-21	5-15 years	Male	True	False	Negative blood smear	2.3043174743652344	104003801	11.899999618530273
+1343	3816	ifx_events.0	2018-02-21	2018-03-20	5-15 years	Male	True	False	Asymptomatic parasitemia	122.22531127929688	104003801	-9.0
+1344	3816	ifx_events.0	2018-03-20	2018-04-18	5-15 years	Male	True	False	Negative blood smear	15.528177261352539	104003801	-9.0
+1345	3816	ifx_events.0	2018-04-18	2018-05-15	5-15 years	Male	True	False	Negative blood smear	15.388022422790527	104003801	-9.0
+1346	3816	ifx_events.0	2018-05-15	2018-06-12	5-15 years	Male	True	False	Negative blood smear	12.542165756225586	104003801	11.300000190734865
+1347	3816	ifx_events.0	2018-06-12	2018-07-10	5-15 years	Male	True	False	Negative blood smear	1.0803828239440918	104003801	-9.0
+1348	3816	ifx_events.0	2018-07-10	2018-08-07	5-15 years	Male	True	False	Negative blood smear	3.4231750965118413	104003801	-9.0
+1349	3816	ifx_events.0	2018-08-07	2018-09-04	5-15 years	Male	True	False	Negative blood smear	1.071198344230652	104003801	13.0
+1350	3816	ifx_events.0	2018-09-04	2018-10-02	5-15 years	Male	True	False	Negative blood smear	0.3283585906028748	104003801	-9.0
+1351	3816	ifx_events.0	2018-10-02	2018-10-30	5-15 years	Male	True	False	Negative blood smear	5.16323709487915	104003801	-9.0
+1352	3816	ifx_events.0	2018-10-30	2018-11-27	5-15 years	Male	True	False	Negative blood smear	0.3370252847671509	104003801	11.100000381469727
+1353	3816	ifx_events.0	2018-11-27	2018-12-28	5-15 years	Male	True	False	Negative blood smear	0.2520012557506561	104003801	-9.0
+1354	3816	ifx_events.0	2018-12-28	2019-01-22	5-15 years	Male	True	False	Negative blood smear	13.221405029296875	104003801	-9.0
+1355	3816	ifx_events.0	2019-01-22	2019-02-19	5-15 years	Male	True	False	Negative blood smear	4.0	104003801	11.300000190734865
+1356	3816	ifx_events.0	2019-02-19	2019-03-19	5-15 years	Male	True	True	Negative blood smear	1.0	104003801	-9.0
+1357	3818	ifx_event.0	2017-10-31	2017-11-28	< 5 years	Male	True	False	Asymptomatic parasitemia	1256.0909423828125	104003801	13.399999618530273
+1358	3818	ifx_event.0	2017-11-28	2017-12-28	< 5 years	Male	True	False	Negative blood smear	377.96575927734375	104003801	-9.0
+1359	3818	ifx_event.0	2017-12-28	2018-01-23	< 5 years	Male	True	False	Negative blood smear	10.012999534606934	104003801	-9.0
+1360	3818	ifx_event.0	2018-01-23	2018-02-21	< 5 years	Male	True	False	Negative blood smear	12.163785934448242	104003801	12.800000190734865
+1361	3818	ifx_event.0	2018-02-21	2018-03-20	< 5 years	Male	True	False	Negative blood smear	14.407824516296387	104003801	-9.0
+1362	3818	ifx_event.0	2018-03-20	2018-04-17	< 5 years	Male	True	False	Negative blood smear	3.855170726776123	104003801	-9.0
+1363	3818	ifx_event.0	2018-04-17	2018-05-15	< 5 years	Male	True	False	Negative blood smear	11.650755882263185	104003801	-9.0
+1364	3818	ifx_event.0	2018-05-15	2018-06-12	< 5 years	Male	True	False	Negative blood smear	0.0860217958688736	104003801	12.800000190734865
+1365	3818	ifx_event.0	2018-06-12	2018-07-10	< 5 years	Male	True	False	Negative blood smear	0.0	104003801	-9.0
+1366	3818	ifx_event.0	2018-07-10	2018-08-07	< 5 years	Male	True	False	Negative blood smear	0.00732561107724905	104003801	-9.0
+1367	3818	ifx_event.0	2018-08-07	2018-09-04	< 5 years	Male	True	False	Negative blood smear	0.2190590798854828	104003801	12.800000190734865
+1368	3818	ifx_event.0	2018-09-04	2018-10-02	< 5 years	Male	True	False	Negative blood smear	3.1069850921630864	104003801	-9.0
+1369	3818	ifx_event.0	2018-10-02	2018-10-30	< 5 years	Male	True	False	Negative blood smear	0.0	104003801	-9.0
+1370	3818	ifx_event.0	2018-10-30	2018-11-27	< 5 years	Male	True	False	Negative blood smear	0.04226060211658478	104003801	13.199999809265135
+1371	3818	ifx_event.0	2018-11-27	2018-12-28	< 5 years	Male	True	False	Negative blood smear	0.018764743581414226	104003801	-9.0
+1372	3818	ifx_event.0	2018-12-28	2019-01-22	< 5 years	Male	True	True	Negative blood smear	0.4608617424964905	104003801	-9.0
+1373	3818	ifx_event.1	2019-05-14	2019-06-11	< 5 years	Male	False	False	Negative blood smear	0.1394736021757126	104003801	-9.0
+1374	3818	ifx_event.1	2019-06-11	2019-07-09	< 5 years	Male	False	True	Negative blood smear	0.0	104003801	-9.0
+1375	3825	ifx_event.0	2017-12-18	2018-01-15	< 5 years	Male	True	False	Asymptomatic parasitemia	2804.021240234375	102018901	12.399999618530273
+1376	3825	ifx_event.0	2018-01-15	2018-02-12	< 5 years	Male	True	True	Negative blood smear	2.019723892211914	102018901	13.399999618530273
+1377	3825	ifx_event.1	2018-06-26	2018-07-02	< 5 years	Male	False	False	Malaria	42055.91796875	102018901	10.300000190734863
+1378	3825	ifx_event.1	2018-07-02	2018-07-30	< 5 years	Male	False	True	Negative blood smear	0.4133698344230652	102018901	-9.0
+1379	3826	ifx_event.1	2018-11-12	2018-12-10	16 years or older	Female	False	True	Negative blood smear	0.044472936540842056	132005801	-9.0
+1380	3839	ifx_events.0	2018-07-11	2018-08-07	5-15 years	Male	True	False	Negative blood smear	8.460453033447267	119000701	14.300000190734865
+1381	3839	ifx_events.0	2018-08-07	2018-09-04	5-15 years	Male	True	False	Asymptomatic parasitemia	90.91835021972656	119000701	-9.0
+1382	3839	ifx_events.0	2018-09-04	2018-10-02	5-15 years	Male	True	False	Negative blood smear	47.35662460327149	119000701	-9.0
+1383	3839	ifx_events.0	2018-10-02	2018-10-30	5-15 years	Male	True	False	Negative blood smear	0.10297287255525588	119000701	-9.0
+1384	3839	ifx_events.0	2018-10-30	2018-11-27	5-15 years	Male	True	False	Negative blood smear	0.5524922609329224	119000701	13.100000381469727
+1385	3839	ifx_events.0	2018-11-27	2018-12-28	5-15 years	Male	True	False	Negative blood smear	0.0	119000701	-9.0
+1386	3839	ifx_events.0	2018-12-28	2019-01-22	5-15 years	Male	True	False	Negative blood smear	0.08728787302970886	119000701	-9.0
+1387	3839	ifx_events.0	2019-01-22	2019-02-19	5-15 years	Male	True	False	Negative blood smear	2.0	119000701	13.300000190734865
+1388	3839	ifx_events.0	2019-02-19	2019-03-19	5-15 years	Male	True	False	Negative blood smear	2.737142324447632	119000701	-9.0
+1389	3839	ifx_events.0	2019-03-19	2019-04-16	5-15 years	Male	True	False	Negative blood smear	0.0	119000701	-9.0
+1390	3839	ifx_events.0	2019-04-16	2019-05-14	5-15 years	Male	True	False	Negative blood smear	8.696553230285645	119000701	12.699999809265135
+1391	3839	ifx_events.0	2019-05-14	2019-06-11	5-15 years	Male	True	False	Negative blood smear	0.22419315576553345	119000701	-9.0
+1392	3839	ifx_events.0	2019-06-11	2019-07-09	5-15 years	Male	True	True	Negative blood smear	1.005395531654358	119000701	-9.0
